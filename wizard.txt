@@ -1,0 +1,31 @@
+; -----Devious Devices: Expansion -----
+
+RequireVersions "", "", "", "303" ; Skyrim version, SKSE version, (no SKGE), Wrye Bash version
+DeSelectAll
+
+SelectSubPackage "00 Core"
+
+; -----BODY-----
+
+ddCBBE = False
+ddUNPB = False
+
+SelectOne "Step 1/1: Which body do you use?", \
+	"CBBE", "Install CBBE version (required CBBE 3.2.3 curvy)", "fomod/images/01_cbbe.png", \
+	"|UNPB", "Install UNPB version (requires UNPB 2.5.2)", "fomod/images/01_unpb.png"
+	Case "CBBE"
+		ddCBBE = True
+		Break
+	Case "UNPB"
+		ddUNPB = True
+		Break
+EndSelect
+
+
+; -----INSTALL-----
+
+If ddCBBE
+	SelectSubPackage "01 CBBE"
+Elif ddUNPB
+	SelectSubPackage "01 UNPB"
+EndIf
