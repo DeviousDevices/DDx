@@ -70,6 +70,19 @@ Known issues:
 Changelog:
 ---------- 
 
+v1.1.3.
+
+* Added Pony Boots.
+* Added ground-object files to male inventory.
+* Fixed item duplication crafting bug.
+
+v1.1.2a.
+
+* Added missing "Permit_Oral" keyword to ring-gags.
+* Fixed red leather armcuff crafting recipe.
+* Fixed three broken leather posture-collar recipe's.
+ 
+
 v1.1.2.
  
 * Changed gag slots to 44 only, as per new DDi standards.
@@ -108,9 +121,12 @@ Credits:
 --------
  
 For assorted 3D, 2D, writing and code work, aswell permissions.
+
  
 Zaria.
 UrbanSniper.
+Xinafay.
+idontkn0w123.
 Aelie.
 AlbertAffe.
 Min.
