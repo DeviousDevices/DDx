@@ -4,12 +4,13 @@ zadLibs Property libs Auto
 float Property currentVersion = 0.0 Auto hidden
 
 float function GetVersion()
-    return 1.12
+    return 1.13
 EndFunction
 
 Function Maintenance()
 	if currentVersion != GetVersion()
 		Log("Updating from " + currentVersion + " to " + GetVersion())
+		reset()
 		RegisterDevices()	
 		currentVersion = GetVersion()
 	endIf
@@ -167,6 +168,20 @@ Armor Property gagRDLeatherStrapRing Auto
 Armor Property gagRDLeatherStrapRingRendered Auto
 Armor Property collarPostureRDLeather Auto
 Armor Property collarPostureRDLeatherRendered Auto
+
+; Pony boots
+Armor Property PonyBoots Auto
+Armor Property PonyBootsRendered Auto
+Armor Property EbonitePonyBoots Auto
+Armor Property EbonitePonyBootsRendered Auto
+Armor Property RDLeatherPonyBoots Auto
+Armor Property RDLeatherPonyBootsRendered Auto
+Armor Property WTLeatherPonyBoots Auto
+Armor Property WTLeatherPonyBootsRendered Auto
+Armor Property RDEbonitePonyBoots Auto
+Armor Property RDEbonitePonyBootsRendered Auto
+Armor Property WTEbonitePonyBoots Auto
+Armor Property WTEbonitePonyBootsRendered Auto
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool skipEvents = false)
@@ -393,6 +408,26 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 		deviceRendered = collarPostureRDLeatherRendered
 		deviceKeyword = libs.zad_DeviousCollar
 		
+	; -------- Pony boots --------
+	ElseIf device == PonyBoots
+		deviceRendered = PonyBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
+	ElseIf device == EbonitePonyBoots
+		deviceRendered = EbonitePonyBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
+	ElseIf device == RDEbonitePonyBoots
+		deviceRendered = RDEbonitePonyBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
+	ElseIf device == WTEbonitePonyBoots
+		deviceRendered = WTEbonitePonyBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
+	ElseIf device == RDLeatherPonyBoots
+		deviceRendered = RDLeatherPonyBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
+	ElseIf device == WTLeatherPonyBoots
+		deviceRendered = WTLeatherPonyBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
+		
 	Else
 		libs.ManipulateDevice(akActor, device, equipOrUnequip, skipEvents)
 		return
@@ -482,6 +517,15 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(gagRDLeatherStrapBall		, "gag,ball,strap,leather,red")
 	libs.RegisterGenericDevice(gagRDLeatherStrapRing		, "gag,ring,strap,leather,red")
 	libs.RegisterGenericDevice(collarPostureRDLeather	, "collar,posture,leather,red")
+	
+	; Pony boots
+	libs.RegisterGenericDevice(PonyBoots					, "boots,blocking,leather,black,pony")
+	libs.RegisterGenericDevice(EbonitePonyBoots			, "boots,blocking,ebonite,black,pony")
+	libs.RegisterGenericDevice(RDEbonitePonyBoots			, "boots,blocking,ebonite,red,pony")
+	libs.RegisterGenericDevice(WTEbonitePonyBoots			, "boots,blocking,ebonite,white,pony")
+	libs.RegisterGenericDevice(RDLeatherPonyBoots			, "boots,blocking,leather,red,pony")
+	libs.RegisterGenericDevice(WTLeatherPonyBoots			, "boots,blocking,leather,white,pony")
+	
 	
 	Log("Finished registering items.")
 
