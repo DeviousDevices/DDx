@@ -1,19 +1,13 @@
 Scriptname zadxLibs extends Quest
 
 zadLibs Property libs Auto
-float Property currentVersion = 0.0 Auto hidden
 
 float function GetVersion()
     return 1.13
 EndFunction
 
-Function Maintenance()
-	if currentVersion != GetVersion()
-		Log("Updating from " + currentVersion + " to " + GetVersion())
-		reset()
-		RegisterDevices()	
-		currentVersion = GetVersion()
-	endIf
+Function VersionUpdate()
+	RegisterDevices()	
 EndFunction
 
 Armor Property blindfoldUnlocked Auto
