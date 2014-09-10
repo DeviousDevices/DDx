@@ -70,6 +70,11 @@ Known issues:
 Changelog:
 ---------- 
 
+v1.1.3a.
+
+* Fixed missing Enchant on certain gags.
+* Updated installer version.
+
 v1.1.3.
 
 * Added Pony Boots.
