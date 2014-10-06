@@ -63,12 +63,14 @@ Known issues:
 * Players using custom race mods that contain a standalone bodymesh, installed in a different location than the default body mesh, may experiance clipping issues with the "Custom" versions of the Harness, as it loads the body-mesh from the default location, and not from the location used by the Race-mod. Status: This probably cannot be fixed.
  
 * Clipping does occur when combining the "Custom" harness with belts and collars, most notably on the UNPB version, as the meshes were not designed to fit togeather in this way. Steps have been taken to minimize it as much as possible, but it could not be fully avoided. Status: A new mesh is needed and planned, but at this time it is on back-order, it may take a while.
- 
-* The "Slave boots" sometimes fail to apply the "slow-move" effect. Status: This issue is on the to-do list but could not be resolved in time for this release, fix pending.
- 
+
  
 Changelog:
 ---------- 
+
+v1.1.4.
+
+* Added new audio for devious footwear.
 
 v1.1.3a.
 
