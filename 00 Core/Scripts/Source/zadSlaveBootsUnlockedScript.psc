@@ -2,7 +2,7 @@ ScriptName zadSlaveBootsUnlockedScript extends zadSlaveBootsScript
 
 Function OnEquippedPre(actor akActor, bool silent=false)
 	if !silent
-		libs.NotifyActor("You place the steel 'boots' onto "+GetMessageName(akActor)+" feet, and they close with a soft click.", akActor, true)
+		libs.NotifyActor("You place the "+deviceName+" onto "+GetMessageName(akActor)+" feet, and they close with a soft click.", akActor, true)
 	EndIf
 	Parent.OnEquippedPre(akActor, silent=true)
 EndFunction

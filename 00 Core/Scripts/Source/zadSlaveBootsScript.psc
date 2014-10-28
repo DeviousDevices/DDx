@@ -4,7 +4,7 @@ Spell Property highHeelSpell Auto
 
 Function OnEquippedPre(actor akActor, bool silent=false)
 	if !silent
-		libs.NotifyActor("You place the steel 'boots' onto "+GetMessageName(akActor)+" feet, and they lock in place with a soft click.", akActor, true)
+		libs.NotifyActor("You place the "+deviceName+" onto "+GetMessageName(akActor)+" feet, and they lock in place with a soft click.", akActor, true)
 	EndIf
 	Parent.OnEquippedPre(akActor, silent)
 EndFunction
