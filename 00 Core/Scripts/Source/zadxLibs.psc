@@ -3,7 +3,7 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 1.14
+    return 1.15
 EndFunction
 
 Function VersionUpdate()

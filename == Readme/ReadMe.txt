@@ -68,6 +68,11 @@ Known issues:
 Changelog:
 ---------- 
 
+v1.1.5.
+
+* Simplified "slow-move" effect on footwear to avoid potential conflicts.
+* Changed footwear messages to be more device neutral/appropriate.
+
 v1.1.4.
 
 * Added new audio for devious footwear.
