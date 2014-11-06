@@ -70,7 +70,11 @@ Changelog:
 
 v1.1.5.
 
-* Simplified "slow-move" effect on footwear to avoid potential conflicts.
+* Added full crafting options for old LADL assets.
+* Added full material support for old LADL assets.
+* Fixed two mesh errors preventing TextureSet support for Dcur.
+* Fixed a keyword bug with Ebonite Ring-gag (simple version).
+* Simplified "slow-move" effect on footwear (optimization).
 * Changed footwear messages to be more device neutral/appropriate.
 
 v1.1.4.
