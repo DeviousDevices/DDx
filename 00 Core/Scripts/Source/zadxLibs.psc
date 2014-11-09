@@ -50,6 +50,14 @@ Armor Property gagEboniteStrapRing Auto
 Armor Property gagEboniteStrapRingRendered Auto
 Armor Property collarPostureEbonite Auto
 Armor Property collarPostureEboniteRendered Auto
+Armor Property EbharnessUnlocked Auto
+Armor Property EbharnessLocking Auto
+Armor Property EbharnessLockingRendered Auto
+Armor Property EbharnessBlocking Auto
+Armor Property EbharnessBlockingRendered Auto
+Armor Property EbblindfoldUnlocked Auto
+Armor Property EbblindfoldBlocking Auto
+Armor Property EbblindfoldBlockingRendered Auto
 
 ; White Ebonite
 Armor Property cuffsWTEboniteArms Auto
@@ -78,6 +86,14 @@ Armor Property gagWTEboniteStrapRing Auto
 Armor Property gagWTEboniteStrapRingRendered Auto
 Armor Property collarPostureWTEbonite Auto
 Armor Property collarPostureWTEboniteRendered Auto
+Armor Property WTEharnessUnlocked Auto
+Armor Property WTEharnessLocking Auto
+Armor Property WTEharnessLockingRendered Auto
+Armor Property WTEharnessBlocking Auto
+Armor Property WTEharnessBlockingRendered Auto
+Armor Property WTEblindfoldUnlocked Auto
+Armor Property WTEblindfoldBlocking Auto
+Armor Property WTEblindfoldBlockingRendered Auto
 
 ; White Leather
 Armor Property cuffsWTLeatherArms Auto
@@ -106,6 +122,14 @@ Armor Property gagWTLeatherStrapRing Auto
 Armor Property gagWTLeatherStrapRingRendered Auto
 Armor Property collarPostureWTLeather Auto
 Armor Property collarPostureWTLeatherRendered Auto
+Armor Property WTLharnessUnlocked Auto
+Armor Property WTLharnessLocking Auto
+Armor Property WTLharnessLockingRendered Auto
+Armor Property WTLharnessBlocking Auto
+Armor Property WTLharnessBlockingRendered Auto
+Armor Property WTLblindfoldUnlocked Auto
+Armor Property WTLblindfoldBlocking Auto
+Armor Property WTLblindfoldBlockingRendered Auto
 
 ; Red Ebonite
 Armor Property cuffsRDEboniteArms Auto
@@ -134,6 +158,14 @@ Armor Property gagRDEboniteStrapRing Auto
 Armor Property gagRDEboniteStrapRingRendered Auto
 Armor Property collarPostureRDEbonite Auto
 Armor Property collarPostureRDEboniteRendered Auto
+Armor Property RDEharnessUnlocked Auto
+Armor Property RDEharnessLocking Auto
+Armor Property RDEharnessLockingRendered Auto
+Armor Property RDEharnessBlocking Auto
+Armor Property RDEharnessBlockingRendered Auto
+Armor Property RDEblindfoldUnlocked Auto
+Armor Property RDEblindfoldBlocking Auto
+Armor Property RDEblindfoldBlockingRendered Auto
 
 ; Red Leather
 Armor Property cuffsRDLeatherArms Auto
@@ -162,6 +194,14 @@ Armor Property gagRDLeatherStrapRing Auto
 Armor Property gagRDLeatherStrapRingRendered Auto
 Armor Property collarPostureRDLeather Auto
 Armor Property collarPostureRDLeatherRendered Auto
+Armor Property RDLharnessUnlocked Auto
+Armor Property RDLharnessLocking Auto
+Armor Property RDLharnessLockingRendered Auto
+Armor Property RDLharnessBlocking Auto
+Armor Property RDLharnessBlockingRendered Auto
+Armor Property RDLblindfoldUnlocked Auto
+Armor Property RDLblindfoldBlocking Auto
+Armor Property RDLblindfoldBlockingRendered Auto
 
 ; Pony boots
 Armor Property PonyBoots Auto
