@@ -3,7 +3,7 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 1.15
+    return 1.16
 EndFunction
 
 Function VersionUpdate()
@@ -277,6 +277,15 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == collarPostureEbonite
 		deviceRendered = collarPostureEboniteRendered
 		deviceKeyword = libs.zad_DeviousCollar
+	ElseIf device == EbharnessLocking
+		deviceRendered = EbharnessLockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == EbharnessBlocking
+		deviceRendered = EbharnessBlockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == EbblindfoldBlocking
+		deviceRendered = EbblindfoldBlockingRendered
+		deviceKeyword = libs.zad_DeviousBlindfold
 	
 	; ------- White Ebonite --------		
 	ElseIf device == cuffsWTEboniteArms
@@ -318,6 +327,15 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == collarPostureWTEbonite
 		deviceRendered = collarPostureWTEboniteRendered
 		deviceKeyword = libs.zad_DeviousCollar
+	ElseIf device == WTEharnessLocking
+		deviceRendered = WTEharnessLockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == WTEharnessBlocking
+		deviceRendered = WTEharnessBlockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == WTEblindfoldBlocking
+		deviceRendered = WTEblindfoldBlockingRendered
+		deviceKeyword = libs.zad_DeviousBlindfold
 	
 	; ------- White leather --------	
 	ElseIf device == cuffsWTLeatherArms
@@ -359,6 +377,15 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == collarPostureWTLeather
 		deviceRendered = collarPostureWTLeatherRendered
 		deviceKeyword = libs.zad_DeviousCollar
+	ElseIf device == WTLharnessLocking
+		deviceRendered = WTLharnessLockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == WTLharnessBlocking
+		deviceRendered = WTLharnessBlockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == WTLblindfoldBlocking
+		deviceRendered = WTLblindfoldBlockingRendered
+		deviceKeyword = libs.zad_DeviousBlindfold
 		
 	; ------- Red Ebonite --------		
 	ElseIf device == cuffsRDEboniteArms
@@ -400,6 +427,15 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == collarPostureRDEbonite
 		deviceRendered = collarPostureRDEboniteRendered
 		deviceKeyword = libs.zad_DeviousCollar
+	ElseIf device == RDEharnessLocking
+		deviceRendered = RDEharnessLockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == RDEharnessBlocking
+		deviceRendered = RDEharnessBlockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == RDEblindfoldBlocking
+		deviceRendered = RDEblindfoldBlockingRendered
+		deviceKeyword = libs.zad_DeviousBlindfold
 	
 	; ------- Red leather --------	
 	ElseIf device == cuffsRDLeatherArms
@@ -441,6 +477,15 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == collarPostureRDLeather
 		deviceRendered = collarPostureRDLeatherRendered
 		deviceKeyword = libs.zad_DeviousCollar
+	ElseIf device == RDLharnessLocking
+		deviceRendered = RDLharnessLockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == RDLharnessBlocking
+		deviceRendered = RDLharnessBlockingRendered
+		deviceKeyword = libs.zad_DeviousHarness
+	ElseIf device == RDLblindfoldBlocking
+		deviceRendered = RDLblindfoldBlockingRendered
+		deviceKeyword = libs.zad_DeviousBlindfold
 		
 	; -------- Pony boots --------
 	ElseIf device == PonyBoots
@@ -474,91 +519,109 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 EndFunction
 
 Function RegisterDevices()
-	;Left the blocking items and other similar stuff out, as they behave a bit differently from other items
+	;Left the unlocked items out, since they are not so much devices per se
 	
-	libs.RegisterGenericDevice(bootsLocking				, "boots,blocking,metal")
-	
-	libs.RegisterGenericDevice(cuffsEboniteArms			, "cuffs,arms,ebonite,black")
-	libs.RegisterGenericDevice(cuffsEboniteLegs			, "cuffs,legs,ebonite,black")
-	libs.RegisterGenericDevice(cuffsEboniteCollar			, "collar,short,ebonite,black")
-	libs.RegisterGenericDevice(eboniteArmbinder			, "armbinder,ebonite,black")
-	libs.RegisterGenericDevice(eboniteHarnessBody			, "harness,full,ebonite,black")
-	libs.RegisterGenericDevice(eboniteHarnessCollar		, "collar,harness,ebonite,black")
-	libs.RegisterGenericDevice(eboniteBlindfold			, "blindfold,ebonite,black")
-	libs.RegisterGenericDevice(gagEboniteBall				, "gag,ball,harness,ebonite,black")
-	libs.RegisterGenericDevice(gagEboniteRing				, "gag,ring,harness,ebonite,black")
-	libs.RegisterGenericDevice(gagEbonitePanel			, "gag,panel,harness,ebonite,black")
-	libs.RegisterGenericDevice(gagEboniteStrapBall		, "gag,ball,strap,ebonite,black")
-	libs.RegisterGenericDevice(gagEboniteStrapRing		, "gag,ring,strap,ebonite,black")
-	libs.RegisterGenericDevice(collarPostureEbonite		, "collar,posture,ebonite,black")
+	libs.RegisterGenericDevice(harnessLocking				, "torso,leather,black,ddx")
+	libs.RegisterGenericDevice(harnessBlocking				, "torso,blocking,leather,black,ddx")
+	libs.RegisterGenericDevice(blindfoldBlocking				, "blindfold,blocking,leather,black,ddx")
+	libs.RegisterGenericDevice(bootsLocking				, "boots,blocking,metal,ddx")
+	libs.RegisterGenericDevice(cuffsEboniteArms			, "cuffs,arms,ebonite,black,ddx")
+	libs.RegisterGenericDevice(cuffsEboniteLegs			, "cuffs,legs,ebonite,black,ddx")
+	libs.RegisterGenericDevice(cuffsEboniteCollar			, "collar,short,ebonite,black,ddx")
+	libs.RegisterGenericDevice(eboniteArmbinder			, "armbinder,ebonite,black,ddx")
+	libs.RegisterGenericDevice(eboniteHarnessBody			, "harness,full,ebonite,black,ddx")
+	libs.RegisterGenericDevice(eboniteHarnessCollar		, "collar,harness,ebonite,black,ddx")
+	libs.RegisterGenericDevice(eboniteBlindfold			, "blindfold,ebonite,black,ddx")
+	libs.RegisterGenericDevice(gagEboniteBall				, "gag,ball,harness,ebonite,black,ddx")
+	libs.RegisterGenericDevice(gagEboniteRing				, "gag,ring,harness,ebonite,black,ddx")
+	libs.RegisterGenericDevice(gagEbonitePanel			, "gag,panel,harness,ebonite,black,ddx")
+	libs.RegisterGenericDevice(gagEboniteStrapBall		, "gag,ball,strap,ebonite,black,ddx")
+	libs.RegisterGenericDevice(gagEboniteStrapRing		, "gag,ring,strap,ebonite,black,ddx")
+	libs.RegisterGenericDevice(collarPostureEbonite		, "collar,posture,ebonite,black,ddx")
+     libs.RegisterGenericDevice(EbharnessLocking				, "torso,ebonite,black,ddx")
+	libs.RegisterGenericDevice(EbharnessBlocking				, "torso,blocking,ebonite,black,ddx")
+	libs.RegisterGenericDevice(EbblindfoldBlocking				, "blindfold,blocking,ebonite,black,ddx")
+
 
 	; White Ebonite
-	libs.RegisterGenericDevice(cuffsWTEboniteArms			, "cuffs,arms,ebonite,white")
-	libs.RegisterGenericDevice(cuffsWTEboniteLegs			, "cuffs,legs,ebonite,white")
-	libs.RegisterGenericDevice(cuffsWTEboniteCollar		, "collar,short,ebonite,white")
-	libs.RegisterGenericDevice(wtEboniteArmbinder			, "armbinder,ebonite,white")
-	libs.RegisterGenericDevice(wtEboniteHarnessBody		, "harness,full,ebonite,white")
-	libs.RegisterGenericDevice(wtEboniteHarnessCollar	, "collar,harness,ebonite,white")
-	libs.RegisterGenericDevice(wtEboniteBlindfold			, "blindfold,ebonite,white")
-	libs.RegisterGenericDevice(gagWTEboniteBall			, "gag,ball,harness,ebonite,white")
-	libs.RegisterGenericDevice(gagWTEboniteRing			, "gag,ring,harness,ebonite,white")
-	libs.RegisterGenericDevice(gagWTEbonitePanel			, "gag,panel,harness,ebonite,white")
-	libs.RegisterGenericDevice(gagWTEboniteStrapBall		, "gag,ball,strap,ebonite,white")
-	libs.RegisterGenericDevice(gagWTEboniteStrapRing		, "gag,ring,strap,ebonite,white")
-	libs.RegisterGenericDevice(collarPostureWTEbonite	, "collar,posture,ebonite,white")
+	libs.RegisterGenericDevice(cuffsWTEboniteArms			, "cuffs,arms,ebonite,white,ddx")
+	libs.RegisterGenericDevice(cuffsWTEboniteLegs			, "cuffs,legs,ebonite,white,ddx")
+	libs.RegisterGenericDevice(cuffsWTEboniteCollar		, "collar,short,ebonite,white,ddx")
+	libs.RegisterGenericDevice(wtEboniteArmbinder			, "armbinder,ebonite,white,ddx")
+	libs.RegisterGenericDevice(wtEboniteHarnessBody		, "harness,full,ebonite,white,ddx")
+	libs.RegisterGenericDevice(wtEboniteHarnessCollar	, "collar,harness,ebonite,white,ddx")
+	libs.RegisterGenericDevice(wtEboniteBlindfold			, "blindfold,ebonite,white,ddx")
+	libs.RegisterGenericDevice(gagWTEboniteBall			, "gag,ball,harness,ebonite,white,ddx")
+	libs.RegisterGenericDevice(gagWTEboniteRing			, "gag,ring,harness,ebonite,white,ddx")
+	libs.RegisterGenericDevice(gagWTEbonitePanel			, "gag,panel,harness,ebonite,white,ddx")
+	libs.RegisterGenericDevice(gagWTEboniteStrapBall		, "gag,ball,strap,ebonite,white,ddx")
+	libs.RegisterGenericDevice(gagWTEboniteStrapRing		, "gag,ring,strap,ebonite,white,ddx")
+	libs.RegisterGenericDevice(collarPostureWTEbonite	, "collar,posture,ebonite,white,ddx")
+     libs.RegisterGenericDevice(WTEharnessLocking				, "torso,ebonite,white,ddx")
+	libs.RegisterGenericDevice(WTEharnessBlocking				, "torso,blocking,ebonite,white,ddx")
+	libs.RegisterGenericDevice(WTEblindfoldBlocking				, "blindfold,blocking,ebonite,white,ddx")
 
 	; White Leather
-	libs.RegisterGenericDevice(cuffsWTLeatherArms			, "cuffs,arms,leather,white")
-	libs.RegisterGenericDevice(cuffsWTLeatherLegs			, "cuffs,legs,leather,white")
-	libs.RegisterGenericDevice(cuffsWTLeatherCollar		, "collar,short,leather,white")
-	libs.RegisterGenericDevice(wtLeatherArmbinder			, "armbinder,leather,white")
-	libs.RegisterGenericDevice(wtLeatherHarnessBody		, "harness,full,leather,white")
-	libs.RegisterGenericDevice(wtLeatherHarnessCollar	, "collar,harness,leather,white")
-	libs.RegisterGenericDevice(wtLeatherBlindfold			, "blindfold,leather,white")
-	libs.RegisterGenericDevice(gagWTLeatherBall			, "gag,ball,harness,leather,white")
-	libs.RegisterGenericDevice(gagWTLeatherRing			, "gag,ring,harness,leather,white")
-	libs.RegisterGenericDevice(gagWTLeatherPanel			, "gag,panel,harness,leather,white")
-	libs.RegisterGenericDevice(gagWTLeatherStrapBall		, "gag,ball,strap,leather,white")
-	libs.RegisterGenericDevice(gagWTLeatherStrapRing		, "gag,ring,strap,leather,white")
-	libs.RegisterGenericDevice(collarPostureWTLeather	, "collar,posture,leather,white")
+	libs.RegisterGenericDevice(cuffsWTLeatherArms			, "cuffs,arms,leather,white,ddx")
+	libs.RegisterGenericDevice(cuffsWTLeatherLegs			, "cuffs,legs,leather,white,ddx")
+	libs.RegisterGenericDevice(cuffsWTLeatherCollar		, "collar,short,leather,white,ddx")
+	libs.RegisterGenericDevice(wtLeatherArmbinder			, "armbinder,leather,white,ddx")
+	libs.RegisterGenericDevice(wtLeatherHarnessBody		, "harness,full,leather,white,ddx")
+	libs.RegisterGenericDevice(wtLeatherHarnessCollar	, "collar,harness,leather,white,ddx")
+	libs.RegisterGenericDevice(wtLeatherBlindfold			, "blindfold,leather,white,ddx")
+	libs.RegisterGenericDevice(gagWTLeatherBall			, "gag,ball,harness,leather,white,ddx")
+	libs.RegisterGenericDevice(gagWTLeatherRing			, "gag,ring,harness,leather,white,ddx")
+	libs.RegisterGenericDevice(gagWTLeatherPanel			, "gag,panel,harness,leather,white,ddx")
+	libs.RegisterGenericDevice(gagWTLeatherStrapBall		, "gag,ball,strap,leather,white,ddx")
+	libs.RegisterGenericDevice(gagWTLeatherStrapRing		, "gag,ring,strap,leather,white,ddx")
+	libs.RegisterGenericDevice(collarPostureWTLeather	, "collar,posture,leather,white,ddx")
+     libs.RegisterGenericDevice(WTLharnessLocking				, "torso,leather,white,ddx")
+	libs.RegisterGenericDevice(WTLharnessBlocking				, "torso,blocking,leather,white,ddx")
+	libs.RegisterGenericDevice(WTLblindfoldBlocking				, "blindfold,blocking,leather,white,ddx")
 	
 	; Red Ebonite
-	libs.RegisterGenericDevice(cuffsRDEboniteArms			, "cuffs,arms,ebonite,red")
-	libs.RegisterGenericDevice(cuffsRDEboniteLegs			, "cuffs,legs,ebonite,red")
-	libs.RegisterGenericDevice(cuffsRDEboniteCollar		, "collar,short,ebonite,red")
-	libs.RegisterGenericDevice(rdEboniteArmbinder			, "armbinder,ebonite,red")
-	libs.RegisterGenericDevice(rdEboniteHarnessBody		, "harness,full,ebonite,red")
-	libs.RegisterGenericDevice(rdEboniteHarnessCollar	, "collar,harness,ebonite,red")
-	libs.RegisterGenericDevice(rdEboniteBlindfold			, "blindfold,ebonite,red")
-	libs.RegisterGenericDevice(gagRDEboniteBall			, "gag,ball,harness,ebonite,red")
-	libs.RegisterGenericDevice(gagRDEboniteRing			, "gag,ring,harness,ebonite,red")
-	libs.RegisterGenericDevice(gagRDEbonitePanel			, "gag,panel,harness,ebonite,red")
-	libs.RegisterGenericDevice(gagRDEboniteStrapBall		, "gag,ball,strap,ebonite,red")
-	libs.RegisterGenericDevice(gagRDEboniteStrapRing		, "gag,ring,strap,ebonite,red")
-	libs.RegisterGenericDevice(collarPostureRDEbonite	, "collar,posture,ebonite,red")
+	libs.RegisterGenericDevice(cuffsRDEboniteArms			, "cuffs,arms,ebonite,red,ddx")
+	libs.RegisterGenericDevice(cuffsRDEboniteLegs			, "cuffs,legs,ebonite,red,ddx")
+	libs.RegisterGenericDevice(cuffsRDEboniteCollar		, "collar,short,ebonite,red,ddx")
+	libs.RegisterGenericDevice(rdEboniteArmbinder			, "armbinder,ebonite,red,ddx")
+	libs.RegisterGenericDevice(rdEboniteHarnessBody		, "harness,full,ebonite,red,ddx")
+	libs.RegisterGenericDevice(rdEboniteHarnessCollar	, "collar,harness,ebonite,red,ddx")
+	libs.RegisterGenericDevice(rdEboniteBlindfold			, "blindfold,ebonite,red,ddx")
+	libs.RegisterGenericDevice(gagRDEboniteBall			, "gag,ball,harness,ebonite,red,ddx")
+	libs.RegisterGenericDevice(gagRDEboniteRing			, "gag,ring,harness,ebonite,red,ddx")
+	libs.RegisterGenericDevice(gagRDEbonitePanel			, "gag,panel,harness,ebonite,red,ddx")
+	libs.RegisterGenericDevice(gagRDEboniteStrapBall		, "gag,ball,strap,ebonite,red,ddx")
+	libs.RegisterGenericDevice(gagRDEboniteStrapRing		, "gag,ring,strap,ebonite,red,ddx")
+	libs.RegisterGenericDevice(collarPostureRDEbonite	, "collar,posture,ebonite,red,ddx")
+     libs.RegisterGenericDevice(RDEharnessLocking				, "torso,ebonite,red,ddx")
+	libs.RegisterGenericDevice(RDEharnessBlocking				, "torso,blocking,ebonite,red,ddx")
+	libs.RegisterGenericDevice(RDEblindfoldBlocking				, "blindfold,blocking,ebonite,red,ddx")
 
 	; Red Leather
-	libs.RegisterGenericDevice(cuffsRDLeatherArms			, "cuffs,arms,leather,red")
-	libs.RegisterGenericDevice(cuffsRDLeatherLegs			, "cuffs,legs,leather,red")
-	libs.RegisterGenericDevice(cuffsRDLeatherCollar		, "collar,short,leather,red")
-	libs.RegisterGenericDevice(rdLeatherArmbinder			, "armbinder,leather,red")
-	libs.RegisterGenericDevice(rdLeatherHarnessBody		, "harness,full,leather,red")
-	libs.RegisterGenericDevice(rdLeatherHarnessCollar	, "collar,harness,leather,red")
-	libs.RegisterGenericDevice(rdLeatherBlindfold			, "blindfold,leather,red")
-	libs.RegisterGenericDevice(gagRDLeatherBall			, "gag,ball,harness,leather,red")
-	libs.RegisterGenericDevice(gagRDLeatherRing			, "gag,ring,harness,leather,red")
-	libs.RegisterGenericDevice(gagRDLeatherPanel			, "gag,panel,harness,leather,red")
-	libs.RegisterGenericDevice(gagRDLeatherStrapBall		, "gag,ball,strap,leather,red")
-	libs.RegisterGenericDevice(gagRDLeatherStrapRing		, "gag,ring,strap,leather,red")
-	libs.RegisterGenericDevice(collarPostureRDLeather	, "collar,posture,leather,red")
+	libs.RegisterGenericDevice(cuffsRDLeatherArms			, "cuffs,arms,leather,red,ddx")
+	libs.RegisterGenericDevice(cuffsRDLeatherLegs			, "cuffs,legs,leather,red,ddx")
+	libs.RegisterGenericDevice(cuffsRDLeatherCollar		, "collar,short,leather,red,ddx")
+	libs.RegisterGenericDevice(rdLeatherArmbinder			, "armbinder,leather,red,ddx")
+	libs.RegisterGenericDevice(rdLeatherHarnessBody		, "harness,full,leather,red,ddx")
+	libs.RegisterGenericDevice(rdLeatherHarnessCollar	, "collar,harness,leather,red,ddx")
+	libs.RegisterGenericDevice(rdLeatherBlindfold			, "blindfold,leather,red,ddx")
+	libs.RegisterGenericDevice(gagRDLeatherBall			, "gag,ball,harness,leather,red,ddx")
+	libs.RegisterGenericDevice(gagRDLeatherRing			, "gag,ring,harness,leather,red,ddx")
+	libs.RegisterGenericDevice(gagRDLeatherPanel			, "gag,panel,harness,leather,red,ddx")
+	libs.RegisterGenericDevice(gagRDLeatherStrapBall		, "gag,ball,strap,leather,red,ddx")
+	libs.RegisterGenericDevice(gagRDLeatherStrapRing		, "gag,ring,strap,leather,red,ddx")
+	libs.RegisterGenericDevice(collarPostureRDLeather	, "collar,posture,leather,red,ddx")
+     libs.RegisterGenericDevice(RDLharnessLocking				, "torso,leather,red,ddx")
+	libs.RegisterGenericDevice(RDLharnessBlocking				, "torso,blocking,leather,red,ddx")
+	libs.RegisterGenericDevice(RDLblindfoldBlocking				, "blindfold,blocking,leather,red,ddx")
 	
 	; Pony boots
-	libs.RegisterGenericDevice(PonyBoots					, "boots,blocking,leather,black,pony")
-	libs.RegisterGenericDevice(EbonitePonyBoots			, "boots,blocking,ebonite,black,pony")
-	libs.RegisterGenericDevice(RDEbonitePonyBoots			, "boots,blocking,ebonite,red,pony")
-	libs.RegisterGenericDevice(WTEbonitePonyBoots			, "boots,blocking,ebonite,white,pony")
-	libs.RegisterGenericDevice(RDLeatherPonyBoots			, "boots,blocking,leather,red,pony")
-	libs.RegisterGenericDevice(WTLeatherPonyBoots			, "boots,blocking,leather,white,pony")
+	libs.RegisterGenericDevice(PonyBoots					, "boots,blocking,leather,black,pony,ddx")
+	libs.RegisterGenericDevice(EbonitePonyBoots			, "boots,blocking,ebonite,black,pony,ddx")
+	libs.RegisterGenericDevice(RDEbonitePonyBoots			, "boots,blocking,ebonite,red,pony,ddx")
+	libs.RegisterGenericDevice(WTEbonitePonyBoots			, "boots,blocking,ebonite,white,pony,ddx")
+	libs.RegisterGenericDevice(RDLeatherPonyBoots			, "boots,blocking,leather,red,pony,ddx")
+	libs.RegisterGenericDevice(WTLeatherPonyBoots			, "boots,blocking,leather,white,pony,ddx")
 	
 	
 	Log("Finished registering items.")

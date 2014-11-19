@@ -68,6 +68,11 @@ Known issues:
 Changelog:
 ---------- 
 
+v1.1.6.
+
+* Added mystical new stuff that i have not actually done yet.
+* Added new tags to zadxlibs (framework functionality).
+
 v1.1.5.
 
 * Added full crafting options for old LADL assets.
@@ -138,17 +143,17 @@ Credits:
  
 For assorted 3D, 2D, writing and code work, aswell permissions.
 
- 
 Zaria.
 UrbanSniper.
 Xinafay.
 idontkn0w123.
+Veladarius.
 Aelie.
 AlbertAffe.
 Min.
 Zadil.
 Srende.
-Ms.Leeches.
+Princessity.
 Coopervane.
  
 And of course, the staff of Devious testers:
