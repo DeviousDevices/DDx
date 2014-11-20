@@ -22,6 +22,8 @@ Armor Property bootsUnlocked Auto
 Armor Property bootsUnlockedRendered Auto
 Armor Property bootsLocking Auto
 Armor Property bootsLockingRendered Auto
+Armor Property restrictiveBoots Auto
+Armor Property restrictiveBootsRendered Auto
 
 ; *cough* latex *cough* items
 Armor Property cuffsEboniteArms Auto
@@ -235,6 +237,9 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 		deviceKeyword = libs.zad_DeviousBoots
 	ElseIf device == bootsLocking
 		deviceRendered = bootsLockingRendered
+		deviceKeyword = libs.zad_DeviousBoots
+	ElseIf device == restrictiveBoots
+		deviceRendered = restrictiveBootsRendered
 		deviceKeyword = libs.zad_DeviousBoots
 		
 	; ------- Ebonite --------	
@@ -541,6 +546,7 @@ Function RegisterDevices()
      libs.RegisterGenericDevice(EbharnessLocking				, "torso,ebonite,black,ddx")
 	libs.RegisterGenericDevice(EbharnessBlocking				, "torso,blocking,ebonite,black,ddx")
 	libs.RegisterGenericDevice(EbblindfoldBlocking				, "blindfold,blocking,ebonite,black,ddx")
+	libs.RegisterGenericDevice(restrictiveBoots				, "boots,blocking,restrictive,leather,black,ddx")
 
 
 	; White Ebonite
@@ -631,3 +637,4 @@ EndFunction
 Function Log(String msg)
 	Debug.Trace("[zadx]: " + msg)
 EndFunction
+
