@@ -69,12 +69,11 @@ Changelog:
 ---------- 
 
 v1.1.6.
-
 * Added Ballet boots ("restrictive boots") and crafting.
 * Added new tags to zadxlibs (framework functionality).
+* Added zad_DeviousSuit keyword to blocking harness.
 
 v1.1.5.
-
 * Added full crafting options for old LADL assets.
 * Added full material support for old LADL assets.
 * Fixed two mesh errors preventing TextureSet support for Dcur.
@@ -83,29 +82,24 @@ v1.1.5.
 * Changed footwear messages to be more device neutral/appropriate.
 
 v1.1.4.
-
 * Added new audio for devious footwear.
 
 v1.1.3a.
-
 * Fixed missing Enchant on certain gags.
 * Updated installer version.
 
 v1.1.3.
-
 * Added Pony Boots.
 * Added ground-object files to male inventory.
 * Fixed item duplication crafting bug.
 
 v1.1.2a.
-
 * Added missing "Permit_Oral" keyword to ring-gags.
 * Fixed red leather armcuff crafting recipe.
 * Fixed three broken leather posture-collar recipe's.
  
 
 v1.1.2.
- 
 * Changed gag slots to 44 only, as per new DDi standards.
 * Changed Custom Harness slots from 52 to 58 to avoid SOS conflict.
 * Added Leather and Ebonite dye system.
@@ -119,11 +113,9 @@ v1.1.2.
 * Added "NoSprint" and "EffectRefresh" keywords to locking Slave-boots.
  
 v1.1.1.
- 
 * Fixed a broken mesh.
  
 v1.1.
- 
 * Added full support for UNPB bodies, both CBBE and UNPB now supported.
 * Updated Custom Harness meshes to Assets 2.7.5+ standards.
 * Optimization to Custom Harness (fewer meshes now required).
@@ -134,7 +126,6 @@ v1.1.
 * Added Ebonite items and crafting.
  
 v1.0.
- 
 * Initial release.
 
  

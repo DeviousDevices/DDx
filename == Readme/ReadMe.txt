@@ -71,6 +71,7 @@ Changelog:
 v1.1.6.
 * Added Ballet boots ("restrictive boots") and crafting.
 * Added new tags to zadxlibs (framework functionality).
+* Added zad_DeviousSuit keyword to blocking harness.
 
 v1.1.5.
 * Added full crafting options for old LADL assets.
