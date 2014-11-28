@@ -70,6 +70,7 @@ Changelog:
 
 v1.1.6.
 * Added Ballet boots ("restrictive boots") and crafting.
+* Added new scripts for blocking harness and blindfold.
 * Added new tags to zadxlibs (framework functionality).
 * Added zad_DeviousSuit keyword to blocking harness.
 
@@ -97,7 +98,6 @@ v1.1.2a.
 * Added missing "Permit_Oral" keyword to ring-gags.
 * Fixed red leather armcuff crafting recipe.
 * Fixed three broken leather posture-collar recipe's.
- 
 
 v1.1.2.
 * Changed gag slots to 44 only, as per new DDi standards.
