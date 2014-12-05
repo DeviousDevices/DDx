@@ -69,6 +69,7 @@ Changelog:
 ---------- 
 
 v1.1.6.
+* Reduced 2k textures to 1k (optimization).
 * Added Ballet boots ("restrictive boots") and crafting.
 * Added new scripts for blocking harness and blindfold.
 * Added new tags to zadxlibs (framework functionality).
