@@ -1,1 +1,2 @@
 "e:/Steam/steamapps/common/Skyrim/Papyrus Compiler/PapyrusCompiler.exe" %1 -f="TESV_Papyrus_Flags.flg" -i="e:/Steam/steamapps/common/Skyrim/Data/scripts/source/";"e:/Steam/steamapps/common/Skyrim/Data/scripts/source/garbage/";"e:/Steam/steamapps/common/Skyrim/Data/scripts/source/junk/" -o="../" 
+pause

@@ -3,7 +3,7 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 1.16
+    return 1.2
 EndFunction
 
 Function VersionUpdate()
@@ -24,6 +24,35 @@ Armor Property bootsLocking Auto
 Armor Property bootsLockingRendered Auto
 Armor Property restrictiveBoots Auto
 Armor Property restrictiveBootsRendered Auto
+Armor Property PlugsGreaterSoulVag Auto
+Armor Property PlugsGreaterSoulVagRendered Auto
+Armor Property PlugsGreaterSoulAnl Auto
+Armor Property PlugsGreaterSoulAnlRendered Auto
+Armor Property PlugsGrandSoulVag Auto
+Armor Property PlugsGrandSoulVagRendered Auto
+Armor Property PlugsGrandSoulAnl Auto
+Armor Property PlugsGrandSoulAnlRendered Auto
+Armor Property PlugsBlackSoulVag Auto
+Armor Property PlugsBlackSoulVagRendered Auto
+Armor Property PlugsBlackSoulAnl Auto
+Armor Property PlugsBlackSoulAnlRendered Auto
+Armor Property PlugsFilledSoulVag Auto
+Armor Property PlugsFilledSoulVagRendered Auto
+Armor Property PlugsFilledSoulAnl Auto
+Armor Property PlugsFilledSoulAnlRendered Auto
+Armor Property PlugsShockSoulVag Auto
+Armor Property PlugsShockSoulVagRendered Auto
+Armor Property PlugsShockSoulAnl Auto
+Armor Property PlugsShockSoulAnlRendered Auto
+Armor Property PiercingsCommonSoulVag Auto
+Armor Property PiercingsCommonSoulVagRendered Auto
+Armor Property PiercingsCommonSoulNips Auto
+Armor Property PiercingsCommonSoulNipsRendered Auto
+Armor Property PiercingsShockSoulVag Auto
+Armor Property PiercingsShockSoulVagRendered Auto
+Armor Property PiercingsShockSoulNips Auto
+Armor Property PiercingsShockSoulNipsRendered Auto
+
 
 ; *cough* latex *cough* items
 Armor Property cuffsEboniteArms Auto
@@ -241,6 +270,48 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == restrictiveBoots
 		deviceRendered = restrictiveBootsRendered
 		deviceKeyword = libs.zad_DeviousBoots
+	ElseIf device == PlugsGreaterSoulVag
+		deviceRendered = PlugsGreaterSoulVagRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PlugsGreaterSoulAnl
+		deviceRendered = PlugsGreaterSoulAnlRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PlugsGrandSoulVag
+		deviceRendered = PlugsGrandSoulVagRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PlugsGrandSoulAnl
+		deviceRendered = PlugsGrandSoulAnlRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PlugsBlackSoulVag
+		deviceRendered = PlugsBlackSoulVagRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PlugsBlackSoulAnl
+		deviceRendered = PlugsBlackSoulAnlRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PlugsFilledSoulVag
+		deviceRendered = PlugsFilledSoulVagRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PlugsFilledSoulAnl
+		deviceRendered = PlugsFilledSoulAnlRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PlugsShockSoulVag
+		deviceRendered = PlugsShockSoulVagRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PlugsShockSoulAnl
+		deviceRendered = PlugsShockSoulAnlRendered
+		deviceKeyword = libs.zad_DeviousPlug
+	ElseIf device == PiercingsCommonSoulVag
+		deviceRendered = PiercingsCommonSoulVagRendered
+		deviceKeyword = libs.zad_DeviousPiercingsVaginal
+	ElseIf device == PiercingsCommonSoulNips
+		deviceRendered = PiercingsCommonSoulNipsRendered
+		deviceKeyword = libs.zad_DeviousPiercingsNipple
+	ElseIf device == PiercingsShockSoulVag
+		deviceRendered = PiercingsShockSoulVagRendered
+		deviceKeyword = libs.zad_DeviousPiercingsVaginal
+	ElseIf device == PiercingsShockSoulNips
+		deviceRendered = PiercingsShockSoulNipsRendered
+		deviceKeyword = libs.zad_DeviousPiercingsNipple
 		
 	; ------- Ebonite --------	
 	ElseIf device == cuffsEboniteArms
@@ -547,6 +618,20 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(EbharnessBlocking				, "torso,blocking,ebonite,black,ddx")
 	libs.RegisterGenericDevice(EbblindfoldBlocking				, "blindfold,blocking,ebonite,black,ddx")
 	libs.RegisterGenericDevice(restrictiveBoots				, "boots,blocking,restrictive,leather,black,ddx")
+	libs.RegisterGenericDevice(PlugsGreaterSoulVag       , "plug,vaginal,soulgem,magic,ddx")
+	libs.RegisterGenericDevice(PlugsGreaterSoulAnl		, "plug,anal,soulgem,magic,ddx")
+	libs.RegisterGenericDevice(PlugsGrandSoulVag		, "plug,vaginal,soulgem,magic,ddx")
+	libs.RegisterGenericDevice(PlugsGrandSoulAnl		, "plug,anal,soulgem,magic,ddx")
+	libs.RegisterGenericDevice(PlugsBlackSoulVag		, "plug,vaginal,soulgem,magic,ddx")
+	libs.RegisterGenericDevice(PlugsBlackSoulAnl		, "plug,anal,soulgem,magic,ddx")
+	libs.RegisterGenericDevice(PlugsFilledSoulVag		, "plug,vaginal,soulgem,magic,ddx")
+	libs.RegisterGenericDevice(PlugsFilledSoulAnl		, "plug,anal,soulgem,magic,ddx")
+	libs.RegisterGenericDevice(PlugsShockSoulVag		, "plug,vaginal,soulgem,magic,shock,ddx")
+	libs.RegisterGenericDevice(PlugsShockSoulAnl		, "plug,anal,soulgem,magic,shock,ddx")
+	libs.RegisterGenericDevice(PiercingsCommonSoulVag	, "piercing,vaginal,soulgem,ddx")
+	libs.RegisterGenericDevice(PiercingsCommonSoulNips	, "piercing,nipple,soulgem,ddx")
+	libs.RegisterGenericDevice(PiercingsShockSoulVag	, "piercing,vaginal,soulgem,shock,ddx")
+	libs.RegisterGenericDevice(PiercingsShockSoulNips	, "piercing,nipple,soulgem,shock,ddx")
 
 
 	; White Ebonite

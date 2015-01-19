@@ -68,6 +68,15 @@ Known issues:
 Changelog:
 ---------- 
 
+v1.2.
+* Added Restrictive-boots (locking and non, textures now included).
+* Added audio for Restrictive boots.
+* Added 5 new vaginal souldgem plugs.
+* Added 5 new anal souldgem plugs.
+* Added 2 new souldgem clitoral piercings (plus new textures).
+* Added 2 new souldgem nipple piercings (plus new textures).
+* Fixed a couple of stray Keywords.
+
 v1.1.6.
 * Reduced 2k textures to 1k (optimization).
 * Added new scripts for blocking harness and blindfold.
@@ -156,4 +165,3 @@ KomradePavlov.
 Mord Sif.
 Pinute.
 Slorm.
-Coopervane.
