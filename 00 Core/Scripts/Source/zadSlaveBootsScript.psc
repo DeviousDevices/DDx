@@ -3,7 +3,7 @@ Scriptname zadSlaveBootsScript extends zadEquipScript
 Spell Property highHeelSpell Auto
 
 Event OnEquipped(Actor akActor)
-	if libs.GetVersion() <= 2.9
+	if !zad_DeviousDevice
 		; Fix duplicate keyword baked in to savegames
 		zad_DeviousDevice = (Game.GetFormFromFile(0x00027f29, "Devious Devices - Assets.esm") as Keyword)
 	EndIf
