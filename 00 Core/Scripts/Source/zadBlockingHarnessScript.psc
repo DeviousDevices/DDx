@@ -1,5 +1,10 @@
 Scriptname zadBlockingHarnessScript extends zadBodyHarnessScript
 
+Function OnEquippedPre(actor akActor, bool silent=false)
+	; Wasted function to avoid awful papyrus OO.
+	Parent.OnEquippedPre(akActor, silent)
+EndFunction
+
 int Function OnEquippedFilter(actor akActor, bool silent=false)
 	if akActor == none
 		akActor == libs.PlayerRef
