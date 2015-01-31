@@ -6,7 +6,7 @@ DDx is an add-on content pack for the Devious Devices family of mods, it's purpo
 DDx is by it's very nature a collaborative project, this is where we place assets that fall outside the scope of the main DD-Assets mod, third party developed meshes, retextures, items which require outside dependancies (such as HDT-HHS for heels), that sort of thing.
 Authorship of the content is thus more varied, containing work from many members of the DD team, aswell work from authors outside the team which is used with their kind permission.
  
-All items in the pack are made with full support of DDa/DDi in mind, and supports both the UNPB v2.5.2 and CBBE v3.2.3 bodies just as it's parent mods do. Items may also feature new textures to make them blend in with existing content when needed.
+All items in the pack are made with full support of DDa/DDi in mind, and supports both the UNP v1.2 and CBBE v3.2.3 bodies just as it's parent mods do. Items may also feature new textures to make them blend in with existing content when needed.
  
  
 Requirements:
@@ -27,7 +27,7 @@ Compatible with BAIN and FO-Mod installers.
 Manual install:
 Drag and drop the contense of the "00 Core" folder into the /Skyrim/Data/ folder.
  
-Then depending on if you have the CBBE or the UNPB body installed, drag on drop the contense of either the "01 CBBE" or "01 UNPB" 
+Then depending on if you have the CBBE or the UNP body installed, drag on drop the contense of either the "01 CBBE" or "01 UNP" 
 folder into the /Skyrim/Data/ folder. You do not need both! Only the one correspending to your installed body.
  
  
@@ -76,6 +76,10 @@ v1.2.
 * Added 2 new souldgem clitoral piercings (plus new textures).
 * Added 2 new souldgem nipple piercings (plus new textures).
 * Fixed a couple of stray Keywords.
+* Updates to support DDi 2.9.0.
+* Depricated UNPB version in favour of UNP.
+* Some minor but important bugfixes.
+* DDx harnesses now hold in plugs even without a belt added.
 
 v1.1.6.
 * Reduced 2k textures to 1k (optimization).
@@ -163,5 +167,6 @@ Aaeryn.
 Naaitsab.
 KomradePavlov.
 Mord Sif.
+Verstort.
 Pinute.
 Slorm.

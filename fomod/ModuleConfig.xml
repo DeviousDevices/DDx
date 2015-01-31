@@ -20,17 +20,17 @@
               </conditionFlags>
               <typeDescriptor><type name="Optional"/></typeDescriptor>
             </plugin>
-            <plugin name="UNPB">
+            <plugin name="UNP">
               <description>
-                Install UNPB version (based on UNPB 2.5.2)
+                Install UNP version (based on UNP 1.2)
               </description>
-              <image path="fomod\images\01_unpb.png"/>
+              <image path="fomod\images\01_unp.png"/>
               <files>
                 <folder source="00 Core" destination=""/>
-                <folder source="01 UNPB" destination=""/>
+                <folder source="01 UNP" destination=""/>
               </files>
               <conditionFlags>
-                <flag name="UNPB">On</flag>
+                <flag name="UNP">On</flag>
               </conditionFlags>
               <typeDescriptor><type name="Optional"/></typeDescriptor>
             </plugin>

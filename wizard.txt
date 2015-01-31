@@ -8,16 +8,16 @@ SelectSubPackage "00 Core"
 ; -----BODY-----
 
 ddCBBE = False
-ddUNPB = False
+ddUNP = False
 
 SelectOne "Step 1/1: Which body do you use?", \
 	"CBBE", "Install CBBE version (required CBBE 3.2.3 curvy)", "fomod/images/01_cbbe.png", \
-	"|UNPB", "Install UNPB version (requires UNPB 2.5.2)", "fomod/images/01_unpb.png"
+	"|UNP", "Install UNP version (requires UNP 1.2)", "fomod/images/01_unp.png"
 	Case "CBBE"
 		ddCBBE = True
 		Break
-	Case "UNPB"
-		ddUNPB = True
+	Case "UNP"
+		ddUNP = True
 		Break
 EndSelect
 
@@ -27,5 +27,5 @@ EndSelect
 If ddCBBE
 	SelectSubPackage "01 CBBE"
 Elif ddUNPB
-	SelectSubPackage "01 UNPB"
+	SelectSubPackage "01 UNP"
 EndIf
