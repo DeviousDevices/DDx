@@ -17,6 +17,9 @@ DDA: http://www.loverslab...devices-assets/
 DDI: http://www.loverslab...uests-05092014/
  
 ^And their respective requirements^
+
+
+Supported UNP-TBBP body: http://www.nexusmods.com/skyrim/mods/21199/?
  
  
 Installation:
@@ -28,7 +31,10 @@ Manual install:
 Drag and drop the contense of the "00 Core" folder into the /Skyrim/Data/ folder.
  
 Then depending on if you have the CBBE or the UNP body installed, drag on drop the contense of either the "01 CBBE" or "01 UNP" 
-folder into the /Skyrim/Data/ folder. You do not need both! Only the one correspending to your installed body.
+folder into the /Skyrim/Data/ folder and say yes to merge and overwrite if prompted (You do not need both the CBBE and UNP folders! Only the one correspending to your installed body).
+
+
+If using UNP-TBBP body, install Core and UNP files as above, then drag and drop the contense of the "02 UNP (TBBP)" folder into your /Skyrim/Data/ folder afterwards, say yes to merge and overwrite.
  
  
 A note on the "Custom" devices:
