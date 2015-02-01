@@ -21,11 +21,23 @@ SelectOne "Step 1/1: Which body do you use?", \
 		Break
 EndSelect
 
+If ddUNP
+	SelectOne "Select physics support", \
+		"|Default", "Items will fit the default UNP 1.2 body", "fomod/images/01_unp.png", \
+		"TBBP", "Items will fit the UNP HDT-PE BBP TBBP body (requires a tbbp-compatible skeleton)", "fomod/images/02_UNPTBBP.png"
+		Case "TBBP"
+			ddTBBP = True
+			Break
+	EndSelect
+EndIf
 
 ; -----INSTALL-----
 
 If ddCBBE
 	SelectSubPackage "01 CBBE"
-Elif ddUNPB
+Elif ddUNP
 	SelectSubPackage "01 UNP"
+    If ddTBBP
+		SelectSubPackage "02 TBBP (UNP)"
+	EndIf
 EndIf

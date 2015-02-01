@@ -2,6 +2,7 @@
   <moduleName>Devious Devices: Expansion 1.2</moduleName>
   <moduleImage path="fomod\images\header.jpg"/>
   <installSteps order="Explicit">
+    
     <installStep name="Body Type">
       <optionalFileGroups>
         <group name="Which body type do you use?" type="SelectExactlyOne">
@@ -38,5 +39,41 @@
         </group>
       </optionalFileGroups>
     </installStep>
+    
+    <installStep name="Jiggle support">
+      <visible>
+        <flagDependency flag="UNP" value="On" />        
+      </visible>
+      <optionalFileGroups>
+        <group name="Select HDT support option" type="SelectExactlyOne">
+          <plugins order="Explicit">
+            <plugin name="Default">
+              <description>
+                Items will fit the default UNP 1.2 body.
+              </description>
+              <image path="fomod\images\01_unp.png"/>
+              <files>
+                <folder source="no folder" destination=""/>
+              </files>
+              <typeDescriptor><type name="Optional"/></typeDescriptor>
+            </plugin>
+            <plugin name="TBBP">
+              <description>
+                Items will fit the UNP HDT-PE BBP TBBP body (requires a tbbp-compatible skeleton).
+              </description>
+              <image path="fomod\images\02_UNPTBBP.png"/>
+              <files>
+                <folder source="02 TBBP (UNP)" destination="" priority="3"/>
+              </files>
+              <conditionFlags>
+                <flag name="TBBP">On</flag>
+              </conditionFlags>
+              <typeDescriptor><type name="Optional"/></typeDescriptor>
+            </plugin>
+          </plugins>
+        </group>
+      </optionalFileGroups>
+    </installStep>
+    
   </installSteps>
 </config>
