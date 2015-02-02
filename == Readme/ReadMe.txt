@@ -83,7 +83,7 @@ v1.2.
 * Added 2 new souldgem nipple piercings (plus new textures).
 * Fixed a couple of stray Keywords.
 * Updates to support DDi 2.9.0.
-* Depricated UNPB version in favour of UNP.
+* Phased out UNPB support in favour of UNP.
 * Some minor but important bugfixes.
 * DDx harnesses now hold in plugs even without a belt added.
 
