@@ -3,7 +3,7 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 1.2
+    return 1.21
 EndFunction
 
 Function VersionUpdate()
@@ -53,7 +53,6 @@ Armor Property PiercingsShockSoulVagRendered Auto
 Armor Property PiercingsShockSoulNips Auto
 Armor Property PiercingsShockSoulNipsRendered Auto
 
-
 ; *cough* latex *cough* items
 Armor Property cuffsEboniteArms Auto
 Armor Property cuffsEboniteArmsRendered Auto
@@ -89,6 +88,14 @@ Armor Property EbharnessBlockingRendered Auto
 Armor Property EbblindfoldUnlocked Auto
 Armor Property EbblindfoldBlocking Auto
 Armor Property EbblindfoldBlockingRendered Auto
+Armor Property EbRestrictiveCorset Auto
+Armor Property EbRestrictiveCorsetRendered Auto
+Armor Property EbRestrictiveCollar Auto
+Armor Property EbRestrictiveCollarRendered Auto
+Armor Property EbRestrictiveGloves Auto
+Armor Property EbRestrictiveGlovesRendered Auto
+Armor Property EbRestrictiveBoots Auto
+Armor Property EbRestrictiveBootsRendered Auto
 
 ; White Ebonite
 Armor Property cuffsWTEboniteArms Auto
@@ -125,6 +132,14 @@ Armor Property WTEharnessBlockingRendered Auto
 Armor Property WTEblindfoldUnlocked Auto
 Armor Property WTEblindfoldBlocking Auto
 Armor Property WTEblindfoldBlockingRendered Auto
+Armor Property WTErestrictiveCorset Auto
+Armor Property WTErestrictiveCorsetRendered Auto
+Armor Property WTErestrictiveCollar Auto
+Armor Property WTErestrictiveCollarRendered Auto
+Armor Property WTErestrictiveGloves Auto
+Armor Property WTErestrictiveGlovesRendered Auto
+Armor Property WTErestrictiveBoots Auto
+Armor Property WTErestrictiveBootsRendered Auto
 
 ; White Leather
 Armor Property cuffsWTLeatherArms Auto
@@ -161,6 +176,14 @@ Armor Property WTLharnessBlockingRendered Auto
 Armor Property WTLblindfoldUnlocked Auto
 Armor Property WTLblindfoldBlocking Auto
 Armor Property WTLblindfoldBlockingRendered Auto
+Armor Property WTLrestrictiveCorset Auto
+Armor Property WTLrestrictiveCorsetRendered Auto
+Armor Property WTLrestrictiveCollar Auto
+Armor Property WTLrestrictiveCollarRendered Auto
+Armor Property WTLrestrictiveGloves Auto
+Armor Property WTLrestrictiveGlovesRendered Auto
+Armor Property WTLrestrictiveBoots Auto
+Armor Property WTLrestrictiveBootsRendered Auto
 
 ; Red Ebonite
 Armor Property cuffsRDEboniteArms Auto
@@ -197,6 +220,14 @@ Armor Property RDEharnessBlockingRendered Auto
 Armor Property RDEblindfoldUnlocked Auto
 Armor Property RDEblindfoldBlocking Auto
 Armor Property RDEblindfoldBlockingRendered Auto
+Armor Property RDErestrictiveCorset Auto
+Armor Property RDErestrictiveCorsetRendered Auto
+Armor Property RDErestrictiveCollar Auto
+Armor Property RDErestrictiveCollarRendered Auto
+Armor Property RDErestrictiveGloves Auto
+Armor Property RDErestrictiveGlovesRendered Auto
+Armor Property RDErestrictiveBoots Auto
+Armor Property RDErestrictiveBootsRendered Auto
 
 ; Red Leather
 Armor Property cuffsRDLeatherArms Auto
@@ -233,6 +264,14 @@ Armor Property RDLharnessBlockingRendered Auto
 Armor Property RDLblindfoldUnlocked Auto
 Armor Property RDLblindfoldBlocking Auto
 Armor Property RDLblindfoldBlockingRendered Auto
+Armor Property RDLrestrictiveCorset Auto
+Armor Property RDLrestrictiveCorsetRendered Auto
+Armor Property RDLrestrictiveCollar Auto
+Armor Property RDLrestrictiveCollarRendered Auto
+Armor Property RDLrestrictiveGloves Auto
+Armor Property RDLrestrictiveGlovesRendered Auto
+Armor Property RDLrestrictiveBoots Auto
+Armor Property RDLrestrictiveBootsRendered Auto
 
 ; Pony boots
 Armor Property PonyBoots Auto
@@ -362,6 +401,18 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == EbblindfoldBlocking
 		deviceRendered = EbblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
+	ElseIf device == EbRestrictiveCorset
+		deviceRendered = EbRestrictiveCorsetRendered
+		deviceKeyword = libs.zad_DeviousCorset
+     ElseIf device == EbRestrictiveCollar
+		deviceRendered = EbRestrictiveCollarRendered
+		deviceKeyword = libs.zad_DeviousCollar
+     ElseIf device == EbRestrictiveGloves
+		deviceRendered = EbRestrictiveGlovesRendered
+		deviceKeyword = libs.zad_DeviousGloves
+     ElseIf device == EbRestrictiveBoots
+		deviceRendered = EbRestrictiveBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
 	
 	; ------- White Ebonite --------		
 	ElseIf device == cuffsWTEboniteArms
@@ -412,6 +463,18 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == WTEblindfoldBlocking
 		deviceRendered = WTEblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
+	ElseIf device == WTErestrictiveCorset
+		deviceRendered = WTErestrictiveCorsetRendered
+		deviceKeyword = libs.zad_DeviousCorset
+     ElseIf device == WTErestrictiveCollar
+		deviceRendered = WTErestrictiveCollarRendered
+		deviceKeyword = libs.zad_DeviousCollar
+     ElseIf device == WTErestrictiveGloves
+		deviceRendered = WTErestrictiveGlovesRendered
+		deviceKeyword = libs.zad_DeviousGloves
+     ElseIf device == WTErestrictiveBoots
+		deviceRendered = WTErestrictiveBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
 	
 	; ------- White leather --------	
 	ElseIf device == cuffsWTLeatherArms
@@ -462,6 +525,19 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == WTLblindfoldBlocking
 		deviceRendered = WTLblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
+	ElseIf device == WTLrestrictiveCorset
+		deviceRendered = WTLrestrictiveCorsetRendered
+		deviceKeyword = libs.zad_DeviousCorset
+     ElseIf device == WTLrestrictiveCollar
+		deviceRendered = WTLrestrictiveCollarRendered
+		deviceKeyword = libs.zad_DeviousCollar
+     ElseIf device == WTLrestrictiveGloves
+		deviceRendered = WTLrestrictiveGlovesRendered
+		deviceKeyword = libs.zad_DeviousGloves
+     ElseIf device == WTLrestrictiveBoots
+		deviceRendered = WTLrestrictiveBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
+
 		
 	; ------- Red Ebonite --------		
 	ElseIf device == cuffsRDEboniteArms
@@ -512,6 +588,19 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == RDEblindfoldBlocking
 		deviceRendered = RDEblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
+     ElseIf device == RDErestrictiveCorset
+		deviceRendered = RDErestrictiveCorsetRendered
+		deviceKeyword = libs.zad_DeviousCorset
+     ElseIf device == RDErestrictiveCollar
+		deviceRendered = RDErestrictiveCollarRendered
+		deviceKeyword = libs.zad_DeviousCollar
+     ElseIf device == RDErestrictiveGloves
+		deviceRendered = RDErestrictiveGlovesRendered
+		deviceKeyword = libs.zad_DeviousGloves
+     ElseIf device == RDErestrictiveBoots
+		deviceRendered = RDErestrictiveBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
+
 	
 	; ------- Red leather --------	
 	ElseIf device == cuffsRDLeatherArms
@@ -562,6 +651,18 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	ElseIf device == RDLblindfoldBlocking
 		deviceRendered = RDLblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
+     ElseIf device == RDLrestrictiveCorset
+		deviceRendered = RDLrestrictiveCorsetRendered
+		deviceKeyword = libs.zad_DeviousCorset
+     ElseIf device == RDLrestrictiveCollar
+		deviceRendered = RDLrestrictiveCollarRendered
+		deviceKeyword = libs.zad_DeviousCollar
+     ElseIf device == RDLrestrictiveGloves
+		deviceRendered = RDLrestrictiveGlovesRendered
+		deviceKeyword = libs.zad_DeviousGloves
+     ElseIf device == RDLrestrictiveBoots
+		deviceRendered = RDLrestrictiveBootsRendered
+		deviceKeyword = libs.zad_DeviousBoots
 		
 	; -------- Pony boots --------
 	ElseIf device == PonyBoots
@@ -632,6 +733,10 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(PiercingsCommonSoulNips	, "piercing,nipple,soulgem,ddx")
 	libs.RegisterGenericDevice(PiercingsShockSoulVag	, "piercing,vaginal,soulgem,shock,ddx")
 	libs.RegisterGenericDevice(PiercingsShockSoulNips	, "piercing,nipple,soulgem,shock,ddx")
+	libs.RegisterGenericDevice(EbRestrictiveCorset				, "restrictive,corset,ebonite,black,ddx")
+	libs.RegisterGenericDevice(EbRestrictiveCollar				, "collar,restrictive,metal,ebonite,black,ddx")
+	libs.RegisterGenericDevice(EbRestrictiveGloves				, "restrictive,gloves,ebonite,black,ddx")
+	libs.RegisterGenericDevice(EbRestrictiveBoots				, "boots,blocking,restrictive,ebonite,black,ddx")
 
 
 	; White Ebonite
@@ -651,6 +756,10 @@ Function RegisterDevices()
      libs.RegisterGenericDevice(WTEharnessLocking				, "torso,ebonite,white,ddx")
 	libs.RegisterGenericDevice(WTEharnessBlocking				, "torso,blocking,ebonite,white,ddx")
 	libs.RegisterGenericDevice(WTEblindfoldBlocking				, "blindfold,blocking,ebonite,white,ddx")
+	libs.RegisterGenericDevice(WTErestrictiveCorset				, "restrictive,corset,ebonite,white,ddx")
+	libs.RegisterGenericDevice(WTErestrictiveCollar				, "collar,restrictive,metal,ebonite,white,ddx")
+	libs.RegisterGenericDevice(WTErestrictiveGloves				, "restrictive,gloves,ebonite,white,ddx")
+	libs.RegisterGenericDevice(WTErestrictiveBoots				, "boots,blocking,restrictive,ebonite,white,ddx")
 
 	; White Leather
 	libs.RegisterGenericDevice(cuffsWTLeatherArms			, "cuffs,arms,leather,white,ddx")
@@ -669,6 +778,10 @@ Function RegisterDevices()
      libs.RegisterGenericDevice(WTLharnessLocking				, "torso,leather,white,ddx")
 	libs.RegisterGenericDevice(WTLharnessBlocking				, "torso,blocking,leather,white,ddx")
 	libs.RegisterGenericDevice(WTLblindfoldBlocking				, "blindfold,blocking,leather,white,ddx")
+	libs.RegisterGenericDevice(WTLrestrictiveCorset				, "restrictive,corset,leather,white,ddx")
+	libs.RegisterGenericDevice(WTLrestrictiveCollar				, "collar,restrictive,metal,leather,white,ddx")
+	libs.RegisterGenericDevice(WTLrestrictiveGloves				, "restrictive,gloves,leather,white,ddx")
+	libs.RegisterGenericDevice(WTLrestrictiveBoots				, "boots,blocking,restrictive,leather,white,ddx")
 	
 	; Red Ebonite
 	libs.RegisterGenericDevice(cuffsRDEboniteArms			, "cuffs,arms,ebonite,red,ddx")
@@ -687,6 +800,10 @@ Function RegisterDevices()
      libs.RegisterGenericDevice(RDEharnessLocking				, "torso,ebonite,red,ddx")
 	libs.RegisterGenericDevice(RDEharnessBlocking				, "torso,blocking,ebonite,red,ddx")
 	libs.RegisterGenericDevice(RDEblindfoldBlocking				, "blindfold,blocking,ebonite,red,ddx")
+	libs.RegisterGenericDevice(RDErestrictiveCorset				, "restrictive,corset,ebonite,red,ddx")
+	libs.RegisterGenericDevice(RDErestrictiveCollar				, "collar,restrictive,metal,ebonite,red,ddx")
+	libs.RegisterGenericDevice(RDErestrictiveGloves				, "restrictive,gloves,ebonite,red,ddx")
+	libs.RegisterGenericDevice(RDErestrictiveBoots				, "boots,blocking,restrictive,ebonite,red,ddx")
 
 	; Red Leather
 	libs.RegisterGenericDevice(cuffsRDLeatherArms			, "cuffs,arms,leather,red,ddx")
@@ -705,6 +822,10 @@ Function RegisterDevices()
      libs.RegisterGenericDevice(RDLharnessLocking				, "torso,leather,red,ddx")
 	libs.RegisterGenericDevice(RDLharnessBlocking				, "torso,blocking,leather,red,ddx")
 	libs.RegisterGenericDevice(RDLblindfoldBlocking				, "blindfold,blocking,leather,red,ddx")
+	libs.RegisterGenericDevice(RDLrestrictiveCorset				, "restrictive,corset,leather,red,ddx")
+	libs.RegisterGenericDevice(RDLrestrictiveCollar				, "collar,restrictive,metal,leather,red,ddx")
+	libs.RegisterGenericDevice(RDLrestrictiveGloves				, "restrictive,gloves,leather,red,ddx")
+	libs.RegisterGenericDevice(RDLrestrictiveBoots				, "boots,blocking,restrictive,leather,red,ddx")
 	
 	; Pony boots
 	libs.RegisterGenericDevice(PonyBoots					, "boots,blocking,leather,black,pony,ddx")

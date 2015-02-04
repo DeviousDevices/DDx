@@ -12,9 +12,9 @@ All items in the pack are made with full support of DDa/DDi in mind, and support
 Requirements:
 -------------
  
-HDT-HHS: http://www.nexusmods...im/mods/36213/?
-DDA: http://www.loverslab...devices-assets/
-DDI: http://www.loverslab...uests-05092014/
+HDT-HHS: http://www.nexusmods.com/skyrim/mods/36213/?
+DDA: http://www.loverslab.com/topic/19865-devious-devices-assets/
+DDI: http://www.loverslab.com/topic/21484-devious-devices-integration-02022015/
  
 ^And their respective requirements^
 
@@ -74,6 +74,9 @@ Known issues:
 Changelog:
 ---------- 
 
+v1.2.1.
+* Fixed a bug with nipple piercing (shock).
+* Added full colour/Ebonite support to the new items.
 v1.2.
 * Added Restrictive-boots (locking and non, textures now included).
 * Added audio for Restrictive boots.
