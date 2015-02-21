@@ -76,8 +76,8 @@ Changelog:
 
 v1.2.1.
 * Fixed a bug with nipple piercing (shock).
-* Added full colour/Ebonite support to the new items.
-* Updated Ebonite Cubemap.
+* Added full colour/Ebonite support to the "Restrictive" items.
+* Updated Ebonite Cubemap (uhhh, shiny!).
 
 v1.2.
 * Added Restrictive-boots (locking and non, textures now included).
