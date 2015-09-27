@@ -12,7 +12,7 @@ All items in the pack are made with full support of DDa/DDi in mind, and support
 Requirements:
 -------------
  
-HDT-HHS: http://www.nexusmods.com/skyrim/mods/36213/?
+Racemenu (3.3+): http://www.nexusmods.com/skyrim/mods/29624/? or NetImmerse Override(3.3+): http://www.nexusmods.com/skyrim/mods/37481/?
 DDA: http://www.loverslab.com/topic/19865-devious-devices-assets/
 DDI: http://www.loverslab.com/topic/21484-devious-devices-integration-02022015/
  
@@ -73,6 +73,8 @@ Known issues:
  
 Changelog:
 ---------- 
+v1.3.0
+* removed HDT-HH requirement highheel effect is achieved with NiOverride transforms (requires Racemenu or NetImmerse Override).
 
 v1.2.1.
 * Fixed a bug with nipple piercing (shock).
