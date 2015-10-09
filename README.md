@@ -77,7 +77,7 @@ Changelog:
 ---------- 
 v1.2.5.
 Intermediary release to facilitate the switch to NiO high heels, while still supporting mods requiring hdt high heels
-* Added NiO High Heels effect from all boots
+* Added NiO High Heels effect to all boots
 * Removed hdt High Heel effect from all boots
  
 
