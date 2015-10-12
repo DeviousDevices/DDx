@@ -11,10 +11,12 @@ All items in the pack are made with full support of DDa/DDi in mind, and support
  
 Requirements:
 -------------
- 
-HDT-HHS: http://www.nexusmods.com/skyrim/mods/36213/?
+Racemenu (3.3+): http://www.nexusmods.com/skyrim/mods/29624/? or NetImmerse Override(3.3+): http://www.nexusmods.com/skyrim/mods/37481/?
+
 DDA: http://www.loverslab.com/topic/19865-devious-devices-assets/
 DDI: http://www.loverslab.com/topic/21484-devious-devices-integration-02022015/
+
+HDT-HHS: http://www.nexusmods.com/skyrim/mods/36213/? this will be removed in the next version
  
 ^And their respective requirements^
 
@@ -73,6 +75,11 @@ Known issues:
  
 Changelog:
 ---------- 
+v1.2.5.
+Intermediary release to facilitate the switch to NiO high heels, while still supporting mods requiring hdt high heels
+* Added NiO High Heels effect to all boots
+* Removed hdt High Heel effect from all boots
+ 
 
 v1.2.1.
 * Fixed a bug with nipple piercing (shock).
