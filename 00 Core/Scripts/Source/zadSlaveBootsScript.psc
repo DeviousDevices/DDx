@@ -1,7 +1,5 @@
 Scriptname zadSlaveBootsScript extends zadEquipScript  
 
-Spell Property highHeelSpell Auto
-
 Event OnEquipped(Actor akActor)
 	if !zad_DeviousDevice
 		; Fix duplicate keyword baked in to savegames
@@ -29,5 +27,4 @@ EndFunction
 
 Function OnEquippedPost(actor akActor)
 	libs.Log("RestraintScript OnEquippedPost Boots")
-	akActor.AddSpell(highHeelSpell, false)
 EndFunction
