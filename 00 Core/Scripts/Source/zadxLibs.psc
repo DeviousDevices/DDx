@@ -3,7 +3,7 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 1.25
+    return 1.26
 EndFunction
 
 Function VersionUpdate()
@@ -699,7 +699,7 @@ Function RegisterDevices()
 	;Left the unlocked items out, since they are not so much devices per se
 	
 	libs.RegisterGenericDevice(harnessLocking				, "torso,leather,black,ddx")
-	libs.RegisterGenericDevice(bootsLocking				, "boots,blocking,metal,ddx")
+	libs.RegisterGenericDevice(bootsLocking				, "boots,ring,blocking,metal,ddx")
 	libs.RegisterGenericDevice(cuffsEboniteArms			, "cuffs,arms,ebonite,black,ddx")
 	libs.RegisterGenericDevice(cuffsEboniteLegs			, "cuffs,legs,ebonite,black,ddx")
 	libs.RegisterGenericDevice(cuffsEboniteCollar			, "collar,short,ebonite,black,ddx")
@@ -713,7 +713,7 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(gagEboniteStrapBall		, "gag,ball,strap,ebonite,black,ddx")
 	libs.RegisterGenericDevice(gagEboniteStrapRing		, "gag,ring,strap,ebonite,black,ddx")
 	libs.RegisterGenericDevice(collarPostureEbonite		, "collar,posture,ebonite,black,ddx")
-    libs.RegisterGenericDevice(restrictiveBoots				, "boots,blocking,restrictive,leather,black,ddx")
+    libs.RegisterGenericDevice(restrictiveBoots				, "boots,ballet,blocking,restrictive,leather,black,ddx")
 	libs.RegisterGenericDevice(PlugsGreaterSoulVag       , "plug,vaginal,soulgem,magic,ddx")
 	libs.RegisterGenericDevice(PlugsGreaterSoulAnl		, "plug,anal,soulgem,magic,ddx")
 	libs.RegisterGenericDevice(PlugsGrandSoulVag		, "plug,vaginal,soulgem,magic,ddx")
@@ -731,7 +731,7 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(EbRestrictiveCorset				, "restrictive,corset,ebonite,black,ddx")
 	libs.RegisterGenericDevice(EbRestrictiveCollar				, "collar,restrictive,metal,ebonite,black,ddx")
 	libs.RegisterGenericDevice(EbRestrictiveGloves				, "restrictive,gloves,ebonite,black,ddx")
-	libs.RegisterGenericDevice(EbRestrictiveBoots				, "boots,blocking,restrictive,ebonite,black,ddx")
+	libs.RegisterGenericDevice(EbRestrictiveBoots				, "boots,ballet,blocking,restrictive,ebonite,black,ddx")
 
 
 	; White Ebonite
@@ -751,7 +751,7 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(WTErestrictiveCorset				, "restrictive,corset,ebonite,white,ddx")
 	libs.RegisterGenericDevice(WTErestrictiveCollar				, "collar,restrictive,metal,ebonite,white,ddx")
 	libs.RegisterGenericDevice(WTErestrictiveGloves				, "restrictive,gloves,ebonite,white,ddx")
-	libs.RegisterGenericDevice(WTErestrictiveBoots				, "boots,blocking,restrictive,ebonite,white,ddx")
+	libs.RegisterGenericDevice(WTErestrictiveBoots				, "boots,ballet,blocking,restrictive,ebonite,white,ddx")
 
 	; White Leather
 	libs.RegisterGenericDevice(cuffsWTLeatherArms			, "cuffs,arms,leather,white,ddx")
@@ -770,7 +770,7 @@ Function RegisterDevices()
  	libs.RegisterGenericDevice(WTLrestrictiveCorset				, "restrictive,corset,leather,white,ddx")
 	libs.RegisterGenericDevice(WTLrestrictiveCollar				, "collar,restrictive,metal,leather,white,ddx")
 	libs.RegisterGenericDevice(WTLrestrictiveGloves				, "restrictive,gloves,leather,white,ddx")
-	libs.RegisterGenericDevice(WTLrestrictiveBoots				, "boots,blocking,restrictive,leather,white,ddx")
+	libs.RegisterGenericDevice(WTLrestrictiveBoots				, "boots,ballet,blocking,restrictive,leather,white,ddx")
 	
 	; Red Ebonite
 	libs.RegisterGenericDevice(cuffsRDEboniteArms			, "cuffs,arms,ebonite,red,ddx")
@@ -789,7 +789,7 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(RDErestrictiveCorset				, "restrictive,corset,ebonite,red,ddx")
 	libs.RegisterGenericDevice(RDErestrictiveCollar				, "collar,restrictive,metal,ebonite,red,ddx")
 	libs.RegisterGenericDevice(RDErestrictiveGloves				, "restrictive,gloves,ebonite,red,ddx")
-	libs.RegisterGenericDevice(RDErestrictiveBoots				, "boots,blocking,restrictive,ebonite,red,ddx")
+	libs.RegisterGenericDevice(RDErestrictiveBoots				, "boots,ballet,blocking,restrictive,ebonite,red,ddx")
 
 	; Red Leather
 	libs.RegisterGenericDevice(cuffsRDLeatherArms			, "cuffs,arms,leather,red,ddx")
@@ -808,7 +808,7 @@ Function RegisterDevices()
  	libs.RegisterGenericDevice(RDLrestrictiveCorset				, "restrictive,corset,leather,red,ddx")
 	libs.RegisterGenericDevice(RDLrestrictiveCollar				, "collar,restrictive,metal,leather,red,ddx")
 	libs.RegisterGenericDevice(RDLrestrictiveGloves				, "restrictive,gloves,leather,red,ddx")
-	libs.RegisterGenericDevice(RDLrestrictiveBoots				, "boots,blocking,restrictive,leather,red,ddx")
+	libs.RegisterGenericDevice(RDLrestrictiveBoots				, "boots,ballet,blocking,restrictive,leather,red,ddx")
 	
 	; Pony boots
 	libs.RegisterGenericDevice(PonyBoots					, "boots,blocking,leather,black,pony,ddx")
