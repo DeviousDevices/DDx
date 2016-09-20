@@ -3,8 +3,13 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 1.25
+    return 2
 EndFunction
+
+String function GetVersionString()
+    return "2.0"
+EndFunction
+
 
 Function VersionUpdate()
 	RegisterDevices()	
@@ -14,10 +19,6 @@ Armor Property blindfoldUnlocked Auto
 Armor Property blindfoldBlocking Auto
 Armor Property blindfoldBlockingRendered Auto
 Armor Property harnessUnlocked Auto
-Armor Property harnessLocking Auto ; These harnesses don't work as chastity belts
-Armor Property harnessLockingRendered Auto
-Armor Property harnessBlocking Auto
-Armor Property harnessBlockingRendered Auto
 Armor Property bootsUnlocked Auto
 Armor Property bootsUnlockedRendered Auto
 Armor Property bootsLocking Auto
@@ -81,10 +82,6 @@ Armor Property gagEboniteStrapRingRendered Auto
 Armor Property collarPostureEbonite Auto
 Armor Property collarPostureEboniteRendered Auto
 Armor Property EbharnessUnlocked Auto
-Armor Property EbharnessLocking Auto
-Armor Property EbharnessLockingRendered Auto
-Armor Property EbharnessBlocking Auto
-Armor Property EbharnessBlockingRendered Auto
 Armor Property EbblindfoldUnlocked Auto
 Armor Property EbblindfoldBlocking Auto
 Armor Property EbblindfoldBlockingRendered Auto
@@ -125,10 +122,6 @@ Armor Property gagWTEboniteStrapRingRendered Auto
 Armor Property collarPostureWTEbonite Auto
 Armor Property collarPostureWTEboniteRendered Auto
 Armor Property WTEharnessUnlocked Auto
-Armor Property WTEharnessLocking Auto
-Armor Property WTEharnessLockingRendered Auto
-Armor Property WTEharnessBlocking Auto
-Armor Property WTEharnessBlockingRendered Auto
 Armor Property WTEblindfoldUnlocked Auto
 Armor Property WTEblindfoldBlocking Auto
 Armor Property WTEblindfoldBlockingRendered Auto
@@ -171,10 +164,6 @@ Armor Property gagWTLeatherStrapRingRendered Auto
 Armor Property collarPostureWTLeather Auto
 Armor Property collarPostureWTLeatherRendered Auto
 Armor Property WTLharnessUnlocked Auto
-Armor Property WTLharnessLocking Auto
-Armor Property WTLharnessLockingRendered Auto
-Armor Property WTLharnessBlocking Auto
-Armor Property WTLharnessBlockingRendered Auto
 Armor Property WTLblindfoldUnlocked Auto
 Armor Property WTLblindfoldBlocking Auto
 Armor Property WTLblindfoldBlockingRendered Auto
@@ -217,10 +206,6 @@ Armor Property gagRDEboniteStrapRingRendered Auto
 Armor Property collarPostureRDEbonite Auto
 Armor Property collarPostureRDEboniteRendered Auto
 Armor Property RDEharnessUnlocked Auto
-Armor Property RDEharnessLocking Auto
-Armor Property RDEharnessLockingRendered Auto
-Armor Property RDEharnessBlocking Auto
-Armor Property RDEharnessBlockingRendered Auto
 Armor Property RDEblindfoldUnlocked Auto
 Armor Property RDEblindfoldBlocking Auto
 Armor Property RDEblindfoldBlockingRendered Auto
@@ -263,10 +248,6 @@ Armor Property gagRDLeatherStrapRingRendered Auto
 Armor Property collarPostureRDLeather Auto
 Armor Property collarPostureRDLeatherRendered Auto
 Armor Property RDLharnessUnlocked Auto
-Armor Property RDLharnessLocking Auto
-Armor Property RDLharnessLockingRendered Auto
-Armor Property RDLharnessBlocking Auto
-Armor Property RDLharnessBlockingRendered Auto
 Armor Property RDLblindfoldUnlocked Auto
 Armor Property RDLblindfoldBlocking Auto
 Armor Property RDLblindfoldBlockingRendered Auto
@@ -301,13 +282,7 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 	Keyword deviceKeyword
 	If device == blindfoldBlocking
 		deviceRendered = blindfoldBlockingRendered
-		deviceKeyword = libs.zad_DeviousBlindfold
-	ElseIf device == harnessLocking
-		deviceRendered = harnessLockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
-	ElseIf device == harnessBlocking
-		deviceRendered = harnessBlockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
+		deviceKeyword = libs.zad_DeviousBlindfold	
 	ElseIf device == bootsUnlocked
 		deviceRendered = bootsUnlockedRendered
 		deviceKeyword = libs.zad_DeviousBoots
@@ -399,13 +374,7 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 		deviceKeyword = libs.zad_DeviousGag
 	ElseIf device == collarPostureEbonite
 		deviceRendered = collarPostureEboniteRendered
-		deviceKeyword = libs.zad_DeviousCollar
-	ElseIf device == EbharnessLocking
-		deviceRendered = EbharnessLockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
-	ElseIf device == EbharnessBlocking
-		deviceRendered = EbharnessBlockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
+		deviceKeyword = libs.zad_DeviousCollar	
 	ElseIf device == EbblindfoldBlocking
 		deviceRendered = EbblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
@@ -461,13 +430,7 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 		deviceKeyword = libs.zad_DeviousGag
 	ElseIf device == collarPostureWTEbonite
 		deviceRendered = collarPostureWTEboniteRendered
-		deviceKeyword = libs.zad_DeviousCollar
-	ElseIf device == WTEharnessLocking
-		deviceRendered = WTEharnessLockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
-	ElseIf device == WTEharnessBlocking
-		deviceRendered = WTEharnessBlockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
+		deviceKeyword = libs.zad_DeviousCollar	
 	ElseIf device == WTEblindfoldBlocking
 		deviceRendered = WTEblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
@@ -523,13 +486,7 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 		deviceKeyword = libs.zad_DeviousGag
 	ElseIf device == collarPostureWTLeather
 		deviceRendered = collarPostureWTLeatherRendered
-		deviceKeyword = libs.zad_DeviousCollar
-	ElseIf device == WTLharnessLocking
-		deviceRendered = WTLharnessLockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
-	ElseIf device == WTLharnessBlocking
-		deviceRendered = WTLharnessBlockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
+		deviceKeyword = libs.zad_DeviousCollar	
 	ElseIf device == WTLblindfoldBlocking
 		deviceRendered = WTLblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
@@ -586,13 +543,7 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 		deviceKeyword = libs.zad_DeviousGag
 	ElseIf device == collarPostureRDEbonite
 		deviceRendered = collarPostureRDEboniteRendered
-		deviceKeyword = libs.zad_DeviousCollar
-	ElseIf device == RDEharnessLocking
-		deviceRendered = RDEharnessLockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
-	ElseIf device == RDEharnessBlocking
-		deviceRendered = RDEharnessBlockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
+		deviceKeyword = libs.zad_DeviousCollar	
 	ElseIf device == RDEblindfoldBlocking
 		deviceRendered = RDEblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
@@ -649,13 +600,7 @@ Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool
 		deviceKeyword = libs.zad_DeviousGag
 	ElseIf device == collarPostureRDLeather
 		deviceRendered = collarPostureRDLeatherRendered
-		deviceKeyword = libs.zad_DeviousCollar
-	ElseIf device == RDLharnessLocking
-		deviceRendered = RDLharnessLockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
-	ElseIf device == RDLharnessBlocking
-		deviceRendered = RDLharnessBlockingRendered
-		deviceKeyword = libs.zad_DeviousHarness
+		deviceKeyword = libs.zad_DeviousCollar	
 	ElseIf device == RDLblindfoldBlocking
 		deviceRendered = RDLblindfoldBlockingRendered
 		deviceKeyword = libs.zad_DeviousBlindfold
@@ -706,7 +651,6 @@ EndFunction
 Function RegisterDevices()
 	;Left the unlocked items out, since they are not so much devices per se
 	
-	libs.RegisterGenericDevice(harnessLocking				, "torso,leather,black,ddx")
 	libs.RegisterGenericDevice(bootsLocking				, "boots,blocking,metal,ddx")
 	libs.RegisterGenericDevice(cuffsEboniteArms			, "cuffs,arms,ebonite,black,ddx")
 	libs.RegisterGenericDevice(cuffsEboniteLegs			, "cuffs,legs,ebonite,black,ddx")
