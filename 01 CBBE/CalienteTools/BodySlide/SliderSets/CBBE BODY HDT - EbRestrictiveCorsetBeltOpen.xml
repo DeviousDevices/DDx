@@ -1,0 +1,170 @@
+<SliderSetInfo>
+    <SliderSet name="CBBE BODY HDT - EbRestrictiveCorsetBeltOpen">
+        <SetFolder>CBBE BODY HDT - EbRestrictiveCorsetBeltOpen</SetFolder>
+        <SourceFile>CBBE BODY HDT - EbRestrictiveCorsetBeltOpen.nif</SourceFile>
+        <OutputPath>meshes\devious\expansion</OutputPath>
+        <OutputFile>EbRestrictiveCorsetBeltOpen</OutputFile>
+        <BaseShapeName target="belt_open">belt_open</BaseShapeName>
+        <BaseShapeName target="corset">corset</BaseShapeName>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <datafile name="corsetBreasts" target="corset" local="true">corsetBreasts.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <datafile name="corsetBreastsSmall" target="corset" local="true">corsetBreastsSmall.bsd</datafile>
+            <datafile name="belt_openBreastsSmall" target="belt_open" local="true">belt_openBreastsSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <datafile name="corsetBreastsSH" target="corset" local="true">corsetBreastsSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <datafile name="corsetBreastsSSH" target="corset" local="true">corsetBreastsSSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <datafile name="corsetBreastsFantasy" target="corset" local="true">corsetBreastsFantasy.bsd</datafile>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <datafile name="corsetDoubleMelon" target="corset" local="true">corsetDoubleMelon.bsd</datafile>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <datafile name="corsetBreastCleavage" target="corset" local="true">corsetBreastCleavage.bsd</datafile>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <datafile name="corsetBreastFlatness" target="corset" local="true">corsetBreastFlatness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <datafile name="corsetBreastGravity" target="corset" local="true">corsetBreastGravity.bsd</datafile>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <datafile name="corsetPushUp" target="corset" local="true">corsetPushUp.bsd</datafile>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <datafile name="corsetBreastHeight" target="corset" local="true">corsetBreastHeight.bsd</datafile>
+            <datafile name="belt_openBreastHeight" target="belt_open" local="true">belt_openBreastHeight.bsd</datafile>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <datafile name="corsetBreastPerkiness" target="corset" local="true">corsetBreastPerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <datafile name="corsetBreastWidth" target="corset" local="true">corsetBreastWidth.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <datafile name="corsetNippleDistance" target="corset" local="true">corsetNippleDistance.bsd</datafile>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <datafile name="corsetNippleAreola" target="corset" local="true">corsetNippleAreola.bsd</datafile>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <datafile name="corsetNippleUp" target="corset" local="true">corsetNippleUp.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <datafile name="corsetNippleDown" target="corset" local="true">corsetNippleDown.bsd</datafile>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <datafile name="corsetArms" target="corset" local="true">corsetArms.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <datafile name="corsetChubbyArms" target="corset" local="true">corsetChubbyArms.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <datafile name="corsetShoulderWidth" target="corset" local="true">corsetShoulderWidth.bsd</datafile>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <datafile name="corsetBigTorso" target="corset" local="true">corsetBigTorso.bsd</datafile>
+            <datafile name="belt_openBigTorso" target="belt_open" local="true">belt_openBigTorso.bsd</datafile>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <datafile name="corsetWaist" target="corset" local="true">corsetWaist.bsd</datafile>
+            <datafile name="belt_openWaist" target="belt_open" local="true">belt_openWaist.bsd</datafile>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <datafile name="corsetWideWaistLine" target="corset" local="true">corsetWideWaistLine.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <datafile name="corsetChubbyWaist" target="corset" local="true">corsetChubbyWaist.bsd</datafile>
+            <datafile name="belt_openChubbyWaist" target="belt_open" local="true">belt_openChubbyWaist.bsd</datafile>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <datafile name="corsetBelly" target="corset" local="true">corsetBelly.bsd</datafile>
+            <datafile name="belt_openBelly" target="belt_open" local="true">belt_openBelly.bsd</datafile>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <datafile name="corsetBigBelly" target="corset" local="true">corsetBigBelly.bsd</datafile>
+            <datafile name="belt_openBigBelly" target="belt_open" local="true">belt_openBigBelly.bsd</datafile>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="corsetPregnancyBelly" target="corset" local="true">corsetPregnancyBelly.bsd</datafile>
+            <datafile name="belt_openPregnancyBelly" target="belt_open" local="true">belt_openPregnancyBelly.bsd</datafile>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <datafile name="corsetTummyTuck" target="corset" local="true">corsetTummyTuck.bsd</datafile>
+            <datafile name="belt_openTummyTuck" target="belt_open" local="true">belt_openTummyTuck.bsd</datafile>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <datafile name="corsetBack" target="corset" local="true">corsetBack.bsd</datafile>
+            <datafile name="belt_openBack" target="belt_open" local="true">belt_openBack.bsd</datafile>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <datafile name="corsetHipbone" target="corset" local="true">corsetHipbone.bsd</datafile>
+            <datafile name="belt_openHipbone" target="belt_open" local="true">belt_openHipbone.bsd</datafile>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <datafile name="corsetHips" target="corset" local="true">corsetHips.bsd</datafile>
+            <datafile name="belt_openHips" target="belt_open" local="true">belt_openHips.bsd</datafile>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <datafile name="corsetButtCrack" target="corset" local="true">corsetButtCrack.bsd</datafile>
+            <datafile name="belt_openButtCrack" target="belt_open" local="true">belt_openButtCrack.bsd</datafile>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <datafile name="corsetButt" target="corset" local="true">corsetButt.bsd</datafile>
+            <datafile name="belt_openButt" target="belt_open" local="true">belt_openButt.bsd</datafile>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <datafile name="corsetButtSmall" target="corset" local="true">corsetButtSmall.bsd</datafile>
+            <datafile name="belt_openButtSmall" target="belt_open" local="true">belt_openButtSmall.bsd</datafile>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <datafile name="corsetButtShape2" target="corset" local="true">corsetButtShape2.bsd</datafile>
+            <datafile name="belt_openButtShape2" target="belt_open" local="true">belt_openButtShape2.bsd</datafile>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <datafile name="corsetBigButt" target="corset" local="true">corsetBigButt.bsd</datafile>
+            <datafile name="belt_openBigButt" target="belt_open" local="true">belt_openBigButt.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <datafile name="corsetChubbyButt" target="corset" local="true">corsetChubbyButt.bsd</datafile>
+            <datafile name="belt_openChubbyButt" target="belt_open" local="true">belt_openChubbyButt.bsd</datafile>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <datafile name="corsetAppleCheeks" target="corset" local="true">corsetAppleCheeks.bsd</datafile>
+            <datafile name="belt_openAppleCheeks" target="belt_open" local="true">belt_openAppleCheeks.bsd</datafile>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <datafile name="corsetRoundAss" target="corset" local="true">corsetRoundAss.bsd</datafile>
+            <datafile name="belt_openRoundAss" target="belt_open" local="true">belt_openRoundAss.bsd</datafile>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <datafile name="corsetGroin" target="corset" local="true">corsetGroin.bsd</datafile>
+            <datafile name="belt_openGroin" target="belt_open" local="true">belt_openGroin.bsd</datafile>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <datafile name="corsetSlimThighs" target="corset" local="true">corsetSlimThighs.bsd</datafile>
+            <datafile name="belt_openSlimThighs" target="belt_open" local="true">belt_openSlimThighs.bsd</datafile>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <datafile name="corsetThighs" target="corset" local="true">corsetThighs.bsd</datafile>
+            <datafile name="belt_openThighs" target="belt_open" local="true">belt_openThighs.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <datafile name="corsetChubbyLegs" target="corset" local="true">corsetChubbyLegs.bsd</datafile>
+            <datafile name="belt_openChubbyLegs" target="belt_open" local="true">belt_openChubbyLegs.bsd</datafile>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <datafile name="corsetLegs" target="corset" local="true">corsetLegs.bsd</datafile>
+            <datafile name="belt_openLegs" target="belt_open" local="true">belt_openLegs.bsd</datafile>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <datafile name="belt_openKneeHeight" target="belt_open" local="true">belt_openKneeHeight.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

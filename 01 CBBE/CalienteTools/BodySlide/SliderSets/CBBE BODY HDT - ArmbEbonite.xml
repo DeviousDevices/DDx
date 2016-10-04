@@ -1,0 +1,218 @@
+<SliderSetInfo>
+    <SliderSet name="CBBE BODY HDT - ArmbEbonite">
+        <SetFolder>CBBE BODY HDT - ArmbEbonite</SetFolder>
+        <SourceFile>CBBE BODY HDT - ArmbEbonite.nif</SourceFile>
+        <OutputPath>meshes\devious\expansion</OutputPath>
+        <OutputFile>ArmbEbonite</OutputFile>
+        <BaseShapeName target="Armbinder1">Armbinder1</BaseShapeName>
+        <BaseShapeName target="Armbinder2">Armbinder2</BaseShapeName>
+        <BaseShapeName target="Armbinder3">Armbinder3</BaseShapeName>
+        <BaseShapeName target="Armbinder4">Armbinder4</BaseShapeName>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <datafile name="Armbinder4Breasts" target="Armbinder4" local="true">Armbinder4Breasts.bsd</datafile>
+            <datafile name="Armbinder3Breasts" target="Armbinder3" local="true">Armbinder3Breasts.bsd</datafile>
+            <datafile name="Armbinder2Breasts" target="Armbinder2" local="true">Armbinder2Breasts.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <datafile name="Armbinder4BreastsSmall" target="Armbinder4" local="true">Armbinder4BreastsSmall.bsd</datafile>
+            <datafile name="Armbinder3BreastsSmall" target="Armbinder3" local="true">Armbinder3BreastsSmall.bsd</datafile>
+            <datafile name="Armbinder2BreastsSmall" target="Armbinder2" local="true">Armbinder2BreastsSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BreastsSH" target="Armbinder4" local="true">Armbinder4BreastsSH.bsd</datafile>
+            <datafile name="Armbinder3BreastsSH" target="Armbinder3" local="true">Armbinder3BreastsSH.bsd</datafile>
+            <datafile name="Armbinder2BreastsSH" target="Armbinder2" local="true">Armbinder2BreastsSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BreastsSSH" target="Armbinder4" local="true">Armbinder4BreastsSSH.bsd</datafile>
+            <datafile name="Armbinder3BreastsSSH" target="Armbinder3" local="true">Armbinder3BreastsSSH.bsd</datafile>
+            <datafile name="Armbinder2BreastsSSH" target="Armbinder2" local="true">Armbinder2BreastsSSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BreastsFantasy" target="Armbinder4" local="true">Armbinder4BreastsFantasy.bsd</datafile>
+            <datafile name="Armbinder3BreastsFantasy" target="Armbinder3" local="true">Armbinder3BreastsFantasy.bsd</datafile>
+            <datafile name="Armbinder2BreastsFantasy" target="Armbinder2" local="true">Armbinder2BreastsFantasy.bsd</datafile>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <datafile name="Armbinder4DoubleMelon" target="Armbinder4" local="true">Armbinder4DoubleMelon.bsd</datafile>
+            <datafile name="Armbinder3DoubleMelon" target="Armbinder3" local="true">Armbinder3DoubleMelon.bsd</datafile>
+            <datafile name="Armbinder2DoubleMelon" target="Armbinder2" local="true">Armbinder2DoubleMelon.bsd</datafile>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BreastCleavage" target="Armbinder4" local="true">Armbinder4BreastCleavage.bsd</datafile>
+            <datafile name="Armbinder2BreastCleavage" target="Armbinder2" local="true">Armbinder2BreastCleavage.bsd</datafile>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BreastFlatness" target="Armbinder4" local="true">Armbinder4BreastFlatness.bsd</datafile>
+            <datafile name="Armbinder3BreastFlatness" target="Armbinder3" local="true">Armbinder3BreastFlatness.bsd</datafile>
+            <datafile name="Armbinder2BreastFlatness" target="Armbinder2" local="true">Armbinder2BreastFlatness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BreastGravity" target="Armbinder4" local="true">Armbinder4BreastGravity.bsd</datafile>
+            <datafile name="Armbinder3BreastGravity" target="Armbinder3" local="true">Armbinder3BreastGravity.bsd</datafile>
+            <datafile name="Armbinder2BreastGravity" target="Armbinder2" local="true">Armbinder2BreastGravity.bsd</datafile>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <datafile name="Armbinder4PushUp" target="Armbinder4" local="true">Armbinder4PushUp.bsd</datafile>
+            <datafile name="Armbinder3PushUp" target="Armbinder3" local="true">Armbinder3PushUp.bsd</datafile>
+            <datafile name="Armbinder2PushUp" target="Armbinder2" local="true">Armbinder2PushUp.bsd</datafile>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BreastHeight" target="Armbinder4" local="true">Armbinder4BreastHeight.bsd</datafile>
+            <datafile name="Armbinder3BreastHeight" target="Armbinder3" local="true">Armbinder3BreastHeight.bsd</datafile>
+            <datafile name="Armbinder2BreastHeight" target="Armbinder2" local="true">Armbinder2BreastHeight.bsd</datafile>
+            <datafile name="Armbinder1BreastHeight" target="Armbinder1" local="true">Armbinder1BreastHeight.bsd</datafile>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BreastPerkiness" target="Armbinder4" local="true">Armbinder4BreastPerkiness.bsd</datafile>
+            <datafile name="Armbinder3BreastPerkiness" target="Armbinder3" local="true">Armbinder3BreastPerkiness.bsd</datafile>
+            <datafile name="Armbinder2BreastPerkiness" target="Armbinder2" local="true">Armbinder2BreastPerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BreastWidth" target="Armbinder4" local="true">Armbinder4BreastWidth.bsd</datafile>
+            <datafile name="Armbinder3BreastWidth" target="Armbinder3" local="true">Armbinder3BreastWidth.bsd</datafile>
+            <datafile name="Armbinder2BreastWidth" target="Armbinder2" local="true">Armbinder2BreastWidth.bsd</datafile>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <datafile name="Armbinder4NippleLength" target="Armbinder4" local="true">Armbinder4NippleLength.bsd</datafile>
+            <datafile name="Armbinder3NippleLength" target="Armbinder3" local="true">Armbinder3NippleLength.bsd</datafile>
+            <datafile name="Armbinder2NippleLength" target="Armbinder2" local="true">Armbinder2NippleLength.bsd</datafile>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <datafile name="Armbinder4NippleAreola" target="Armbinder4" local="true">Armbinder4NippleAreola.bsd</datafile>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <datafile name="Armbinder4NippleUp" target="Armbinder4" local="true">Armbinder4NippleUp.bsd</datafile>
+            <datafile name="Armbinder3NippleUp" target="Armbinder3" local="true">Armbinder3NippleUp.bsd</datafile>
+            <datafile name="Armbinder2NippleUp" target="Armbinder2" local="true">Armbinder2NippleUp.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <datafile name="Armbinder4NippleDown" target="Armbinder4" local="true">Armbinder4NippleDown.bsd</datafile>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <datafile name="Armbinder4Arms" target="Armbinder4" local="true">Armbinder4Arms.bsd</datafile>
+            <datafile name="Armbinder2Arms" target="Armbinder2" local="true">Armbinder2Arms.bsd</datafile>
+            <datafile name="Armbinder1Arms" target="Armbinder1" local="true">Armbinder1Arms.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <datafile name="Armbinder4ChubbyArms" target="Armbinder4" local="true">Armbinder4ChubbyArms.bsd</datafile>
+            <datafile name="Armbinder2ChubbyArms" target="Armbinder2" local="true">Armbinder2ChubbyArms.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <datafile name="Armbinder4ShoulderSmooth" target="Armbinder4" local="true">Armbinder4ShoulderSmooth.bsd</datafile>
+            <datafile name="Armbinder3ShoulderSmooth" target="Armbinder3" local="true">Armbinder3ShoulderSmooth.bsd</datafile>
+            <datafile name="Armbinder2ShoulderSmooth" target="Armbinder2" local="true">Armbinder2ShoulderSmooth.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <datafile name="Armbinder4ShoulderWidth" target="Armbinder4" local="true">Armbinder4ShoulderWidth.bsd</datafile>
+            <datafile name="Armbinder2ShoulderWidth" target="Armbinder2" local="true">Armbinder2ShoulderWidth.bsd</datafile>
+            <datafile name="Armbinder1ShoulderWidth" target="Armbinder1" local="true">Armbinder1ShoulderWidth.bsd</datafile>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BigTorso" target="Armbinder4" local="true">Armbinder4BigTorso.bsd</datafile>
+            <datafile name="Armbinder3BigTorso" target="Armbinder3" local="true">Armbinder3BigTorso.bsd</datafile>
+            <datafile name="Armbinder2BigTorso" target="Armbinder2" local="true">Armbinder2BigTorso.bsd</datafile>
+            <datafile name="Armbinder1BigTorso" target="Armbinder1" local="true">Armbinder1BigTorso.bsd</datafile>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <datafile name="Armbinder4Waist" target="Armbinder4" local="true">Armbinder4Waist.bsd</datafile>
+            <datafile name="Armbinder2Waist" target="Armbinder2" local="true">Armbinder2Waist.bsd</datafile>
+            <datafile name="Armbinder1Waist" target="Armbinder1" local="true">Armbinder1Waist.bsd</datafile>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <datafile name="Armbinder4WideWaistLine" target="Armbinder4" local="true">Armbinder4WideWaistLine.bsd</datafile>
+            <datafile name="Armbinder2WideWaistLine" target="Armbinder2" local="true">Armbinder2WideWaistLine.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <datafile name="Armbinder4ChubbyWaist" target="Armbinder4" local="true">Armbinder4ChubbyWaist.bsd</datafile>
+            <datafile name="Armbinder2ChubbyWaist" target="Armbinder2" local="true">Armbinder2ChubbyWaist.bsd</datafile>
+            <datafile name="Armbinder1ChubbyWaist" target="Armbinder1" local="true">Armbinder1ChubbyWaist.bsd</datafile>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="Armbinder4PregnancyBelly" target="Armbinder4" local="true">Armbinder4PregnancyBelly.bsd</datafile>
+            <datafile name="Armbinder3PregnancyBelly" target="Armbinder3" local="true">Armbinder3PregnancyBelly.bsd</datafile>
+            <datafile name="Armbinder2PregnancyBelly" target="Armbinder2" local="true">Armbinder2PregnancyBelly.bsd</datafile>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <datafile name="Armbinder4Back" target="Armbinder4" local="true">Armbinder4Back.bsd</datafile>
+            <datafile name="Armbinder2Back" target="Armbinder2" local="true">Armbinder2Back.bsd</datafile>
+            <datafile name="Armbinder1Back" target="Armbinder1" local="true">Armbinder1Back.bsd</datafile>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <datafile name="Armbinder4Hipbone" target="Armbinder4" local="true">Armbinder4Hipbone.bsd</datafile>
+            <datafile name="Armbinder2Hipbone" target="Armbinder2" local="true">Armbinder2Hipbone.bsd</datafile>
+            <datafile name="Armbinder1Hipbone" target="Armbinder1" local="true">Armbinder1Hipbone.bsd</datafile>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <datafile name="Armbinder4Hips" target="Armbinder4" local="true">Armbinder4Hips.bsd</datafile>
+            <datafile name="Armbinder2Hips" target="Armbinder2" local="true">Armbinder2Hips.bsd</datafile>
+            <datafile name="Armbinder1Hips" target="Armbinder1" local="true">Armbinder1Hips.bsd</datafile>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <datafile name="Armbinder4ButtCrack" target="Armbinder4" local="true">Armbinder4ButtCrack.bsd</datafile>
+            <datafile name="Armbinder2ButtCrack" target="Armbinder2" local="true">Armbinder2ButtCrack.bsd</datafile>
+            <datafile name="Armbinder1ButtCrack" target="Armbinder1" local="true">Armbinder1ButtCrack.bsd</datafile>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <datafile name="Armbinder4Butt" target="Armbinder4" local="true">Armbinder4Butt.bsd</datafile>
+            <datafile name="Armbinder2Butt" target="Armbinder2" local="true">Armbinder2Butt.bsd</datafile>
+            <datafile name="Armbinder1Butt" target="Armbinder1" local="true">Armbinder1Butt.bsd</datafile>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <datafile name="Armbinder4ButtSmall" target="Armbinder4" local="true">Armbinder4ButtSmall.bsd</datafile>
+            <datafile name="Armbinder2ButtSmall" target="Armbinder2" local="true">Armbinder2ButtSmall.bsd</datafile>
+            <datafile name="Armbinder1ButtSmall" target="Armbinder1" local="true">Armbinder1ButtSmall.bsd</datafile>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <datafile name="Armbinder4ButtShape2" target="Armbinder4" local="true">Armbinder4ButtShape2.bsd</datafile>
+            <datafile name="Armbinder2ButtShape2" target="Armbinder2" local="true">Armbinder2ButtShape2.bsd</datafile>
+            <datafile name="Armbinder1ButtShape2" target="Armbinder1" local="true">Armbinder1ButtShape2.bsd</datafile>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <datafile name="Armbinder4BigButt" target="Armbinder4" local="true">Armbinder4BigButt.bsd</datafile>
+            <datafile name="Armbinder2BigButt" target="Armbinder2" local="true">Armbinder2BigButt.bsd</datafile>
+            <datafile name="Armbinder1BigButt" target="Armbinder1" local="true">Armbinder1BigButt.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <datafile name="Armbinder4ChubbyButt" target="Armbinder4" local="true">Armbinder4ChubbyButt.bsd</datafile>
+            <datafile name="Armbinder2ChubbyButt" target="Armbinder2" local="true">Armbinder2ChubbyButt.bsd</datafile>
+            <datafile name="Armbinder1ChubbyButt" target="Armbinder1" local="true">Armbinder1ChubbyButt.bsd</datafile>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <datafile name="Armbinder4AppleCheeks" target="Armbinder4" local="true">Armbinder4AppleCheeks.bsd</datafile>
+            <datafile name="Armbinder2AppleCheeks" target="Armbinder2" local="true">Armbinder2AppleCheeks.bsd</datafile>
+            <datafile name="Armbinder1AppleCheeks" target="Armbinder1" local="true">Armbinder1AppleCheeks.bsd</datafile>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <datafile name="Armbinder4RoundAss" target="Armbinder4" local="true">Armbinder4RoundAss.bsd</datafile>
+            <datafile name="Armbinder2RoundAss" target="Armbinder2" local="true">Armbinder2RoundAss.bsd</datafile>
+            <datafile name="Armbinder1RoundAss" target="Armbinder1" local="true">Armbinder1RoundAss.bsd</datafile>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <datafile name="Armbinder4SlimThighs" target="Armbinder4" local="true">Armbinder4SlimThighs.bsd</datafile>
+            <datafile name="Armbinder2SlimThighs" target="Armbinder2" local="true">Armbinder2SlimThighs.bsd</datafile>
+            <datafile name="Armbinder1SlimThighs" target="Armbinder1" local="true">Armbinder1SlimThighs.bsd</datafile>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <datafile name="Armbinder4Thighs" target="Armbinder4" local="true">Armbinder4Thighs.bsd</datafile>
+            <datafile name="Armbinder2Thighs" target="Armbinder2" local="true">Armbinder2Thighs.bsd</datafile>
+            <datafile name="Armbinder1Thighs" target="Armbinder1" local="true">Armbinder1Thighs.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <datafile name="Armbinder4ChubbyLegs" target="Armbinder4" local="true">Armbinder4ChubbyLegs.bsd</datafile>
+            <datafile name="Armbinder2ChubbyLegs" target="Armbinder2" local="true">Armbinder2ChubbyLegs.bsd</datafile>
+            <datafile name="Armbinder1ChubbyLegs" target="Armbinder1" local="true">Armbinder1ChubbyLegs.bsd</datafile>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <datafile name="Armbinder4Legs" target="Armbinder4" local="true">Armbinder4Legs.bsd</datafile>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <datafile name="Armbinder4SmallSeam" target="Armbinder4" local="true">Armbinder4SmallSeam.bsd</datafile>
+            <datafile name="Armbinder3SmallSeam" target="Armbinder3" local="true">Armbinder3SmallSeam.bsd</datafile>
+            <datafile name="Armbinder2SmallSeam" target="Armbinder2" local="true">Armbinder2SmallSeam.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="100" big="100" hidden="true">
+            <datafile name="Armbinder4ShoulderTweak" target="Armbinder4" local="true">Armbinder4ShoulderTweak.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

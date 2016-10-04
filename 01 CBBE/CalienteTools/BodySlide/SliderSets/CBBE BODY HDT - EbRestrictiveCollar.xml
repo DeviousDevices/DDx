@@ -1,0 +1,96 @@
+<SliderSetInfo>
+    <SliderSet name="CBBE BODY HDT - EbRestrictiveCollar">
+        <SetFolder>CBBE BODY HDT - EbRestrictiveCollar</SetFolder>
+        <SourceFile>CBBE BODY HDT - EbRestrictiveCollar.nif</SourceFile>
+        <OutputPath>meshes\devious\expansion</OutputPath>
+        <OutputFile>EbRestrictiveCollar</OutputFile>
+        <BaseShapeName target="collar">collar</BaseShapeName>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <datafile name="collarBreasts" target="collar" local="true">collarBreasts.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <datafile name="collarBreastsSmall" target="collar" local="true">collarBreastsSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <datafile name="collarBreastsSH" target="collar" local="true">collarBreastsSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <datafile name="collarBreastsSSH" target="collar" local="true">collarBreastsSSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <datafile name="collarBreastsFantasy" target="collar" local="true">collarBreastsFantasy.bsd</datafile>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <datafile name="collarDoubleMelon" target="collar" local="true">collarDoubleMelon.bsd</datafile>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <datafile name="collarBreastCleavage" target="collar" local="true">collarBreastCleavage.bsd</datafile>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <datafile name="collarBreastFlatness" target="collar" local="true">collarBreastFlatness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <datafile name="collarBreastGravity" target="collar" local="true">collarBreastGravity.bsd</datafile>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <datafile name="collarPushUp" target="collar" local="true">collarPushUp.bsd</datafile>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <datafile name="collarBreastHeight" target="collar" local="true">collarBreastHeight.bsd</datafile>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <datafile name="collarBreastPerkiness" target="collar" local="true">collarBreastPerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <datafile name="collarBreastWidth" target="collar" local="true">collarBreastWidth.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <datafile name="collarNippleDistance" target="collar" local="true">collarNippleDistance.bsd</datafile>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <datafile name="collarNippleLength" target="collar" local="true">collarNippleLength.bsd</datafile>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <datafile name="collarNippleAreola" target="collar" local="true">collarNippleAreola.bsd</datafile>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <datafile name="collarNippleUp" target="collar" local="true">collarNippleUp.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <datafile name="collarNippleDown" target="collar" local="true">collarNippleDown.bsd</datafile>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <datafile name="collarArms" target="collar" local="true">collarArms.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <datafile name="collarChubbyArms" target="collar" local="true">collarChubbyArms.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <datafile name="collarShoulderSmooth" target="collar" local="true">collarShoulderSmooth.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <datafile name="collarShoulderWidth" target="collar" local="true">collarShoulderWidth.bsd</datafile>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <datafile name="collarBigTorso" target="collar" local="true">collarBigTorso.bsd</datafile>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <datafile name="collarWaist" target="collar" local="true">collarWaist.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <datafile name="collarChubbyWaist" target="collar" local="true">collarChubbyWaist.bsd</datafile>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="collarPregnancyBelly" target="collar" local="true">collarPregnancyBelly.bsd</datafile>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <datafile name="collarBack" target="collar" local="true">collarBack.bsd</datafile>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <datafile name="collarSmallSeam" target="collar" local="true">collarSmallSeam.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="100" big="100" hidden="true">
+            <datafile name="collarShoulderTweak" target="collar" local="true">collarShoulderTweak.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

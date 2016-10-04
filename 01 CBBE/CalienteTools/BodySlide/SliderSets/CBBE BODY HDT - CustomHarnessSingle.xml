@@ -1,0 +1,200 @@
+<SliderSetInfo>
+    <SliderSet name="CBBE BODY HDT - CustomHarnessSingle">
+        <SetFolder>CBBE BODY HDT - CustomHarnessSingle</SetFolder>
+        <SourceFile>CBBE BODY HDT - CustomHarnessSingle.nif</SourceFile>
+        <OutputPath>meshes\devious\expansion</OutputPath>
+        <OutputFile>CustomHarnessSingle</OutputFile>
+        <BaseShapeName target="Harness">Harness</BaseShapeName>
+        <BaseShapeName target="Metal">Metal</BaseShapeName>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <datafile name="HarnessBreasts" target="Harness" local="true">HarnessBreasts.bsd</datafile>
+            <datafile name="MetalBreasts" target="Metal" local="true">MetalBreasts.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <datafile name="HarnessBreastsSmall" target="Harness" local="true">HarnessBreastsSmall.bsd</datafile>
+            <datafile name="MetalBreastsSmall" target="Metal" local="true">MetalBreastsSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <datafile name="HarnessBreastsSH" target="Harness" local="true">HarnessBreastsSH.bsd</datafile>
+            <datafile name="MetalBreastsSH" target="Metal" local="true">MetalBreastsSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <datafile name="HarnessBreastsSSH" target="Harness" local="true">HarnessBreastsSSH.bsd</datafile>
+            <datafile name="MetalBreastsSSH" target="Metal" local="true">MetalBreastsSSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <datafile name="HarnessBreastsFantasy" target="Harness" local="true">HarnessBreastsFantasy.bsd</datafile>
+            <datafile name="MetalBreastsFantasy" target="Metal" local="true">MetalBreastsFantasy.bsd</datafile>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <datafile name="HarnessDoubleMelon" target="Harness" local="true">HarnessDoubleMelon.bsd</datafile>
+            <datafile name="MetalDoubleMelon" target="Metal" local="true">MetalDoubleMelon.bsd</datafile>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <datafile name="HarnessBreastCleavage" target="Harness" local="true">HarnessBreastCleavage.bsd</datafile>
+            <datafile name="MetalBreastCleavage" target="Metal" local="true">MetalBreastCleavage.bsd</datafile>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <datafile name="HarnessBreastFlatness" target="Harness" local="true">HarnessBreastFlatness.bsd</datafile>
+            <datafile name="MetalBreastFlatness" target="Metal" local="true">MetalBreastFlatness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <datafile name="HarnessBreastGravity" target="Harness" local="true">HarnessBreastGravity.bsd</datafile>
+            <datafile name="MetalBreastGravity" target="Metal" local="true">MetalBreastGravity.bsd</datafile>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <datafile name="HarnessPushUp" target="Harness" local="true">HarnessPushUp.bsd</datafile>
+            <datafile name="MetalPushUp" target="Metal" local="true">MetalPushUp.bsd</datafile>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <datafile name="HarnessBreastHeight" target="Harness" local="true">HarnessBreastHeight.bsd</datafile>
+            <datafile name="MetalBreastHeight" target="Metal" local="true">MetalBreastHeight.bsd</datafile>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <datafile name="HarnessBreastPerkiness" target="Harness" local="true">HarnessBreastPerkiness.bsd</datafile>
+            <datafile name="MetalBreastPerkiness" target="Metal" local="true">MetalBreastPerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <datafile name="HarnessBreastWidth" target="Harness" local="true">HarnessBreastWidth.bsd</datafile>
+            <datafile name="MetalBreastWidth" target="Metal" local="true">MetalBreastWidth.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <datafile name="HarnessNippleDistance" target="Harness" local="true">HarnessNippleDistance.bsd</datafile>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <datafile name="HarnessNippleLength" target="Harness" local="true">HarnessNippleLength.bsd</datafile>
+            <datafile name="MetalNippleLength" target="Metal" local="true">MetalNippleLength.bsd</datafile>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <datafile name="HarnessNippleAreola" target="Harness" local="true">HarnessNippleAreola.bsd</datafile>
+            <datafile name="MetalNippleAreola" target="Metal" local="true">MetalNippleAreola.bsd</datafile>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <datafile name="HarnessNippleUp" target="Harness" local="true">HarnessNippleUp.bsd</datafile>
+            <datafile name="MetalNippleUp" target="Metal" local="true">MetalNippleUp.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <datafile name="HarnessNippleDown" target="Harness" local="true">HarnessNippleDown.bsd</datafile>
+            <datafile name="MetalNippleDown" target="Metal" local="true">MetalNippleDown.bsd</datafile>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <datafile name="HarnessArms" target="Harness" local="true">HarnessArms.bsd</datafile>
+            <datafile name="MetalArms" target="Metal" local="true">MetalArms.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <datafile name="HarnessChubbyArms" target="Harness" local="true">HarnessChubbyArms.bsd</datafile>
+            <datafile name="MetalChubbyArms" target="Metal" local="true">MetalChubbyArms.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <datafile name="HarnessShoulderSmooth" target="Harness" local="true">HarnessShoulderSmooth.bsd</datafile>
+            <datafile name="MetalShoulderSmooth" target="Metal" local="true">MetalShoulderSmooth.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <datafile name="HarnessShoulderWidth" target="Harness" local="true">HarnessShoulderWidth.bsd</datafile>
+            <datafile name="MetalShoulderWidth" target="Metal" local="true">MetalShoulderWidth.bsd</datafile>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <datafile name="HarnessBigTorso" target="Harness" local="true">HarnessBigTorso.bsd</datafile>
+            <datafile name="MetalBigTorso" target="Metal" local="true">MetalBigTorso.bsd</datafile>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <datafile name="HarnessWaist" target="Harness" local="true">HarnessWaist.bsd</datafile>
+            <datafile name="MetalWaist" target="Metal" local="true">MetalWaist.bsd</datafile>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <datafile name="HarnessWideWaistLine" target="Harness" local="true">HarnessWideWaistLine.bsd</datafile>
+            <datafile name="MetalWideWaistLine" target="Metal" local="true">MetalWideWaistLine.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <datafile name="HarnessChubbyWaist" target="Harness" local="true">HarnessChubbyWaist.bsd</datafile>
+            <datafile name="MetalChubbyWaist" target="Metal" local="true">MetalChubbyWaist.bsd</datafile>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <datafile name="HarnessBelly" target="Harness" local="true">HarnessBelly.bsd</datafile>
+            <datafile name="MetalBelly" target="Metal" local="true">MetalBelly.bsd</datafile>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <datafile name="HarnessBigBelly" target="Harness" local="true">HarnessBigBelly.bsd</datafile>
+            <datafile name="MetalBigBelly" target="Metal" local="true">MetalBigBelly.bsd</datafile>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="HarnessPregnancyBelly" target="Harness" local="true">HarnessPregnancyBelly.bsd</datafile>
+            <datafile name="MetalPregnancyBelly" target="Metal" local="true">MetalPregnancyBelly.bsd</datafile>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <datafile name="HarnessTummyTuck" target="Harness" local="true">HarnessTummyTuck.bsd</datafile>
+            <datafile name="MetalTummyTuck" target="Metal" local="true">MetalTummyTuck.bsd</datafile>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <datafile name="HarnessBack" target="Harness" local="true">HarnessBack.bsd</datafile>
+            <datafile name="MetalBack" target="Metal" local="true">MetalBack.bsd</datafile>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <datafile name="HarnessHipbone" target="Harness" local="true">HarnessHipbone.bsd</datafile>
+            <datafile name="MetalHipbone" target="Metal" local="true">MetalHipbone.bsd</datafile>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <datafile name="HarnessHips" target="Harness" local="true">HarnessHips.bsd</datafile>
+            <datafile name="MetalHips" target="Metal" local="true">MetalHips.bsd</datafile>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <datafile name="HarnessButtCrack" target="Harness" local="true">HarnessButtCrack.bsd</datafile>
+            <datafile name="MetalButtCrack" target="Metal" local="true">MetalButtCrack.bsd</datafile>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <datafile name="HarnessButt" target="Harness" local="true">HarnessButt.bsd</datafile>
+            <datafile name="MetalButt" target="Metal" local="true">MetalButt.bsd</datafile>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <datafile name="HarnessButtSmall" target="Harness" local="true">HarnessButtSmall.bsd</datafile>
+            <datafile name="MetalButtSmall" target="Metal" local="true">MetalButtSmall.bsd</datafile>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <datafile name="HarnessButtShape2" target="Harness" local="true">HarnessButtShape2.bsd</datafile>
+            <datafile name="MetalButtShape2" target="Metal" local="true">MetalButtShape2.bsd</datafile>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <datafile name="HarnessBigButt" target="Harness" local="true">HarnessBigButt.bsd</datafile>
+            <datafile name="MetalBigButt" target="Metal" local="true">MetalBigButt.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <datafile name="HarnessChubbyButt" target="Harness" local="true">HarnessChubbyButt.bsd</datafile>
+            <datafile name="MetalChubbyButt" target="Metal" local="true">MetalChubbyButt.bsd</datafile>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <datafile name="HarnessAppleCheeks" target="Harness" local="true">HarnessAppleCheeks.bsd</datafile>
+            <datafile name="MetalAppleCheeks" target="Metal" local="true">MetalAppleCheeks.bsd</datafile>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <datafile name="HarnessRoundAss" target="Harness" local="true">HarnessRoundAss.bsd</datafile>
+            <datafile name="MetalRoundAss" target="Metal" local="true">MetalRoundAss.bsd</datafile>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <datafile name="HarnessGroin" target="Harness" local="true">HarnessGroin.bsd</datafile>
+            <datafile name="MetalGroin" target="Metal" local="true">MetalGroin.bsd</datafile>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <datafile name="HarnessSlimThighs" target="Harness" local="true">HarnessSlimThighs.bsd</datafile>
+            <datafile name="MetalSlimThighs" target="Metal" local="true">MetalSlimThighs.bsd</datafile>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <datafile name="HarnessThighs" target="Harness" local="true">HarnessThighs.bsd</datafile>
+            <datafile name="MetalThighs" target="Metal" local="true">MetalThighs.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <datafile name="HarnessChubbyLegs" target="Harness" local="true">HarnessChubbyLegs.bsd</datafile>
+            <datafile name="MetalChubbyLegs" target="Metal" local="true">MetalChubbyLegs.bsd</datafile>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <datafile name="HarnessLegs" target="Harness" local="true">HarnessLegs.bsd</datafile>
+            <datafile name="MetalLegs" target="Metal" local="true">MetalLegs.bsd</datafile>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <datafile name="HarnessKneeHeight" target="Harness" local="true">HarnessKneeHeight.bsd</datafile>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <datafile name="HarnessSmallSeam" target="Harness" local="true">HarnessSmallSeam.bsd</datafile>
+            <datafile name="MetalSmallSeam" target="Metal" local="true">MetalSmallSeam.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

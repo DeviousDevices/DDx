@@ -1,0 +1,38 @@
+<SliderGroups>
+
+	<Group name="HDT_Devious Devices">
+		<Member name="CBBE BODY HDT - ArmbEbonite" />		  		
+		<Member name="CBBE BODY HDT - CuffEboniteArms" />
+		<Member name="CBBE BODY HDT - CuffEboniteLegs" />		
+		<Member name="CBBE BODY HDT - CustomEbHarnessSingle" />
+		<Member name="CBBE BODY HDT - CustomHarnessSingle" />
+		<Member name="CBBE BODY HDT - EbRestrictiveBoots" />
+		<Member name="CBBE BODY HDT - EbRestrictiveCollar" />
+		<Member name="CBBE BODY HDT - EbRestrictiveCorset" />
+		<Member name="CBBE BODY HDT - EbRestrictiveCorsetBelt" />
+		<Member name="CBBE BODY HDT - EbRestrictiveCorsetBeltOpen" />
+		<Member name="CBBE BODY HDT - EbRestrictiveGloves" />
+		<Member name="CBBE BODY HDT - HarnEboniteBody" />		
+		<Member name="CBBE BODY HDT - EBrestrictiveCollar" />
+		
+	</Group>
+		<!-- Supergroup (for Presets) -->
+	<Group name="CBAdvanced">
+		<Member name="CBBE BODY HDT - ArmbEbonite" />		  		
+		<Member name="CBBE BODY HDT - CuffEboniteArms" />
+		<Member name="CBBE BODY HDT - CuffEboniteLegs" />		
+		<Member name="CBBE BODY HDT - CustomEbHarnessSingle" />
+		<Member name="CBBE BODY HDT - CustomHarnessSingle" />
+		<Member name="CBBE BODY HDT - EbRestrictiveBoots" />
+		<Member name="CBBE BODY HDT - EbRestrictiveCollar" />
+		<Member name="CBBE BODY HDT - EbRestrictiveCorset" />
+		<Member name="CBBE BODY HDT - EbRestrictiveCorsetBelt" />
+		<Member name="CBBE BODY HDT - EbRestrictiveCorsetBeltOpen" />
+		<Member name="CBBE BODY HDT - EbRestrictiveGloves" />
+		<Member name="CBBE BODY HDT - HarnEboniteBody" />
+		<Member name="CBBE BODY HDT - EBrestrictiveCollar" />
+	</Group>
+</SliderGroups>
+
+
+	

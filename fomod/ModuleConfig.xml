@@ -1,5 +1,5 @@
 ﻿<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
-  <moduleName>Devious Devices: Expansion 1.2.5</moduleName>
+  <moduleName>Devious Devices: Expansion 2.0</moduleName>
   <moduleImage path="fomod\images\header.jpg"/>
   <installSteps order="Explicit">
     
@@ -9,7 +9,7 @@
           <plugins order="Explicit">
             <plugin name="CBBE">
               <description>
-                Install CBBE version (based on CBBE 3.2.3 curvy)
+                Install CBBE Bodyslide version
               </description>
               <image path="fomod\images\01_cbbe.png"/>
               <files>
@@ -21,17 +21,17 @@
               </conditionFlags>
               <typeDescriptor><type name="Optional"/></typeDescriptor>
             </plugin>
-            <plugin name="UNP">
+            <plugin name="UUNP">
               <description>
-                Install UNP version (based on UNP 1.2)
+                Install UUNP version
               </description>
               <image path="fomod\images\01_unp.png"/>
               <files>
                 <folder source="00 Core" destination=""/>
-                <folder source="01 UNP" destination=""/>
+                <folder source="01 UUNP" destination=""/>
               </files>
               <conditionFlags>
-                <flag name="UNP">On</flag>
+                <flag name="UUNP">On</flag>
               </conditionFlags>
               <typeDescriptor><type name="Optional"/></typeDescriptor>
             </plugin>
@@ -39,41 +39,5 @@
         </group>
       </optionalFileGroups>
     </installStep>
-    
-    <installStep name="Jiggle support">
-      <visible>
-        <flagDependency flag="UNP" value="On" />        
-      </visible>
-      <optionalFileGroups>
-        <group name="Select HDT support option" type="SelectExactlyOne">
-          <plugins order="Explicit">
-            <plugin name="Default">
-              <description>
-                Items will fit the default UNP 1.2 body.
-              </description>
-              <image path="fomod\images\01_unp.png"/>
-              <files>
-                <folder source="no folder" destination=""/>
-              </files>
-              <typeDescriptor><type name="Optional"/></typeDescriptor>
-            </plugin>
-            <plugin name="TBBP">
-              <description>
-                Items will fit the UNP HDT-PE BBP TBBP body (requires a tbbp-compatible skeleton).
-              </description>
-              <image path="fomod\images\02_UNPTBBP.png"/>
-              <files>
-                <folder source="02 TBBP (UNP)" destination="" priority="3"/>
-              </files>
-              <conditionFlags>
-                <flag name="TBBP">On</flag>
-              </conditionFlags>
-              <typeDescriptor><type name="Optional"/></typeDescriptor>
-            </plugin>
-          </plugins>
-        </group>
-      </optionalFileGroups>
-    </installStep>
-    
   </installSteps>
 </config>

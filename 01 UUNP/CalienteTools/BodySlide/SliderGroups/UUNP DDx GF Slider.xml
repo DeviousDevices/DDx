@@ -1,0 +1,57 @@
+<SliderGroups>
+    <Group name="UUNP DDX">
+        <Member name="UUNP DDX CuffsEboniteArms"/>
+        <Member name="UUNP DDX CuffsEboniteLegs"/>
+        <Member name="UUNP DDX CustomEboniteHarness"/>
+        <Member name="UUNP DDX CustomHarness"/>
+        <Member name="UUNP DDX EbRestrictiveBoots"/>
+        <Member name="UUNP DDX EbRestrictiveCollar (Lame)"/>
+        <Member name="UUNP DDX EbRestrictiveCorset (Lame Non Bouncy)"/>
+        <Member name="UUNP DDX EbRestrictiveCorsetBelt (LAME)"/>
+        <Member name="UUNP DDX EbRestrictiveCorsetBeltOpen (LAME)"/>
+        <Member name="UUNP DDX EbRestrictiveGloves"/>
+        <Member name="UUNP DDX EboniteHarness"/>
+        <Member name="UUNP DDX RestrictiveBoots"/>
+        <Member name="UUNP DDX XinEbPonyBoot"/>
+        <Member name="UUNP DDX XinPonyBoot"/>
+    </Group>
+    <Group name="UUNP DDX HDT">
+        <Member name="UUNP DDX CuffsEboniteArms"/>
+        <Member name="UUNP DDX CuffsEboniteLegs"/>
+        <Member name="UUNP DDX CustomEboniteHarness (HDT)"/>
+        <Member name="UUNP DDX CustomHarness (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveBoots"/>
+        <Member name="UUNP DDX EbRestrictiveCollar (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveCorset (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveCorsetBelt (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveCorsetBeltOpen (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveGloves"/>
+        <Member name="UUNP DDX EboniteHarness (HDT)"/>
+        <Member name="UUNP DDX RestrictiveBoots"/>
+        <Member name="UUNP DDX XinEbPonyBoot"/>
+        <Member name="UUNP DDX XinPonyBoot"/>
+    </Group>
+    <Group name="Unified UNP">
+        <Member name="UUNP DDX CuffsEboniteArms"/>
+        <Member name="UUNP DDX CuffsEboniteLegs"/>
+        <Member name="UUNP DDX CustomEboniteHarness"/>
+        <Member name="UUNP DDX CustomEboniteHarness (HDT)"/>
+        <Member name="UUNP DDX CustomHarness"/>
+        <Member name="UUNP DDX CustomHarness (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveBoots"/>
+        <Member name="UUNP DDX EbRestrictiveCollar (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveCollar (Lame)"/>
+        <Member name="UUNP DDX EbRestrictiveCorset (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveCorset (Lame Non Bouncy)"/>
+        <Member name="UUNP DDX EbRestrictiveCorsetBelt (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveCorsetBelt (LAME)"/>
+        <Member name="UUNP DDX EbRestrictiveCorsetBeltOpen (HDT)"/>
+        <Member name="UUNP DDX EbRestrictiveCorsetBeltOpen (LAME)"/>
+        <Member name="UUNP DDX EbRestrictiveGloves"/>
+        <Member name="UUNP DDX EboniteHarness "/>
+        <Member name="UUNP DDX EboniteHarness (HDT)"/>
+        <Member name="UUNP DDX RestrictiveBoots"/>
+        <Member name="UUNP DDX XinEbPonyBoot"/>
+        <Member name="UUNP DDX XinPonyBoot"/>
+    </Group>
+</SliderGroups>

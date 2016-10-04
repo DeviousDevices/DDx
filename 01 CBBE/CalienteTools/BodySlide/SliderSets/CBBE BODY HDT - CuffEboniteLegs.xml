@@ -1,0 +1,66 @@
+<SliderSetInfo>
+    <SliderSet name="CBBE BODY HDT - CuffEboniteLegs">
+        <SetFolder>CBBE BODY HDT - CuffEboniteLegs</SetFolder>
+        <SourceFile>CBBE BODY HDT - CuffEboniteLegs.nif</SourceFile>
+        <OutputPath>meshes\devious\expansion</OutputPath>
+        <OutputFile>CuffEboniteLegs</OutputFile>
+        <BaseShapeName target="cuffsLeatherLegs_1">cuffsLeatherLegs_1</BaseShapeName>
+        <BaseShapeName target="cuffsLeatherLegs_2">cuffsLeatherLegs_2</BaseShapeName>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="cuffsLeatherLegs_2PregnancyBelly" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2PregnancyBelly.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1PregnancyBelly" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1PregnancyBelly.bsd</datafile>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <datafile name="cuffsLeatherLegs_2Butt" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2Butt.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1Butt" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1Butt.bsd</datafile>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <datafile name="cuffsLeatherLegs_2ButtSmall" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2ButtSmall.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1ButtSmall" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1ButtSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <datafile name="cuffsLeatherLegs_2BigButt" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2BigButt.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1BigButt" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1BigButt.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <datafile name="cuffsLeatherLegs_2ChubbyButt" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2ChubbyButt.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1ChubbyButt" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1ChubbyButt.bsd</datafile>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <datafile name="cuffsLeatherLegs_2SlimThighs" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2SlimThighs.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1SlimThighs" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1SlimThighs.bsd</datafile>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <datafile name="cuffsLeatherLegs_2Thighs" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2Thighs.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1Thighs" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1Thighs.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <datafile name="cuffsLeatherLegs_2ChubbyLegs" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2ChubbyLegs.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1ChubbyLegs" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1ChubbyLegs.bsd</datafile>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <datafile name="cuffsLeatherLegs_2Legs" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2Legs.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1Legs" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1Legs.bsd</datafile>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <datafile name="cuffsLeatherLegs_2KneeHeight" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2KneeHeight.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1KneeHeight" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1KneeHeight.bsd</datafile>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <datafile name="cuffsLeatherLegs_2CalfSize" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2CalfSize.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1CalfSize" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1CalfSize.bsd</datafile>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <datafile name="cuffsLeatherLegs_2CalfSmooth" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2CalfSmooth.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1CalfSmooth" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1CalfSmooth.bsd</datafile>
+        </Slider>
+        <Slider name="Ankles" invert="true" small="100" big="100">
+            <datafile name="cuffsLeatherLegs_2Ankles" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2Ankles.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1Ankles" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1Ankles.bsd</datafile>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <datafile name="cuffsLeatherLegs_2SmallSeam" target="cuffsLeatherLegs_2" local="true">cuffsLeatherLegs_2SmallSeam.bsd</datafile>
+            <datafile name="cuffsLeatherLegs_1SmallSeam" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1SmallSeam.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

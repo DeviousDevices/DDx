@@ -1,0 +1,90 @@
+<SliderSetInfo>
+    <SliderSet name="CBBE BODY HDT - EbRestrictiveGloves">
+        <SetFolder>CBBE BODY HDT - EbRestrictiveGloves</SetFolder>
+        <SourceFile>CBBE BODY HDT - EbRestrictiveGloves.nif</SourceFile>
+        <OutputPath>meshes\devious\expansion</OutputPath>
+        <OutputFile>EbRestrictiveGloves</OutputFile>
+        <BaseShapeName target="gloves">gloves</BaseShapeName>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <datafile name="glovesBreasts" target="gloves" local="true">glovesBreasts.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <datafile name="glovesBreastsSmall" target="gloves" local="true">glovesBreastsSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <datafile name="glovesBreastsSH" target="gloves" local="true">glovesBreastsSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <datafile name="glovesBreastsSSH" target="gloves" local="true">glovesBreastsSSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <datafile name="glovesBreastsFantasy" target="gloves" local="true">glovesBreastsFantasy.bsd</datafile>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <datafile name="glovesDoubleMelon" target="gloves" local="true">glovesDoubleMelon.bsd</datafile>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <datafile name="glovesBreastFlatness" target="gloves" local="true">glovesBreastFlatness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <datafile name="glovesBreastGravity" target="gloves" local="true">glovesBreastGravity.bsd</datafile>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <datafile name="glovesPushUp" target="gloves" local="true">glovesPushUp.bsd</datafile>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <datafile name="glovesBreastHeight" target="gloves" local="true">glovesBreastHeight.bsd</datafile>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <datafile name="glovesBreastPerkiness" target="gloves" local="true">glovesBreastPerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <datafile name="glovesBreastWidth" target="gloves" local="true">glovesBreastWidth.bsd</datafile>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <datafile name="glovesNippleLength" target="gloves" local="true">glovesNippleLength.bsd</datafile>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <datafile name="glovesNippleUp" target="gloves" local="true">glovesNippleUp.bsd</datafile>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <datafile name="glovesArms" target="gloves" local="true">glovesArms.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <datafile name="glovesChubbyArms" target="gloves" local="true">glovesChubbyArms.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <datafile name="glovesShoulderWidth" target="gloves" local="true">glovesShoulderWidth.bsd</datafile>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <datafile name="glovesBigTorso" target="gloves" local="true">glovesBigTorso.bsd</datafile>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <datafile name="glovesWaist" target="gloves" local="true">glovesWaist.bsd</datafile>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <datafile name="glovesWideWaistLine" target="gloves" local="true">glovesWideWaistLine.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <datafile name="glovesChubbyWaist" target="gloves" local="true">glovesChubbyWaist.bsd</datafile>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="glovesPregnancyBelly" target="gloves" local="true">glovesPregnancyBelly.bsd</datafile>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <datafile name="glovesTummyTuck" target="gloves" local="true">glovesTummyTuck.bsd</datafile>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <datafile name="glovesBack" target="gloves" local="true">glovesBack.bsd</datafile>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <datafile name="glovesButt" target="gloves" local="true">glovesButt.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <datafile name="glovesChubbyButt" target="gloves" local="true">glovesChubbyButt.bsd</datafile>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <datafile name="glovesSmallSeam" target="gloves" local="true">glovesSmallSeam.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
