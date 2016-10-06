@@ -1,0 +1,398 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_Piercing03">
+        <DataFolder>DDX_Heretical\HR_Piercing03</DataFolder>
+        <SourceFile>HR_Piercing03.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Piercings</OutputPath>
+        <OutputFile GenWeights="true">HR_Piercing03</OutputFile>
+        <Shape target="left nipple ring.00">left nipple ring.00</Shape>
+        <Shape target="right nipple ring.00">right nipple ring.00</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="left nipple ring.00Breasts" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Breasts</Data>
+            <Data name="right nipple ring.00Breasts" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="left nipple ring.00BreastsSmall" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastsSmall</Data>
+            <Data name="right nipple ring.00BreastsSmall" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BreastsSH" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastsSH</Data>
+            <Data name="right nipple ring.00BreastsSH" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BreastsSSH" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastsSSH</Data>
+            <Data name="right nipple ring.00BreastsSSH" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BreastsFantasy" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastsFantasy</Data>
+            <Data name="right nipple ring.00BreastsFantasy" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00DoubleMelon" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00DoubleMelon</Data>
+            <Data name="right nipple ring.00DoubleMelon" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BreastCleavage" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastCleavage</Data>
+            <Data name="right nipple ring.00BreastCleavage" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BreastFlatness" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastFlatness</Data>
+            <Data name="right nipple ring.00BreastFlatness" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BreastGravity" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastGravity</Data>
+            <Data name="right nipple ring.00BreastGravity" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00PushUp" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00PushUp</Data>
+            <Data name="right nipple ring.00PushUp" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BreastHeight" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastHeight</Data>
+            <Data name="right nipple ring.00BreastHeight" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BreastPerkiness" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastPerkiness</Data>
+            <Data name="right nipple ring.00BreastPerkiness" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BreastWidth" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BreastWidth</Data>
+            <Data name="right nipple ring.00BreastWidth" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="left nipple ring.00NippleDistance" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00NippleDistance</Data>
+            <Data name="right nipple ring.00NippleDistance" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00NippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00NipplePerkiness" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00NipplePerkiness</Data>
+            <Data name="right nipple ring.00NipplePerkiness" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00NippleLength" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00NippleLength</Data>
+            <Data name="right nipple ring.00NippleLength" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00NippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="left nipple ring.00NippleSize" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00NippleSize</Data>
+            <Data name="right nipple ring.00NippleSize" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00NippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00NippleAreola" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00NippleAreola</Data>
+            <Data name="right nipple ring.00NippleAreola" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00NippleUp" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00NippleUp</Data>
+            <Data name="right nipple ring.00NippleUp" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00NippleDown" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00NippleDown</Data>
+            <Data name="right nipple ring.00NippleDown" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00NippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00NippleTip" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00NippleTip</Data>
+            <Data name="right nipple ring.00NippleTip" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00NippleTip</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00BigTorso" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00BigTorso</Data>
+            <Data name="right nipple ring.00BigTorso" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00BigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00PregnancyBelly" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00PregnancyBelly</Data>
+            <Data name="right nipple ring.00PregnancyBelly" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00PregnancyBelly</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B Low</Data>
+            <Data name="right nipple ring.007B Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B High</Data>
+            <Data name="right nipple ring.007B High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B Bombshell Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B Bombshell Low</Data>
+            <Data name="right nipple ring.007B Bombshell Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B Bombshell High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B Bombshell High</Data>
+            <Data name="right nipple ring.007B Bombshell High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B Natural Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B Natural Low</Data>
+            <Data name="right nipple ring.007B Natural Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B Natural High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B Natural High</Data>
+            <Data name="right nipple ring.007B Natural High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B Cleavage Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B Cleavage Low</Data>
+            <Data name="right nipple ring.007B Cleavage Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B Cleavage High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B Cleavage High</Data>
+            <Data name="right nipple ring.007B Cleavage High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B BCup Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B BCup Low</Data>
+            <Data name="right nipple ring.007B BCup Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B BCup High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B BCup High</Data>
+            <Data name="right nipple ring.007B BCup High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007BUNP Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007BUNP Low</Data>
+            <Data name="right nipple ring.007BUNP Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007BUNP High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007BUNP High</Data>
+            <Data name="right nipple ring.007BUNP High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B Oppai Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B Oppai Low</Data>
+            <Data name="right nipple ring.007B Oppai Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B Oppai High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B Oppai High</Data>
+            <Data name="right nipple ring.007B Oppai High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B CH Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B CH Low</Data>
+            <Data name="right nipple ring.007B CH Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.007B CH High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.007B CH High</Data>
+            <Data name="right nipple ring.007B CH High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.007B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNP Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNP Low</Data>
+            <Data name="right nipple ring.00UNP Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNP High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNP High</Data>
+            <Data name="right nipple ring.00UNP High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNP Pushup Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNP Pushup Low</Data>
+            <Data name="right nipple ring.00UNP Pushup Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNP Pushup High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNP Pushup High</Data>
+            <Data name="right nipple ring.00UNP Pushup High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNP Skinny Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNP Skinny Low</Data>
+            <Data name="right nipple ring.00UNP Skinny Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNP Skinny High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNP Skinny High</Data>
+            <Data name="right nipple ring.00UNP Skinny High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNP Perky Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNP Perky Low</Data>
+            <Data name="right nipple ring.00UNP Perky Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNP Perky High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNP Perky High</Data>
+            <Data name="right nipple ring.00UNP Perky High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPB Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPB Low</Data>
+            <Data name="right nipple ring.00UNPB Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPB High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPB High</Data>
+            <Data name="right nipple ring.00UNPB High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPB Chapi" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPB Chapi</Data>
+            <Data name="right nipple ring.00UNPB Chapi" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPB Oppai v1" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPB Oppai v1</Data>
+            <Data name="right nipple ring.00UNPB Oppai v1" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPB Oppai v3.2 Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPB Oppai v3.2 Low</Data>
+            <Data name="right nipple ring.00UNPB Oppai v3.2 Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPB Oppai v3.2 High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPB Oppai v3.2 High</Data>
+            <Data name="right nipple ring.00UNPB Oppai v3.2 High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPetite Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPetite Low</Data>
+            <Data name="right nipple ring.00UNPetite Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPetite High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPetite High</Data>
+            <Data name="right nipple ring.00UNPetite High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPC Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPC Low</Data>
+            <Data name="right nipple ring.00UNPC Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPC High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPC High</Data>
+            <Data name="right nipple ring.00UNPC High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPCM Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPCM Low</Data>
+            <Data name="right nipple ring.00UNPCM Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPCM High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPCM High</Data>
+            <Data name="right nipple ring.00UNPCM High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPSH Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPSH Low</Data>
+            <Data name="right nipple ring.00UNPSH Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPSH High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPSH High</Data>
+            <Data name="right nipple ring.00UNPSH High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPK Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPK Low</Data>
+            <Data name="right nipple ring.00UNPK Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPK High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPK High</Data>
+            <Data name="right nipple ring.00UNPK High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPK Bonus Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPK Bonus Low</Data>
+            <Data name="right nipple ring.00UNPK Bonus Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPK Bonus High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPK Bonus High</Data>
+            <Data name="right nipple ring.00UNPK Bonus High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UN7B Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UN7B Low</Data>
+            <Data name="right nipple ring.00UN7B Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UN7B High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UN7B High</Data>
+            <Data name="right nipple ring.00UN7B High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPBB Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPBB Low</Data>
+            <Data name="right nipple ring.00UNPBB Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPBB High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPBB High</Data>
+            <Data name="right nipple ring.00UNPBB High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Seraphim Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Seraphim Low</Data>
+            <Data name="right nipple ring.00Seraphim Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Seraphim High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Seraphim High</Data>
+            <Data name="right nipple ring.00Seraphim High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Demonfet Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Demonfet Low</Data>
+            <Data name="right nipple ring.00Demonfet Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Demonfet High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Demonfet High</Data>
+            <Data name="right nipple ring.00Demonfet High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Dream Girl Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Dream Girl Low</Data>
+            <Data name="right nipple ring.00Dream Girl Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Dream Girl High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Dream Girl High</Data>
+            <Data name="right nipple ring.00Dream Girl High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Top Model Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Top Model Low</Data>
+            <Data name="right nipple ring.00Top Model Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Top Model High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Top Model High</Data>
+            <Data name="right nipple ring.00Top Model High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Leito Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Leito Low</Data>
+            <Data name="right nipple ring.00Leito Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Leito High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Leito High</Data>
+            <Data name="right nipple ring.00Leito High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPF Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPF Low</Data>
+            <Data name="right nipple ring.00UNPF Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPF High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPF High</Data>
+            <Data name="right nipple ring.00UNPF High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPFx Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPFx Low</Data>
+            <Data name="right nipple ring.00UNPFx Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00UNPFx High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00UNPFx High</Data>
+            <Data name="right nipple ring.00UNPFx High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00CNHF Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00CNHF Low</Data>
+            <Data name="right nipple ring.00CNHF Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00CNHF High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00CNHF High</Data>
+            <Data name="right nipple ring.00CNHF High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00CNHF Bonus Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00CNHF Bonus Low</Data>
+            <Data name="right nipple ring.00CNHF Bonus Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00CNHF Bonus High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00CNHF Bonus High</Data>
+            <Data name="right nipple ring.00CNHF Bonus High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00MCBM Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00MCBM Low</Data>
+            <Data name="right nipple ring.00MCBM Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00MCBM High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00MCBM High</Data>
+            <Data name="right nipple ring.00MCBM High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Venus Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Venus Low</Data>
+            <Data name="right nipple ring.00Venus Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Venus High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Venus High</Data>
+            <Data name="right nipple ring.00Venus High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00ZGGB-R2 Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00ZGGB-R2 Low</Data>
+            <Data name="right nipple ring.00ZGGB-R2 Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00ZGGB-R2 High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00ZGGB-R2 High</Data>
+            <Data name="right nipple ring.00ZGGB-R2 High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Manga Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Manga Low</Data>
+            <Data name="right nipple ring.00Manga Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00Manga High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00Manga High</Data>
+            <Data name="right nipple ring.00Manga High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00CHSBHC Low" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00CHSBHC Low</Data>
+            <Data name="right nipple ring.00CHSBHC Low" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="left nipple ring.00CHSBHC High" target="left nipple ring.00" local="true">HR_Piercing03.osd\left nipple ring.00CHSBHC High</Data>
+            <Data name="right nipple ring.00CHSBHC High" target="right nipple ring.00" local="true">HR_Piercing03.osd\right nipple ring.00CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,385 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_ChainHarnessArms">
+        <DataFolder>DDX_Heretical\HR_ChainHarnessArms</DataFolder>
+        <SourceFile>HR_ChainHarnessArms.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Restraints</OutputPath>
+        <OutputFile GenWeights="true">HR_ChainHarnessArms</OutputFile>
+        <Shape target="ArmChain">ArmChain</Shape>
+        <Shape target="ArmsBelt">ArmsBelt</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="ArmsBeltBreasts" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="ArmsBeltBreastsSmall" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="ArmsBeltBreastsSH" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="ArmsBeltBreastsSSH" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="ArmChainBreastsFantasy" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainBreastsFantasy</Data>
+            <Data name="ArmsBeltBreastsFantasy" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="ArmsBeltDoubleMelon" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="ArmChainBreastFlatness" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainBreastFlatness</Data>
+            <Data name="ArmsBeltBreastFlatness" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="ArmsBeltBreastGravity" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="ArmsBeltPushUp" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="ArmChainBreastHeight" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainBreastHeight</Data>
+            <Data name="ArmsBeltBreastHeight" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="ArmsBeltBreastPerkiness" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="ArmChainBreastWidth" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainBreastWidth</Data>
+            <Data name="ArmsBeltBreastWidth" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="ArmsBeltNippleUp" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltNippleUp</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="ArmChainArms" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainArms</Data>
+            <Data name="ArmsBeltArms" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="ArmChainChubbyArms" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainChubbyArms</Data>
+            <Data name="ArmsBeltChubbyArms" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="ArmChainShoulderSmooth" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainShoulderSmooth</Data>
+            <Data name="ArmsBeltShoulderSmooth" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="ArmChainShoulderWidth" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainShoulderWidth</Data>
+            <Data name="ArmsBeltShoulderWidth" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="ArmChainBigTorso" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainBigTorso</Data>
+            <Data name="ArmsBeltBigTorso" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="ArmsBeltWaist" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltWaist</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="ArmsBeltChubbyWaist" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltChubbyWaist</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="ArmsBeltPregnancyBelly" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltPregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="ArmChainBack" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainBack</Data>
+            <Data name="ArmsBeltBack" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltBack</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="ArmChainNeck" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="ArmChain7B Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B Low</Data>
+            <Data name="ArmsBelt7B Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="ArmChain7B High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B High</Data>
+            <Data name="ArmsBelt7B High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="ArmChain7B Bombshell Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B Bombshell Low</Data>
+            <Data name="ArmsBelt7B Bombshell Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="ArmChain7B Bombshell High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B Bombshell High</Data>
+            <Data name="ArmsBelt7B Bombshell High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="ArmChain7B Natural Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B Natural Low</Data>
+            <Data name="ArmsBelt7B Natural Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="ArmChain7B Natural High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B Natural High</Data>
+            <Data name="ArmsBelt7B Natural High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="ArmChain7B Cleavage Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B Cleavage Low</Data>
+            <Data name="ArmsBelt7B Cleavage Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="ArmChain7B Cleavage High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B Cleavage High</Data>
+            <Data name="ArmsBelt7B Cleavage High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="ArmChain7B BCup Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B BCup Low</Data>
+            <Data name="ArmsBelt7B BCup Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="ArmChain7B BCup High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B BCup High</Data>
+            <Data name="ArmsBelt7B BCup High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="ArmChain7BUNP Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7BUNP Low</Data>
+            <Data name="ArmsBelt7BUNP Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="ArmChain7BUNP High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7BUNP High</Data>
+            <Data name="ArmsBelt7BUNP High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="ArmChain7B Oppai Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B Oppai Low</Data>
+            <Data name="ArmsBelt7B Oppai Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="ArmChain7B Oppai High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B Oppai High</Data>
+            <Data name="ArmsBelt7B Oppai High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="ArmChain7B CH Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B CH Low</Data>
+            <Data name="ArmsBelt7B CH Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="ArmChain7B CH High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChain7B CH High</Data>
+            <Data name="ArmsBelt7B CH High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBelt7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNP Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNP Low</Data>
+            <Data name="ArmsBeltUNP Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNP High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNP High</Data>
+            <Data name="ArmsBeltUNP High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNP Pushup Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNP Pushup Low</Data>
+            <Data name="ArmsBeltUNP Pushup Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNP Pushup High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNP Pushup High</Data>
+            <Data name="ArmsBeltUNP Pushup High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNP Skinny Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNP Skinny Low</Data>
+            <Data name="ArmsBeltUNP Skinny Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNP Skinny High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNP Skinny High</Data>
+            <Data name="ArmsBeltUNP Skinny High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNP Perky Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNP Perky Low</Data>
+            <Data name="ArmsBeltUNP Perky Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNP Perky High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNP Perky High</Data>
+            <Data name="ArmsBeltUNP Perky High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPB Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPB Low</Data>
+            <Data name="ArmsBeltUNPB Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPB High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPB High</Data>
+            <Data name="ArmsBeltUNPB High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPB Chapi" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPB Chapi</Data>
+            <Data name="ArmsBeltUNPB Chapi" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPB Oppai v1" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPB Oppai v1</Data>
+            <Data name="ArmsBeltUNPB Oppai v1" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPB Oppai v3.2 Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPB Oppai v3.2 Low</Data>
+            <Data name="ArmsBeltUNPB Oppai v3.2 Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPB Oppai v3.2 High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPB Oppai v3.2 High</Data>
+            <Data name="ArmsBeltUNPB Oppai v3.2 High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPetite Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPetite Low</Data>
+            <Data name="ArmsBeltUNPetite Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPetite High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPetite High</Data>
+            <Data name="ArmsBeltUNPetite High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPC Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPC Low</Data>
+            <Data name="ArmsBeltUNPC Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPC High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPC High</Data>
+            <Data name="ArmsBeltUNPC High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPCM Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPCM Low</Data>
+            <Data name="ArmsBeltUNPCM Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPCM High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPCM High</Data>
+            <Data name="ArmsBeltUNPCM High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPSH Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPSH Low</Data>
+            <Data name="ArmsBeltUNPSH Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPSH High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPSH High</Data>
+            <Data name="ArmsBeltUNPSH High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPK Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPK Low</Data>
+            <Data name="ArmsBeltUNPK Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPK High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPK High</Data>
+            <Data name="ArmsBeltUNPK High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPK Bonus Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPK Bonus Low</Data>
+            <Data name="ArmsBeltUNPK Bonus Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPK Bonus High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPK Bonus High</Data>
+            <Data name="ArmsBeltUNPK Bonus High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUN7B Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUN7B Low</Data>
+            <Data name="ArmsBeltUN7B Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="ArmChainUN7B High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUN7B High</Data>
+            <Data name="ArmsBeltUN7B High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPBB Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPBB Low</Data>
+            <Data name="ArmsBeltUNPBB Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPBB High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPBB High</Data>
+            <Data name="ArmsBeltUNPBB High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="ArmChainSeraphim Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainSeraphim Low</Data>
+            <Data name="ArmsBeltSeraphim Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="ArmChainSeraphim High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainSeraphim High</Data>
+            <Data name="ArmsBeltSeraphim High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="ArmChainDemonfet Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainDemonfet Low</Data>
+            <Data name="ArmsBeltDemonfet Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="ArmChainDemonfet High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainDemonfet High</Data>
+            <Data name="ArmsBeltDemonfet High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="ArmChainDream Girl Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainDream Girl Low</Data>
+            <Data name="ArmsBeltDream Girl Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="ArmChainDream Girl High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainDream Girl High</Data>
+            <Data name="ArmsBeltDream Girl High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="ArmChainTop Model Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainTop Model Low</Data>
+            <Data name="ArmsBeltTop Model Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="ArmChainTop Model High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainTop Model High</Data>
+            <Data name="ArmsBeltTop Model High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="ArmChainLeito Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainLeito Low</Data>
+            <Data name="ArmsBeltLeito Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="ArmChainLeito High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainLeito High</Data>
+            <Data name="ArmsBeltLeito High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPF Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPF Low</Data>
+            <Data name="ArmsBeltUNPF Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPF High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPF High</Data>
+            <Data name="ArmsBeltUNPF High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPFx Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPFx Low</Data>
+            <Data name="ArmsBeltUNPFx Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="ArmChainUNPFx High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainUNPFx High</Data>
+            <Data name="ArmsBeltUNPFx High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="ArmChainCNHF Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainCNHF Low</Data>
+            <Data name="ArmsBeltCNHF Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="ArmChainCNHF High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainCNHF High</Data>
+            <Data name="ArmsBeltCNHF High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="ArmChainCNHF Bonus Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainCNHF Bonus Low</Data>
+            <Data name="ArmsBeltCNHF Bonus Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="ArmChainCNHF Bonus High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainCNHF Bonus High</Data>
+            <Data name="ArmsBeltCNHF Bonus High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="ArmChainMCBM Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainMCBM Low</Data>
+            <Data name="ArmsBeltMCBM Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="ArmChainMCBM High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainMCBM High</Data>
+            <Data name="ArmsBeltMCBM High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="ArmChainVenus Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainVenus Low</Data>
+            <Data name="ArmsBeltVenus Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="ArmChainVenus High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainVenus High</Data>
+            <Data name="ArmsBeltVenus High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="ArmChainZGGB-R2 Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainZGGB-R2 Low</Data>
+            <Data name="ArmsBeltZGGB-R2 Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="ArmChainZGGB-R2 High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainZGGB-R2 High</Data>
+            <Data name="ArmsBeltZGGB-R2 High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="ArmChainManga Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainManga Low</Data>
+            <Data name="ArmsBeltManga Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="ArmChainManga High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainManga High</Data>
+            <Data name="ArmsBeltManga High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="ArmChainCHSBHC Low" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainCHSBHC Low</Data>
+            <Data name="ArmsBeltCHSBHC Low" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="ArmChainCHSBHC High" target="ArmChain" local="true">HR_ChainHarnessArms.osd\ArmChainCHSBHC High</Data>
+            <Data name="ArmsBeltCHSBHC High" target="ArmsBelt" local="true">HR_ChainHarnessArms.osd\ArmsBeltCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

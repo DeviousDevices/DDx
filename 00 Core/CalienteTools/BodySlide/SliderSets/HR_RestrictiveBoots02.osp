@@ -1,0 +1,306 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_RestrictiveBoots02">
+        <DataFolder>DDX_Heretical\HR_RestrictiveBoots02</DataFolder>
+        <SourceFile>HR_RestrictiveBoots02.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Boots</OutputPath>
+        <OutputFile GenWeights="true">RestrictiveBoots02</OutputFile>
+        <Shape target="IronBoots">IronBoots</Shape>
+        <Shape target="RestrictFeet" DataFolder="Heretical Resources\HR_HarnessBootsHDT">RestrictFeet</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B Low</Data>
+            <Data name="IronBoots7B Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B High</Data>
+            <Data name="IronBoots7B High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Bombshell Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B Bombshell Low</Data>
+            <Data name="IronBoots7B Bombshell Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Bombshell High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B Bombshell High</Data>
+            <Data name="IronBoots7B Bombshell High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Natural Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B Natural Low</Data>
+            <Data name="IronBoots7B Natural Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Natural High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B Natural High</Data>
+            <Data name="IronBoots7B Natural High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Cleavage Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B Cleavage Low</Data>
+            <Data name="IronBoots7B Cleavage Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Cleavage High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B Cleavage High</Data>
+            <Data name="IronBoots7B Cleavage High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B BCup Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B BCup Low</Data>
+            <Data name="IronBoots7B BCup Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B BCup High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B BCup High</Data>
+            <Data name="IronBoots7B BCup High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7BUNP Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7BUNP Low</Data>
+            <Data name="IronBoots7BUNP Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7BUNP High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7BUNP High</Data>
+            <Data name="IronBoots7BUNP High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Oppai Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B Oppai Low</Data>
+            <Data name="IronBoots7B Oppai Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Oppai High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B Oppai High</Data>
+            <Data name="IronBoots7B Oppai High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B CH Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B CH Low</Data>
+            <Data name="IronBoots7B CH Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B CH High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeet7B CH High</Data>
+            <Data name="IronBoots7B CH High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBoots7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNP Low</Data>
+            <Data name="IronBootsUNP Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNP High</Data>
+            <Data name="IronBootsUNP High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Pushup Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNP Pushup Low</Data>
+            <Data name="IronBootsUNP Pushup Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Pushup High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNP Pushup High</Data>
+            <Data name="IronBootsUNP Pushup High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Skinny Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNP Skinny Low</Data>
+            <Data name="IronBootsUNP Skinny Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Skinny High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNP Skinny High</Data>
+            <Data name="IronBootsUNP Skinny High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Perky Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNP Perky Low</Data>
+            <Data name="IronBootsUNP Perky Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Perky High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNP Perky High</Data>
+            <Data name="IronBootsUNP Perky High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPB Low</Data>
+            <Data name="IronBootsUNPB Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPB High</Data>
+            <Data name="IronBootsUNPB High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Chapi" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPB Chapi</Data>
+            <Data name="IronBootsUNPB Chapi" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPetite Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPetite Low</Data>
+            <Data name="IronBootsUNPetite Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPetite High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPetite High</Data>
+            <Data name="IronBootsUNPetite High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Oppai v1" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPB Oppai v1</Data>
+            <Data name="IronBootsUNPB Oppai v1" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Oppai v3.2 Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPB Oppai v3.2 Low</Data>
+            <Data name="IronBootsUNPB Oppai v3.2 Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Oppai v3.2 High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPB Oppai v3.2 High</Data>
+            <Data name="IronBootsUNPB Oppai v3.2 High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPC Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPC Low</Data>
+            <Data name="IronBootsUNPC Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPC High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPC High</Data>
+            <Data name="IronBootsUNPC High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPCM Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPCM Low</Data>
+            <Data name="IronBootsUNPCM Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPCM High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPCM High</Data>
+            <Data name="IronBootsUNPCM High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPSH Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPSH Low</Data>
+            <Data name="IronBootsUNPSH Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPSH High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPSH High</Data>
+            <Data name="IronBootsUNPSH High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPK Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPK Low</Data>
+            <Data name="IronBootsUNPK Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPK High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPK High</Data>
+            <Data name="IronBootsUNPK High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPK Bonus Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPK Bonus Low</Data>
+            <Data name="IronBootsUNPK Bonus Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPK Bonus High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPK Bonus High</Data>
+            <Data name="IronBootsUNPK Bonus High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUN7B Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUN7B Low</Data>
+            <Data name="IronBootsUN7B Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUN7B High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUN7B High</Data>
+            <Data name="IronBootsUN7B High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPBB Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPBB Low</Data>
+            <Data name="IronBootsUNPBB Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPBB High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPBB High</Data>
+            <Data name="IronBootsUNPBB High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetSeraphim Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetSeraphim Low</Data>
+            <Data name="IronBootsSeraphim Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetSeraphim High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetSeraphim High</Data>
+            <Data name="IronBootsSeraphim High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetDemonfet Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetDemonfet Low</Data>
+            <Data name="IronBootsDemonfet Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetDemonfet High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetDemonfet High</Data>
+            <Data name="IronBootsDemonfet High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetDream Girl Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetDream Girl Low</Data>
+            <Data name="IronBootsDream Girl Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetDream Girl High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetDream Girl High</Data>
+            <Data name="IronBootsDream Girl High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetTop Model Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetTop Model Low</Data>
+            <Data name="IronBootsTop Model Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetTop Model High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetTop Model High</Data>
+            <Data name="IronBootsTop Model High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetLeito Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetLeito Low</Data>
+            <Data name="IronBootsLeito Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetLeito High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetLeito High</Data>
+            <Data name="IronBootsLeito High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPF Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPF Low</Data>
+            <Data name="IronBootsUNPF Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPF High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPF High</Data>
+            <Data name="IronBootsUNPF High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPFx Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPFx Low</Data>
+            <Data name="IronBootsUNPFx Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPFx High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetUNPFx High</Data>
+            <Data name="IronBootsUNPFx High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCNHF Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetCNHF Low</Data>
+            <Data name="IronBootsCNHF Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCNHF High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetCNHF High</Data>
+            <Data name="IronBootsCNHF High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCNHF Bonus Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetCNHF Bonus Low</Data>
+            <Data name="IronBootsCNHF Bonus Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCNHF Bonus High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetCNHF Bonus High</Data>
+            <Data name="IronBootsCNHF Bonus High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetMCBM Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetMCBM Low</Data>
+            <Data name="IronBootsMCBM Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetMCBM High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetMCBM High</Data>
+            <Data name="IronBootsMCBM High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetVenus Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetVenus Low</Data>
+            <Data name="IronBootsVenus Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetVenus High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetVenus High</Data>
+            <Data name="IronBootsVenus High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetZGGB-R2 Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetZGGB-R2 Low</Data>
+            <Data name="IronBootsZGGB-R2 Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetZGGB-R2 High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetZGGB-R2 High</Data>
+            <Data name="IronBootsZGGB-R2 High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetManga Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetManga Low</Data>
+            <Data name="IronBootsManga Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetManga High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetManga High</Data>
+            <Data name="IronBootsManga High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCHSBHC Low" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetCHSBHC Low</Data>
+            <Data name="IronBootsCHSBHC Low" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCHSBHC High" target="RestrictFeet" local="true">HR_RestrictiveBoots02.osd\RestrictFeetCHSBHC High</Data>
+            <Data name="IronBootsCHSBHC High" target="IronBoots" local="true">HR_RestrictiveBoots02.osd\IronBootsCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

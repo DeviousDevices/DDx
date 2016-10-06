@@ -1,0 +1,398 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_NippleClamps01">
+        <DataFolder>DDX_Heretical\HR_NippleClamp01</DataFolder>
+        <SourceFile>HR_NippleClamps01.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Piercings</OutputPath>
+        <OutputFile GenWeights="true">HR_NippleClamps01</OutputFile>
+        <Shape target="NippleClampLeft 1">NippleClampLeft 1</Shape>
+        <Shape target="NippleClampRight 1">NippleClampRight 1</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="NippleClampRight 1Breasts" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Breasts</Data>
+            <Data name="NippleClampLeft 1Breasts" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="NippleClampRight 1BreastsSmall" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastsSmall</Data>
+            <Data name="NippleClampLeft 1BreastsSmall" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BreastsSH" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastsSH</Data>
+            <Data name="NippleClampLeft 1BreastsSH" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BreastsSSH" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastsSSH</Data>
+            <Data name="NippleClampLeft 1BreastsSSH" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BreastsFantasy" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastsFantasy</Data>
+            <Data name="NippleClampLeft 1BreastsFantasy" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1DoubleMelon" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1DoubleMelon</Data>
+            <Data name="NippleClampLeft 1DoubleMelon" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BreastCleavage" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastCleavage</Data>
+            <Data name="NippleClampLeft 1BreastCleavage" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BreastFlatness" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastFlatness</Data>
+            <Data name="NippleClampLeft 1BreastFlatness" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BreastGravity" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastGravity</Data>
+            <Data name="NippleClampLeft 1BreastGravity" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1PushUp" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1PushUp</Data>
+            <Data name="NippleClampLeft 1PushUp" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BreastHeight" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastHeight</Data>
+            <Data name="NippleClampLeft 1BreastHeight" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BreastPerkiness" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastPerkiness</Data>
+            <Data name="NippleClampLeft 1BreastPerkiness" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BreastWidth" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BreastWidth</Data>
+            <Data name="NippleClampLeft 1BreastWidth" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="NippleClampRight 1NippleDistance" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1NippleDistance</Data>
+            <Data name="NippleClampLeft 1NippleDistance" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1NippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1NipplePerkiness" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1NipplePerkiness</Data>
+            <Data name="NippleClampLeft 1NipplePerkiness" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1NippleLength" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1NippleLength</Data>
+            <Data name="NippleClampLeft 1NippleLength" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1NippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="NippleClampRight 1NippleSize" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1NippleSize</Data>
+            <Data name="NippleClampLeft 1NippleSize" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1NippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1NippleAreola" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1NippleAreola</Data>
+            <Data name="NippleClampLeft 1NippleAreola" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1NippleUp" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1NippleUp</Data>
+            <Data name="NippleClampLeft 1NippleUp" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1NippleDown" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1NippleDown</Data>
+            <Data name="NippleClampLeft 1NippleDown" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1NippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1NippleTip" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1NippleTip</Data>
+            <Data name="NippleClampLeft 1NippleTip" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1NippleTip</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1BigTorso" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1BigTorso</Data>
+            <Data name="NippleClampLeft 1BigTorso" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1BigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1PregnancyBelly" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1PregnancyBelly</Data>
+            <Data name="NippleClampLeft 1PregnancyBelly" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1PregnancyBelly</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B Low</Data>
+            <Data name="NippleClampLeft 17B Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B High</Data>
+            <Data name="NippleClampLeft 17B High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B Bombshell Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B Bombshell Low</Data>
+            <Data name="NippleClampLeft 17B Bombshell Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B Bombshell High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B Bombshell High</Data>
+            <Data name="NippleClampLeft 17B Bombshell High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B Natural Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B Natural Low</Data>
+            <Data name="NippleClampLeft 17B Natural Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B Natural High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B Natural High</Data>
+            <Data name="NippleClampLeft 17B Natural High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B Cleavage Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B Cleavage Low</Data>
+            <Data name="NippleClampLeft 17B Cleavage Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B Cleavage High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B Cleavage High</Data>
+            <Data name="NippleClampLeft 17B Cleavage High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B BCup Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B BCup Low</Data>
+            <Data name="NippleClampLeft 17B BCup Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B BCup High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B BCup High</Data>
+            <Data name="NippleClampLeft 17B BCup High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17BUNP Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17BUNP Low</Data>
+            <Data name="NippleClampLeft 17BUNP Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17BUNP High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17BUNP High</Data>
+            <Data name="NippleClampLeft 17BUNP High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B Oppai Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B Oppai Low</Data>
+            <Data name="NippleClampLeft 17B Oppai Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B Oppai High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B Oppai High</Data>
+            <Data name="NippleClampLeft 17B Oppai High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B CH Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B CH Low</Data>
+            <Data name="NippleClampLeft 17B CH Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 17B CH High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 17B CH High</Data>
+            <Data name="NippleClampLeft 17B CH High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 17B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNP Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNP Low</Data>
+            <Data name="NippleClampLeft 1UNP Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNP High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNP High</Data>
+            <Data name="NippleClampLeft 1UNP High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNP Pushup Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNP Pushup Low</Data>
+            <Data name="NippleClampLeft 1UNP Pushup Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNP Pushup High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNP Pushup High</Data>
+            <Data name="NippleClampLeft 1UNP Pushup High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNP Skinny Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNP Skinny Low</Data>
+            <Data name="NippleClampLeft 1UNP Skinny Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNP Skinny High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNP Skinny High</Data>
+            <Data name="NippleClampLeft 1UNP Skinny High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNP Perky Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNP Perky Low</Data>
+            <Data name="NippleClampLeft 1UNP Perky Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNP Perky High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNP Perky High</Data>
+            <Data name="NippleClampLeft 1UNP Perky High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPB Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPB Low</Data>
+            <Data name="NippleClampLeft 1UNPB Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPB High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPB High</Data>
+            <Data name="NippleClampLeft 1UNPB High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPB Chapi" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPB Chapi</Data>
+            <Data name="NippleClampLeft 1UNPB Chapi" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPB Oppai v1" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPB Oppai v1</Data>
+            <Data name="NippleClampLeft 1UNPB Oppai v1" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPB Oppai v3.2 Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPB Oppai v3.2 Low</Data>
+            <Data name="NippleClampLeft 1UNPB Oppai v3.2 Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPB Oppai v3.2 High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPB Oppai v3.2 High</Data>
+            <Data name="NippleClampLeft 1UNPB Oppai v3.2 High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPetite Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPetite Low</Data>
+            <Data name="NippleClampLeft 1UNPetite Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPetite High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPetite High</Data>
+            <Data name="NippleClampLeft 1UNPetite High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPC Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPC Low</Data>
+            <Data name="NippleClampLeft 1UNPC Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPC High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPC High</Data>
+            <Data name="NippleClampLeft 1UNPC High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPCM Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPCM Low</Data>
+            <Data name="NippleClampLeft 1UNPCM Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPCM High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPCM High</Data>
+            <Data name="NippleClampLeft 1UNPCM High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPSH Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPSH Low</Data>
+            <Data name="NippleClampLeft 1UNPSH Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPSH High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPSH High</Data>
+            <Data name="NippleClampLeft 1UNPSH High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPK Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPK Low</Data>
+            <Data name="NippleClampLeft 1UNPK Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPK High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPK High</Data>
+            <Data name="NippleClampLeft 1UNPK High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPK Bonus Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPK Bonus Low</Data>
+            <Data name="NippleClampLeft 1UNPK Bonus Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPK Bonus High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPK Bonus High</Data>
+            <Data name="NippleClampLeft 1UNPK Bonus High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UN7B Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UN7B Low</Data>
+            <Data name="NippleClampLeft 1UN7B Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UN7B High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UN7B High</Data>
+            <Data name="NippleClampLeft 1UN7B High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPBB Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPBB Low</Data>
+            <Data name="NippleClampLeft 1UNPBB Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPBB High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPBB High</Data>
+            <Data name="NippleClampLeft 1UNPBB High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Seraphim Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Seraphim Low</Data>
+            <Data name="NippleClampLeft 1Seraphim Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Seraphim High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Seraphim High</Data>
+            <Data name="NippleClampLeft 1Seraphim High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Demonfet Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Demonfet Low</Data>
+            <Data name="NippleClampLeft 1Demonfet Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Demonfet High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Demonfet High</Data>
+            <Data name="NippleClampLeft 1Demonfet High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Dream Girl Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Dream Girl Low</Data>
+            <Data name="NippleClampLeft 1Dream Girl Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Dream Girl High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Dream Girl High</Data>
+            <Data name="NippleClampLeft 1Dream Girl High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Top Model Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Top Model Low</Data>
+            <Data name="NippleClampLeft 1Top Model Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Top Model High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Top Model High</Data>
+            <Data name="NippleClampLeft 1Top Model High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Leito Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Leito Low</Data>
+            <Data name="NippleClampLeft 1Leito Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Leito High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Leito High</Data>
+            <Data name="NippleClampLeft 1Leito High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPF Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPF Low</Data>
+            <Data name="NippleClampLeft 1UNPF Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPF High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPF High</Data>
+            <Data name="NippleClampLeft 1UNPF High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPFx Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPFx Low</Data>
+            <Data name="NippleClampLeft 1UNPFx Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1UNPFx High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1UNPFx High</Data>
+            <Data name="NippleClampLeft 1UNPFx High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1CNHF Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1CNHF Low</Data>
+            <Data name="NippleClampLeft 1CNHF Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1CNHF High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1CNHF High</Data>
+            <Data name="NippleClampLeft 1CNHF High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1CNHF Bonus Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1CNHF Bonus Low</Data>
+            <Data name="NippleClampLeft 1CNHF Bonus Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1CNHF Bonus High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1CNHF Bonus High</Data>
+            <Data name="NippleClampLeft 1CNHF Bonus High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1MCBM Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1MCBM Low</Data>
+            <Data name="NippleClampLeft 1MCBM Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1MCBM High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1MCBM High</Data>
+            <Data name="NippleClampLeft 1MCBM High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Venus Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Venus Low</Data>
+            <Data name="NippleClampLeft 1Venus Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Venus High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Venus High</Data>
+            <Data name="NippleClampLeft 1Venus High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1ZGGB-R2 Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1ZGGB-R2 Low</Data>
+            <Data name="NippleClampLeft 1ZGGB-R2 Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1ZGGB-R2 High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1ZGGB-R2 High</Data>
+            <Data name="NippleClampLeft 1ZGGB-R2 High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Manga Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Manga Low</Data>
+            <Data name="NippleClampLeft 1Manga Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1Manga High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1Manga High</Data>
+            <Data name="NippleClampLeft 1Manga High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1CHSBHC Low" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1CHSBHC Low</Data>
+            <Data name="NippleClampLeft 1CHSBHC Low" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="NippleClampRight 1CHSBHC High" target="NippleClampRight 1" local="true">HR_NippleClamps01.osd\NippleClampRight 1CHSBHC High</Data>
+            <Data name="NippleClampLeft 1CHSBHC High" target="NippleClampLeft 1" local="true">HR_NippleClamps01.osd\NippleClampLeft 1CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

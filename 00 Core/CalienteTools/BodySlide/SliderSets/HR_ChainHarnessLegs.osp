@@ -1,0 +1,509 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_ChainHarnessLegs">
+        <DataFolder>DDX_Heretical\HR_ChainHarnessLegs</DataFolder>
+        <SourceFile>HR_ChainHarnessLegs.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Restraints</OutputPath>
+        <OutputFile GenWeights="true">HR_ChainHarnessLegs</OutputFile>
+        <Shape target="LegsBelt">LegsBelt</Shape>
+        <Shape target="LegsChain">LegsChain</Shape>
+        <Shape target="LegsConnectRings">LegsConnectRings</Shape>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="LegsChainBreastsSmall" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="LegsChainBreastFlatness" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="LegsChainBreastHeight" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="LegsChainBreastWidth" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainBreastWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsBigTorso" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsBigTorso</Data>
+            <Data name="LegsChainBigTorso" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsWaist" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsWaist</Data>
+            <Data name="LegsChainWaist" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsWideWaistLine" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsWideWaistLine</Data>
+            <Data name="LegsChainWideWaistLine" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsChubbyWaist" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsChubbyWaist</Data>
+            <Data name="LegsChainChubbyWaist" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsBelly" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsBelly</Data>
+            <Data name="LegsChainBelly" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsBigBelly" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsBigBelly</Data>
+            <Data name="LegsChainBigBelly" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsPregnancyBelly" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsPregnancyBelly</Data>
+            <Data name="LegsChainPregnancyBelly" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsTummyTuck" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsTummyTuck</Data>
+            <Data name="LegsChainTummyTuck" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsBack" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsBack</Data>
+            <Data name="LegsChainBack" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="LegsBeltHipbone" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltHipbone</Data>
+            <Data name="LegsConnectRingsHipbone" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsHipbone</Data>
+            <Data name="LegsChainHipbone" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="LegsBeltHips" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltHips</Data>
+            <Data name="LegsConnectRingsHips" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsHips</Data>
+            <Data name="LegsChainHips" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="LegsChainButtCrack" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="LegsBeltButt" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltButt</Data>
+            <Data name="LegsConnectRingsButt" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsButt</Data>
+            <Data name="LegsChainButt" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="LegsBeltButtSmall" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltButtSmall</Data>
+            <Data name="LegsConnectRingsButtSmall" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsButtSmall</Data>
+            <Data name="LegsChainButtSmall" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="LegsBeltButtShape2" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltButtShape2</Data>
+            <Data name="LegsConnectRingsButtShape2" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsButtShape2</Data>
+            <Data name="LegsChainButtShape2" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="LegsBeltBigButt" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltBigButt</Data>
+            <Data name="LegsConnectRingsBigButt" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsBigButt</Data>
+            <Data name="LegsChainBigButt" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="LegsBeltChubbyButt" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltChubbyButt</Data>
+            <Data name="LegsConnectRingsChubbyButt" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsChubbyButt</Data>
+            <Data name="LegsChainChubbyButt" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="LegsBeltAppleCheeks" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltAppleCheeks</Data>
+            <Data name="LegsConnectRingsAppleCheeks" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsAppleCheeks</Data>
+            <Data name="LegsChainAppleCheeks" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="LegsConnectRingsRoundAss" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsRoundAss</Data>
+            <Data name="LegsChainRoundAss" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="LegsBeltSlimThighs" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltSlimThighs</Data>
+            <Data name="LegsConnectRingsSlimThighs" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsSlimThighs</Data>
+            <Data name="LegsChainSlimThighs" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="LegsBeltThighs" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltThighs</Data>
+            <Data name="LegsConnectRingsThighs" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsThighs</Data>
+            <Data name="LegsChainThighs" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="LegsBeltChubbyLegs" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltChubbyLegs</Data>
+            <Data name="LegsConnectRingsChubbyLegs" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsChubbyLegs</Data>
+            <Data name="LegsChainChubbyLegs" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="LegsBeltLegs" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltLegs</Data>
+            <Data name="LegsConnectRingsLegs" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsLegs</Data>
+            <Data name="LegsChainLegs" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="LegsBeltKneeHeight" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltKneeHeight</Data>
+            <Data name="LegsConnectRingsKneeHeight" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsKneeHeight</Data>
+            <Data name="LegsChainKneeHeight" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="LegsBeltCalfSize" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltCalfSize</Data>
+            <Data name="LegsChainCalfSize" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="LegsBeltCalfSmooth" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltCalfSmooth</Data>
+            <Data name="LegsChainCalfSmooth" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainCalfSmooth</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B Low</Data>
+            <Data name="LegsConnectRings7B Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B Low</Data>
+            <Data name="LegsChain7B Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B High</Data>
+            <Data name="LegsConnectRings7B High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B High</Data>
+            <Data name="LegsChain7B High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B Bombshell Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B Bombshell Low</Data>
+            <Data name="LegsConnectRings7B Bombshell Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B Bombshell Low</Data>
+            <Data name="LegsChain7B Bombshell Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B Bombshell High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B Bombshell High</Data>
+            <Data name="LegsConnectRings7B Bombshell High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B Bombshell High</Data>
+            <Data name="LegsChain7B Bombshell High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B Natural Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B Natural Low</Data>
+            <Data name="LegsConnectRings7B Natural Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B Natural Low</Data>
+            <Data name="LegsChain7B Natural Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B Natural High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B Natural High</Data>
+            <Data name="LegsConnectRings7B Natural High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B Natural High</Data>
+            <Data name="LegsChain7B Natural High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B Cleavage Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B Cleavage Low</Data>
+            <Data name="LegsConnectRings7B Cleavage Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B Cleavage Low</Data>
+            <Data name="LegsChain7B Cleavage Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B Cleavage High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B Cleavage High</Data>
+            <Data name="LegsConnectRings7B Cleavage High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B Cleavage High</Data>
+            <Data name="LegsChain7B Cleavage High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B BCup Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B BCup Low</Data>
+            <Data name="LegsConnectRings7B BCup Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B BCup Low</Data>
+            <Data name="LegsChain7B BCup Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B BCup High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B BCup High</Data>
+            <Data name="LegsConnectRings7B BCup High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B BCup High</Data>
+            <Data name="LegsChain7B BCup High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="LegsBelt7BUNP Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7BUNP Low</Data>
+            <Data name="LegsConnectRings7BUNP Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7BUNP Low</Data>
+            <Data name="LegsChain7BUNP Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="LegsBelt7BUNP High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7BUNP High</Data>
+            <Data name="LegsConnectRings7BUNP High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7BUNP High</Data>
+            <Data name="LegsChain7BUNP High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B Oppai Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B Oppai Low</Data>
+            <Data name="LegsConnectRings7B Oppai Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B Oppai Low</Data>
+            <Data name="LegsChain7B Oppai Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B Oppai High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B Oppai High</Data>
+            <Data name="LegsConnectRings7B Oppai High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B Oppai High</Data>
+            <Data name="LegsChain7B Oppai High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B CH Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B CH Low</Data>
+            <Data name="LegsConnectRings7B CH Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B CH Low</Data>
+            <Data name="LegsChain7B CH Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="LegsBelt7B CH High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBelt7B CH High</Data>
+            <Data name="LegsConnectRings7B CH High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRings7B CH High</Data>
+            <Data name="LegsChain7B CH High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChain7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNP Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNP Low</Data>
+            <Data name="LegsConnectRingsUNP Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNP Low</Data>
+            <Data name="LegsChainUNP Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNP High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNP High</Data>
+            <Data name="LegsConnectRingsUNP High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNP High</Data>
+            <Data name="LegsChainUNP High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNP Pushup Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNP Pushup Low</Data>
+            <Data name="LegsConnectRingsUNP Pushup Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNP Pushup Low</Data>
+            <Data name="LegsChainUNP Pushup Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNP Pushup High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNP Pushup High</Data>
+            <Data name="LegsConnectRingsUNP Pushup High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNP Pushup High</Data>
+            <Data name="LegsChainUNP Pushup High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNP Skinny Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNP Skinny Low</Data>
+            <Data name="LegsConnectRingsUNP Skinny Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNP Skinny Low</Data>
+            <Data name="LegsChainUNP Skinny Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNP Skinny High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNP Skinny High</Data>
+            <Data name="LegsConnectRingsUNP Skinny High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNP Skinny High</Data>
+            <Data name="LegsChainUNP Skinny High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNP Perky Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNP Perky Low</Data>
+            <Data name="LegsConnectRingsUNP Perky Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNP Perky Low</Data>
+            <Data name="LegsChainUNP Perky Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNP Perky High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNP Perky High</Data>
+            <Data name="LegsConnectRingsUNP Perky High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNP Perky High</Data>
+            <Data name="LegsChainUNP Perky High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPB Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPB Low</Data>
+            <Data name="LegsConnectRingsUNPB Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPB Low</Data>
+            <Data name="LegsChainUNPB Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPB High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPB High</Data>
+            <Data name="LegsConnectRingsUNPB High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPB High</Data>
+            <Data name="LegsChainUNPB High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPB Chapi" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPB Chapi</Data>
+            <Data name="LegsConnectRingsUNPB Chapi" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPB Chapi</Data>
+            <Data name="LegsChainUNPB Chapi" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPB Oppai v1" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPB Oppai v1</Data>
+            <Data name="LegsConnectRingsUNPB Oppai v1" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPB Oppai v1</Data>
+            <Data name="LegsChainUNPB Oppai v1" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPB Oppai v3.2 Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPB Oppai v3.2 Low</Data>
+            <Data name="LegsConnectRingsUNPB Oppai v3.2 Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPB Oppai v3.2 Low</Data>
+            <Data name="LegsChainUNPB Oppai v3.2 Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPB Oppai v3.2 High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPB Oppai v3.2 High</Data>
+            <Data name="LegsConnectRingsUNPB Oppai v3.2 High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPB Oppai v3.2 High</Data>
+            <Data name="LegsChainUNPB Oppai v3.2 High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPetite Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPetite Low</Data>
+            <Data name="LegsConnectRingsUNPetite Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPetite Low</Data>
+            <Data name="LegsChainUNPetite Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPetite High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPetite High</Data>
+            <Data name="LegsConnectRingsUNPetite High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPetite High</Data>
+            <Data name="LegsChainUNPetite High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPC Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPC Low</Data>
+            <Data name="LegsConnectRingsUNPC Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPC Low</Data>
+            <Data name="LegsChainUNPC Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPC High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPC High</Data>
+            <Data name="LegsConnectRingsUNPC High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPC High</Data>
+            <Data name="LegsChainUNPC High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPCM Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPCM Low</Data>
+            <Data name="LegsConnectRingsUNPCM Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPCM Low</Data>
+            <Data name="LegsChainUNPCM Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPCM High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPCM High</Data>
+            <Data name="LegsConnectRingsUNPCM High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPCM High</Data>
+            <Data name="LegsChainUNPCM High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPSH Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPSH Low</Data>
+            <Data name="LegsConnectRingsUNPSH Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPSH Low</Data>
+            <Data name="LegsChainUNPSH Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPSH High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPSH High</Data>
+            <Data name="LegsConnectRingsUNPSH High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPSH High</Data>
+            <Data name="LegsChainUNPSH High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPK Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPK Low</Data>
+            <Data name="LegsConnectRingsUNPK Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPK Low</Data>
+            <Data name="LegsChainUNPK Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPK High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPK High</Data>
+            <Data name="LegsConnectRingsUNPK High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPK High</Data>
+            <Data name="LegsChainUNPK High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPK Bonus Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPK Bonus Low</Data>
+            <Data name="LegsConnectRingsUNPK Bonus Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPK Bonus Low</Data>
+            <Data name="LegsChainUNPK Bonus Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPK Bonus High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPK Bonus High</Data>
+            <Data name="LegsConnectRingsUNPK Bonus High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPK Bonus High</Data>
+            <Data name="LegsChainUNPK Bonus High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUN7B Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUN7B Low</Data>
+            <Data name="LegsConnectRingsUN7B Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUN7B Low</Data>
+            <Data name="LegsChainUN7B Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUN7B High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUN7B High</Data>
+            <Data name="LegsConnectRingsUN7B High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUN7B High</Data>
+            <Data name="LegsChainUN7B High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPBB Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPBB Low</Data>
+            <Data name="LegsConnectRingsUNPBB Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPBB Low</Data>
+            <Data name="LegsChainUNPBB Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPBB High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPBB High</Data>
+            <Data name="LegsConnectRingsUNPBB High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPBB High</Data>
+            <Data name="LegsChainUNPBB High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltSeraphim Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltSeraphim Low</Data>
+            <Data name="LegsConnectRingsSeraphim Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsSeraphim Low</Data>
+            <Data name="LegsChainSeraphim Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="LegsBeltSeraphim High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltSeraphim High</Data>
+            <Data name="LegsConnectRingsSeraphim High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsSeraphim High</Data>
+            <Data name="LegsChainSeraphim High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltDemonfet Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltDemonfet Low</Data>
+            <Data name="LegsConnectRingsDemonfet Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsDemonfet Low</Data>
+            <Data name="LegsChainDemonfet Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="LegsBeltDemonfet High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltDemonfet High</Data>
+            <Data name="LegsConnectRingsDemonfet High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsDemonfet High</Data>
+            <Data name="LegsChainDemonfet High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltDream Girl Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltDream Girl Low</Data>
+            <Data name="LegsConnectRingsDream Girl Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsDream Girl Low</Data>
+            <Data name="LegsChainDream Girl Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="LegsBeltDream Girl High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltDream Girl High</Data>
+            <Data name="LegsConnectRingsDream Girl High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsDream Girl High</Data>
+            <Data name="LegsChainDream Girl High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltTop Model Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltTop Model Low</Data>
+            <Data name="LegsConnectRingsTop Model Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsTop Model Low</Data>
+            <Data name="LegsChainTop Model Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="LegsBeltTop Model High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltTop Model High</Data>
+            <Data name="LegsConnectRingsTop Model High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsTop Model High</Data>
+            <Data name="LegsChainTop Model High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltLeito Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltLeito Low</Data>
+            <Data name="LegsConnectRingsLeito Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsLeito Low</Data>
+            <Data name="LegsChainLeito Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="LegsBeltLeito High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltLeito High</Data>
+            <Data name="LegsConnectRingsLeito High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsLeito High</Data>
+            <Data name="LegsChainLeito High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPF Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPF Low</Data>
+            <Data name="LegsConnectRingsUNPF Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPF Low</Data>
+            <Data name="LegsChainUNPF Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPF High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPF High</Data>
+            <Data name="LegsConnectRingsUNPF High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPF High</Data>
+            <Data name="LegsChainUNPF High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPFx Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPFx Low</Data>
+            <Data name="LegsConnectRingsUNPFx Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPFx Low</Data>
+            <Data name="LegsChainUNPFx Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="LegsBeltUNPFx High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltUNPFx High</Data>
+            <Data name="LegsConnectRingsUNPFx High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsUNPFx High</Data>
+            <Data name="LegsChainUNPFx High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltCNHF Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltCNHF Low</Data>
+            <Data name="LegsConnectRingsCNHF Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsCNHF Low</Data>
+            <Data name="LegsChainCNHF Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="LegsBeltCNHF High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltCNHF High</Data>
+            <Data name="LegsConnectRingsCNHF High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsCNHF High</Data>
+            <Data name="LegsChainCNHF High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltCNHF Bonus Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltCNHF Bonus Low</Data>
+            <Data name="LegsConnectRingsCNHF Bonus Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsCNHF Bonus Low</Data>
+            <Data name="LegsChainCNHF Bonus Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="LegsBeltCNHF Bonus High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltCNHF Bonus High</Data>
+            <Data name="LegsConnectRingsCNHF Bonus High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsCNHF Bonus High</Data>
+            <Data name="LegsChainCNHF Bonus High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltMCBM Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltMCBM Low</Data>
+            <Data name="LegsConnectRingsMCBM Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsMCBM Low</Data>
+            <Data name="LegsChainMCBM Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="LegsBeltMCBM High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltMCBM High</Data>
+            <Data name="LegsConnectRingsMCBM High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsMCBM High</Data>
+            <Data name="LegsChainMCBM High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltVenus Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltVenus Low</Data>
+            <Data name="LegsConnectRingsVenus Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsVenus Low</Data>
+            <Data name="LegsChainVenus Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="LegsBeltVenus High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltVenus High</Data>
+            <Data name="LegsConnectRingsVenus High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsVenus High</Data>
+            <Data name="LegsChainVenus High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltZGGB-R2 Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltZGGB-R2 Low</Data>
+            <Data name="LegsConnectRingsZGGB-R2 Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsZGGB-R2 Low</Data>
+            <Data name="LegsChainZGGB-R2 Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="LegsBeltZGGB-R2 High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltZGGB-R2 High</Data>
+            <Data name="LegsConnectRingsZGGB-R2 High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsZGGB-R2 High</Data>
+            <Data name="LegsChainZGGB-R2 High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltManga Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltManga Low</Data>
+            <Data name="LegsConnectRingsManga Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsManga Low</Data>
+            <Data name="LegsChainManga Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="LegsBeltManga High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltManga High</Data>
+            <Data name="LegsConnectRingsManga High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsManga High</Data>
+            <Data name="LegsChainManga High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="LegsBeltCHSBHC Low" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltCHSBHC Low</Data>
+            <Data name="LegsConnectRingsCHSBHC Low" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsCHSBHC Low</Data>
+            <Data name="LegsChainCHSBHC Low" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="LegsBeltCHSBHC High" target="LegsBelt" local="true">HR_ChainHarnessLegs.osd\LegsBeltCHSBHC High</Data>
+            <Data name="LegsConnectRingsCHSBHC High" target="LegsConnectRings" local="true">HR_ChainHarnessLegs.osd\LegsConnectRingsCHSBHC High</Data>
+            <Data name="LegsChainCHSBHC High" target="LegsChain" local="true">HR_ChainHarnessLegs.osd\LegsChainCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

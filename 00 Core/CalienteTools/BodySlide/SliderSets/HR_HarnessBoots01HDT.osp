@@ -1,0 +1,570 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_HarnessBoots01HDT">
+        <DataFolder>DDX_Heretical\HR_HarnessBoots01HDT</DataFolder>
+        <SourceFile>HR_HarnessBoots01HDT.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Boots</OutputPath>
+        <OutputFile GenWeights="true">RestrictiveBootsHarness01HDT</OutputFile>
+        <Shape target="Feet_outfit">Feet_outfit</Shape>
+        <Shape target="HarnessConnector">HarnessConnector</Shape>
+        <Shape target="LegsChain">LegsChain</Shape>
+        <Shape target="Tri IronBoots 0">Tri IronBoots 0</Shape>
+        <Shape target="Tri IronBoots 1">Tri IronBoots 1</Shape>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="HarnessConnectorButtSmall" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorButtSmall</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="LegsChainSlimThighs" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainSlimThighs</Data>
+            <Data name="HarnessConnectorSlimThighs" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="LegsChainThighs" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainThighs</Data>
+            <Data name="HarnessConnectorThighs" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="LegsChainChubbyLegs" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainChubbyLegs</Data>
+            <Data name="HarnessConnectorChubbyLegs" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorChubbyLegs</Data>
+            <Data name="Tri IronBoots 0ChubbyLegs" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0ChubbyLegs</Data>
+            <Data name="Tri IronBoots 1ChubbyLegs" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1ChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="LegsChainLegs" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainLegs</Data>
+            <Data name="HarnessConnectorLegs" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorLegs</Data>
+            <Data name="Tri IronBoots 0Legs" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Legs</Data>
+            <Data name="Tri IronBoots 1Legs" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Legs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="LegsChainKneeHeight" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainKneeHeight</Data>
+            <Data name="HarnessConnectorKneeHeight" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="LegsChainCalfSize" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainCalfSize</Data>
+            <Data name="HarnessConnectorCalfSize" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorCalfSize</Data>
+            <Data name="Tri IronBoots 0CalfSize" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0CalfSize</Data>
+            <Data name="Tri IronBoots 1CalfSize" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="LegsChainCalfSmooth" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainCalfSmooth</Data>
+            <Data name="HarnessConnectorCalfSmooth" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorCalfSmooth</Data>
+            <Data name="Tri IronBoots 0CalfSmooth" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0CalfSmooth</Data>
+            <Data name="Tri IronBoots 1CalfSmooth" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1CalfSmooth</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="LegsChain7B Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B Low</Data>
+            <Data name="HarnessConnector7B Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B Low</Data>
+            <Data name="Feet_outfit7B Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B Low</Data>
+            <Data name="Tri IronBoots 07B Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B Low</Data>
+            <Data name="Tri IronBoots 17B Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="LegsChain7B High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B High</Data>
+            <Data name="HarnessConnector7B High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B High</Data>
+            <Data name="Feet_outfit7B High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B High</Data>
+            <Data name="Tri IronBoots 07B High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B High</Data>
+            <Data name="Tri IronBoots 17B High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="LegsChain7B Bombshell Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B Bombshell Low</Data>
+            <Data name="HarnessConnector7B Bombshell Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B Bombshell Low</Data>
+            <Data name="Feet_outfit7B Bombshell Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B Bombshell Low</Data>
+            <Data name="Tri IronBoots 07B Bombshell Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B Bombshell Low</Data>
+            <Data name="Tri IronBoots 17B Bombshell Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="LegsChain7B Bombshell High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B Bombshell High</Data>
+            <Data name="HarnessConnector7B Bombshell High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B Bombshell High</Data>
+            <Data name="Feet_outfit7B Bombshell High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B Bombshell High</Data>
+            <Data name="Tri IronBoots 07B Bombshell High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B Bombshell High</Data>
+            <Data name="Tri IronBoots 17B Bombshell High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="LegsChain7B Natural Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B Natural Low</Data>
+            <Data name="HarnessConnector7B Natural Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B Natural Low</Data>
+            <Data name="Feet_outfit7B Natural Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B Natural Low</Data>
+            <Data name="Tri IronBoots 07B Natural Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B Natural Low</Data>
+            <Data name="Tri IronBoots 17B Natural Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="LegsChain7B Natural High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B Natural High</Data>
+            <Data name="HarnessConnector7B Natural High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B Natural High</Data>
+            <Data name="Feet_outfit7B Natural High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B Natural High</Data>
+            <Data name="Tri IronBoots 07B Natural High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B Natural High</Data>
+            <Data name="Tri IronBoots 17B Natural High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="LegsChain7B Cleavage Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B Cleavage Low</Data>
+            <Data name="HarnessConnector7B Cleavage Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B Cleavage Low</Data>
+            <Data name="Feet_outfit7B Cleavage Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B Cleavage Low</Data>
+            <Data name="Tri IronBoots 07B Cleavage Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B Cleavage Low</Data>
+            <Data name="Tri IronBoots 17B Cleavage Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="LegsChain7B Cleavage High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B Cleavage High</Data>
+            <Data name="HarnessConnector7B Cleavage High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B Cleavage High</Data>
+            <Data name="Feet_outfit7B Cleavage High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B Cleavage High</Data>
+            <Data name="Tri IronBoots 07B Cleavage High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B Cleavage High</Data>
+            <Data name="Tri IronBoots 17B Cleavage High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="LegsChain7B BCup Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B BCup Low</Data>
+            <Data name="HarnessConnector7B BCup Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B BCup Low</Data>
+            <Data name="Feet_outfit7B BCup Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B BCup Low</Data>
+            <Data name="Tri IronBoots 07B BCup Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B BCup Low</Data>
+            <Data name="Tri IronBoots 17B BCup Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="LegsChain7B BCup High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B BCup High</Data>
+            <Data name="HarnessConnector7B BCup High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B BCup High</Data>
+            <Data name="Feet_outfit7B BCup High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B BCup High</Data>
+            <Data name="Tri IronBoots 07B BCup High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B BCup High</Data>
+            <Data name="Tri IronBoots 17B BCup High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="LegsChain7BUNP Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7BUNP Low</Data>
+            <Data name="HarnessConnector7BUNP Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7BUNP Low</Data>
+            <Data name="Feet_outfit7BUNP Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7BUNP Low</Data>
+            <Data name="Tri IronBoots 07BUNP Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07BUNP Low</Data>
+            <Data name="Tri IronBoots 17BUNP Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="LegsChain7BUNP High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7BUNP High</Data>
+            <Data name="HarnessConnector7BUNP High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7BUNP High</Data>
+            <Data name="Feet_outfit7BUNP High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7BUNP High</Data>
+            <Data name="Tri IronBoots 07BUNP High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07BUNP High</Data>
+            <Data name="Tri IronBoots 17BUNP High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="LegsChain7B Oppai Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B Oppai Low</Data>
+            <Data name="HarnessConnector7B Oppai Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B Oppai Low</Data>
+            <Data name="Feet_outfit7B Oppai Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B Oppai Low</Data>
+            <Data name="Tri IronBoots 07B Oppai Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B Oppai Low</Data>
+            <Data name="Tri IronBoots 17B Oppai Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="LegsChain7B Oppai High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B Oppai High</Data>
+            <Data name="HarnessConnector7B Oppai High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B Oppai High</Data>
+            <Data name="Feet_outfit7B Oppai High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B Oppai High</Data>
+            <Data name="Tri IronBoots 07B Oppai High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B Oppai High</Data>
+            <Data name="Tri IronBoots 17B Oppai High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="LegsChain7B CH Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B CH Low</Data>
+            <Data name="HarnessConnector7B CH Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B CH Low</Data>
+            <Data name="Feet_outfit7B CH Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B CH Low</Data>
+            <Data name="Tri IronBoots 07B CH Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B CH Low</Data>
+            <Data name="Tri IronBoots 17B CH Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="LegsChain7B CH High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChain7B CH High</Data>
+            <Data name="HarnessConnector7B CH High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnector7B CH High</Data>
+            <Data name="Feet_outfit7B CH High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfit7B CH High</Data>
+            <Data name="Tri IronBoots 07B CH High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 07B CH High</Data>
+            <Data name="Tri IronBoots 17B CH High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 17B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNP Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNP Low</Data>
+            <Data name="HarnessConnectorUNP Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNP Low</Data>
+            <Data name="Feet_outfitUNP Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNP Low</Data>
+            <Data name="Tri IronBoots 0UNP Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNP Low</Data>
+            <Data name="Tri IronBoots 1UNP Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNP High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNP High</Data>
+            <Data name="HarnessConnectorUNP High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNP High</Data>
+            <Data name="Feet_outfitUNP High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNP High</Data>
+            <Data name="Tri IronBoots 0UNP High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNP High</Data>
+            <Data name="Tri IronBoots 1UNP High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNP Pushup Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNP Pushup Low</Data>
+            <Data name="HarnessConnectorUNP Pushup Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNP Pushup Low</Data>
+            <Data name="Feet_outfitUNP Pushup Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNP Pushup Low</Data>
+            <Data name="Tri IronBoots 0UNP Pushup Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNP Pushup Low</Data>
+            <Data name="Tri IronBoots 1UNP Pushup Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNP Pushup High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNP Pushup High</Data>
+            <Data name="HarnessConnectorUNP Pushup High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNP Pushup High</Data>
+            <Data name="Feet_outfitUNP Pushup High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNP Pushup High</Data>
+            <Data name="Tri IronBoots 0UNP Pushup High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNP Pushup High</Data>
+            <Data name="Tri IronBoots 1UNP Pushup High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNP Skinny Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNP Skinny Low</Data>
+            <Data name="HarnessConnectorUNP Skinny Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNP Skinny Low</Data>
+            <Data name="Feet_outfitUNP Skinny Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNP Skinny Low</Data>
+            <Data name="Tri IronBoots 0UNP Skinny Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNP Skinny Low</Data>
+            <Data name="Tri IronBoots 1UNP Skinny Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNP Skinny High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNP Skinny High</Data>
+            <Data name="HarnessConnectorUNP Skinny High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNP Skinny High</Data>
+            <Data name="Feet_outfitUNP Skinny High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNP Skinny High</Data>
+            <Data name="Tri IronBoots 0UNP Skinny High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNP Skinny High</Data>
+            <Data name="Tri IronBoots 1UNP Skinny High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNP Perky Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNP Perky Low</Data>
+            <Data name="HarnessConnectorUNP Perky Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNP Perky Low</Data>
+            <Data name="Feet_outfitUNP Perky Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNP Perky Low</Data>
+            <Data name="Tri IronBoots 0UNP Perky Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNP Perky Low</Data>
+            <Data name="Tri IronBoots 1UNP Perky Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNP Perky High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNP Perky High</Data>
+            <Data name="HarnessConnectorUNP Perky High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNP Perky High</Data>
+            <Data name="Feet_outfitUNP Perky High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNP Perky High</Data>
+            <Data name="Tri IronBoots 0UNP Perky High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNP Perky High</Data>
+            <Data name="Tri IronBoots 1UNP Perky High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPB Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPB Low</Data>
+            <Data name="HarnessConnectorUNPB Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPB Low</Data>
+            <Data name="Feet_outfitUNPB Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPB Low</Data>
+            <Data name="Tri IronBoots 0UNPB Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPB Low</Data>
+            <Data name="Tri IronBoots 1UNPB Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPB High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPB High</Data>
+            <Data name="HarnessConnectorUNPB High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPB High</Data>
+            <Data name="Feet_outfitUNPB High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPB High</Data>
+            <Data name="Tri IronBoots 0UNPB High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPB High</Data>
+            <Data name="Tri IronBoots 1UNPB High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPB Chapi" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPB Chapi</Data>
+            <Data name="HarnessConnectorUNPB Chapi" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPB Chapi</Data>
+            <Data name="Feet_outfitUNPB Chapi" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPB Chapi</Data>
+            <Data name="Tri IronBoots 0UNPB Chapi" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPB Chapi</Data>
+            <Data name="Tri IronBoots 1UNPB Chapi" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPB Oppai v1" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPB Oppai v1</Data>
+            <Data name="HarnessConnectorUNPB Oppai v1" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPB Oppai v1</Data>
+            <Data name="Feet_outfitUNPB Oppai v1" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPB Oppai v1</Data>
+            <Data name="Tri IronBoots 0UNPB Oppai v1" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPB Oppai v1</Data>
+            <Data name="Tri IronBoots 1UNPB Oppai v1" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPB Oppai v3.2 Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPB Oppai v3.2 Low</Data>
+            <Data name="HarnessConnectorUNPB Oppai v3.2 Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPB Oppai v3.2 Low</Data>
+            <Data name="Feet_outfitUNPB Oppai v3.2 Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPB Oppai v3.2 Low</Data>
+            <Data name="Tri IronBoots 0UNPB Oppai v3.2 Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPB Oppai v3.2 Low</Data>
+            <Data name="Tri IronBoots 1UNPB Oppai v3.2 Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPB Oppai v3.2 High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPB Oppai v3.2 High</Data>
+            <Data name="HarnessConnectorUNPB Oppai v3.2 High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPB Oppai v3.2 High</Data>
+            <Data name="Feet_outfitUNPB Oppai v3.2 High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPB Oppai v3.2 High</Data>
+            <Data name="Tri IronBoots 0UNPB Oppai v3.2 High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPB Oppai v3.2 High</Data>
+            <Data name="Tri IronBoots 1UNPB Oppai v3.2 High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPetite Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPetite Low</Data>
+            <Data name="HarnessConnectorUNPetite Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPetite Low</Data>
+            <Data name="Feet_outfitUNPetite Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPetite Low</Data>
+            <Data name="Tri IronBoots 0UNPetite Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPetite Low</Data>
+            <Data name="Tri IronBoots 1UNPetite Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPetite High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPetite High</Data>
+            <Data name="HarnessConnectorUNPetite High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPetite High</Data>
+            <Data name="Feet_outfitUNPetite High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPetite High</Data>
+            <Data name="Tri IronBoots 0UNPetite High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPetite High</Data>
+            <Data name="Tri IronBoots 1UNPetite High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPC Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPC Low</Data>
+            <Data name="HarnessConnectorUNPC Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPC Low</Data>
+            <Data name="Feet_outfitUNPC Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPC Low</Data>
+            <Data name="Tri IronBoots 0UNPC Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPC Low</Data>
+            <Data name="Tri IronBoots 1UNPC Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPC High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPC High</Data>
+            <Data name="HarnessConnectorUNPC High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPC High</Data>
+            <Data name="Feet_outfitUNPC High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPC High</Data>
+            <Data name="Tri IronBoots 0UNPC High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPC High</Data>
+            <Data name="Tri IronBoots 1UNPC High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPCM Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPCM Low</Data>
+            <Data name="HarnessConnectorUNPCM Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPCM Low</Data>
+            <Data name="Feet_outfitUNPCM Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPCM Low</Data>
+            <Data name="Tri IronBoots 0UNPCM Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPCM Low</Data>
+            <Data name="Tri IronBoots 1UNPCM Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPCM High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPCM High</Data>
+            <Data name="HarnessConnectorUNPCM High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPCM High</Data>
+            <Data name="Feet_outfitUNPCM High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPCM High</Data>
+            <Data name="Tri IronBoots 0UNPCM High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPCM High</Data>
+            <Data name="Tri IronBoots 1UNPCM High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPSH Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPSH Low</Data>
+            <Data name="HarnessConnectorUNPSH Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPSH Low</Data>
+            <Data name="Feet_outfitUNPSH Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPSH Low</Data>
+            <Data name="Tri IronBoots 0UNPSH Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPSH Low</Data>
+            <Data name="Tri IronBoots 1UNPSH Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPSH High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPSH High</Data>
+            <Data name="HarnessConnectorUNPSH High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPSH High</Data>
+            <Data name="Feet_outfitUNPSH High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPSH High</Data>
+            <Data name="Tri IronBoots 0UNPSH High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPSH High</Data>
+            <Data name="Tri IronBoots 1UNPSH High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPK Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPK Low</Data>
+            <Data name="HarnessConnectorUNPK Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPK Low</Data>
+            <Data name="Feet_outfitUNPK Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPK Low</Data>
+            <Data name="Tri IronBoots 0UNPK Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPK Low</Data>
+            <Data name="Tri IronBoots 1UNPK Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPK High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPK High</Data>
+            <Data name="HarnessConnectorUNPK High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPK High</Data>
+            <Data name="Feet_outfitUNPK High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPK High</Data>
+            <Data name="Tri IronBoots 0UNPK High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPK High</Data>
+            <Data name="Tri IronBoots 1UNPK High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPK Bonus Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPK Bonus Low</Data>
+            <Data name="HarnessConnectorUNPK Bonus Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPK Bonus Low</Data>
+            <Data name="Feet_outfitUNPK Bonus Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPK Bonus Low</Data>
+            <Data name="Tri IronBoots 0UNPK Bonus Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPK Bonus Low</Data>
+            <Data name="Tri IronBoots 1UNPK Bonus Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPK Bonus High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPK Bonus High</Data>
+            <Data name="HarnessConnectorUNPK Bonus High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPK Bonus High</Data>
+            <Data name="Feet_outfitUNPK Bonus High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPK Bonus High</Data>
+            <Data name="Tri IronBoots 0UNPK Bonus High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPK Bonus High</Data>
+            <Data name="Tri IronBoots 1UNPK Bonus High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUN7B Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUN7B Low</Data>
+            <Data name="HarnessConnectorUN7B Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUN7B Low</Data>
+            <Data name="Feet_outfitUN7B Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUN7B Low</Data>
+            <Data name="Tri IronBoots 0UN7B Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UN7B Low</Data>
+            <Data name="Tri IronBoots 1UN7B Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="LegsChainUN7B High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUN7B High</Data>
+            <Data name="HarnessConnectorUN7B High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUN7B High</Data>
+            <Data name="Feet_outfitUN7B High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUN7B High</Data>
+            <Data name="Tri IronBoots 0UN7B High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UN7B High</Data>
+            <Data name="Tri IronBoots 1UN7B High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPBB Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPBB Low</Data>
+            <Data name="HarnessConnectorUNPBB Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPBB Low</Data>
+            <Data name="Feet_outfitUNPBB Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPBB Low</Data>
+            <Data name="Tri IronBoots 0UNPBB Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPBB Low</Data>
+            <Data name="Tri IronBoots 1UNPBB Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPBB High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPBB High</Data>
+            <Data name="HarnessConnectorUNPBB High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPBB High</Data>
+            <Data name="Feet_outfitUNPBB High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPBB High</Data>
+            <Data name="Tri IronBoots 0UNPBB High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPBB High</Data>
+            <Data name="Tri IronBoots 1UNPBB High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="LegsChainSeraphim Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainSeraphim Low</Data>
+            <Data name="HarnessConnectorSeraphim Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorSeraphim Low</Data>
+            <Data name="Feet_outfitSeraphim Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitSeraphim Low</Data>
+            <Data name="Tri IronBoots 0Seraphim Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Seraphim Low</Data>
+            <Data name="Tri IronBoots 1Seraphim Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="LegsChainSeraphim High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainSeraphim High</Data>
+            <Data name="HarnessConnectorSeraphim High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorSeraphim High</Data>
+            <Data name="Feet_outfitSeraphim High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitSeraphim High</Data>
+            <Data name="Tri IronBoots 0Seraphim High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Seraphim High</Data>
+            <Data name="Tri IronBoots 1Seraphim High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="LegsChainDemonfet Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainDemonfet Low</Data>
+            <Data name="HarnessConnectorDemonfet Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorDemonfet Low</Data>
+            <Data name="Feet_outfitDemonfet Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitDemonfet Low</Data>
+            <Data name="Tri IronBoots 0Demonfet Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Demonfet Low</Data>
+            <Data name="Tri IronBoots 1Demonfet Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="LegsChainDemonfet High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainDemonfet High</Data>
+            <Data name="HarnessConnectorDemonfet High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorDemonfet High</Data>
+            <Data name="Feet_outfitDemonfet High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitDemonfet High</Data>
+            <Data name="Tri IronBoots 0Demonfet High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Demonfet High</Data>
+            <Data name="Tri IronBoots 1Demonfet High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="LegsChainDream Girl Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainDream Girl Low</Data>
+            <Data name="HarnessConnectorDream Girl Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorDream Girl Low</Data>
+            <Data name="Feet_outfitDream Girl Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitDream Girl Low</Data>
+            <Data name="Tri IronBoots 0Dream Girl Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Dream Girl Low</Data>
+            <Data name="Tri IronBoots 1Dream Girl Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="LegsChainDream Girl High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainDream Girl High</Data>
+            <Data name="HarnessConnectorDream Girl High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorDream Girl High</Data>
+            <Data name="Feet_outfitDream Girl High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitDream Girl High</Data>
+            <Data name="Tri IronBoots 0Dream Girl High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Dream Girl High</Data>
+            <Data name="Tri IronBoots 1Dream Girl High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="LegsChainTop Model Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainTop Model Low</Data>
+            <Data name="HarnessConnectorTop Model Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorTop Model Low</Data>
+            <Data name="Feet_outfitTop Model Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitTop Model Low</Data>
+            <Data name="Tri IronBoots 0Top Model Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Top Model Low</Data>
+            <Data name="Tri IronBoots 1Top Model Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="LegsChainTop Model High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainTop Model High</Data>
+            <Data name="HarnessConnectorTop Model High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorTop Model High</Data>
+            <Data name="Feet_outfitTop Model High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitTop Model High</Data>
+            <Data name="Tri IronBoots 0Top Model High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Top Model High</Data>
+            <Data name="Tri IronBoots 1Top Model High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="LegsChainLeito Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainLeito Low</Data>
+            <Data name="HarnessConnectorLeito Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorLeito Low</Data>
+            <Data name="Feet_outfitLeito Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitLeito Low</Data>
+            <Data name="Tri IronBoots 0Leito Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Leito Low</Data>
+            <Data name="Tri IronBoots 1Leito Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="LegsChainLeito High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainLeito High</Data>
+            <Data name="HarnessConnectorLeito High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorLeito High</Data>
+            <Data name="Feet_outfitLeito High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitLeito High</Data>
+            <Data name="Tri IronBoots 0Leito High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Leito High</Data>
+            <Data name="Tri IronBoots 1Leito High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPF Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPF Low</Data>
+            <Data name="HarnessConnectorUNPF Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPF Low</Data>
+            <Data name="Feet_outfitUNPF Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPF Low</Data>
+            <Data name="Tri IronBoots 0UNPF Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPF Low</Data>
+            <Data name="Tri IronBoots 1UNPF Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPF High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPF High</Data>
+            <Data name="HarnessConnectorUNPF High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPF High</Data>
+            <Data name="Feet_outfitUNPF High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPF High</Data>
+            <Data name="Tri IronBoots 0UNPF High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPF High</Data>
+            <Data name="Tri IronBoots 1UNPF High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPFx Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPFx Low</Data>
+            <Data name="HarnessConnectorUNPFx Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPFx Low</Data>
+            <Data name="Feet_outfitUNPFx Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPFx Low</Data>
+            <Data name="Tri IronBoots 0UNPFx Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPFx Low</Data>
+            <Data name="Tri IronBoots 1UNPFx Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="LegsChainUNPFx High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainUNPFx High</Data>
+            <Data name="HarnessConnectorUNPFx High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorUNPFx High</Data>
+            <Data name="Feet_outfitUNPFx High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitUNPFx High</Data>
+            <Data name="Tri IronBoots 0UNPFx High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0UNPFx High</Data>
+            <Data name="Tri IronBoots 1UNPFx High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="LegsChainCNHF Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainCNHF Low</Data>
+            <Data name="HarnessConnectorCNHF Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorCNHF Low</Data>
+            <Data name="Feet_outfitCNHF Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitCNHF Low</Data>
+            <Data name="Tri IronBoots 0CNHF Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0CNHF Low</Data>
+            <Data name="Tri IronBoots 1CNHF Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="LegsChainCNHF High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainCNHF High</Data>
+            <Data name="HarnessConnectorCNHF High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorCNHF High</Data>
+            <Data name="Feet_outfitCNHF High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitCNHF High</Data>
+            <Data name="Tri IronBoots 0CNHF High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0CNHF High</Data>
+            <Data name="Tri IronBoots 1CNHF High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="LegsChainCNHF Bonus Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainCNHF Bonus Low</Data>
+            <Data name="HarnessConnectorCNHF Bonus Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorCNHF Bonus Low</Data>
+            <Data name="Feet_outfitCNHF Bonus Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitCNHF Bonus Low</Data>
+            <Data name="Tri IronBoots 0CNHF Bonus Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0CNHF Bonus Low</Data>
+            <Data name="Tri IronBoots 1CNHF Bonus Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="LegsChainCNHF Bonus High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainCNHF Bonus High</Data>
+            <Data name="HarnessConnectorCNHF Bonus High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorCNHF Bonus High</Data>
+            <Data name="Feet_outfitCNHF Bonus High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitCNHF Bonus High</Data>
+            <Data name="Tri IronBoots 0CNHF Bonus High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0CNHF Bonus High</Data>
+            <Data name="Tri IronBoots 1CNHF Bonus High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="LegsChainMCBM Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainMCBM Low</Data>
+            <Data name="HarnessConnectorMCBM Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorMCBM Low</Data>
+            <Data name="Feet_outfitMCBM Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitMCBM Low</Data>
+            <Data name="Tri IronBoots 0MCBM Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0MCBM Low</Data>
+            <Data name="Tri IronBoots 1MCBM Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="LegsChainMCBM High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainMCBM High</Data>
+            <Data name="HarnessConnectorMCBM High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorMCBM High</Data>
+            <Data name="Feet_outfitMCBM High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitMCBM High</Data>
+            <Data name="Tri IronBoots 0MCBM High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0MCBM High</Data>
+            <Data name="Tri IronBoots 1MCBM High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="LegsChainVenus Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainVenus Low</Data>
+            <Data name="HarnessConnectorVenus Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorVenus Low</Data>
+            <Data name="Feet_outfitVenus Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitVenus Low</Data>
+            <Data name="Tri IronBoots 0Venus Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Venus Low</Data>
+            <Data name="Tri IronBoots 1Venus Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="LegsChainVenus High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainVenus High</Data>
+            <Data name="HarnessConnectorVenus High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorVenus High</Data>
+            <Data name="Feet_outfitVenus High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitVenus High</Data>
+            <Data name="Tri IronBoots 0Venus High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Venus High</Data>
+            <Data name="Tri IronBoots 1Venus High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="LegsChainZGGB-R2 Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainZGGB-R2 Low</Data>
+            <Data name="HarnessConnectorZGGB-R2 Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorZGGB-R2 Low</Data>
+            <Data name="Feet_outfitZGGB-R2 Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitZGGB-R2 Low</Data>
+            <Data name="Tri IronBoots 0ZGGB-R2 Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0ZGGB-R2 Low</Data>
+            <Data name="Tri IronBoots 1ZGGB-R2 Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="LegsChainZGGB-R2 High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainZGGB-R2 High</Data>
+            <Data name="HarnessConnectorZGGB-R2 High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorZGGB-R2 High</Data>
+            <Data name="Feet_outfitZGGB-R2 High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitZGGB-R2 High</Data>
+            <Data name="Tri IronBoots 0ZGGB-R2 High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0ZGGB-R2 High</Data>
+            <Data name="Tri IronBoots 1ZGGB-R2 High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="LegsChainManga Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainManga Low</Data>
+            <Data name="HarnessConnectorManga Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorManga Low</Data>
+            <Data name="Feet_outfitManga Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitManga Low</Data>
+            <Data name="Tri IronBoots 0Manga Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Manga Low</Data>
+            <Data name="Tri IronBoots 1Manga Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="LegsChainManga High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainManga High</Data>
+            <Data name="HarnessConnectorManga High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorManga High</Data>
+            <Data name="Feet_outfitManga High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitManga High</Data>
+            <Data name="Tri IronBoots 0Manga High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0Manga High</Data>
+            <Data name="Tri IronBoots 1Manga High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="LegsChainCHSBHC Low" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainCHSBHC Low</Data>
+            <Data name="HarnessConnectorCHSBHC Low" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorCHSBHC Low</Data>
+            <Data name="Feet_outfitCHSBHC Low" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitCHSBHC Low</Data>
+            <Data name="Tri IronBoots 0CHSBHC Low" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0CHSBHC Low</Data>
+            <Data name="Tri IronBoots 1CHSBHC Low" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="LegsChainCHSBHC High" target="LegsChain" local="true">HR_HarnessBoots01HDT.osd\LegsChainCHSBHC High</Data>
+            <Data name="HarnessConnectorCHSBHC High" target="HarnessConnector" local="true">HR_HarnessBoots01HDT.osd\HarnessConnectorCHSBHC High</Data>
+            <Data name="Feet_outfitCHSBHC High" target="Feet_outfit" local="true">HR_HarnessBoots01HDT.osd\Feet_outfitCHSBHC High</Data>
+            <Data name="Tri IronBoots 0CHSBHC High" target="Tri IronBoots 0" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 0CHSBHC High</Data>
+            <Data name="Tri IronBoots 1CHSBHC High" target="Tri IronBoots 1" local="true">HR_HarnessBoots01HDT.osd\Tri IronBoots 1CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

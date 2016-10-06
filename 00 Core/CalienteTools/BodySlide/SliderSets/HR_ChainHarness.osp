@@ -1,0 +1,691 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_ChainHarness">
+        <DataFolder>DDX_Heretical\HR_ChainHarness</DataFolder>
+        <SourceFile>HR_ChainHarness.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Restraints</OutputPath>
+        <OutputFile GenWeights="true">HR_ChainHarness</OutputFile>
+        <Shape target="HarnessBelt">HarnessBelt</Shape>
+        <Shape target="HarnessChain">HarnessChain</Shape>
+        <Shape target="HarnessCollar">HarnessCollar</Shape>
+        <Shape target="HarnessConnectRings">HarnessConnectRings</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="HarnessBeltBreasts" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreasts</Data>
+            <Data name="HarnessConnectRingsBreasts" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreasts</Data>
+            <Data name="HarnessCollarBreasts" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreasts</Data>
+            <Data name="HarnessChainBreasts" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="HarnessBeltBreastsSmall" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastsSmall</Data>
+            <Data name="HarnessConnectRingsBreastsSmall" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastsSmall</Data>
+            <Data name="HarnessCollarBreastsSmall" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreastsSmall</Data>
+            <Data name="HarnessChainBreastsSmall" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBreastsSH" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastsSH</Data>
+            <Data name="HarnessConnectRingsBreastsSH" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastsSH</Data>
+            <Data name="HarnessCollarBreastsSH" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreastsSH</Data>
+            <Data name="HarnessChainBreastsSH" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBreastsSSH" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastsSSH</Data>
+            <Data name="HarnessConnectRingsBreastsSSH" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastsSSH</Data>
+            <Data name="HarnessCollarBreastsSSH" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreastsSSH</Data>
+            <Data name="HarnessChainBreastsSSH" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBreastsFantasy" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastsFantasy</Data>
+            <Data name="HarnessConnectRingsBreastsFantasy" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastsFantasy</Data>
+            <Data name="HarnessCollarBreastsFantasy" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreastsFantasy</Data>
+            <Data name="HarnessChainBreastsFantasy" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="HarnessBeltDoubleMelon" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltDoubleMelon</Data>
+            <Data name="HarnessConnectRingsDoubleMelon" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsDoubleMelon</Data>
+            <Data name="HarnessCollarDoubleMelon" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarDoubleMelon</Data>
+            <Data name="HarnessChainDoubleMelon" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBreastCleavage" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastCleavage</Data>
+            <Data name="HarnessConnectRingsBreastCleavage" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastCleavage</Data>
+            <Data name="HarnessChainBreastCleavage" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBreastFlatness" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastFlatness</Data>
+            <Data name="HarnessConnectRingsBreastFlatness" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastFlatness</Data>
+            <Data name="HarnessCollarBreastFlatness" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreastFlatness</Data>
+            <Data name="HarnessChainBreastFlatness" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBreastGravity" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastGravity</Data>
+            <Data name="HarnessConnectRingsBreastGravity" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastGravity</Data>
+            <Data name="HarnessCollarBreastGravity" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreastGravity</Data>
+            <Data name="HarnessChainBreastGravity" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="HarnessBeltPushUp" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltPushUp</Data>
+            <Data name="HarnessConnectRingsPushUp" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsPushUp</Data>
+            <Data name="HarnessCollarPushUp" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarPushUp</Data>
+            <Data name="HarnessChainPushUp" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBreastHeight" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastHeight</Data>
+            <Data name="HarnessConnectRingsBreastHeight" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastHeight</Data>
+            <Data name="HarnessCollarBreastHeight" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreastHeight</Data>
+            <Data name="HarnessChainBreastHeight" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBreastPerkiness" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastPerkiness</Data>
+            <Data name="HarnessConnectRingsBreastPerkiness" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastPerkiness</Data>
+            <Data name="HarnessCollarBreastPerkiness" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreastPerkiness</Data>
+            <Data name="HarnessChainBreastPerkiness" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBreastWidth" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBreastWidth</Data>
+            <Data name="HarnessConnectRingsBreastWidth" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBreastWidth</Data>
+            <Data name="HarnessCollarBreastWidth" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBreastWidth</Data>
+            <Data name="HarnessChainBreastWidth" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="HarnessChainNippleDistance" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="HarnessBeltNippleAreola" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltNippleAreola</Data>
+            <Data name="HarnessConnectRingsNippleAreola" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsNippleAreola</Data>
+            <Data name="HarnessChainNippleAreola" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="HarnessBeltNippleUp" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltNippleUp</Data>
+            <Data name="HarnessConnectRingsNippleUp" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsNippleUp</Data>
+            <Data name="HarnessChainNippleUp" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="HarnessBeltNippleDown" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltNippleDown</Data>
+            <Data name="HarnessConnectRingsNippleDown" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsNippleDown</Data>
+            <Data name="HarnessChainNippleDown" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainNippleDown</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="HarnessConnectRingsArms" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsArms</Data>
+            <Data name="HarnessCollarArms" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarArms</Data>
+            <Data name="HarnessChainArms" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="HarnessCollarChubbyArms" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarChubbyArms</Data>
+            <Data name="HarnessChainChubbyArms" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="HarnessConnectRingsShoulderSmooth" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsShoulderSmooth</Data>
+            <Data name="HarnessCollarShoulderSmooth" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarShoulderSmooth</Data>
+            <Data name="HarnessChainShoulderSmooth" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="HarnessBeltShoulderWidth" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltShoulderWidth</Data>
+            <Data name="HarnessConnectRingsShoulderWidth" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsShoulderWidth</Data>
+            <Data name="HarnessCollarShoulderWidth" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarShoulderWidth</Data>
+            <Data name="HarnessChainShoulderWidth" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBigTorso" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBigTorso</Data>
+            <Data name="HarnessConnectRingsBigTorso" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBigTorso</Data>
+            <Data name="HarnessCollarBigTorso" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBigTorso</Data>
+            <Data name="HarnessChainBigTorso" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="HarnessBeltWaist" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltWaist</Data>
+            <Data name="HarnessConnectRingsWaist" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsWaist</Data>
+            <Data name="HarnessChainWaist" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="HarnessBeltWideWaistLine" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltWideWaistLine</Data>
+            <Data name="HarnessChainWideWaistLine" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="HarnessBeltChubbyWaist" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltChubbyWaist</Data>
+            <Data name="HarnessConnectRingsChubbyWaist" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsChubbyWaist</Data>
+            <Data name="HarnessChainChubbyWaist" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBelly" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBelly</Data>
+            <Data name="HarnessConnectRingsBelly" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBelly</Data>
+            <Data name="HarnessChainBelly" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBigBelly" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBigBelly</Data>
+            <Data name="HarnessConnectRingsBigBelly" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBigBelly</Data>
+            <Data name="HarnessChainBigBelly" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="HarnessBeltPregnancyBelly" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltPregnancyBelly</Data>
+            <Data name="HarnessConnectRingsPregnancyBelly" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsPregnancyBelly</Data>
+            <Data name="HarnessChainPregnancyBelly" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="HarnessBeltTummyTuck" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltTummyTuck</Data>
+            <Data name="HarnessConnectRingsTummyTuck" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsTummyTuck</Data>
+            <Data name="HarnessChainTummyTuck" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBack" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBack</Data>
+            <Data name="HarnessConnectRingsBack" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBack</Data>
+            <Data name="HarnessCollarBack" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarBack</Data>
+            <Data name="HarnessChainBack" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="HarnessBeltHipbone" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltHipbone</Data>
+            <Data name="HarnessConnectRingsHipbone" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsHipbone</Data>
+            <Data name="HarnessChainHipbone" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="HarnessBeltHips" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltHips</Data>
+            <Data name="HarnessConnectRingsHips" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsHips</Data>
+            <Data name="HarnessChainHips" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="HarnessConnectRingsButtCrack" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsButtCrack</Data>
+            <Data name="HarnessChainButtCrack" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="HarnessBeltButt" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltButt</Data>
+            <Data name="HarnessConnectRingsButt" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsButt</Data>
+            <Data name="HarnessChainButt" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="HarnessBeltButtSmall" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltButtSmall</Data>
+            <Data name="HarnessConnectRingsButtSmall" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsButtSmall</Data>
+            <Data name="HarnessChainButtSmall" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="HarnessBeltButtShape2" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltButtShape2</Data>
+            <Data name="HarnessConnectRingsButtShape2" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsButtShape2</Data>
+            <Data name="HarnessChainButtShape2" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="HarnessBeltBigButt" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltBigButt</Data>
+            <Data name="HarnessConnectRingsBigButt" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsBigButt</Data>
+            <Data name="HarnessChainBigButt" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="HarnessBeltChubbyButt" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltChubbyButt</Data>
+            <Data name="HarnessConnectRingsChubbyButt" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsChubbyButt</Data>
+            <Data name="HarnessChainChubbyButt" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="HarnessBeltAppleCheeks" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltAppleCheeks</Data>
+            <Data name="HarnessConnectRingsAppleCheeks" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsAppleCheeks</Data>
+            <Data name="HarnessChainAppleCheeks" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="HarnessBeltRoundAss" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltRoundAss</Data>
+            <Data name="HarnessConnectRingsRoundAss" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsRoundAss</Data>
+            <Data name="HarnessChainRoundAss" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="HarnessBeltSlimThighs" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltSlimThighs</Data>
+            <Data name="HarnessConnectRingsSlimThighs" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsSlimThighs</Data>
+            <Data name="HarnessChainSlimThighs" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="HarnessConnectRingsThighs" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsThighs</Data>
+            <Data name="HarnessChainThighs" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="HarnessConnectRingsChubbyLegs" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsChubbyLegs</Data>
+            <Data name="HarnessChainChubbyLegs" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="HarnessConnectRingsLegs" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsLegs</Data>
+            <Data name="HarnessChainLegs" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="HarnessConnectRingsKneeHeight" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsKneeHeight</Data>
+            <Data name="HarnessChainKneeHeight" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainKneeHeight</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="HarnessCollarNeck" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarNeck</Data>
+            <Data name="HarnessChainNeck" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B Low</Data>
+            <Data name="HarnessConnectRings7B Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B Low</Data>
+            <Data name="HarnessCollar7B Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B Low</Data>
+            <Data name="HarnessChain7B Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B High</Data>
+            <Data name="HarnessConnectRings7B High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B High</Data>
+            <Data name="HarnessCollar7B High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B High</Data>
+            <Data name="HarnessChain7B High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B Bombshell Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B Bombshell Low</Data>
+            <Data name="HarnessConnectRings7B Bombshell Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B Bombshell Low</Data>
+            <Data name="HarnessCollar7B Bombshell Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B Bombshell Low</Data>
+            <Data name="HarnessChain7B Bombshell Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B Bombshell High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B Bombshell High</Data>
+            <Data name="HarnessConnectRings7B Bombshell High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B Bombshell High</Data>
+            <Data name="HarnessCollar7B Bombshell High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B Bombshell High</Data>
+            <Data name="HarnessChain7B Bombshell High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B Natural Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B Natural Low</Data>
+            <Data name="HarnessConnectRings7B Natural Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B Natural Low</Data>
+            <Data name="HarnessCollar7B Natural Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B Natural Low</Data>
+            <Data name="HarnessChain7B Natural Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B Natural High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B Natural High</Data>
+            <Data name="HarnessConnectRings7B Natural High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B Natural High</Data>
+            <Data name="HarnessCollar7B Natural High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B Natural High</Data>
+            <Data name="HarnessChain7B Natural High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B Cleavage Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B Cleavage Low</Data>
+            <Data name="HarnessConnectRings7B Cleavage Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B Cleavage Low</Data>
+            <Data name="HarnessCollar7B Cleavage Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B Cleavage Low</Data>
+            <Data name="HarnessChain7B Cleavage Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B Cleavage High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B Cleavage High</Data>
+            <Data name="HarnessConnectRings7B Cleavage High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B Cleavage High</Data>
+            <Data name="HarnessCollar7B Cleavage High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B Cleavage High</Data>
+            <Data name="HarnessChain7B Cleavage High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B BCup Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B BCup Low</Data>
+            <Data name="HarnessConnectRings7B BCup Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B BCup Low</Data>
+            <Data name="HarnessCollar7B BCup Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B BCup Low</Data>
+            <Data name="HarnessChain7B BCup Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B BCup High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B BCup High</Data>
+            <Data name="HarnessConnectRings7B BCup High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B BCup High</Data>
+            <Data name="HarnessCollar7B BCup High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B BCup High</Data>
+            <Data name="HarnessChain7B BCup High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7BUNP Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7BUNP Low</Data>
+            <Data name="HarnessConnectRings7BUNP Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7BUNP Low</Data>
+            <Data name="HarnessCollar7BUNP Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7BUNP Low</Data>
+            <Data name="HarnessChain7BUNP Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7BUNP High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7BUNP High</Data>
+            <Data name="HarnessConnectRings7BUNP High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7BUNP High</Data>
+            <Data name="HarnessCollar7BUNP High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7BUNP High</Data>
+            <Data name="HarnessChain7BUNP High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B Oppai Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B Oppai Low</Data>
+            <Data name="HarnessConnectRings7B Oppai Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B Oppai Low</Data>
+            <Data name="HarnessCollar7B Oppai Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B Oppai Low</Data>
+            <Data name="HarnessChain7B Oppai Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B Oppai High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B Oppai High</Data>
+            <Data name="HarnessConnectRings7B Oppai High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B Oppai High</Data>
+            <Data name="HarnessCollar7B Oppai High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B Oppai High</Data>
+            <Data name="HarnessChain7B Oppai High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B CH Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B CH Low</Data>
+            <Data name="HarnessConnectRings7B CH Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B CH Low</Data>
+            <Data name="HarnessCollar7B CH Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B CH Low</Data>
+            <Data name="HarnessChain7B CH Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="HarnessBelt7B CH High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBelt7B CH High</Data>
+            <Data name="HarnessConnectRings7B CH High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRings7B CH High</Data>
+            <Data name="HarnessCollar7B CH High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollar7B CH High</Data>
+            <Data name="HarnessChain7B CH High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChain7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNP Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNP Low</Data>
+            <Data name="HarnessConnectRingsUNP Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNP Low</Data>
+            <Data name="HarnessCollarUNP Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNP Low</Data>
+            <Data name="HarnessChainUNP Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNP High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNP High</Data>
+            <Data name="HarnessConnectRingsUNP High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNP High</Data>
+            <Data name="HarnessCollarUNP High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNP High</Data>
+            <Data name="HarnessChainUNP High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNP Pushup Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNP Pushup Low</Data>
+            <Data name="HarnessConnectRingsUNP Pushup Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNP Pushup Low</Data>
+            <Data name="HarnessCollarUNP Pushup Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNP Pushup Low</Data>
+            <Data name="HarnessChainUNP Pushup Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNP Pushup High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNP Pushup High</Data>
+            <Data name="HarnessConnectRingsUNP Pushup High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNP Pushup High</Data>
+            <Data name="HarnessCollarUNP Pushup High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNP Pushup High</Data>
+            <Data name="HarnessChainUNP Pushup High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNP Skinny Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNP Skinny Low</Data>
+            <Data name="HarnessConnectRingsUNP Skinny Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNP Skinny Low</Data>
+            <Data name="HarnessCollarUNP Skinny Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNP Skinny Low</Data>
+            <Data name="HarnessChainUNP Skinny Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNP Skinny High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNP Skinny High</Data>
+            <Data name="HarnessConnectRingsUNP Skinny High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNP Skinny High</Data>
+            <Data name="HarnessCollarUNP Skinny High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNP Skinny High</Data>
+            <Data name="HarnessChainUNP Skinny High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNP Perky Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNP Perky Low</Data>
+            <Data name="HarnessConnectRingsUNP Perky Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNP Perky Low</Data>
+            <Data name="HarnessCollarUNP Perky Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNP Perky Low</Data>
+            <Data name="HarnessChainUNP Perky Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNP Perky High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNP Perky High</Data>
+            <Data name="HarnessConnectRingsUNP Perky High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNP Perky High</Data>
+            <Data name="HarnessCollarUNP Perky High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNP Perky High</Data>
+            <Data name="HarnessChainUNP Perky High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPB Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPB Low</Data>
+            <Data name="HarnessConnectRingsUNPB Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPB Low</Data>
+            <Data name="HarnessCollarUNPB Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPB Low</Data>
+            <Data name="HarnessChainUNPB Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPB High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPB High</Data>
+            <Data name="HarnessConnectRingsUNPB High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPB High</Data>
+            <Data name="HarnessCollarUNPB High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPB High</Data>
+            <Data name="HarnessChainUNPB High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPB Chapi" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPB Chapi</Data>
+            <Data name="HarnessConnectRingsUNPB Chapi" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPB Chapi</Data>
+            <Data name="HarnessCollarUNPB Chapi" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPB Chapi</Data>
+            <Data name="HarnessChainUNPB Chapi" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPB Oppai v1" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPB Oppai v1</Data>
+            <Data name="HarnessConnectRingsUNPB Oppai v1" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPB Oppai v1</Data>
+            <Data name="HarnessCollarUNPB Oppai v1" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPB Oppai v1</Data>
+            <Data name="HarnessChainUNPB Oppai v1" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPB Oppai v3.2 Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPB Oppai v3.2 Low</Data>
+            <Data name="HarnessConnectRingsUNPB Oppai v3.2 Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPB Oppai v3.2 Low</Data>
+            <Data name="HarnessCollarUNPB Oppai v3.2 Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPB Oppai v3.2 Low</Data>
+            <Data name="HarnessChainUNPB Oppai v3.2 Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPB Oppai v3.2 High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPB Oppai v3.2 High</Data>
+            <Data name="HarnessConnectRingsUNPB Oppai v3.2 High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPB Oppai v3.2 High</Data>
+            <Data name="HarnessCollarUNPB Oppai v3.2 High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPB Oppai v3.2 High</Data>
+            <Data name="HarnessChainUNPB Oppai v3.2 High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPetite Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPetite Low</Data>
+            <Data name="HarnessConnectRingsUNPetite Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPetite Low</Data>
+            <Data name="HarnessCollarUNPetite Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPetite Low</Data>
+            <Data name="HarnessChainUNPetite Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPetite High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPetite High</Data>
+            <Data name="HarnessConnectRingsUNPetite High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPetite High</Data>
+            <Data name="HarnessCollarUNPetite High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPetite High</Data>
+            <Data name="HarnessChainUNPetite High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPC Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPC Low</Data>
+            <Data name="HarnessConnectRingsUNPC Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPC Low</Data>
+            <Data name="HarnessCollarUNPC Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPC Low</Data>
+            <Data name="HarnessChainUNPC Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPC High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPC High</Data>
+            <Data name="HarnessConnectRingsUNPC High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPC High</Data>
+            <Data name="HarnessCollarUNPC High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPC High</Data>
+            <Data name="HarnessChainUNPC High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPCM Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPCM Low</Data>
+            <Data name="HarnessConnectRingsUNPCM Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPCM Low</Data>
+            <Data name="HarnessCollarUNPCM Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPCM Low</Data>
+            <Data name="HarnessChainUNPCM Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPCM High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPCM High</Data>
+            <Data name="HarnessConnectRingsUNPCM High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPCM High</Data>
+            <Data name="HarnessCollarUNPCM High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPCM High</Data>
+            <Data name="HarnessChainUNPCM High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPSH Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPSH Low</Data>
+            <Data name="HarnessConnectRingsUNPSH Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPSH Low</Data>
+            <Data name="HarnessCollarUNPSH Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPSH Low</Data>
+            <Data name="HarnessChainUNPSH Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPSH High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPSH High</Data>
+            <Data name="HarnessConnectRingsUNPSH High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPSH High</Data>
+            <Data name="HarnessCollarUNPSH High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPSH High</Data>
+            <Data name="HarnessChainUNPSH High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPK Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPK Low</Data>
+            <Data name="HarnessConnectRingsUNPK Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPK Low</Data>
+            <Data name="HarnessCollarUNPK Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPK Low</Data>
+            <Data name="HarnessChainUNPK Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPK High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPK High</Data>
+            <Data name="HarnessConnectRingsUNPK High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPK High</Data>
+            <Data name="HarnessCollarUNPK High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPK High</Data>
+            <Data name="HarnessChainUNPK High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPK Bonus Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPK Bonus Low</Data>
+            <Data name="HarnessConnectRingsUNPK Bonus Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPK Bonus Low</Data>
+            <Data name="HarnessCollarUNPK Bonus Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPK Bonus Low</Data>
+            <Data name="HarnessChainUNPK Bonus Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPK Bonus High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPK Bonus High</Data>
+            <Data name="HarnessConnectRingsUNPK Bonus High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPK Bonus High</Data>
+            <Data name="HarnessCollarUNPK Bonus High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPK Bonus High</Data>
+            <Data name="HarnessChainUNPK Bonus High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUN7B Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUN7B Low</Data>
+            <Data name="HarnessConnectRingsUN7B Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUN7B Low</Data>
+            <Data name="HarnessCollarUN7B Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUN7B Low</Data>
+            <Data name="HarnessChainUN7B Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUN7B High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUN7B High</Data>
+            <Data name="HarnessConnectRingsUN7B High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUN7B High</Data>
+            <Data name="HarnessCollarUN7B High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUN7B High</Data>
+            <Data name="HarnessChainUN7B High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPBB Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPBB Low</Data>
+            <Data name="HarnessConnectRingsUNPBB Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPBB Low</Data>
+            <Data name="HarnessCollarUNPBB Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPBB Low</Data>
+            <Data name="HarnessChainUNPBB Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPBB High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPBB High</Data>
+            <Data name="HarnessConnectRingsUNPBB High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPBB High</Data>
+            <Data name="HarnessCollarUNPBB High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPBB High</Data>
+            <Data name="HarnessChainUNPBB High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltSeraphim Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltSeraphim Low</Data>
+            <Data name="HarnessConnectRingsSeraphim Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsSeraphim Low</Data>
+            <Data name="HarnessCollarSeraphim Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarSeraphim Low</Data>
+            <Data name="HarnessChainSeraphim Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltSeraphim High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltSeraphim High</Data>
+            <Data name="HarnessConnectRingsSeraphim High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsSeraphim High</Data>
+            <Data name="HarnessCollarSeraphim High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarSeraphim High</Data>
+            <Data name="HarnessChainSeraphim High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltDemonfet Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltDemonfet Low</Data>
+            <Data name="HarnessConnectRingsDemonfet Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsDemonfet Low</Data>
+            <Data name="HarnessCollarDemonfet Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarDemonfet Low</Data>
+            <Data name="HarnessChainDemonfet Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltDemonfet High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltDemonfet High</Data>
+            <Data name="HarnessConnectRingsDemonfet High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsDemonfet High</Data>
+            <Data name="HarnessCollarDemonfet High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarDemonfet High</Data>
+            <Data name="HarnessChainDemonfet High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltDream Girl Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltDream Girl Low</Data>
+            <Data name="HarnessConnectRingsDream Girl Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsDream Girl Low</Data>
+            <Data name="HarnessCollarDream Girl Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarDream Girl Low</Data>
+            <Data name="HarnessChainDream Girl Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltDream Girl High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltDream Girl High</Data>
+            <Data name="HarnessConnectRingsDream Girl High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsDream Girl High</Data>
+            <Data name="HarnessCollarDream Girl High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarDream Girl High</Data>
+            <Data name="HarnessChainDream Girl High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltTop Model Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltTop Model Low</Data>
+            <Data name="HarnessConnectRingsTop Model Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsTop Model Low</Data>
+            <Data name="HarnessCollarTop Model Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarTop Model Low</Data>
+            <Data name="HarnessChainTop Model Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltTop Model High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltTop Model High</Data>
+            <Data name="HarnessConnectRingsTop Model High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsTop Model High</Data>
+            <Data name="HarnessCollarTop Model High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarTop Model High</Data>
+            <Data name="HarnessChainTop Model High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltLeito Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltLeito Low</Data>
+            <Data name="HarnessConnectRingsLeito Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsLeito Low</Data>
+            <Data name="HarnessCollarLeito Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarLeito Low</Data>
+            <Data name="HarnessChainLeito Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltLeito High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltLeito High</Data>
+            <Data name="HarnessConnectRingsLeito High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsLeito High</Data>
+            <Data name="HarnessCollarLeito High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarLeito High</Data>
+            <Data name="HarnessChainLeito High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPF Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPF Low</Data>
+            <Data name="HarnessConnectRingsUNPF Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPF Low</Data>
+            <Data name="HarnessCollarUNPF Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPF Low</Data>
+            <Data name="HarnessChainUNPF Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPF High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPF High</Data>
+            <Data name="HarnessConnectRingsUNPF High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPF High</Data>
+            <Data name="HarnessCollarUNPF High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPF High</Data>
+            <Data name="HarnessChainUNPF High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPFx Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPFx Low</Data>
+            <Data name="HarnessConnectRingsUNPFx Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPFx Low</Data>
+            <Data name="HarnessCollarUNPFx Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPFx Low</Data>
+            <Data name="HarnessChainUNPFx Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltUNPFx High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltUNPFx High</Data>
+            <Data name="HarnessConnectRingsUNPFx High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsUNPFx High</Data>
+            <Data name="HarnessCollarUNPFx High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarUNPFx High</Data>
+            <Data name="HarnessChainUNPFx High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltCNHF Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltCNHF Low</Data>
+            <Data name="HarnessConnectRingsCNHF Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsCNHF Low</Data>
+            <Data name="HarnessCollarCNHF Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarCNHF Low</Data>
+            <Data name="HarnessChainCNHF Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltCNHF High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltCNHF High</Data>
+            <Data name="HarnessConnectRingsCNHF High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsCNHF High</Data>
+            <Data name="HarnessCollarCNHF High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarCNHF High</Data>
+            <Data name="HarnessChainCNHF High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltCNHF Bonus Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltCNHF Bonus Low</Data>
+            <Data name="HarnessConnectRingsCNHF Bonus Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsCNHF Bonus Low</Data>
+            <Data name="HarnessCollarCNHF Bonus Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarCNHF Bonus Low</Data>
+            <Data name="HarnessChainCNHF Bonus Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltCNHF Bonus High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltCNHF Bonus High</Data>
+            <Data name="HarnessConnectRingsCNHF Bonus High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsCNHF Bonus High</Data>
+            <Data name="HarnessCollarCNHF Bonus High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarCNHF Bonus High</Data>
+            <Data name="HarnessChainCNHF Bonus High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltMCBM Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltMCBM Low</Data>
+            <Data name="HarnessConnectRingsMCBM Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsMCBM Low</Data>
+            <Data name="HarnessCollarMCBM Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarMCBM Low</Data>
+            <Data name="HarnessChainMCBM Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltMCBM High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltMCBM High</Data>
+            <Data name="HarnessConnectRingsMCBM High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsMCBM High</Data>
+            <Data name="HarnessCollarMCBM High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarMCBM High</Data>
+            <Data name="HarnessChainMCBM High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltVenus Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltVenus Low</Data>
+            <Data name="HarnessConnectRingsVenus Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsVenus Low</Data>
+            <Data name="HarnessCollarVenus Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarVenus Low</Data>
+            <Data name="HarnessChainVenus Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltVenus High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltVenus High</Data>
+            <Data name="HarnessConnectRingsVenus High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsVenus High</Data>
+            <Data name="HarnessCollarVenus High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarVenus High</Data>
+            <Data name="HarnessChainVenus High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltZGGB-R2 Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltZGGB-R2 Low</Data>
+            <Data name="HarnessConnectRingsZGGB-R2 Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsZGGB-R2 Low</Data>
+            <Data name="HarnessCollarZGGB-R2 Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarZGGB-R2 Low</Data>
+            <Data name="HarnessChainZGGB-R2 Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltZGGB-R2 High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltZGGB-R2 High</Data>
+            <Data name="HarnessConnectRingsZGGB-R2 High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsZGGB-R2 High</Data>
+            <Data name="HarnessCollarZGGB-R2 High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarZGGB-R2 High</Data>
+            <Data name="HarnessChainZGGB-R2 High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltManga Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltManga Low</Data>
+            <Data name="HarnessConnectRingsManga Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsManga Low</Data>
+            <Data name="HarnessCollarManga Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarManga Low</Data>
+            <Data name="HarnessChainManga Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltManga High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltManga High</Data>
+            <Data name="HarnessConnectRingsManga High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsManga High</Data>
+            <Data name="HarnessCollarManga High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarManga High</Data>
+            <Data name="HarnessChainManga High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="HarnessBeltCHSBHC Low" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltCHSBHC Low</Data>
+            <Data name="HarnessConnectRingsCHSBHC Low" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsCHSBHC Low</Data>
+            <Data name="HarnessCollarCHSBHC Low" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarCHSBHC Low</Data>
+            <Data name="HarnessChainCHSBHC Low" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="HarnessBeltCHSBHC High" target="HarnessBelt" local="true">HR_ChainHarness.osd\HarnessBeltCHSBHC High</Data>
+            <Data name="HarnessConnectRingsCHSBHC High" target="HarnessConnectRings" local="true">HR_ChainHarness.osd\HarnessConnectRingsCHSBHC High</Data>
+            <Data name="HarnessCollarCHSBHC High" target="HarnessCollar" local="true">HR_ChainHarness.osd\HarnessCollarCHSBHC High</Data>
+            <Data name="HarnessChainCHSBHC High" target="HarnessChain" local="true">HR_ChainHarness.osd\HarnessChainCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

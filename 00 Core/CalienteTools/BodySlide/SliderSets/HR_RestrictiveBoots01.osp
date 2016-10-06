@@ -1,0 +1,397 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_RestrictiveBoots01">
+        <DataFolder>DDX_Heretical\HR_RestrictiveBoots01</DataFolder>
+        <SourceFile>HR_RestrictiveBoots01.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Boots</OutputPath>
+        <OutputFile GenWeights="true">RestrictiveBoots01</OutputFile>
+        <Shape target="Feet_outfit" DataFolder="Heretical Resources\HR_HarnessBoots01HDT">Feet_outfit</Shape>
+        <Shape target="Tri IronBoots 0">Tri IronBoots 0</Shape>
+        <Shape target="Tri IronBoots 1">Tri IronBoots 1</Shape>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="Tri IronBoots 0ChubbyLegs" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0ChubbyLegs</Data>
+            <Data name="Tri IronBoots 1ChubbyLegs" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1ChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="Tri IronBoots 0Legs" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Legs</Data>
+            <Data name="Tri IronBoots 1Legs" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Legs</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="Tri IronBoots 0CalfSize" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0CalfSize</Data>
+            <Data name="Tri IronBoots 1CalfSize" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1CalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="Tri IronBoots 0CalfSmooth" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0CalfSmooth</Data>
+            <Data name="Tri IronBoots 1CalfSmooth" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1CalfSmooth</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B Low</Data>
+            <Data name="Tri IronBoots 07B Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B Low</Data>
+            <Data name="Tri IronBoots 17B Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B High</Data>
+            <Data name="Tri IronBoots 07B High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B High</Data>
+            <Data name="Tri IronBoots 17B High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B Bombshell Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B Bombshell Low</Data>
+            <Data name="Tri IronBoots 07B Bombshell Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B Bombshell Low</Data>
+            <Data name="Tri IronBoots 17B Bombshell Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B Bombshell High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B Bombshell High</Data>
+            <Data name="Tri IronBoots 07B Bombshell High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B Bombshell High</Data>
+            <Data name="Tri IronBoots 17B Bombshell High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B Natural Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B Natural Low</Data>
+            <Data name="Tri IronBoots 07B Natural Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B Natural Low</Data>
+            <Data name="Tri IronBoots 17B Natural Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B Natural High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B Natural High</Data>
+            <Data name="Tri IronBoots 07B Natural High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B Natural High</Data>
+            <Data name="Tri IronBoots 17B Natural High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B Cleavage Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B Cleavage Low</Data>
+            <Data name="Tri IronBoots 07B Cleavage Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B Cleavage Low</Data>
+            <Data name="Tri IronBoots 17B Cleavage Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B Cleavage High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B Cleavage High</Data>
+            <Data name="Tri IronBoots 07B Cleavage High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B Cleavage High</Data>
+            <Data name="Tri IronBoots 17B Cleavage High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B BCup Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B BCup Low</Data>
+            <Data name="Tri IronBoots 07B BCup Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B BCup Low</Data>
+            <Data name="Tri IronBoots 17B BCup Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B BCup High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B BCup High</Data>
+            <Data name="Tri IronBoots 07B BCup High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B BCup High</Data>
+            <Data name="Tri IronBoots 17B BCup High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7BUNP Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7BUNP Low</Data>
+            <Data name="Tri IronBoots 07BUNP Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07BUNP Low</Data>
+            <Data name="Tri IronBoots 17BUNP Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7BUNP High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7BUNP High</Data>
+            <Data name="Tri IronBoots 07BUNP High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07BUNP High</Data>
+            <Data name="Tri IronBoots 17BUNP High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B Oppai Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B Oppai Low</Data>
+            <Data name="Tri IronBoots 07B Oppai Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B Oppai Low</Data>
+            <Data name="Tri IronBoots 17B Oppai Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B Oppai High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B Oppai High</Data>
+            <Data name="Tri IronBoots 07B Oppai High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B Oppai High</Data>
+            <Data name="Tri IronBoots 17B Oppai High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B CH Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B CH Low</Data>
+            <Data name="Tri IronBoots 07B CH Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B CH Low</Data>
+            <Data name="Tri IronBoots 17B CH Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Feet_outfit7B CH High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfit7B CH High</Data>
+            <Data name="Tri IronBoots 07B CH High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 07B CH High</Data>
+            <Data name="Tri IronBoots 17B CH High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 17B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNP Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNP Low</Data>
+            <Data name="Tri IronBoots 0UNP Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNP Low</Data>
+            <Data name="Tri IronBoots 1UNP Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNP High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNP High</Data>
+            <Data name="Tri IronBoots 0UNP High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNP High</Data>
+            <Data name="Tri IronBoots 1UNP High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNP Pushup Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNP Pushup Low</Data>
+            <Data name="Tri IronBoots 0UNP Pushup Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNP Pushup Low</Data>
+            <Data name="Tri IronBoots 1UNP Pushup Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNP Pushup High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNP Pushup High</Data>
+            <Data name="Tri IronBoots 0UNP Pushup High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNP Pushup High</Data>
+            <Data name="Tri IronBoots 1UNP Pushup High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNP Skinny Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNP Skinny Low</Data>
+            <Data name="Tri IronBoots 0UNP Skinny Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNP Skinny Low</Data>
+            <Data name="Tri IronBoots 1UNP Skinny Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNP Skinny High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNP Skinny High</Data>
+            <Data name="Tri IronBoots 0UNP Skinny High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNP Skinny High</Data>
+            <Data name="Tri IronBoots 1UNP Skinny High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNP Perky Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNP Perky Low</Data>
+            <Data name="Tri IronBoots 0UNP Perky Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNP Perky Low</Data>
+            <Data name="Tri IronBoots 1UNP Perky Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNP Perky High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNP Perky High</Data>
+            <Data name="Tri IronBoots 0UNP Perky High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNP Perky High</Data>
+            <Data name="Tri IronBoots 1UNP Perky High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPB Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPB Low</Data>
+            <Data name="Tri IronBoots 0UNPB Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPB Low</Data>
+            <Data name="Tri IronBoots 1UNPB Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPB High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPB High</Data>
+            <Data name="Tri IronBoots 0UNPB High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPB High</Data>
+            <Data name="Tri IronBoots 1UNPB High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPB Chapi" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPB Chapi</Data>
+            <Data name="Tri IronBoots 0UNPB Chapi" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPB Chapi</Data>
+            <Data name="Tri IronBoots 1UNPB Chapi" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPB Oppai v1" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPB Oppai v1</Data>
+            <Data name="Tri IronBoots 0UNPB Oppai v1" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPB Oppai v1</Data>
+            <Data name="Tri IronBoots 1UNPB Oppai v1" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPB Oppai v3.2 Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPB Oppai v3.2 Low</Data>
+            <Data name="Tri IronBoots 0UNPB Oppai v3.2 Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPB Oppai v3.2 Low</Data>
+            <Data name="Tri IronBoots 1UNPB Oppai v3.2 Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPB Oppai v3.2 High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPB Oppai v3.2 High</Data>
+            <Data name="Tri IronBoots 0UNPB Oppai v3.2 High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPB Oppai v3.2 High</Data>
+            <Data name="Tri IronBoots 1UNPB Oppai v3.2 High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPetite Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPetite Low</Data>
+            <Data name="Tri IronBoots 0UNPetite Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPetite Low</Data>
+            <Data name="Tri IronBoots 1UNPetite Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPetite High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPetite High</Data>
+            <Data name="Tri IronBoots 0UNPetite High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPetite High</Data>
+            <Data name="Tri IronBoots 1UNPetite High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPC Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPC Low</Data>
+            <Data name="Tri IronBoots 0UNPC Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPC Low</Data>
+            <Data name="Tri IronBoots 1UNPC Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPC High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPC High</Data>
+            <Data name="Tri IronBoots 0UNPC High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPC High</Data>
+            <Data name="Tri IronBoots 1UNPC High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPCM Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPCM Low</Data>
+            <Data name="Tri IronBoots 0UNPCM Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPCM Low</Data>
+            <Data name="Tri IronBoots 1UNPCM Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPCM High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPCM High</Data>
+            <Data name="Tri IronBoots 0UNPCM High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPCM High</Data>
+            <Data name="Tri IronBoots 1UNPCM High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPSH Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPSH Low</Data>
+            <Data name="Tri IronBoots 0UNPSH Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPSH Low</Data>
+            <Data name="Tri IronBoots 1UNPSH Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPSH High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPSH High</Data>
+            <Data name="Tri IronBoots 0UNPSH High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPSH High</Data>
+            <Data name="Tri IronBoots 1UNPSH High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPK Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPK Low</Data>
+            <Data name="Tri IronBoots 0UNPK Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPK Low</Data>
+            <Data name="Tri IronBoots 1UNPK Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPK High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPK High</Data>
+            <Data name="Tri IronBoots 0UNPK High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPK High</Data>
+            <Data name="Tri IronBoots 1UNPK High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPK Bonus Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPK Bonus Low</Data>
+            <Data name="Tri IronBoots 0UNPK Bonus Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPK Bonus Low</Data>
+            <Data name="Tri IronBoots 1UNPK Bonus Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPK Bonus High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPK Bonus High</Data>
+            <Data name="Tri IronBoots 0UNPK Bonus High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPK Bonus High</Data>
+            <Data name="Tri IronBoots 1UNPK Bonus High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUN7B Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUN7B Low</Data>
+            <Data name="Tri IronBoots 0UN7B Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UN7B Low</Data>
+            <Data name="Tri IronBoots 1UN7B Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUN7B High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUN7B High</Data>
+            <Data name="Tri IronBoots 0UN7B High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UN7B High</Data>
+            <Data name="Tri IronBoots 1UN7B High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPBB Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPBB Low</Data>
+            <Data name="Tri IronBoots 0UNPBB Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPBB Low</Data>
+            <Data name="Tri IronBoots 1UNPBB Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPBB High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPBB High</Data>
+            <Data name="Tri IronBoots 0UNPBB High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPBB High</Data>
+            <Data name="Tri IronBoots 1UNPBB High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitSeraphim Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitSeraphim Low</Data>
+            <Data name="Tri IronBoots 0Seraphim Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Seraphim Low</Data>
+            <Data name="Tri IronBoots 1Seraphim Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitSeraphim High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitSeraphim High</Data>
+            <Data name="Tri IronBoots 0Seraphim High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Seraphim High</Data>
+            <Data name="Tri IronBoots 1Seraphim High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitDemonfet Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitDemonfet Low</Data>
+            <Data name="Tri IronBoots 0Demonfet Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Demonfet Low</Data>
+            <Data name="Tri IronBoots 1Demonfet Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitDemonfet High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitDemonfet High</Data>
+            <Data name="Tri IronBoots 0Demonfet High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Demonfet High</Data>
+            <Data name="Tri IronBoots 1Demonfet High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitDream Girl Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitDream Girl Low</Data>
+            <Data name="Tri IronBoots 0Dream Girl Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Dream Girl Low</Data>
+            <Data name="Tri IronBoots 1Dream Girl Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitDream Girl High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitDream Girl High</Data>
+            <Data name="Tri IronBoots 0Dream Girl High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Dream Girl High</Data>
+            <Data name="Tri IronBoots 1Dream Girl High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitTop Model Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitTop Model Low</Data>
+            <Data name="Tri IronBoots 0Top Model Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Top Model Low</Data>
+            <Data name="Tri IronBoots 1Top Model Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitTop Model High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitTop Model High</Data>
+            <Data name="Tri IronBoots 0Top Model High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Top Model High</Data>
+            <Data name="Tri IronBoots 1Top Model High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitLeito Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitLeito Low</Data>
+            <Data name="Tri IronBoots 0Leito Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Leito Low</Data>
+            <Data name="Tri IronBoots 1Leito Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitLeito High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitLeito High</Data>
+            <Data name="Tri IronBoots 0Leito High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Leito High</Data>
+            <Data name="Tri IronBoots 1Leito High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPF Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPF Low</Data>
+            <Data name="Tri IronBoots 0UNPF Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPF Low</Data>
+            <Data name="Tri IronBoots 1UNPF Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPF High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPF High</Data>
+            <Data name="Tri IronBoots 0UNPF High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPF High</Data>
+            <Data name="Tri IronBoots 1UNPF High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPFx Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPFx Low</Data>
+            <Data name="Tri IronBoots 0UNPFx Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPFx Low</Data>
+            <Data name="Tri IronBoots 1UNPFx Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitUNPFx High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitUNPFx High</Data>
+            <Data name="Tri IronBoots 0UNPFx High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0UNPFx High</Data>
+            <Data name="Tri IronBoots 1UNPFx High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitCNHF Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitCNHF Low</Data>
+            <Data name="Tri IronBoots 0CNHF Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0CNHF Low</Data>
+            <Data name="Tri IronBoots 1CNHF Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitCNHF High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitCNHF High</Data>
+            <Data name="Tri IronBoots 0CNHF High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0CNHF High</Data>
+            <Data name="Tri IronBoots 1CNHF High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitCNHF Bonus Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitCNHF Bonus Low</Data>
+            <Data name="Tri IronBoots 0CNHF Bonus Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0CNHF Bonus Low</Data>
+            <Data name="Tri IronBoots 1CNHF Bonus Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitCNHF Bonus High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitCNHF Bonus High</Data>
+            <Data name="Tri IronBoots 0CNHF Bonus High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0CNHF Bonus High</Data>
+            <Data name="Tri IronBoots 1CNHF Bonus High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitMCBM Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitMCBM Low</Data>
+            <Data name="Tri IronBoots 0MCBM Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0MCBM Low</Data>
+            <Data name="Tri IronBoots 1MCBM Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitMCBM High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitMCBM High</Data>
+            <Data name="Tri IronBoots 0MCBM High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0MCBM High</Data>
+            <Data name="Tri IronBoots 1MCBM High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitVenus Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitVenus Low</Data>
+            <Data name="Tri IronBoots 0Venus Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Venus Low</Data>
+            <Data name="Tri IronBoots 1Venus Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitVenus High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitVenus High</Data>
+            <Data name="Tri IronBoots 0Venus High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Venus High</Data>
+            <Data name="Tri IronBoots 1Venus High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitZGGB-R2 Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitZGGB-R2 Low</Data>
+            <Data name="Tri IronBoots 0ZGGB-R2 Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0ZGGB-R2 Low</Data>
+            <Data name="Tri IronBoots 1ZGGB-R2 Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitZGGB-R2 High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitZGGB-R2 High</Data>
+            <Data name="Tri IronBoots 0ZGGB-R2 High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0ZGGB-R2 High</Data>
+            <Data name="Tri IronBoots 1ZGGB-R2 High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitManga Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitManga Low</Data>
+            <Data name="Tri IronBoots 0Manga Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Manga Low</Data>
+            <Data name="Tri IronBoots 1Manga Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitManga High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitManga High</Data>
+            <Data name="Tri IronBoots 0Manga High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0Manga High</Data>
+            <Data name="Tri IronBoots 1Manga High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="Feet_outfitCHSBHC Low" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitCHSBHC Low</Data>
+            <Data name="Tri IronBoots 0CHSBHC Low" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0CHSBHC Low</Data>
+            <Data name="Tri IronBoots 1CHSBHC Low" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="Feet_outfitCHSBHC High" target="Feet_outfit" local="true">HR_RestrictiveBoots01.osd\Feet_outfitCHSBHC High</Data>
+            <Data name="Tri IronBoots 0CHSBHC High" target="Tri IronBoots 0" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 0CHSBHC High</Data>
+            <Data name="Tri IronBoots 1CHSBHC High" target="Tri IronBoots 1" local="true">HR_RestrictiveBoots01.osd\Tri IronBoots 1CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

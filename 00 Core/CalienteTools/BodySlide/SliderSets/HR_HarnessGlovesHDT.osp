@@ -1,0 +1,481 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_HarnessGlovesHDT">
+        <DataFolder>DDX_Heretical\HR_HarnessGlovesHDT</DataFolder>
+        <SourceFile>HR_HarnessGlovesHDT.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Gloves</OutputPath>
+        <OutputFile GenWeights="true">RestrictiveGlovesHarnessHDT</OutputFile>
+        <Shape target="ArmChain">ArmChain</Shape>
+        <Shape target="ArmsBeltRing">ArmsBeltRing</Shape>
+        <Shape target="ChainConnector">ChainConnector</Shape>
+        <Shape target="ChainEndRingL">ChainEndRingL</Shape>
+        <Shape target="ChainEndRingR">ChainEndRingR</Shape>
+        <Shape target="ChainL">ChainL</Shape>
+        <Shape target="ChainR">ChainR</Shape>
+        <Shape target="Hands_outfit">Hands_outfit</Shape>
+        <Shape target="RestrictiveGloves">RestrictiveGloves</Shape>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="ArmsBeltRingArms" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingArms</Data>
+            <Data name="RestrictiveGlovesArms" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesArms</Data>
+            <Data name="ArmChainArms" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingChubbyArms" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingChubbyArms</Data>
+            <Data name="RestrictiveGlovesChubbyArms" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesChubbyArms</Data>
+            <Data name="ArmChainChubbyArms" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="ArmsBeltRingShoulderWidth" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingShoulderWidth</Data>
+            <Data name="RestrictiveGlovesShoulderWidth" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesShoulderWidth</Data>
+            <Data name="ArmChainShoulderWidth" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingBigTorso" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingBigTorso</Data>
+            <Data name="RestrictiveGlovesBigTorso" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesBigTorso</Data>
+            <Data name="ArmChainBigTorso" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainBigTorso</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B Low</Data>
+            <Data name="RestrictiveGloves7B Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B Low</Data>
+            <Data name="ArmChain7B Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B Low</Data>
+            <Data name="Hands_outfit7B Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B High</Data>
+            <Data name="RestrictiveGloves7B High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B High</Data>
+            <Data name="ArmChain7B High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B High</Data>
+            <Data name="Hands_outfit7B High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B Bombshell Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B Bombshell Low</Data>
+            <Data name="RestrictiveGloves7B Bombshell Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B Bombshell Low</Data>
+            <Data name="ArmChain7B Bombshell Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B Bombshell Low</Data>
+            <Data name="Hands_outfit7B Bombshell Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B Bombshell High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B Bombshell High</Data>
+            <Data name="RestrictiveGloves7B Bombshell High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B Bombshell High</Data>
+            <Data name="ArmChain7B Bombshell High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B Bombshell High</Data>
+            <Data name="Hands_outfit7B Bombshell High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B Natural Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B Natural Low</Data>
+            <Data name="RestrictiveGloves7B Natural Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B Natural Low</Data>
+            <Data name="ArmChain7B Natural Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B Natural Low</Data>
+            <Data name="Hands_outfit7B Natural Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B Natural High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B Natural High</Data>
+            <Data name="RestrictiveGloves7B Natural High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B Natural High</Data>
+            <Data name="ArmChain7B Natural High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B Natural High</Data>
+            <Data name="Hands_outfit7B Natural High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B Cleavage Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B Cleavage Low</Data>
+            <Data name="RestrictiveGloves7B Cleavage Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B Cleavage Low</Data>
+            <Data name="ArmChain7B Cleavage Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B Cleavage Low</Data>
+            <Data name="Hands_outfit7B Cleavage Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B Cleavage High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B Cleavage High</Data>
+            <Data name="RestrictiveGloves7B Cleavage High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B Cleavage High</Data>
+            <Data name="ArmChain7B Cleavage High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B Cleavage High</Data>
+            <Data name="Hands_outfit7B Cleavage High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B BCup Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B BCup Low</Data>
+            <Data name="RestrictiveGloves7B BCup Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B BCup Low</Data>
+            <Data name="ArmChain7B BCup Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B BCup Low</Data>
+            <Data name="Hands_outfit7B BCup Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B BCup High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B BCup High</Data>
+            <Data name="RestrictiveGloves7B BCup High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B BCup High</Data>
+            <Data name="ArmChain7B BCup High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B BCup High</Data>
+            <Data name="Hands_outfit7B BCup High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7BUNP Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7BUNP Low</Data>
+            <Data name="RestrictiveGloves7BUNP Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7BUNP Low</Data>
+            <Data name="ArmChain7BUNP Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7BUNP Low</Data>
+            <Data name="Hands_outfit7BUNP Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7BUNP High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7BUNP High</Data>
+            <Data name="RestrictiveGloves7BUNP High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7BUNP High</Data>
+            <Data name="ArmChain7BUNP High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7BUNP High</Data>
+            <Data name="Hands_outfit7BUNP High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B Oppai Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B Oppai Low</Data>
+            <Data name="RestrictiveGloves7B Oppai Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B Oppai Low</Data>
+            <Data name="ArmChain7B Oppai Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B Oppai Low</Data>
+            <Data name="Hands_outfit7B Oppai Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B Oppai High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B Oppai High</Data>
+            <Data name="RestrictiveGloves7B Oppai High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B Oppai High</Data>
+            <Data name="ArmChain7B Oppai High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B Oppai High</Data>
+            <Data name="Hands_outfit7B Oppai High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B CH Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B CH Low</Data>
+            <Data name="RestrictiveGloves7B CH Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B CH Low</Data>
+            <Data name="ArmChain7B CH Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B CH Low</Data>
+            <Data name="Hands_outfit7B CH Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRing7B CH High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRing7B CH High</Data>
+            <Data name="RestrictiveGloves7B CH High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGloves7B CH High</Data>
+            <Data name="ArmChain7B CH High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChain7B CH High</Data>
+            <Data name="Hands_outfit7B CH High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfit7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNP Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNP Low</Data>
+            <Data name="RestrictiveGlovesUNP Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNP Low</Data>
+            <Data name="ArmChainUNP Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNP Low</Data>
+            <Data name="Hands_outfitUNP Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNP High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNP High</Data>
+            <Data name="RestrictiveGlovesUNP High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNP High</Data>
+            <Data name="ArmChainUNP High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNP High</Data>
+            <Data name="Hands_outfitUNP High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNP Pushup Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNP Pushup Low</Data>
+            <Data name="RestrictiveGlovesUNP Pushup Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNP Pushup Low</Data>
+            <Data name="ArmChainUNP Pushup Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNP Pushup Low</Data>
+            <Data name="Hands_outfitUNP Pushup Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNP Pushup High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNP Pushup High</Data>
+            <Data name="RestrictiveGlovesUNP Pushup High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNP Pushup High</Data>
+            <Data name="ArmChainUNP Pushup High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNP Pushup High</Data>
+            <Data name="Hands_outfitUNP Pushup High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNP Skinny Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNP Skinny Low</Data>
+            <Data name="RestrictiveGlovesUNP Skinny Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNP Skinny Low</Data>
+            <Data name="ArmChainUNP Skinny Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNP Skinny Low</Data>
+            <Data name="Hands_outfitUNP Skinny Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNP Skinny High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNP Skinny High</Data>
+            <Data name="RestrictiveGlovesUNP Skinny High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNP Skinny High</Data>
+            <Data name="ArmChainUNP Skinny High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNP Skinny High</Data>
+            <Data name="Hands_outfitUNP Skinny High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNP Perky Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNP Perky Low</Data>
+            <Data name="RestrictiveGlovesUNP Perky Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNP Perky Low</Data>
+            <Data name="ArmChainUNP Perky Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNP Perky Low</Data>
+            <Data name="Hands_outfitUNP Perky Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNP Perky High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNP Perky High</Data>
+            <Data name="RestrictiveGlovesUNP Perky High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNP Perky High</Data>
+            <Data name="ArmChainUNP Perky High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNP Perky High</Data>
+            <Data name="Hands_outfitUNP Perky High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPB Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPB Low</Data>
+            <Data name="RestrictiveGlovesUNPB Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPB Low</Data>
+            <Data name="ArmChainUNPB Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPB Low</Data>
+            <Data name="Hands_outfitUNPB Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPB High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPB High</Data>
+            <Data name="RestrictiveGlovesUNPB High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPB High</Data>
+            <Data name="ArmChainUNPB High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPB High</Data>
+            <Data name="Hands_outfitUNPB High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPB Chapi" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPB Chapi</Data>
+            <Data name="RestrictiveGlovesUNPB Chapi" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPB Chapi</Data>
+            <Data name="ArmChainUNPB Chapi" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPB Chapi</Data>
+            <Data name="Hands_outfitUNPB Chapi" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPB Oppai v1" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPB Oppai v1</Data>
+            <Data name="RestrictiveGlovesUNPB Oppai v1" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPB Oppai v1</Data>
+            <Data name="ArmChainUNPB Oppai v1" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPB Oppai v1</Data>
+            <Data name="Hands_outfitUNPB Oppai v1" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPB Oppai v3.2 Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPB Oppai v3.2 Low</Data>
+            <Data name="RestrictiveGlovesUNPB Oppai v3.2 Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPB Oppai v3.2 Low</Data>
+            <Data name="ArmChainUNPB Oppai v3.2 Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPB Oppai v3.2 Low</Data>
+            <Data name="Hands_outfitUNPB Oppai v3.2 Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPB Oppai v3.2 High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPB Oppai v3.2 High</Data>
+            <Data name="RestrictiveGlovesUNPB Oppai v3.2 High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPB Oppai v3.2 High</Data>
+            <Data name="ArmChainUNPB Oppai v3.2 High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPB Oppai v3.2 High</Data>
+            <Data name="Hands_outfitUNPB Oppai v3.2 High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPetite Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPetite Low</Data>
+            <Data name="RestrictiveGlovesUNPetite Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPetite Low</Data>
+            <Data name="ArmChainUNPetite Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPetite Low</Data>
+            <Data name="Hands_outfitUNPetite Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPetite High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPetite High</Data>
+            <Data name="RestrictiveGlovesUNPetite High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPetite High</Data>
+            <Data name="ArmChainUNPetite High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPetite High</Data>
+            <Data name="Hands_outfitUNPetite High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPC Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPC Low</Data>
+            <Data name="RestrictiveGlovesUNPC Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPC Low</Data>
+            <Data name="ArmChainUNPC Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPC Low</Data>
+            <Data name="Hands_outfitUNPC Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPC High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPC High</Data>
+            <Data name="RestrictiveGlovesUNPC High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPC High</Data>
+            <Data name="ArmChainUNPC High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPC High</Data>
+            <Data name="Hands_outfitUNPC High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPCM Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPCM Low</Data>
+            <Data name="RestrictiveGlovesUNPCM Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPCM Low</Data>
+            <Data name="ArmChainUNPCM Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPCM Low</Data>
+            <Data name="Hands_outfitUNPCM Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPCM High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPCM High</Data>
+            <Data name="RestrictiveGlovesUNPCM High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPCM High</Data>
+            <Data name="ArmChainUNPCM High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPCM High</Data>
+            <Data name="Hands_outfitUNPCM High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPSH Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPSH Low</Data>
+            <Data name="RestrictiveGlovesUNPSH Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPSH Low</Data>
+            <Data name="ArmChainUNPSH Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPSH Low</Data>
+            <Data name="Hands_outfitUNPSH Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPSH High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPSH High</Data>
+            <Data name="RestrictiveGlovesUNPSH High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPSH High</Data>
+            <Data name="ArmChainUNPSH High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPSH High</Data>
+            <Data name="Hands_outfitUNPSH High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPK Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPK Low</Data>
+            <Data name="RestrictiveGlovesUNPK Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPK Low</Data>
+            <Data name="ArmChainUNPK Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPK Low</Data>
+            <Data name="Hands_outfitUNPK Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPK High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPK High</Data>
+            <Data name="RestrictiveGlovesUNPK High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPK High</Data>
+            <Data name="ArmChainUNPK High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPK High</Data>
+            <Data name="Hands_outfitUNPK High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPK Bonus Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPK Bonus Low</Data>
+            <Data name="RestrictiveGlovesUNPK Bonus Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPK Bonus Low</Data>
+            <Data name="ArmChainUNPK Bonus Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPK Bonus Low</Data>
+            <Data name="Hands_outfitUNPK Bonus Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPK Bonus High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPK Bonus High</Data>
+            <Data name="RestrictiveGlovesUNPK Bonus High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPK Bonus High</Data>
+            <Data name="ArmChainUNPK Bonus High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPK Bonus High</Data>
+            <Data name="Hands_outfitUNPK Bonus High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUN7B Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUN7B Low</Data>
+            <Data name="RestrictiveGlovesUN7B Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUN7B Low</Data>
+            <Data name="ArmChainUN7B Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUN7B Low</Data>
+            <Data name="Hands_outfitUN7B Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUN7B High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUN7B High</Data>
+            <Data name="RestrictiveGlovesUN7B High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUN7B High</Data>
+            <Data name="ArmChainUN7B High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUN7B High</Data>
+            <Data name="Hands_outfitUN7B High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPBB Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPBB Low</Data>
+            <Data name="RestrictiveGlovesUNPBB Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPBB Low</Data>
+            <Data name="ArmChainUNPBB Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPBB Low</Data>
+            <Data name="Hands_outfitUNPBB Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPBB High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPBB High</Data>
+            <Data name="RestrictiveGlovesUNPBB High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPBB High</Data>
+            <Data name="ArmChainUNPBB High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPBB High</Data>
+            <Data name="Hands_outfitUNPBB High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingSeraphim Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingSeraphim Low</Data>
+            <Data name="RestrictiveGlovesSeraphim Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesSeraphim Low</Data>
+            <Data name="ArmChainSeraphim Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainSeraphim Low</Data>
+            <Data name="Hands_outfitSeraphim Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingSeraphim High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingSeraphim High</Data>
+            <Data name="RestrictiveGlovesSeraphim High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesSeraphim High</Data>
+            <Data name="ArmChainSeraphim High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainSeraphim High</Data>
+            <Data name="Hands_outfitSeraphim High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingDemonfet Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingDemonfet Low</Data>
+            <Data name="RestrictiveGlovesDemonfet Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesDemonfet Low</Data>
+            <Data name="ArmChainDemonfet Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainDemonfet Low</Data>
+            <Data name="Hands_outfitDemonfet Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingDemonfet High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingDemonfet High</Data>
+            <Data name="RestrictiveGlovesDemonfet High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesDemonfet High</Data>
+            <Data name="ArmChainDemonfet High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainDemonfet High</Data>
+            <Data name="Hands_outfitDemonfet High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingDream Girl Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingDream Girl Low</Data>
+            <Data name="RestrictiveGlovesDream Girl Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesDream Girl Low</Data>
+            <Data name="ArmChainDream Girl Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainDream Girl Low</Data>
+            <Data name="Hands_outfitDream Girl Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingDream Girl High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingDream Girl High</Data>
+            <Data name="RestrictiveGlovesDream Girl High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesDream Girl High</Data>
+            <Data name="ArmChainDream Girl High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainDream Girl High</Data>
+            <Data name="Hands_outfitDream Girl High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingTop Model Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingTop Model Low</Data>
+            <Data name="RestrictiveGlovesTop Model Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesTop Model Low</Data>
+            <Data name="ArmChainTop Model Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainTop Model Low</Data>
+            <Data name="Hands_outfitTop Model Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingTop Model High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingTop Model High</Data>
+            <Data name="RestrictiveGlovesTop Model High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesTop Model High</Data>
+            <Data name="ArmChainTop Model High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainTop Model High</Data>
+            <Data name="Hands_outfitTop Model High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingLeito Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingLeito Low</Data>
+            <Data name="RestrictiveGlovesLeito Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesLeito Low</Data>
+            <Data name="ArmChainLeito Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainLeito Low</Data>
+            <Data name="Hands_outfitLeito Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingLeito High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingLeito High</Data>
+            <Data name="RestrictiveGlovesLeito High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesLeito High</Data>
+            <Data name="ArmChainLeito High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainLeito High</Data>
+            <Data name="Hands_outfitLeito High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPF Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPF Low</Data>
+            <Data name="RestrictiveGlovesUNPF Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPF Low</Data>
+            <Data name="ArmChainUNPF Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPF Low</Data>
+            <Data name="Hands_outfitUNPF Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPF High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPF High</Data>
+            <Data name="RestrictiveGlovesUNPF High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPF High</Data>
+            <Data name="ArmChainUNPF High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPF High</Data>
+            <Data name="Hands_outfitUNPF High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPFx Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPFx Low</Data>
+            <Data name="RestrictiveGlovesUNPFx Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPFx Low</Data>
+            <Data name="ArmChainUNPFx Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPFx Low</Data>
+            <Data name="Hands_outfitUNPFx Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingUNPFx High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingUNPFx High</Data>
+            <Data name="RestrictiveGlovesUNPFx High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesUNPFx High</Data>
+            <Data name="ArmChainUNPFx High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainUNPFx High</Data>
+            <Data name="Hands_outfitUNPFx High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingCNHF Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingCNHF Low</Data>
+            <Data name="RestrictiveGlovesCNHF Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesCNHF Low</Data>
+            <Data name="ArmChainCNHF Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainCNHF Low</Data>
+            <Data name="Hands_outfitCNHF Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingCNHF High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingCNHF High</Data>
+            <Data name="RestrictiveGlovesCNHF High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesCNHF High</Data>
+            <Data name="ArmChainCNHF High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainCNHF High</Data>
+            <Data name="Hands_outfitCNHF High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingCNHF Bonus Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingCNHF Bonus Low</Data>
+            <Data name="RestrictiveGlovesCNHF Bonus Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesCNHF Bonus Low</Data>
+            <Data name="ArmChainCNHF Bonus Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainCNHF Bonus Low</Data>
+            <Data name="Hands_outfitCNHF Bonus Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingCNHF Bonus High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingCNHF Bonus High</Data>
+            <Data name="RestrictiveGlovesCNHF Bonus High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesCNHF Bonus High</Data>
+            <Data name="ArmChainCNHF Bonus High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainCNHF Bonus High</Data>
+            <Data name="Hands_outfitCNHF Bonus High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingMCBM Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingMCBM Low</Data>
+            <Data name="RestrictiveGlovesMCBM Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesMCBM Low</Data>
+            <Data name="ArmChainMCBM Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainMCBM Low</Data>
+            <Data name="Hands_outfitMCBM Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingMCBM High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingMCBM High</Data>
+            <Data name="RestrictiveGlovesMCBM High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesMCBM High</Data>
+            <Data name="ArmChainMCBM High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainMCBM High</Data>
+            <Data name="Hands_outfitMCBM High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingVenus Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingVenus Low</Data>
+            <Data name="RestrictiveGlovesVenus Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesVenus Low</Data>
+            <Data name="ArmChainVenus Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainVenus Low</Data>
+            <Data name="Hands_outfitVenus Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingVenus High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingVenus High</Data>
+            <Data name="RestrictiveGlovesVenus High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesVenus High</Data>
+            <Data name="ArmChainVenus High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainVenus High</Data>
+            <Data name="Hands_outfitVenus High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingZGGB-R2 Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingZGGB-R2 Low</Data>
+            <Data name="RestrictiveGlovesZGGB-R2 Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesZGGB-R2 Low</Data>
+            <Data name="ArmChainZGGB-R2 Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainZGGB-R2 Low</Data>
+            <Data name="Hands_outfitZGGB-R2 Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingZGGB-R2 High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingZGGB-R2 High</Data>
+            <Data name="RestrictiveGlovesZGGB-R2 High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesZGGB-R2 High</Data>
+            <Data name="ArmChainZGGB-R2 High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainZGGB-R2 High</Data>
+            <Data name="Hands_outfitZGGB-R2 High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingManga Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingManga Low</Data>
+            <Data name="RestrictiveGlovesManga Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesManga Low</Data>
+            <Data name="ArmChainManga Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainManga Low</Data>
+            <Data name="Hands_outfitManga Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingManga High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingManga High</Data>
+            <Data name="RestrictiveGlovesManga High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesManga High</Data>
+            <Data name="ArmChainManga High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainManga High</Data>
+            <Data name="Hands_outfitManga High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingCHSBHC Low" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingCHSBHC Low</Data>
+            <Data name="RestrictiveGlovesCHSBHC Low" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesCHSBHC Low</Data>
+            <Data name="ArmChainCHSBHC Low" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainCHSBHC Low</Data>
+            <Data name="Hands_outfitCHSBHC Low" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="ArmsBeltRingCHSBHC High" target="ArmsBeltRing" local="true">HR_HarnessGlovesHDT.osd\ArmsBeltRingCHSBHC High</Data>
+            <Data name="RestrictiveGlovesCHSBHC High" target="RestrictiveGloves" local="true">HR_HarnessGlovesHDT.osd\RestrictiveGlovesCHSBHC High</Data>
+            <Data name="ArmChainCHSBHC High" target="ArmChain" local="true">HR_HarnessGlovesHDT.osd\ArmChainCHSBHC High</Data>
+            <Data name="Hands_outfitCHSBHC High" target="Hands_outfit" local="true">HR_HarnessGlovesHDT.osd\Hands_outfitCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

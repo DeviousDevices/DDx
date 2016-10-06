@@ -1,0 +1,456 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_HarnessBoots02HDT">
+        <DataFolder>DDX_Heretical\HR_HarnessBoots02HDT</DataFolder>
+        <SourceFile>HR_HarnessBoots02HDT.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Boots</OutputPath>
+        <OutputFile GenWeights="true">RestrictiveBootsHarness02HDT</OutputFile>
+        <Shape target="HarnessConnector">HarnessConnector</Shape>
+        <Shape target="IronBoots">IronBoots</Shape>
+        <Shape target="LegsChain">LegsChain</Shape>
+        <Shape target="RestrictFeet" DataFolder="Heretical Resources\HR_HarnessBootsHDT">RestrictFeet</Shape>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B Low</Data>
+            <Data name="LegsChain7B Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B Low</Data>
+            <Data name="IronBoots7B Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B Low</Data>
+            <Data name="HarnessConnector7B Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B High</Data>
+            <Data name="LegsChain7B High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B High</Data>
+            <Data name="IronBoots7B High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B High</Data>
+            <Data name="HarnessConnector7B High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Bombshell Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B Bombshell Low</Data>
+            <Data name="LegsChain7B Bombshell Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B Bombshell Low</Data>
+            <Data name="IronBoots7B Bombshell Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B Bombshell Low</Data>
+            <Data name="HarnessConnector7B Bombshell Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Bombshell High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B Bombshell High</Data>
+            <Data name="LegsChain7B Bombshell High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B Bombshell High</Data>
+            <Data name="IronBoots7B Bombshell High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B Bombshell High</Data>
+            <Data name="HarnessConnector7B Bombshell High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Natural Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B Natural Low</Data>
+            <Data name="LegsChain7B Natural Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B Natural Low</Data>
+            <Data name="IronBoots7B Natural Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B Natural Low</Data>
+            <Data name="HarnessConnector7B Natural Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Natural High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B Natural High</Data>
+            <Data name="LegsChain7B Natural High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B Natural High</Data>
+            <Data name="IronBoots7B Natural High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B Natural High</Data>
+            <Data name="HarnessConnector7B Natural High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Cleavage Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B Cleavage Low</Data>
+            <Data name="LegsChain7B Cleavage Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B Cleavage Low</Data>
+            <Data name="IronBoots7B Cleavage Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B Cleavage Low</Data>
+            <Data name="HarnessConnector7B Cleavage Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Cleavage High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B Cleavage High</Data>
+            <Data name="LegsChain7B Cleavage High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B Cleavage High</Data>
+            <Data name="IronBoots7B Cleavage High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B Cleavage High</Data>
+            <Data name="HarnessConnector7B Cleavage High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B BCup Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B BCup Low</Data>
+            <Data name="LegsChain7B BCup Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B BCup Low</Data>
+            <Data name="IronBoots7B BCup Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B BCup Low</Data>
+            <Data name="HarnessConnector7B BCup Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B BCup High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B BCup High</Data>
+            <Data name="LegsChain7B BCup High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B BCup High</Data>
+            <Data name="IronBoots7B BCup High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B BCup High</Data>
+            <Data name="HarnessConnector7B BCup High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7BUNP Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7BUNP Low</Data>
+            <Data name="LegsChain7BUNP Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7BUNP Low</Data>
+            <Data name="IronBoots7BUNP Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7BUNP Low</Data>
+            <Data name="HarnessConnector7BUNP Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7BUNP High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7BUNP High</Data>
+            <Data name="LegsChain7BUNP High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7BUNP High</Data>
+            <Data name="IronBoots7BUNP High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7BUNP High</Data>
+            <Data name="HarnessConnector7BUNP High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Oppai Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B Oppai Low</Data>
+            <Data name="LegsChain7B Oppai Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B Oppai Low</Data>
+            <Data name="IronBoots7B Oppai Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B Oppai Low</Data>
+            <Data name="HarnessConnector7B Oppai Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B Oppai High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B Oppai High</Data>
+            <Data name="LegsChain7B Oppai High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B Oppai High</Data>
+            <Data name="IronBoots7B Oppai High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B Oppai High</Data>
+            <Data name="HarnessConnector7B Oppai High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B CH Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B CH Low</Data>
+            <Data name="LegsChain7B CH Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B CH Low</Data>
+            <Data name="IronBoots7B CH Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B CH Low</Data>
+            <Data name="HarnessConnector7B CH Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="RestrictFeet7B CH High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeet7B CH High</Data>
+            <Data name="LegsChain7B CH High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChain7B CH High</Data>
+            <Data name="IronBoots7B CH High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBoots7B CH High</Data>
+            <Data name="HarnessConnector7B CH High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnector7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNP Low</Data>
+            <Data name="LegsChainUNP Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNP Low</Data>
+            <Data name="IronBootsUNP Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNP Low</Data>
+            <Data name="HarnessConnectorUNP Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNP High</Data>
+            <Data name="LegsChainUNP High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNP High</Data>
+            <Data name="IronBootsUNP High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNP High</Data>
+            <Data name="HarnessConnectorUNP High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Pushup Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNP Pushup Low</Data>
+            <Data name="LegsChainUNP Pushup Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNP Pushup Low</Data>
+            <Data name="IronBootsUNP Pushup Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNP Pushup Low</Data>
+            <Data name="HarnessConnectorUNP Pushup Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Pushup High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNP Pushup High</Data>
+            <Data name="LegsChainUNP Pushup High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNP Pushup High</Data>
+            <Data name="IronBootsUNP Pushup High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNP Pushup High</Data>
+            <Data name="HarnessConnectorUNP Pushup High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Skinny Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNP Skinny Low</Data>
+            <Data name="LegsChainUNP Skinny Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNP Skinny Low</Data>
+            <Data name="IronBootsUNP Skinny Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNP Skinny Low</Data>
+            <Data name="HarnessConnectorUNP Skinny Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Skinny High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNP Skinny High</Data>
+            <Data name="LegsChainUNP Skinny High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNP Skinny High</Data>
+            <Data name="IronBootsUNP Skinny High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNP Skinny High</Data>
+            <Data name="HarnessConnectorUNP Skinny High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Perky Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNP Perky Low</Data>
+            <Data name="LegsChainUNP Perky Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNP Perky Low</Data>
+            <Data name="IronBootsUNP Perky Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNP Perky Low</Data>
+            <Data name="HarnessConnectorUNP Perky Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNP Perky High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNP Perky High</Data>
+            <Data name="LegsChainUNP Perky High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNP Perky High</Data>
+            <Data name="IronBootsUNP Perky High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNP Perky High</Data>
+            <Data name="HarnessConnectorUNP Perky High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPB Low</Data>
+            <Data name="LegsChainUNPB Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPB Low</Data>
+            <Data name="IronBootsUNPB Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPB Low</Data>
+            <Data name="HarnessConnectorUNPB Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPB High</Data>
+            <Data name="LegsChainUNPB High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPB High</Data>
+            <Data name="IronBootsUNPB High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPB High</Data>
+            <Data name="HarnessConnectorUNPB High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Chapi" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPB Chapi</Data>
+            <Data name="LegsChainUNPB Chapi" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPB Chapi</Data>
+            <Data name="IronBootsUNPB Chapi" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPB Chapi</Data>
+            <Data name="HarnessConnectorUNPB Chapi" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPetite Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPetite Low</Data>
+            <Data name="LegsChainUNPetite Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPetite Low</Data>
+            <Data name="IronBootsUNPetite Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPetite Low</Data>
+            <Data name="HarnessConnectorUNPetite Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPetite High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPetite High</Data>
+            <Data name="LegsChainUNPetite High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPetite High</Data>
+            <Data name="IronBootsUNPetite High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPetite High</Data>
+            <Data name="HarnessConnectorUNPetite High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Oppai v1" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPB Oppai v1</Data>
+            <Data name="LegsChainUNPB Oppai v1" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPB Oppai v1</Data>
+            <Data name="IronBootsUNPB Oppai v1" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPB Oppai v1</Data>
+            <Data name="HarnessConnectorUNPB Oppai v1" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Oppai v3.2 Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPB Oppai v3.2 Low</Data>
+            <Data name="LegsChainUNPB Oppai v3.2 Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPB Oppai v3.2 Low</Data>
+            <Data name="IronBootsUNPB Oppai v3.2 Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPB Oppai v3.2 Low</Data>
+            <Data name="HarnessConnectorUNPB Oppai v3.2 Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPB Oppai v3.2 High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPB Oppai v3.2 High</Data>
+            <Data name="LegsChainUNPB Oppai v3.2 High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPB Oppai v3.2 High</Data>
+            <Data name="IronBootsUNPB Oppai v3.2 High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPB Oppai v3.2 High</Data>
+            <Data name="HarnessConnectorUNPB Oppai v3.2 High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPC Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPC Low</Data>
+            <Data name="LegsChainUNPC Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPC Low</Data>
+            <Data name="IronBootsUNPC Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPC Low</Data>
+            <Data name="HarnessConnectorUNPC Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPC High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPC High</Data>
+            <Data name="LegsChainUNPC High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPC High</Data>
+            <Data name="IronBootsUNPC High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPC High</Data>
+            <Data name="HarnessConnectorUNPC High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPCM Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPCM Low</Data>
+            <Data name="LegsChainUNPCM Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPCM Low</Data>
+            <Data name="IronBootsUNPCM Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPCM Low</Data>
+            <Data name="HarnessConnectorUNPCM Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPCM High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPCM High</Data>
+            <Data name="LegsChainUNPCM High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPCM High</Data>
+            <Data name="IronBootsUNPCM High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPCM High</Data>
+            <Data name="HarnessConnectorUNPCM High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPSH Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPSH Low</Data>
+            <Data name="LegsChainUNPSH Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPSH Low</Data>
+            <Data name="IronBootsUNPSH Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPSH Low</Data>
+            <Data name="HarnessConnectorUNPSH Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPSH High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPSH High</Data>
+            <Data name="LegsChainUNPSH High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPSH High</Data>
+            <Data name="IronBootsUNPSH High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPSH High</Data>
+            <Data name="HarnessConnectorUNPSH High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPK Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPK Low</Data>
+            <Data name="LegsChainUNPK Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPK Low</Data>
+            <Data name="IronBootsUNPK Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPK Low</Data>
+            <Data name="HarnessConnectorUNPK Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPK High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPK High</Data>
+            <Data name="LegsChainUNPK High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPK High</Data>
+            <Data name="IronBootsUNPK High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPK High</Data>
+            <Data name="HarnessConnectorUNPK High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPK Bonus Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPK Bonus Low</Data>
+            <Data name="LegsChainUNPK Bonus Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPK Bonus Low</Data>
+            <Data name="IronBootsUNPK Bonus Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPK Bonus Low</Data>
+            <Data name="HarnessConnectorUNPK Bonus Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPK Bonus High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPK Bonus High</Data>
+            <Data name="LegsChainUNPK Bonus High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPK Bonus High</Data>
+            <Data name="IronBootsUNPK Bonus High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPK Bonus High</Data>
+            <Data name="HarnessConnectorUNPK Bonus High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUN7B Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUN7B Low</Data>
+            <Data name="LegsChainUN7B Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUN7B Low</Data>
+            <Data name="IronBootsUN7B Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUN7B Low</Data>
+            <Data name="HarnessConnectorUN7B Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUN7B High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUN7B High</Data>
+            <Data name="LegsChainUN7B High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUN7B High</Data>
+            <Data name="IronBootsUN7B High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUN7B High</Data>
+            <Data name="HarnessConnectorUN7B High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPBB Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPBB Low</Data>
+            <Data name="LegsChainUNPBB Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPBB Low</Data>
+            <Data name="IronBootsUNPBB Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPBB Low</Data>
+            <Data name="HarnessConnectorUNPBB Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPBB High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPBB High</Data>
+            <Data name="LegsChainUNPBB High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPBB High</Data>
+            <Data name="IronBootsUNPBB High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPBB High</Data>
+            <Data name="HarnessConnectorUNPBB High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetSeraphim Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetSeraphim Low</Data>
+            <Data name="LegsChainSeraphim Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainSeraphim Low</Data>
+            <Data name="IronBootsSeraphim Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsSeraphim Low</Data>
+            <Data name="HarnessConnectorSeraphim Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetSeraphim High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetSeraphim High</Data>
+            <Data name="LegsChainSeraphim High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainSeraphim High</Data>
+            <Data name="IronBootsSeraphim High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsSeraphim High</Data>
+            <Data name="HarnessConnectorSeraphim High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetDemonfet Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetDemonfet Low</Data>
+            <Data name="LegsChainDemonfet Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainDemonfet Low</Data>
+            <Data name="IronBootsDemonfet Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsDemonfet Low</Data>
+            <Data name="HarnessConnectorDemonfet Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetDemonfet High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetDemonfet High</Data>
+            <Data name="LegsChainDemonfet High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainDemonfet High</Data>
+            <Data name="IronBootsDemonfet High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsDemonfet High</Data>
+            <Data name="HarnessConnectorDemonfet High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetDream Girl Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetDream Girl Low</Data>
+            <Data name="LegsChainDream Girl Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainDream Girl Low</Data>
+            <Data name="IronBootsDream Girl Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsDream Girl Low</Data>
+            <Data name="HarnessConnectorDream Girl Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetDream Girl High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetDream Girl High</Data>
+            <Data name="LegsChainDream Girl High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainDream Girl High</Data>
+            <Data name="IronBootsDream Girl High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsDream Girl High</Data>
+            <Data name="HarnessConnectorDream Girl High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetTop Model Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetTop Model Low</Data>
+            <Data name="LegsChainTop Model Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainTop Model Low</Data>
+            <Data name="IronBootsTop Model Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsTop Model Low</Data>
+            <Data name="HarnessConnectorTop Model Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetTop Model High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetTop Model High</Data>
+            <Data name="LegsChainTop Model High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainTop Model High</Data>
+            <Data name="IronBootsTop Model High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsTop Model High</Data>
+            <Data name="HarnessConnectorTop Model High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetLeito Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetLeito Low</Data>
+            <Data name="LegsChainLeito Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainLeito Low</Data>
+            <Data name="IronBootsLeito Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsLeito Low</Data>
+            <Data name="HarnessConnectorLeito Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetLeito High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetLeito High</Data>
+            <Data name="LegsChainLeito High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainLeito High</Data>
+            <Data name="IronBootsLeito High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsLeito High</Data>
+            <Data name="HarnessConnectorLeito High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPF Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPF Low</Data>
+            <Data name="LegsChainUNPF Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPF Low</Data>
+            <Data name="IronBootsUNPF Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPF Low</Data>
+            <Data name="HarnessConnectorUNPF Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPF High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPF High</Data>
+            <Data name="LegsChainUNPF High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPF High</Data>
+            <Data name="IronBootsUNPF High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPF High</Data>
+            <Data name="HarnessConnectorUNPF High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPFx Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPFx Low</Data>
+            <Data name="LegsChainUNPFx Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPFx Low</Data>
+            <Data name="IronBootsUNPFx Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPFx Low</Data>
+            <Data name="HarnessConnectorUNPFx Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetUNPFx High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetUNPFx High</Data>
+            <Data name="LegsChainUNPFx High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainUNPFx High</Data>
+            <Data name="IronBootsUNPFx High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsUNPFx High</Data>
+            <Data name="HarnessConnectorUNPFx High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCNHF Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetCNHF Low</Data>
+            <Data name="LegsChainCNHF Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainCNHF Low</Data>
+            <Data name="IronBootsCNHF Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsCNHF Low</Data>
+            <Data name="HarnessConnectorCNHF Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCNHF High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetCNHF High</Data>
+            <Data name="LegsChainCNHF High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainCNHF High</Data>
+            <Data name="IronBootsCNHF High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsCNHF High</Data>
+            <Data name="HarnessConnectorCNHF High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCNHF Bonus Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetCNHF Bonus Low</Data>
+            <Data name="LegsChainCNHF Bonus Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainCNHF Bonus Low</Data>
+            <Data name="IronBootsCNHF Bonus Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsCNHF Bonus Low</Data>
+            <Data name="HarnessConnectorCNHF Bonus Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCNHF Bonus High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetCNHF Bonus High</Data>
+            <Data name="LegsChainCNHF Bonus High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainCNHF Bonus High</Data>
+            <Data name="IronBootsCNHF Bonus High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsCNHF Bonus High</Data>
+            <Data name="HarnessConnectorCNHF Bonus High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetMCBM Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetMCBM Low</Data>
+            <Data name="LegsChainMCBM Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainMCBM Low</Data>
+            <Data name="IronBootsMCBM Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsMCBM Low</Data>
+            <Data name="HarnessConnectorMCBM Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetMCBM High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetMCBM High</Data>
+            <Data name="LegsChainMCBM High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainMCBM High</Data>
+            <Data name="IronBootsMCBM High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsMCBM High</Data>
+            <Data name="HarnessConnectorMCBM High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetVenus Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetVenus Low</Data>
+            <Data name="LegsChainVenus Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainVenus Low</Data>
+            <Data name="IronBootsVenus Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsVenus Low</Data>
+            <Data name="HarnessConnectorVenus Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetVenus High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetVenus High</Data>
+            <Data name="LegsChainVenus High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainVenus High</Data>
+            <Data name="IronBootsVenus High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsVenus High</Data>
+            <Data name="HarnessConnectorVenus High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetZGGB-R2 Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetZGGB-R2 Low</Data>
+            <Data name="LegsChainZGGB-R2 Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainZGGB-R2 Low</Data>
+            <Data name="IronBootsZGGB-R2 Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsZGGB-R2 Low</Data>
+            <Data name="HarnessConnectorZGGB-R2 Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetZGGB-R2 High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetZGGB-R2 High</Data>
+            <Data name="LegsChainZGGB-R2 High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainZGGB-R2 High</Data>
+            <Data name="IronBootsZGGB-R2 High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsZGGB-R2 High</Data>
+            <Data name="HarnessConnectorZGGB-R2 High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetManga Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetManga Low</Data>
+            <Data name="LegsChainManga Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainManga Low</Data>
+            <Data name="IronBootsManga Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsManga Low</Data>
+            <Data name="HarnessConnectorManga Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetManga High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetManga High</Data>
+            <Data name="LegsChainManga High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainManga High</Data>
+            <Data name="IronBootsManga High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsManga High</Data>
+            <Data name="HarnessConnectorManga High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCHSBHC Low" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetCHSBHC Low</Data>
+            <Data name="LegsChainCHSBHC Low" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainCHSBHC Low</Data>
+            <Data name="IronBootsCHSBHC Low" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsCHSBHC Low</Data>
+            <Data name="HarnessConnectorCHSBHC Low" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="RestrictFeetCHSBHC High" target="RestrictFeet" local="true">HR_HarnessBoots02HDT.osd\RestrictFeetCHSBHC High</Data>
+            <Data name="LegsChainCHSBHC High" target="LegsChain" local="true">HR_HarnessBoots02HDT.osd\LegsChainCHSBHC High</Data>
+            <Data name="IronBootsCHSBHC High" target="IronBoots" local="true">HR_HarnessBoots02HDT.osd\IronBootsCHSBHC High</Data>
+            <Data name="HarnessConnectorCHSBHC High" target="HarnessConnector" local="true">HR_HarnessBoots02HDT.osd\HarnessConnectorCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

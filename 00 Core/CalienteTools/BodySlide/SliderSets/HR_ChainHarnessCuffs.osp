@@ -1,0 +1,322 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_ChainHarnessCuffs">
+        <DataFolder>DDX_Heretical\HR_ChainHarnessCuffs</DataFolder>
+        <SourceFile>HR_ChainHarnessCuffs.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Restraints</OutputPath>
+        <OutputFile GenWeights="true">HR_ChainHarnessCuffs</OutputFile>
+        <Shape target="CuffChain">CuffChain</Shape>
+        <Shape target="Cuffs">Cuffs</Shape>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="CuffChainArms" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainArms</Data>
+            <Data name="CuffsArms" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="CuffChainChubbyArms" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainChubbyArms</Data>
+            <Data name="CuffsChubbyArms" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="CuffChainShoulderWidth" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainShoulderWidth</Data>
+            <Data name="CuffsShoulderWidth" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="CuffChainBigTorso" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainBigTorso</Data>
+            <Data name="CuffsBigTorso" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsBigTorso</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="CuffChain7B Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B Low</Data>
+            <Data name="Cuffs7B Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="CuffChain7B High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B High</Data>
+            <Data name="Cuffs7B High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="CuffChain7B Bombshell Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B Bombshell Low</Data>
+            <Data name="Cuffs7B Bombshell Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="CuffChain7B Bombshell High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B Bombshell High</Data>
+            <Data name="Cuffs7B Bombshell High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="CuffChain7B Natural Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B Natural Low</Data>
+            <Data name="Cuffs7B Natural Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="CuffChain7B Natural High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B Natural High</Data>
+            <Data name="Cuffs7B Natural High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="CuffChain7B Cleavage Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B Cleavage Low</Data>
+            <Data name="Cuffs7B Cleavage Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="CuffChain7B Cleavage High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B Cleavage High</Data>
+            <Data name="Cuffs7B Cleavage High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="CuffChain7B BCup Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B BCup Low</Data>
+            <Data name="Cuffs7B BCup Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="CuffChain7B BCup High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B BCup High</Data>
+            <Data name="Cuffs7B BCup High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="CuffChain7BUNP Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7BUNP Low</Data>
+            <Data name="Cuffs7BUNP Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="CuffChain7BUNP High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7BUNP High</Data>
+            <Data name="Cuffs7BUNP High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="CuffChain7B Oppai Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B Oppai Low</Data>
+            <Data name="Cuffs7B Oppai Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="CuffChain7B Oppai High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B Oppai High</Data>
+            <Data name="Cuffs7B Oppai High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="CuffChain7B CH Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B CH Low</Data>
+            <Data name="Cuffs7B CH Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="CuffChain7B CH High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChain7B CH High</Data>
+            <Data name="Cuffs7B CH High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\Cuffs7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNP Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNP Low</Data>
+            <Data name="CuffsUNP Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNP High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNP High</Data>
+            <Data name="CuffsUNP High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNP Pushup Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNP Pushup Low</Data>
+            <Data name="CuffsUNP Pushup Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNP Pushup High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNP Pushup High</Data>
+            <Data name="CuffsUNP Pushup High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNP Skinny Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNP Skinny Low</Data>
+            <Data name="CuffsUNP Skinny Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNP Skinny High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNP Skinny High</Data>
+            <Data name="CuffsUNP Skinny High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNP Perky Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNP Perky Low</Data>
+            <Data name="CuffsUNP Perky Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNP Perky High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNP Perky High</Data>
+            <Data name="CuffsUNP Perky High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPB Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPB Low</Data>
+            <Data name="CuffsUNPB Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPB High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPB High</Data>
+            <Data name="CuffsUNPB High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPB Chapi" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPB Chapi</Data>
+            <Data name="CuffsUNPB Chapi" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPB Oppai v1" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPB Oppai v1</Data>
+            <Data name="CuffsUNPB Oppai v1" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPB Oppai v3.2 Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPB Oppai v3.2 Low</Data>
+            <Data name="CuffsUNPB Oppai v3.2 Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPB Oppai v3.2 High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPB Oppai v3.2 High</Data>
+            <Data name="CuffsUNPB Oppai v3.2 High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPetite Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPetite Low</Data>
+            <Data name="CuffsUNPetite Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPetite High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPetite High</Data>
+            <Data name="CuffsUNPetite High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPC Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPC Low</Data>
+            <Data name="CuffsUNPC Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPC High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPC High</Data>
+            <Data name="CuffsUNPC High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPCM Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPCM Low</Data>
+            <Data name="CuffsUNPCM Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPCM High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPCM High</Data>
+            <Data name="CuffsUNPCM High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPSH Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPSH Low</Data>
+            <Data name="CuffsUNPSH Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPSH High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPSH High</Data>
+            <Data name="CuffsUNPSH High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPK Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPK Low</Data>
+            <Data name="CuffsUNPK Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPK High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPK High</Data>
+            <Data name="CuffsUNPK High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPK Bonus Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPK Bonus Low</Data>
+            <Data name="CuffsUNPK Bonus Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPK Bonus High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPK Bonus High</Data>
+            <Data name="CuffsUNPK Bonus High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUN7B Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUN7B Low</Data>
+            <Data name="CuffsUN7B Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="CuffChainUN7B High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUN7B High</Data>
+            <Data name="CuffsUN7B High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPBB Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPBB Low</Data>
+            <Data name="CuffsUNPBB Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPBB High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPBB High</Data>
+            <Data name="CuffsUNPBB High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="CuffChainSeraphim Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainSeraphim Low</Data>
+            <Data name="CuffsSeraphim Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="CuffChainSeraphim High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainSeraphim High</Data>
+            <Data name="CuffsSeraphim High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="CuffChainDemonfet Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainDemonfet Low</Data>
+            <Data name="CuffsDemonfet Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="CuffChainDemonfet High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainDemonfet High</Data>
+            <Data name="CuffsDemonfet High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="CuffChainDream Girl Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainDream Girl Low</Data>
+            <Data name="CuffsDream Girl Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="CuffChainDream Girl High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainDream Girl High</Data>
+            <Data name="CuffsDream Girl High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="CuffChainTop Model Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainTop Model Low</Data>
+            <Data name="CuffsTop Model Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="CuffChainTop Model High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainTop Model High</Data>
+            <Data name="CuffsTop Model High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="CuffChainLeito Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainLeito Low</Data>
+            <Data name="CuffsLeito Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="CuffChainLeito High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainLeito High</Data>
+            <Data name="CuffsLeito High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPF Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPF Low</Data>
+            <Data name="CuffsUNPF Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPF High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPF High</Data>
+            <Data name="CuffsUNPF High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPFx Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPFx Low</Data>
+            <Data name="CuffsUNPFx Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="CuffChainUNPFx High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainUNPFx High</Data>
+            <Data name="CuffsUNPFx High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="CuffChainCNHF Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainCNHF Low</Data>
+            <Data name="CuffsCNHF Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="CuffChainCNHF High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainCNHF High</Data>
+            <Data name="CuffsCNHF High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="CuffChainCNHF Bonus Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainCNHF Bonus Low</Data>
+            <Data name="CuffsCNHF Bonus Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="CuffChainCNHF Bonus High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainCNHF Bonus High</Data>
+            <Data name="CuffsCNHF Bonus High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="CuffChainMCBM Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainMCBM Low</Data>
+            <Data name="CuffsMCBM Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="CuffChainMCBM High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainMCBM High</Data>
+            <Data name="CuffsMCBM High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="CuffChainVenus Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainVenus Low</Data>
+            <Data name="CuffsVenus Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="CuffChainVenus High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainVenus High</Data>
+            <Data name="CuffsVenus High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="CuffChainZGGB-R2 Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainZGGB-R2 Low</Data>
+            <Data name="CuffsZGGB-R2 Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="CuffChainZGGB-R2 High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainZGGB-R2 High</Data>
+            <Data name="CuffsZGGB-R2 High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="CuffChainManga Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainManga Low</Data>
+            <Data name="CuffsManga Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="CuffChainManga High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainManga High</Data>
+            <Data name="CuffsManga High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="CuffChainCHSBHC Low" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainCHSBHC Low</Data>
+            <Data name="CuffsCHSBHC Low" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="CuffChainCHSBHC High" target="CuffChain" local="true">HR_ChainHarnessCuffs.osd\CuffChainCHSBHC High</Data>
+            <Data name="CuffsCHSBHC High" target="Cuffs" local="true">HR_ChainHarnessCuffs.osd\CuffsCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

@@ -1,0 +1,398 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_Piercing01">
+        <DataFolder>DDX_Heretical\HR_Piercing01</DataFolder>
+        <SourceFile>HR_Piercing01.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Piercings</OutputPath>
+        <OutputFile GenWeights="true">HR_Piercing01</OutputFile>
+        <Shape target="RingLeft 1">RingLeft 1</Shape>
+        <Shape target="RingRight 1">RingRight 1</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="RingRight 1Breasts" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Breasts</Data>
+            <Data name="RingLeft 1Breasts" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="RingRight 1BreastsSmall" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastsSmall</Data>
+            <Data name="RingLeft 1BreastsSmall" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="RingRight 1BreastsSH" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastsSH</Data>
+            <Data name="RingLeft 1BreastsSH" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="RingRight 1BreastsSSH" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastsSSH</Data>
+            <Data name="RingLeft 1BreastsSSH" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="RingRight 1BreastsFantasy" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastsFantasy</Data>
+            <Data name="RingLeft 1BreastsFantasy" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="RingRight 1DoubleMelon" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1DoubleMelon</Data>
+            <Data name="RingLeft 1DoubleMelon" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="RingRight 1BreastCleavage" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastCleavage</Data>
+            <Data name="RingLeft 1BreastCleavage" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="RingRight 1BreastFlatness" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastFlatness</Data>
+            <Data name="RingLeft 1BreastFlatness" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="RingRight 1BreastGravity" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastGravity</Data>
+            <Data name="RingLeft 1BreastGravity" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="RingRight 1PushUp" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1PushUp</Data>
+            <Data name="RingLeft 1PushUp" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="RingRight 1BreastHeight" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastHeight</Data>
+            <Data name="RingLeft 1BreastHeight" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="RingRight 1BreastPerkiness" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastPerkiness</Data>
+            <Data name="RingLeft 1BreastPerkiness" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="RingRight 1BreastWidth" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BreastWidth</Data>
+            <Data name="RingLeft 1BreastWidth" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="RingRight 1NippleDistance" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1NippleDistance</Data>
+            <Data name="RingLeft 1NippleDistance" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1NippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="RingRight 1NipplePerkiness" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1NipplePerkiness</Data>
+            <Data name="RingLeft 1NipplePerkiness" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="RingRight 1NippleLength" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1NippleLength</Data>
+            <Data name="RingLeft 1NippleLength" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1NippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="RingRight 1NippleSize" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1NippleSize</Data>
+            <Data name="RingLeft 1NippleSize" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1NippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="RingRight 1NippleAreola" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1NippleAreola</Data>
+            <Data name="RingLeft 1NippleAreola" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="RingRight 1NippleUp" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1NippleUp</Data>
+            <Data name="RingLeft 1NippleUp" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="RingRight 1NippleDown" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1NippleDown</Data>
+            <Data name="RingLeft 1NippleDown" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1NippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="RingRight 1NippleTip" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1NippleTip</Data>
+            <Data name="RingLeft 1NippleTip" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1NippleTip</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="RingRight 1BigTorso" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1BigTorso</Data>
+            <Data name="RingLeft 1BigTorso" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1BigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="RingRight 1PregnancyBelly" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1PregnancyBelly</Data>
+            <Data name="RingLeft 1PregnancyBelly" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1PregnancyBelly</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="RingRight 17B Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B Low</Data>
+            <Data name="RingLeft 17B Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="RingRight 17B High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B High</Data>
+            <Data name="RingLeft 17B High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="RingRight 17B Bombshell Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B Bombshell Low</Data>
+            <Data name="RingLeft 17B Bombshell Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="RingRight 17B Bombshell High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B Bombshell High</Data>
+            <Data name="RingLeft 17B Bombshell High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="RingRight 17B Natural Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B Natural Low</Data>
+            <Data name="RingLeft 17B Natural Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="RingRight 17B Natural High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B Natural High</Data>
+            <Data name="RingLeft 17B Natural High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="RingRight 17B Cleavage Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B Cleavage Low</Data>
+            <Data name="RingLeft 17B Cleavage Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="RingRight 17B Cleavage High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B Cleavage High</Data>
+            <Data name="RingLeft 17B Cleavage High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="RingRight 17B BCup Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B BCup Low</Data>
+            <Data name="RingLeft 17B BCup Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="RingRight 17B BCup High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B BCup High</Data>
+            <Data name="RingLeft 17B BCup High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="RingRight 17BUNP Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17BUNP Low</Data>
+            <Data name="RingLeft 17BUNP Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="RingRight 17BUNP High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17BUNP High</Data>
+            <Data name="RingLeft 17BUNP High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="RingRight 17B Oppai Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B Oppai Low</Data>
+            <Data name="RingLeft 17B Oppai Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="RingRight 17B Oppai High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B Oppai High</Data>
+            <Data name="RingLeft 17B Oppai High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="RingRight 17B CH Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B CH Low</Data>
+            <Data name="RingLeft 17B CH Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="RingRight 17B CH High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 17B CH High</Data>
+            <Data name="RingLeft 17B CH High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 17B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNP Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNP Low</Data>
+            <Data name="RingLeft 1UNP Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNP High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNP High</Data>
+            <Data name="RingLeft 1UNP High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNP Pushup Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNP Pushup Low</Data>
+            <Data name="RingLeft 1UNP Pushup Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNP Pushup High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNP Pushup High</Data>
+            <Data name="RingLeft 1UNP Pushup High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNP Skinny Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNP Skinny Low</Data>
+            <Data name="RingLeft 1UNP Skinny Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNP Skinny High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNP Skinny High</Data>
+            <Data name="RingLeft 1UNP Skinny High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNP Perky Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNP Perky Low</Data>
+            <Data name="RingLeft 1UNP Perky Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNP Perky High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNP Perky High</Data>
+            <Data name="RingLeft 1UNP Perky High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPB Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPB Low</Data>
+            <Data name="RingLeft 1UNPB Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPB High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPB High</Data>
+            <Data name="RingLeft 1UNPB High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPB Chapi" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPB Chapi</Data>
+            <Data name="RingLeft 1UNPB Chapi" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPB Oppai v1" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPB Oppai v1</Data>
+            <Data name="RingLeft 1UNPB Oppai v1" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPB Oppai v3.2 Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPB Oppai v3.2 Low</Data>
+            <Data name="RingLeft 1UNPB Oppai v3.2 Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPB Oppai v3.2 High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPB Oppai v3.2 High</Data>
+            <Data name="RingLeft 1UNPB Oppai v3.2 High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPetite Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPetite Low</Data>
+            <Data name="RingLeft 1UNPetite Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPetite High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPetite High</Data>
+            <Data name="RingLeft 1UNPetite High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPC Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPC Low</Data>
+            <Data name="RingLeft 1UNPC Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPC High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPC High</Data>
+            <Data name="RingLeft 1UNPC High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPCM Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPCM Low</Data>
+            <Data name="RingLeft 1UNPCM Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPCM High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPCM High</Data>
+            <Data name="RingLeft 1UNPCM High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPSH Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPSH Low</Data>
+            <Data name="RingLeft 1UNPSH Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPSH High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPSH High</Data>
+            <Data name="RingLeft 1UNPSH High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPK Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPK Low</Data>
+            <Data name="RingLeft 1UNPK Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPK High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPK High</Data>
+            <Data name="RingLeft 1UNPK High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPK Bonus Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPK Bonus Low</Data>
+            <Data name="RingLeft 1UNPK Bonus Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPK Bonus High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPK Bonus High</Data>
+            <Data name="RingLeft 1UNPK Bonus High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UN7B Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UN7B Low</Data>
+            <Data name="RingLeft 1UN7B Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UN7B High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UN7B High</Data>
+            <Data name="RingLeft 1UN7B High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPBB Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPBB Low</Data>
+            <Data name="RingLeft 1UNPBB Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPBB High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPBB High</Data>
+            <Data name="RingLeft 1UNPBB High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1Seraphim Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Seraphim Low</Data>
+            <Data name="RingLeft 1Seraphim Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="RingRight 1Seraphim High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Seraphim High</Data>
+            <Data name="RingLeft 1Seraphim High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1Demonfet Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Demonfet Low</Data>
+            <Data name="RingLeft 1Demonfet Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="RingRight 1Demonfet High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Demonfet High</Data>
+            <Data name="RingLeft 1Demonfet High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1Dream Girl Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Dream Girl Low</Data>
+            <Data name="RingLeft 1Dream Girl Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="RingRight 1Dream Girl High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Dream Girl High</Data>
+            <Data name="RingLeft 1Dream Girl High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1Top Model Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Top Model Low</Data>
+            <Data name="RingLeft 1Top Model Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="RingRight 1Top Model High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Top Model High</Data>
+            <Data name="RingLeft 1Top Model High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1Leito Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Leito Low</Data>
+            <Data name="RingLeft 1Leito Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="RingRight 1Leito High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Leito High</Data>
+            <Data name="RingLeft 1Leito High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPF Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPF Low</Data>
+            <Data name="RingLeft 1UNPF Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPF High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPF High</Data>
+            <Data name="RingLeft 1UNPF High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPFx Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPFx Low</Data>
+            <Data name="RingLeft 1UNPFx Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="RingRight 1UNPFx High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1UNPFx High</Data>
+            <Data name="RingLeft 1UNPFx High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1CNHF Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1CNHF Low</Data>
+            <Data name="RingLeft 1CNHF Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="RingRight 1CNHF High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1CNHF High</Data>
+            <Data name="RingLeft 1CNHF High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1CNHF Bonus Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1CNHF Bonus Low</Data>
+            <Data name="RingLeft 1CNHF Bonus Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="RingRight 1CNHF Bonus High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1CNHF Bonus High</Data>
+            <Data name="RingLeft 1CNHF Bonus High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1MCBM Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1MCBM Low</Data>
+            <Data name="RingLeft 1MCBM Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="RingRight 1MCBM High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1MCBM High</Data>
+            <Data name="RingLeft 1MCBM High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1Venus Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Venus Low</Data>
+            <Data name="RingLeft 1Venus Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="RingRight 1Venus High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Venus High</Data>
+            <Data name="RingLeft 1Venus High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1ZGGB-R2 Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1ZGGB-R2 Low</Data>
+            <Data name="RingLeft 1ZGGB-R2 Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="RingRight 1ZGGB-R2 High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1ZGGB-R2 High</Data>
+            <Data name="RingLeft 1ZGGB-R2 High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1Manga Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Manga Low</Data>
+            <Data name="RingLeft 1Manga Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="RingRight 1Manga High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1Manga High</Data>
+            <Data name="RingLeft 1Manga High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="RingRight 1CHSBHC Low" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1CHSBHC Low</Data>
+            <Data name="RingLeft 1CHSBHC Low" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="RingRight 1CHSBHC High" target="RingRight 1" local="true">HR_Piercing01.osd\RingRight 1CHSBHC High</Data>
+            <Data name="RingLeft 1CHSBHC High" target="RingLeft 1" local="true">HR_Piercing01.osd\RingLeft 1CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

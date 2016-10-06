@@ -1,0 +1,702 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_BreastChainCollar">
+        <DataFolder>DDX_Heretical\HR_BreastChainCollar</DataFolder>
+        <SourceFile>HR_BreastChainCollar.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Restraints</OutputPath>
+        <OutputFile GenWeights="true">HR_BreastChainCollar</OutputFile>
+        <Shape target="RingCollar">RingCollar</Shape>
+        <Shape target="Tri ChainLeft 0">Tri ChainLeft 0</Shape>
+        <Shape target="Tri ChainLeft 1">Tri ChainLeft 1</Shape>
+        <Shape target="Tri ChainRight 0">Tri ChainRight 0</Shape>
+        <Shape target="Tri ChainRight 1">Tri ChainRight 1</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="RingCollarBreasts" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreasts</Data>
+            <Data name="Tri ChainLeft 1Breasts" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Breasts</Data>
+            <Data name="Tri ChainRight 0Breasts" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Breasts</Data>
+            <Data name="Tri ChainLeft 0Breasts" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Breasts</Data>
+            <Data name="Tri ChainRight 1Breasts" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="RingCollarBreastsSmall" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreastsSmall</Data>
+            <Data name="Tri ChainLeft 1BreastsSmall" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastsSmall</Data>
+            <Data name="Tri ChainRight 0BreastsSmall" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastsSmall</Data>
+            <Data name="Tri ChainLeft 0BreastsSmall" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastsSmall</Data>
+            <Data name="Tri ChainRight 1BreastsSmall" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="RingCollarBreastsSH" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreastsSH</Data>
+            <Data name="Tri ChainLeft 1BreastsSH" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastsSH</Data>
+            <Data name="Tri ChainRight 0BreastsSH" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastsSH</Data>
+            <Data name="Tri ChainLeft 0BreastsSH" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastsSH</Data>
+            <Data name="Tri ChainRight 1BreastsSH" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="RingCollarBreastsSSH" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreastsSSH</Data>
+            <Data name="Tri ChainLeft 1BreastsSSH" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastsSSH</Data>
+            <Data name="Tri ChainRight 0BreastsSSH" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastsSSH</Data>
+            <Data name="Tri ChainLeft 0BreastsSSH" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastsSSH</Data>
+            <Data name="Tri ChainRight 1BreastsSSH" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="RingCollarBreastsFantasy" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreastsFantasy</Data>
+            <Data name="Tri ChainLeft 1BreastsFantasy" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastsFantasy</Data>
+            <Data name="Tri ChainRight 0BreastsFantasy" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastsFantasy</Data>
+            <Data name="Tri ChainLeft 0BreastsFantasy" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastsFantasy</Data>
+            <Data name="Tri ChainRight 1BreastsFantasy" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="RingCollarDoubleMelon" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarDoubleMelon</Data>
+            <Data name="Tri ChainLeft 1DoubleMelon" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1DoubleMelon</Data>
+            <Data name="Tri ChainRight 0DoubleMelon" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0DoubleMelon</Data>
+            <Data name="Tri ChainLeft 0DoubleMelon" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0DoubleMelon</Data>
+            <Data name="Tri ChainRight 1DoubleMelon" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="Tri ChainLeft 1BreastCleavage" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastCleavage</Data>
+            <Data name="Tri ChainRight 0BreastCleavage" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastCleavage</Data>
+            <Data name="Tri ChainLeft 0BreastCleavage" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastCleavage</Data>
+            <Data name="Tri ChainRight 1BreastCleavage" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="RingCollarBreastFlatness" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreastFlatness</Data>
+            <Data name="Tri ChainLeft 1BreastFlatness" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastFlatness</Data>
+            <Data name="Tri ChainRight 0BreastFlatness" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastFlatness</Data>
+            <Data name="Tri ChainLeft 0BreastFlatness" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastFlatness</Data>
+            <Data name="Tri ChainRight 1BreastFlatness" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="RingCollarBreastGravity" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreastGravity</Data>
+            <Data name="Tri ChainLeft 1BreastGravity" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastGravity</Data>
+            <Data name="Tri ChainRight 0BreastGravity" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastGravity</Data>
+            <Data name="Tri ChainLeft 0BreastGravity" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastGravity</Data>
+            <Data name="Tri ChainRight 1BreastGravity" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="RingCollarPushUp" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarPushUp</Data>
+            <Data name="Tri ChainLeft 1PushUp" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1PushUp</Data>
+            <Data name="Tri ChainRight 0PushUp" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0PushUp</Data>
+            <Data name="Tri ChainLeft 0PushUp" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0PushUp</Data>
+            <Data name="Tri ChainRight 1PushUp" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="RingCollarBreastHeight" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreastHeight</Data>
+            <Data name="Tri ChainLeft 1BreastHeight" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastHeight</Data>
+            <Data name="Tri ChainRight 0BreastHeight" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastHeight</Data>
+            <Data name="Tri ChainLeft 0BreastHeight" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastHeight</Data>
+            <Data name="Tri ChainRight 1BreastHeight" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="RingCollarBreastPerkiness" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreastPerkiness</Data>
+            <Data name="Tri ChainLeft 1BreastPerkiness" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastPerkiness</Data>
+            <Data name="Tri ChainRight 0BreastPerkiness" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastPerkiness</Data>
+            <Data name="Tri ChainLeft 0BreastPerkiness" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastPerkiness</Data>
+            <Data name="Tri ChainRight 1BreastPerkiness" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="RingCollarBreastWidth" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBreastWidth</Data>
+            <Data name="Tri ChainLeft 1BreastWidth" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BreastWidth</Data>
+            <Data name="Tri ChainRight 0BreastWidth" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BreastWidth</Data>
+            <Data name="Tri ChainLeft 0BreastWidth" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BreastWidth</Data>
+            <Data name="Tri ChainRight 1BreastWidth" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="Tri ChainLeft 1NippleDistance" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1NippleDistance</Data>
+            <Data name="Tri ChainRight 0NippleDistance" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0NippleDistance</Data>
+            <Data name="Tri ChainLeft 0NippleDistance" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0NippleDistance</Data>
+            <Data name="Tri ChainRight 1NippleDistance" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1NippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="Tri ChainLeft 1NipplePerkiness" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1NipplePerkiness</Data>
+            <Data name="Tri ChainRight 0NipplePerkiness" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0NipplePerkiness</Data>
+            <Data name="Tri ChainLeft 0NipplePerkiness" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0NipplePerkiness</Data>
+            <Data name="Tri ChainRight 1NipplePerkiness" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1NipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="Tri ChainLeft 1NippleLength" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1NippleLength</Data>
+            <Data name="Tri ChainRight 0NippleLength" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0NippleLength</Data>
+            <Data name="Tri ChainLeft 0NippleLength" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0NippleLength</Data>
+            <Data name="Tri ChainRight 1NippleLength" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1NippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="Tri ChainLeft 1NippleSize" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1NippleSize</Data>
+            <Data name="Tri ChainRight 0NippleSize" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0NippleSize</Data>
+            <Data name="Tri ChainLeft 0NippleSize" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0NippleSize</Data>
+            <Data name="Tri ChainRight 1NippleSize" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1NippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="Tri ChainLeft 1NippleAreola" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1NippleAreola</Data>
+            <Data name="Tri ChainRight 0NippleAreola" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0NippleAreola</Data>
+            <Data name="Tri ChainLeft 0NippleAreola" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0NippleAreola</Data>
+            <Data name="Tri ChainRight 1NippleAreola" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1NippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="Tri ChainLeft 1NippleUp" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1NippleUp</Data>
+            <Data name="Tri ChainRight 0NippleUp" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0NippleUp</Data>
+            <Data name="Tri ChainLeft 0NippleUp" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0NippleUp</Data>
+            <Data name="Tri ChainRight 1NippleUp" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1NippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="Tri ChainLeft 1NippleDown" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1NippleDown</Data>
+            <Data name="Tri ChainRight 0NippleDown" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0NippleDown</Data>
+            <Data name="Tri ChainLeft 0NippleDown" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0NippleDown</Data>
+            <Data name="Tri ChainRight 1NippleDown" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1NippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="Tri ChainLeft 1NippleTip" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1NippleTip</Data>
+            <Data name="Tri ChainRight 0NippleTip" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0NippleTip</Data>
+            <Data name="Tri ChainLeft 0NippleTip" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0NippleTip</Data>
+            <Data name="Tri ChainRight 1NippleTip" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1NippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="RingCollarArms" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="RingCollarChubbyArms" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="RingCollarShoulderSmooth" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarShoulderSmooth</Data>
+            <Data name="Tri ChainRight 0ShoulderSmooth" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0ShoulderSmooth</Data>
+            <Data name="Tri ChainLeft 0ShoulderSmooth" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="RingCollarShoulderWidth" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarShoulderWidth</Data>
+            <Data name="Tri ChainRight 0ShoulderWidth" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0ShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="RingCollarBigTorso" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarBigTorso</Data>
+            <Data name="Tri ChainLeft 1BigTorso" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1BigTorso</Data>
+            <Data name="Tri ChainRight 0BigTorso" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0BigTorso</Data>
+            <Data name="Tri ChainLeft 0BigTorso" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0BigTorso</Data>
+            <Data name="Tri ChainRight 1BigTorso" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1BigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="Tri ChainLeft 1PregnancyBelly" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1PregnancyBelly</Data>
+            <Data name="Tri ChainRight 0PregnancyBelly" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0PregnancyBelly</Data>
+            <Data name="Tri ChainLeft 0PregnancyBelly" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0PregnancyBelly</Data>
+            <Data name="Tri ChainRight 1PregnancyBelly" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1PregnancyBelly</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="RingCollarNeck" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarNeck</Data>
+            <Data name="Tri ChainRight 0Neck" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Neck</Data>
+            <Data name="Tri ChainLeft 0Neck" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Neck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="RingCollar7B Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B Low</Data>
+            <Data name="Tri ChainLeft 17B Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B Low</Data>
+            <Data name="Tri ChainRight 07B Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B Low</Data>
+            <Data name="Tri ChainLeft 07B Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B Low</Data>
+            <Data name="Tri ChainRight 17B Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="RingCollar7B High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B High</Data>
+            <Data name="Tri ChainLeft 17B High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B High</Data>
+            <Data name="Tri ChainRight 07B High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B High</Data>
+            <Data name="Tri ChainLeft 07B High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B High</Data>
+            <Data name="Tri ChainRight 17B High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="RingCollar7B Bombshell Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B Bombshell Low</Data>
+            <Data name="Tri ChainLeft 17B Bombshell Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B Bombshell Low</Data>
+            <Data name="Tri ChainRight 07B Bombshell Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B Bombshell Low</Data>
+            <Data name="Tri ChainLeft 07B Bombshell Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B Bombshell Low</Data>
+            <Data name="Tri ChainRight 17B Bombshell Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="RingCollar7B Bombshell High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B Bombshell High</Data>
+            <Data name="Tri ChainLeft 17B Bombshell High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B Bombshell High</Data>
+            <Data name="Tri ChainRight 07B Bombshell High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B Bombshell High</Data>
+            <Data name="Tri ChainLeft 07B Bombshell High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B Bombshell High</Data>
+            <Data name="Tri ChainRight 17B Bombshell High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="RingCollar7B Natural Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B Natural Low</Data>
+            <Data name="Tri ChainLeft 17B Natural Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B Natural Low</Data>
+            <Data name="Tri ChainRight 07B Natural Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B Natural Low</Data>
+            <Data name="Tri ChainLeft 07B Natural Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B Natural Low</Data>
+            <Data name="Tri ChainRight 17B Natural Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="RingCollar7B Natural High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B Natural High</Data>
+            <Data name="Tri ChainLeft 17B Natural High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B Natural High</Data>
+            <Data name="Tri ChainRight 07B Natural High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B Natural High</Data>
+            <Data name="Tri ChainLeft 07B Natural High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B Natural High</Data>
+            <Data name="Tri ChainRight 17B Natural High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="RingCollar7B Cleavage Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B Cleavage Low</Data>
+            <Data name="Tri ChainLeft 17B Cleavage Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B Cleavage Low</Data>
+            <Data name="Tri ChainRight 07B Cleavage Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B Cleavage Low</Data>
+            <Data name="Tri ChainLeft 07B Cleavage Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B Cleavage Low</Data>
+            <Data name="Tri ChainRight 17B Cleavage Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="RingCollar7B Cleavage High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B Cleavage High</Data>
+            <Data name="Tri ChainLeft 17B Cleavage High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B Cleavage High</Data>
+            <Data name="Tri ChainRight 07B Cleavage High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B Cleavage High</Data>
+            <Data name="Tri ChainLeft 07B Cleavage High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B Cleavage High</Data>
+            <Data name="Tri ChainRight 17B Cleavage High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="RingCollar7B BCup Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B BCup Low</Data>
+            <Data name="Tri ChainLeft 17B BCup Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B BCup Low</Data>
+            <Data name="Tri ChainRight 07B BCup Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B BCup Low</Data>
+            <Data name="Tri ChainLeft 07B BCup Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B BCup Low</Data>
+            <Data name="Tri ChainRight 17B BCup Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="RingCollar7B BCup High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B BCup High</Data>
+            <Data name="Tri ChainLeft 17B BCup High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B BCup High</Data>
+            <Data name="Tri ChainRight 07B BCup High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B BCup High</Data>
+            <Data name="Tri ChainLeft 07B BCup High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B BCup High</Data>
+            <Data name="Tri ChainRight 17B BCup High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="RingCollar7BUNP Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7BUNP Low</Data>
+            <Data name="Tri ChainLeft 17BUNP Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17BUNP Low</Data>
+            <Data name="Tri ChainRight 07BUNP Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07BUNP Low</Data>
+            <Data name="Tri ChainLeft 07BUNP Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07BUNP Low</Data>
+            <Data name="Tri ChainRight 17BUNP Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="RingCollar7BUNP High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7BUNP High</Data>
+            <Data name="Tri ChainLeft 17BUNP High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17BUNP High</Data>
+            <Data name="Tri ChainRight 07BUNP High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07BUNP High</Data>
+            <Data name="Tri ChainLeft 07BUNP High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07BUNP High</Data>
+            <Data name="Tri ChainRight 17BUNP High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="RingCollar7B Oppai Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B Oppai Low</Data>
+            <Data name="Tri ChainLeft 17B Oppai Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B Oppai Low</Data>
+            <Data name="Tri ChainRight 07B Oppai Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B Oppai Low</Data>
+            <Data name="Tri ChainLeft 07B Oppai Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B Oppai Low</Data>
+            <Data name="Tri ChainRight 17B Oppai Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="RingCollar7B Oppai High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B Oppai High</Data>
+            <Data name="Tri ChainLeft 17B Oppai High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B Oppai High</Data>
+            <Data name="Tri ChainRight 07B Oppai High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B Oppai High</Data>
+            <Data name="Tri ChainLeft 07B Oppai High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B Oppai High</Data>
+            <Data name="Tri ChainRight 17B Oppai High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="RingCollar7B CH Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B CH Low</Data>
+            <Data name="Tri ChainLeft 17B CH Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B CH Low</Data>
+            <Data name="Tri ChainRight 07B CH Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B CH Low</Data>
+            <Data name="Tri ChainLeft 07B CH Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B CH Low</Data>
+            <Data name="Tri ChainRight 17B CH Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="RingCollar7B CH High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollar7B CH High</Data>
+            <Data name="Tri ChainLeft 17B CH High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 17B CH High</Data>
+            <Data name="Tri ChainRight 07B CH High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 07B CH High</Data>
+            <Data name="Tri ChainLeft 07B CH High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 07B CH High</Data>
+            <Data name="Tri ChainRight 17B CH High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 17B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNP Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNP Low</Data>
+            <Data name="Tri ChainLeft 1UNP Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNP Low</Data>
+            <Data name="Tri ChainRight 0UNP Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNP Low</Data>
+            <Data name="Tri ChainLeft 0UNP Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNP Low</Data>
+            <Data name="Tri ChainRight 1UNP Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNP High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNP High</Data>
+            <Data name="Tri ChainLeft 1UNP High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNP High</Data>
+            <Data name="Tri ChainRight 0UNP High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNP High</Data>
+            <Data name="Tri ChainLeft 0UNP High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNP High</Data>
+            <Data name="Tri ChainRight 1UNP High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNP Pushup Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNP Pushup Low</Data>
+            <Data name="Tri ChainLeft 1UNP Pushup Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNP Pushup Low</Data>
+            <Data name="Tri ChainRight 0UNP Pushup Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNP Pushup Low</Data>
+            <Data name="Tri ChainLeft 0UNP Pushup Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNP Pushup Low</Data>
+            <Data name="Tri ChainRight 1UNP Pushup Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNP Pushup High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNP Pushup High</Data>
+            <Data name="Tri ChainLeft 1UNP Pushup High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNP Pushup High</Data>
+            <Data name="Tri ChainRight 0UNP Pushup High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNP Pushup High</Data>
+            <Data name="Tri ChainLeft 0UNP Pushup High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNP Pushup High</Data>
+            <Data name="Tri ChainRight 1UNP Pushup High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNP Skinny Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNP Skinny Low</Data>
+            <Data name="Tri ChainLeft 1UNP Skinny Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNP Skinny Low</Data>
+            <Data name="Tri ChainRight 0UNP Skinny Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNP Skinny Low</Data>
+            <Data name="Tri ChainLeft 0UNP Skinny Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNP Skinny Low</Data>
+            <Data name="Tri ChainRight 1UNP Skinny Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNP Skinny High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNP Skinny High</Data>
+            <Data name="Tri ChainLeft 1UNP Skinny High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNP Skinny High</Data>
+            <Data name="Tri ChainRight 0UNP Skinny High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNP Skinny High</Data>
+            <Data name="Tri ChainLeft 0UNP Skinny High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNP Skinny High</Data>
+            <Data name="Tri ChainRight 1UNP Skinny High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNP Perky Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNP Perky Low</Data>
+            <Data name="Tri ChainLeft 1UNP Perky Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNP Perky Low</Data>
+            <Data name="Tri ChainRight 0UNP Perky Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNP Perky Low</Data>
+            <Data name="Tri ChainLeft 0UNP Perky Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNP Perky Low</Data>
+            <Data name="Tri ChainRight 1UNP Perky Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNP Perky High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNP Perky High</Data>
+            <Data name="Tri ChainLeft 1UNP Perky High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNP Perky High</Data>
+            <Data name="Tri ChainRight 0UNP Perky High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNP Perky High</Data>
+            <Data name="Tri ChainLeft 0UNP Perky High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNP Perky High</Data>
+            <Data name="Tri ChainRight 1UNP Perky High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPB Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPB Low</Data>
+            <Data name="Tri ChainLeft 1UNPB Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPB Low</Data>
+            <Data name="Tri ChainRight 0UNPB Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPB Low</Data>
+            <Data name="Tri ChainLeft 0UNPB Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPB Low</Data>
+            <Data name="Tri ChainRight 1UNPB Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPB High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPB High</Data>
+            <Data name="Tri ChainLeft 1UNPB High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPB High</Data>
+            <Data name="Tri ChainRight 0UNPB High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPB High</Data>
+            <Data name="Tri ChainLeft 0UNPB High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPB High</Data>
+            <Data name="Tri ChainRight 1UNPB High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPB Chapi" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPB Chapi</Data>
+            <Data name="Tri ChainLeft 1UNPB Chapi" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPB Chapi</Data>
+            <Data name="Tri ChainRight 0UNPB Chapi" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPB Chapi</Data>
+            <Data name="Tri ChainLeft 0UNPB Chapi" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPB Chapi</Data>
+            <Data name="Tri ChainRight 1UNPB Chapi" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPB Oppai v1" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPB Oppai v1</Data>
+            <Data name="Tri ChainLeft 1UNPB Oppai v1" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPB Oppai v1</Data>
+            <Data name="Tri ChainRight 0UNPB Oppai v1" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPB Oppai v1</Data>
+            <Data name="Tri ChainLeft 0UNPB Oppai v1" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPB Oppai v1</Data>
+            <Data name="Tri ChainRight 1UNPB Oppai v1" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPB Oppai v3.2 Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPB Oppai v3.2 Low</Data>
+            <Data name="Tri ChainLeft 1UNPB Oppai v3.2 Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPB Oppai v3.2 Low</Data>
+            <Data name="Tri ChainRight 0UNPB Oppai v3.2 Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPB Oppai v3.2 Low</Data>
+            <Data name="Tri ChainLeft 0UNPB Oppai v3.2 Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPB Oppai v3.2 Low</Data>
+            <Data name="Tri ChainRight 1UNPB Oppai v3.2 Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPB Oppai v3.2 High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPB Oppai v3.2 High</Data>
+            <Data name="Tri ChainLeft 1UNPB Oppai v3.2 High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPB Oppai v3.2 High</Data>
+            <Data name="Tri ChainRight 0UNPB Oppai v3.2 High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPB Oppai v3.2 High</Data>
+            <Data name="Tri ChainLeft 0UNPB Oppai v3.2 High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPB Oppai v3.2 High</Data>
+            <Data name="Tri ChainRight 1UNPB Oppai v3.2 High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPetite Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPetite Low</Data>
+            <Data name="Tri ChainLeft 1UNPetite Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPetite Low</Data>
+            <Data name="Tri ChainRight 0UNPetite Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPetite Low</Data>
+            <Data name="Tri ChainLeft 0UNPetite Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPetite Low</Data>
+            <Data name="Tri ChainRight 1UNPetite Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPetite High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPetite High</Data>
+            <Data name="Tri ChainLeft 1UNPetite High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPetite High</Data>
+            <Data name="Tri ChainRight 0UNPetite High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPetite High</Data>
+            <Data name="Tri ChainLeft 0UNPetite High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPetite High</Data>
+            <Data name="Tri ChainRight 1UNPetite High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPC Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPC Low</Data>
+            <Data name="Tri ChainLeft 1UNPC Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPC Low</Data>
+            <Data name="Tri ChainRight 0UNPC Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPC Low</Data>
+            <Data name="Tri ChainLeft 0UNPC Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPC Low</Data>
+            <Data name="Tri ChainRight 1UNPC Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPC High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPC High</Data>
+            <Data name="Tri ChainLeft 1UNPC High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPC High</Data>
+            <Data name="Tri ChainRight 0UNPC High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPC High</Data>
+            <Data name="Tri ChainLeft 0UNPC High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPC High</Data>
+            <Data name="Tri ChainRight 1UNPC High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPCM Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPCM Low</Data>
+            <Data name="Tri ChainLeft 1UNPCM Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPCM Low</Data>
+            <Data name="Tri ChainRight 0UNPCM Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPCM Low</Data>
+            <Data name="Tri ChainLeft 0UNPCM Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPCM Low</Data>
+            <Data name="Tri ChainRight 1UNPCM Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPCM High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPCM High</Data>
+            <Data name="Tri ChainLeft 1UNPCM High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPCM High</Data>
+            <Data name="Tri ChainRight 0UNPCM High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPCM High</Data>
+            <Data name="Tri ChainLeft 0UNPCM High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPCM High</Data>
+            <Data name="Tri ChainRight 1UNPCM High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPSH Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPSH Low</Data>
+            <Data name="Tri ChainLeft 1UNPSH Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPSH Low</Data>
+            <Data name="Tri ChainRight 0UNPSH Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPSH Low</Data>
+            <Data name="Tri ChainLeft 0UNPSH Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPSH Low</Data>
+            <Data name="Tri ChainRight 1UNPSH Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPSH High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPSH High</Data>
+            <Data name="Tri ChainLeft 1UNPSH High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPSH High</Data>
+            <Data name="Tri ChainRight 0UNPSH High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPSH High</Data>
+            <Data name="Tri ChainLeft 0UNPSH High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPSH High</Data>
+            <Data name="Tri ChainRight 1UNPSH High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPK Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPK Low</Data>
+            <Data name="Tri ChainLeft 1UNPK Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPK Low</Data>
+            <Data name="Tri ChainRight 0UNPK Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPK Low</Data>
+            <Data name="Tri ChainLeft 0UNPK Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPK Low</Data>
+            <Data name="Tri ChainRight 1UNPK Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPK High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPK High</Data>
+            <Data name="Tri ChainLeft 1UNPK High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPK High</Data>
+            <Data name="Tri ChainRight 0UNPK High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPK High</Data>
+            <Data name="Tri ChainLeft 0UNPK High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPK High</Data>
+            <Data name="Tri ChainRight 1UNPK High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPK Bonus Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPK Bonus Low</Data>
+            <Data name="Tri ChainLeft 1UNPK Bonus Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPK Bonus Low</Data>
+            <Data name="Tri ChainRight 0UNPK Bonus Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPK Bonus Low</Data>
+            <Data name="Tri ChainLeft 0UNPK Bonus Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPK Bonus Low</Data>
+            <Data name="Tri ChainRight 1UNPK Bonus Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPK Bonus High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPK Bonus High</Data>
+            <Data name="Tri ChainLeft 1UNPK Bonus High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPK Bonus High</Data>
+            <Data name="Tri ChainRight 0UNPK Bonus High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPK Bonus High</Data>
+            <Data name="Tri ChainLeft 0UNPK Bonus High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPK Bonus High</Data>
+            <Data name="Tri ChainRight 1UNPK Bonus High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUN7B Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUN7B Low</Data>
+            <Data name="Tri ChainLeft 1UN7B Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UN7B Low</Data>
+            <Data name="Tri ChainRight 0UN7B Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UN7B Low</Data>
+            <Data name="Tri ChainLeft 0UN7B Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UN7B Low</Data>
+            <Data name="Tri ChainRight 1UN7B Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="RingCollarUN7B High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUN7B High</Data>
+            <Data name="Tri ChainLeft 1UN7B High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UN7B High</Data>
+            <Data name="Tri ChainRight 0UN7B High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UN7B High</Data>
+            <Data name="Tri ChainLeft 0UN7B High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UN7B High</Data>
+            <Data name="Tri ChainRight 1UN7B High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPBB Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPBB Low</Data>
+            <Data name="Tri ChainLeft 1UNPBB Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPBB Low</Data>
+            <Data name="Tri ChainRight 0UNPBB Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPBB Low</Data>
+            <Data name="Tri ChainLeft 0UNPBB Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPBB Low</Data>
+            <Data name="Tri ChainRight 1UNPBB Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPBB High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPBB High</Data>
+            <Data name="Tri ChainLeft 1UNPBB High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPBB High</Data>
+            <Data name="Tri ChainRight 0UNPBB High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPBB High</Data>
+            <Data name="Tri ChainLeft 0UNPBB High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPBB High</Data>
+            <Data name="Tri ChainRight 1UNPBB High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="RingCollarSeraphim Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarSeraphim Low</Data>
+            <Data name="Tri ChainLeft 1Seraphim Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Seraphim Low</Data>
+            <Data name="Tri ChainRight 0Seraphim Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Seraphim Low</Data>
+            <Data name="Tri ChainLeft 0Seraphim Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Seraphim Low</Data>
+            <Data name="Tri ChainRight 1Seraphim Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="RingCollarSeraphim High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarSeraphim High</Data>
+            <Data name="Tri ChainLeft 1Seraphim High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Seraphim High</Data>
+            <Data name="Tri ChainRight 0Seraphim High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Seraphim High</Data>
+            <Data name="Tri ChainLeft 0Seraphim High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Seraphim High</Data>
+            <Data name="Tri ChainRight 1Seraphim High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="RingCollarDemonfet Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarDemonfet Low</Data>
+            <Data name="Tri ChainLeft 1Demonfet Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Demonfet Low</Data>
+            <Data name="Tri ChainRight 0Demonfet Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Demonfet Low</Data>
+            <Data name="Tri ChainLeft 0Demonfet Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Demonfet Low</Data>
+            <Data name="Tri ChainRight 1Demonfet Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="RingCollarDemonfet High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarDemonfet High</Data>
+            <Data name="Tri ChainLeft 1Demonfet High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Demonfet High</Data>
+            <Data name="Tri ChainRight 0Demonfet High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Demonfet High</Data>
+            <Data name="Tri ChainLeft 0Demonfet High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Demonfet High</Data>
+            <Data name="Tri ChainRight 1Demonfet High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="RingCollarDream Girl Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarDream Girl Low</Data>
+            <Data name="Tri ChainLeft 1Dream Girl Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Dream Girl Low</Data>
+            <Data name="Tri ChainRight 0Dream Girl Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Dream Girl Low</Data>
+            <Data name="Tri ChainLeft 0Dream Girl Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Dream Girl Low</Data>
+            <Data name="Tri ChainRight 1Dream Girl Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="RingCollarDream Girl High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarDream Girl High</Data>
+            <Data name="Tri ChainLeft 1Dream Girl High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Dream Girl High</Data>
+            <Data name="Tri ChainRight 0Dream Girl High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Dream Girl High</Data>
+            <Data name="Tri ChainLeft 0Dream Girl High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Dream Girl High</Data>
+            <Data name="Tri ChainRight 1Dream Girl High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="RingCollarTop Model Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarTop Model Low</Data>
+            <Data name="Tri ChainLeft 1Top Model Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Top Model Low</Data>
+            <Data name="Tri ChainRight 0Top Model Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Top Model Low</Data>
+            <Data name="Tri ChainLeft 0Top Model Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Top Model Low</Data>
+            <Data name="Tri ChainRight 1Top Model Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="RingCollarTop Model High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarTop Model High</Data>
+            <Data name="Tri ChainLeft 1Top Model High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Top Model High</Data>
+            <Data name="Tri ChainRight 0Top Model High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Top Model High</Data>
+            <Data name="Tri ChainLeft 0Top Model High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Top Model High</Data>
+            <Data name="Tri ChainRight 1Top Model High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="RingCollarLeito Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarLeito Low</Data>
+            <Data name="Tri ChainLeft 1Leito Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Leito Low</Data>
+            <Data name="Tri ChainRight 0Leito Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Leito Low</Data>
+            <Data name="Tri ChainLeft 0Leito Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Leito Low</Data>
+            <Data name="Tri ChainRight 1Leito Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="RingCollarLeito High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarLeito High</Data>
+            <Data name="Tri ChainLeft 1Leito High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Leito High</Data>
+            <Data name="Tri ChainRight 0Leito High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Leito High</Data>
+            <Data name="Tri ChainLeft 0Leito High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Leito High</Data>
+            <Data name="Tri ChainRight 1Leito High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPF Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPF Low</Data>
+            <Data name="Tri ChainLeft 1UNPF Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPF Low</Data>
+            <Data name="Tri ChainRight 0UNPF Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPF Low</Data>
+            <Data name="Tri ChainLeft 0UNPF Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPF Low</Data>
+            <Data name="Tri ChainRight 1UNPF Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPF High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPF High</Data>
+            <Data name="Tri ChainLeft 1UNPF High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPF High</Data>
+            <Data name="Tri ChainRight 0UNPF High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPF High</Data>
+            <Data name="Tri ChainLeft 0UNPF High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPF High</Data>
+            <Data name="Tri ChainRight 1UNPF High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPFx Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPFx Low</Data>
+            <Data name="Tri ChainLeft 1UNPFx Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPFx Low</Data>
+            <Data name="Tri ChainRight 0UNPFx Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPFx Low</Data>
+            <Data name="Tri ChainLeft 0UNPFx Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPFx Low</Data>
+            <Data name="Tri ChainRight 1UNPFx Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="RingCollarUNPFx High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarUNPFx High</Data>
+            <Data name="Tri ChainLeft 1UNPFx High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1UNPFx High</Data>
+            <Data name="Tri ChainRight 0UNPFx High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0UNPFx High</Data>
+            <Data name="Tri ChainLeft 0UNPFx High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0UNPFx High</Data>
+            <Data name="Tri ChainRight 1UNPFx High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="RingCollarCNHF Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarCNHF Low</Data>
+            <Data name="Tri ChainLeft 1CNHF Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1CNHF Low</Data>
+            <Data name="Tri ChainRight 0CNHF Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0CNHF Low</Data>
+            <Data name="Tri ChainLeft 0CNHF Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0CNHF Low</Data>
+            <Data name="Tri ChainRight 1CNHF Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="RingCollarCNHF High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarCNHF High</Data>
+            <Data name="Tri ChainLeft 1CNHF High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1CNHF High</Data>
+            <Data name="Tri ChainRight 0CNHF High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0CNHF High</Data>
+            <Data name="Tri ChainLeft 0CNHF High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0CNHF High</Data>
+            <Data name="Tri ChainRight 1CNHF High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="RingCollarCNHF Bonus Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarCNHF Bonus Low</Data>
+            <Data name="Tri ChainLeft 1CNHF Bonus Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1CNHF Bonus Low</Data>
+            <Data name="Tri ChainRight 0CNHF Bonus Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0CNHF Bonus Low</Data>
+            <Data name="Tri ChainLeft 0CNHF Bonus Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0CNHF Bonus Low</Data>
+            <Data name="Tri ChainRight 1CNHF Bonus Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="RingCollarCNHF Bonus High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarCNHF Bonus High</Data>
+            <Data name="Tri ChainLeft 1CNHF Bonus High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1CNHF Bonus High</Data>
+            <Data name="Tri ChainRight 0CNHF Bonus High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0CNHF Bonus High</Data>
+            <Data name="Tri ChainLeft 0CNHF Bonus High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0CNHF Bonus High</Data>
+            <Data name="Tri ChainRight 1CNHF Bonus High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="RingCollarMCBM Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarMCBM Low</Data>
+            <Data name="Tri ChainLeft 1MCBM Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1MCBM Low</Data>
+            <Data name="Tri ChainRight 0MCBM Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0MCBM Low</Data>
+            <Data name="Tri ChainLeft 0MCBM Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0MCBM Low</Data>
+            <Data name="Tri ChainRight 1MCBM Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="RingCollarMCBM High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarMCBM High</Data>
+            <Data name="Tri ChainLeft 1MCBM High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1MCBM High</Data>
+            <Data name="Tri ChainRight 0MCBM High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0MCBM High</Data>
+            <Data name="Tri ChainLeft 0MCBM High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0MCBM High</Data>
+            <Data name="Tri ChainRight 1MCBM High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="RingCollarVenus Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarVenus Low</Data>
+            <Data name="Tri ChainLeft 1Venus Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Venus Low</Data>
+            <Data name="Tri ChainRight 0Venus Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Venus Low</Data>
+            <Data name="Tri ChainLeft 0Venus Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Venus Low</Data>
+            <Data name="Tri ChainRight 1Venus Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="RingCollarVenus High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarVenus High</Data>
+            <Data name="Tri ChainLeft 1Venus High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Venus High</Data>
+            <Data name="Tri ChainRight 0Venus High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Venus High</Data>
+            <Data name="Tri ChainLeft 0Venus High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Venus High</Data>
+            <Data name="Tri ChainRight 1Venus High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="RingCollarZGGB-R2 Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarZGGB-R2 Low</Data>
+            <Data name="Tri ChainLeft 1ZGGB-R2 Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1ZGGB-R2 Low</Data>
+            <Data name="Tri ChainRight 0ZGGB-R2 Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0ZGGB-R2 Low</Data>
+            <Data name="Tri ChainLeft 0ZGGB-R2 Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0ZGGB-R2 Low</Data>
+            <Data name="Tri ChainRight 1ZGGB-R2 Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="RingCollarZGGB-R2 High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarZGGB-R2 High</Data>
+            <Data name="Tri ChainLeft 1ZGGB-R2 High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1ZGGB-R2 High</Data>
+            <Data name="Tri ChainRight 0ZGGB-R2 High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0ZGGB-R2 High</Data>
+            <Data name="Tri ChainLeft 0ZGGB-R2 High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0ZGGB-R2 High</Data>
+            <Data name="Tri ChainRight 1ZGGB-R2 High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="RingCollarManga Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarManga Low</Data>
+            <Data name="Tri ChainLeft 1Manga Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Manga Low</Data>
+            <Data name="Tri ChainRight 0Manga Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Manga Low</Data>
+            <Data name="Tri ChainLeft 0Manga Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Manga Low</Data>
+            <Data name="Tri ChainRight 1Manga Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="RingCollarManga High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarManga High</Data>
+            <Data name="Tri ChainLeft 1Manga High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1Manga High</Data>
+            <Data name="Tri ChainRight 0Manga High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0Manga High</Data>
+            <Data name="Tri ChainLeft 0Manga High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0Manga High</Data>
+            <Data name="Tri ChainRight 1Manga High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="RingCollarCHSBHC Low" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarCHSBHC Low</Data>
+            <Data name="Tri ChainLeft 1CHSBHC Low" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1CHSBHC Low</Data>
+            <Data name="Tri ChainRight 0CHSBHC Low" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0CHSBHC Low</Data>
+            <Data name="Tri ChainLeft 0CHSBHC Low" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0CHSBHC Low</Data>
+            <Data name="Tri ChainRight 1CHSBHC Low" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="RingCollarCHSBHC High" target="RingCollar" local="true">HR_BreastChainCollar.osd\RingCollarCHSBHC High</Data>
+            <Data name="Tri ChainLeft 1CHSBHC High" target="Tri ChainLeft 1" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 1CHSBHC High</Data>
+            <Data name="Tri ChainRight 0CHSBHC High" target="Tri ChainRight 0" local="true">HR_BreastChainCollar.osd\Tri ChainRight 0CHSBHC High</Data>
+            <Data name="Tri ChainLeft 0CHSBHC High" target="Tri ChainLeft 0" local="true">HR_BreastChainCollar.osd\Tri ChainLeft 0CHSBHC High</Data>
+            <Data name="Tri ChainRight 1CHSBHC High" target="Tri ChainRight 1" local="true">HR_BreastChainCollar.osd\Tri ChainRight 1CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

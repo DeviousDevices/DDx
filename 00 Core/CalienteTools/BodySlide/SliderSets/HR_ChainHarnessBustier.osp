@@ -1,0 +1,445 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX_HR_ChainHarnessBustier">
+        <DataFolder>DDX_Heretical\HR_ChainHarnessBustier</DataFolder>
+        <SourceFile>HR_ChainHarnessBustier.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\Restraints</OutputPath>
+        <OutputFile GenWeights="true">HR_ChainHarnessBustier</OutputFile>
+        <Shape target="BreastChain">BreastChain</Shape>
+        <Shape target="BreastConnectRings">BreastConnectRings</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="BreastChainBreasts" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreasts</Data>
+            <Data name="BreastConnectRingsBreasts" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BreastChainBreastsSmall" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastsSmall</Data>
+            <Data name="BreastConnectRingsBreastsSmall" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BreastChainBreastsSH" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastsSH</Data>
+            <Data name="BreastConnectRingsBreastsSH" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BreastChainBreastsSSH" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastsSSH</Data>
+            <Data name="BreastConnectRingsBreastsSSH" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BreastChainBreastsFantasy" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastsFantasy</Data>
+            <Data name="BreastConnectRingsBreastsFantasy" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BreastChainDoubleMelon" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainDoubleMelon</Data>
+            <Data name="BreastConnectRingsDoubleMelon" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BreastChainBreastCleavage" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BreastChainBreastFlatness" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastFlatness</Data>
+            <Data name="BreastConnectRingsBreastFlatness" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BreastChainBreastGravity" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastGravity</Data>
+            <Data name="BreastConnectRingsBreastGravity" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BreastChainPushUp" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainPushUp</Data>
+            <Data name="BreastConnectRingsPushUp" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BreastChainBreastHeight" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastHeight</Data>
+            <Data name="BreastConnectRingsBreastHeight" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BreastChainBreastPerkiness" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastPerkiness</Data>
+            <Data name="BreastConnectRingsBreastPerkiness" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BreastChainBreastWidth" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBreastWidth</Data>
+            <Data name="BreastConnectRingsBreastWidth" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BreastChainNippleDistance" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BreastChainNippleAreola" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainNippleAreola</Data>
+            <Data name="BreastConnectRingsNippleAreola" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BreastChainNippleUp" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainNippleUp</Data>
+            <Data name="BreastConnectRingsNippleUp" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BreastChainNippleDown" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainNippleDown</Data>
+            <Data name="BreastConnectRingsNippleDown" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsNippleDown</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="BreastChainArms" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainArms</Data>
+            <Data name="BreastConnectRingsArms" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BreastChainChubbyArms" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainChubbyArms</Data>
+            <Data name="BreastConnectRingsChubbyArms" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BreastChainShoulderSmooth" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BreastChainShoulderWidth" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainShoulderWidth</Data>
+            <Data name="BreastConnectRingsShoulderWidth" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BreastChainBigTorso" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBigTorso</Data>
+            <Data name="BreastConnectRingsBigTorso" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="BreastChainWaist" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainWaist</Data>
+            <Data name="BreastConnectRingsWaist" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BreastChainWideWaistLine" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainWideWaistLine</Data>
+            <Data name="BreastConnectRingsWideWaistLine" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BreastChainChubbyWaist" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainChubbyWaist</Data>
+            <Data name="BreastConnectRingsChubbyWaist" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BreastChainBelly" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BreastChainBigBelly" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BreastChainPregnancyBelly" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainPregnancyBelly</Data>
+            <Data name="BreastConnectRingsPregnancyBelly" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BreastChainTummyTuck" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BreastChainBack" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBack</Data>
+            <Data name="BreastConnectRingsBack" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsBack</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BreastChainHips" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainHips</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="BreastChainButt" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="BreastChainButtSmall" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BreastChainButtShape2" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BreastChainBigButt" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BreastChainChubbyButt" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainChubbyButt</Data>
+            <Data name="BreastConnectRingsChubbyButt" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BreastChainAppleCheeks" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainAppleCheeks</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BreastChainSlimThighs" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainSlimThighs</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="BreastChain7B Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B Low</Data>
+            <Data name="BreastConnectRings7B Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="BreastChain7B High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B High</Data>
+            <Data name="BreastConnectRings7B High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="BreastChain7B Bombshell Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B Bombshell Low</Data>
+            <Data name="BreastConnectRings7B Bombshell Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="BreastChain7B Bombshell High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B Bombshell High</Data>
+            <Data name="BreastConnectRings7B Bombshell High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="BreastChain7B Natural Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B Natural Low</Data>
+            <Data name="BreastConnectRings7B Natural Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="BreastChain7B Natural High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B Natural High</Data>
+            <Data name="BreastConnectRings7B Natural High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="BreastChain7B Cleavage Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B Cleavage Low</Data>
+            <Data name="BreastConnectRings7B Cleavage Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="BreastChain7B Cleavage High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B Cleavage High</Data>
+            <Data name="BreastConnectRings7B Cleavage High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="BreastChain7B BCup Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B BCup Low</Data>
+            <Data name="BreastConnectRings7B BCup Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="BreastChain7B BCup High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B BCup High</Data>
+            <Data name="BreastConnectRings7B BCup High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="BreastChain7BUNP Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7BUNP Low</Data>
+            <Data name="BreastConnectRings7BUNP Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="BreastChain7BUNP High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7BUNP High</Data>
+            <Data name="BreastConnectRings7BUNP High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="BreastChain7B Oppai Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B Oppai Low</Data>
+            <Data name="BreastConnectRings7B Oppai Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="BreastChain7B Oppai High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B Oppai High</Data>
+            <Data name="BreastConnectRings7B Oppai High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="BreastChain7B CH Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B CH Low</Data>
+            <Data name="BreastConnectRings7B CH Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="BreastChain7B CH High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChain7B CH High</Data>
+            <Data name="BreastConnectRings7B CH High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRings7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNP Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNP Low</Data>
+            <Data name="BreastConnectRingsUNP Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNP High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNP High</Data>
+            <Data name="BreastConnectRingsUNP High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNP Pushup Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNP Pushup Low</Data>
+            <Data name="BreastConnectRingsUNP Pushup Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNP Pushup High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNP Pushup High</Data>
+            <Data name="BreastConnectRingsUNP Pushup High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNP Skinny Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNP Skinny Low</Data>
+            <Data name="BreastConnectRingsUNP Skinny Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNP Skinny High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNP Skinny High</Data>
+            <Data name="BreastConnectRingsUNP Skinny High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNP Perky Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNP Perky Low</Data>
+            <Data name="BreastConnectRingsUNP Perky Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNP Perky High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNP Perky High</Data>
+            <Data name="BreastConnectRingsUNP Perky High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPB Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPB Low</Data>
+            <Data name="BreastConnectRingsUNPB Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPB High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPB High</Data>
+            <Data name="BreastConnectRingsUNPB High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPB Chapi" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPB Chapi</Data>
+            <Data name="BreastConnectRingsUNPB Chapi" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPB Oppai v1" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPB Oppai v1</Data>
+            <Data name="BreastConnectRingsUNPB Oppai v1" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPB Oppai v3.2 Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPB Oppai v3.2 Low</Data>
+            <Data name="BreastConnectRingsUNPB Oppai v3.2 Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPB Oppai v3.2 High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPB Oppai v3.2 High</Data>
+            <Data name="BreastConnectRingsUNPB Oppai v3.2 High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPetite Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPetite Low</Data>
+            <Data name="BreastConnectRingsUNPetite Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPetite High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPetite High</Data>
+            <Data name="BreastConnectRingsUNPetite High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPC Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPC Low</Data>
+            <Data name="BreastConnectRingsUNPC Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPC High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPC High</Data>
+            <Data name="BreastConnectRingsUNPC High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPCM Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPCM Low</Data>
+            <Data name="BreastConnectRingsUNPCM Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPCM High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPCM High</Data>
+            <Data name="BreastConnectRingsUNPCM High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPSH Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPSH Low</Data>
+            <Data name="BreastConnectRingsUNPSH Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPSH High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPSH High</Data>
+            <Data name="BreastConnectRingsUNPSH High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPK Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPK Low</Data>
+            <Data name="BreastConnectRingsUNPK Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPK High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPK High</Data>
+            <Data name="BreastConnectRingsUNPK High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPK Bonus Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPK Bonus Low</Data>
+            <Data name="BreastConnectRingsUNPK Bonus Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPK Bonus High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPK Bonus High</Data>
+            <Data name="BreastConnectRingsUNPK Bonus High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUN7B Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUN7B Low</Data>
+            <Data name="BreastConnectRingsUN7B Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="BreastChainUN7B High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUN7B High</Data>
+            <Data name="BreastConnectRingsUN7B High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPBB Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPBB Low</Data>
+            <Data name="BreastConnectRingsUNPBB Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPBB High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPBB High</Data>
+            <Data name="BreastConnectRingsUNPBB High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="BreastChainSeraphim Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainSeraphim Low</Data>
+            <Data name="BreastConnectRingsSeraphim Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="BreastChainSeraphim High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainSeraphim High</Data>
+            <Data name="BreastConnectRingsSeraphim High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="BreastChainDemonfet Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainDemonfet Low</Data>
+            <Data name="BreastConnectRingsDemonfet Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="BreastChainDemonfet High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainDemonfet High</Data>
+            <Data name="BreastConnectRingsDemonfet High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="BreastChainDream Girl Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainDream Girl Low</Data>
+            <Data name="BreastConnectRingsDream Girl Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="BreastChainDream Girl High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainDream Girl High</Data>
+            <Data name="BreastConnectRingsDream Girl High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="BreastChainTop Model Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainTop Model Low</Data>
+            <Data name="BreastConnectRingsTop Model Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="BreastChainTop Model High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainTop Model High</Data>
+            <Data name="BreastConnectRingsTop Model High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="BreastChainLeito Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainLeito Low</Data>
+            <Data name="BreastConnectRingsLeito Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="BreastChainLeito High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainLeito High</Data>
+            <Data name="BreastConnectRingsLeito High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPF Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPF Low</Data>
+            <Data name="BreastConnectRingsUNPF Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPF High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPF High</Data>
+            <Data name="BreastConnectRingsUNPF High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPFx Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPFx Low</Data>
+            <Data name="BreastConnectRingsUNPFx Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="BreastChainUNPFx High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainUNPFx High</Data>
+            <Data name="BreastConnectRingsUNPFx High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="BreastChainCNHF Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainCNHF Low</Data>
+            <Data name="BreastConnectRingsCNHF Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="BreastChainCNHF High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainCNHF High</Data>
+            <Data name="BreastConnectRingsCNHF High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="BreastChainCNHF Bonus Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainCNHF Bonus Low</Data>
+            <Data name="BreastConnectRingsCNHF Bonus Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="BreastChainCNHF Bonus High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainCNHF Bonus High</Data>
+            <Data name="BreastConnectRingsCNHF Bonus High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="BreastChainMCBM Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainMCBM Low</Data>
+            <Data name="BreastConnectRingsMCBM Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="BreastChainMCBM High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainMCBM High</Data>
+            <Data name="BreastConnectRingsMCBM High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="BreastChainVenus Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainVenus Low</Data>
+            <Data name="BreastConnectRingsVenus Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="BreastChainVenus High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainVenus High</Data>
+            <Data name="BreastConnectRingsVenus High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="BreastChainZGGB-R2 Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainZGGB-R2 Low</Data>
+            <Data name="BreastConnectRingsZGGB-R2 Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="BreastChainZGGB-R2 High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainZGGB-R2 High</Data>
+            <Data name="BreastConnectRingsZGGB-R2 High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="BreastChainManga Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainManga Low</Data>
+            <Data name="BreastConnectRingsManga Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="BreastChainManga High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainManga High</Data>
+            <Data name="BreastConnectRingsManga High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="BreastChainCHSBHC Low" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainCHSBHC Low</Data>
+            <Data name="BreastConnectRingsCHSBHC Low" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="BreastChainCHSBHC High" target="BreastChain" local="true">HR_ChainHarnessBustier.osd\BreastChainCHSBHC High</Data>
+            <Data name="BreastConnectRingsCHSBHC High" target="BreastConnectRings" local="true">HR_ChainHarnessBustier.osd\BreastConnectRingsCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
