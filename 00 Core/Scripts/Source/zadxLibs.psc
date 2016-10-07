@@ -292,6 +292,8 @@ Armor Property zadx_HR_ChainHarnessArmsInventory Auto
 Armor Property zadx_HR_ChainHarnessArmsRendered Auto
 Armor Property zadx_HR_ChainHarnessBodyInventory Auto
 Armor Property zadx_HR_ChainHarnessBodyRendered Auto
+Armor Property zadx_HR_ChainHarnessBraInventory Auto
+Armor Property zadx_HR_ChainHarnessBraRendered Auto
 Armor Property zadx_HR_ChainHarnessBootsInventory Auto
 Armor Property zadx_HR_ChainHarnessBootsRendered Auto
 Armor Property zadx_HR_ChainHarnessFullInventory Auto
@@ -306,6 +308,8 @@ Armor Property zadx_HR_RustyChainHarnessArmsInventory Auto
 Armor Property zadx_HR_RustyChainHarnessArmsRendered Auto
 Armor Property zadx_HR_RustyChainHarnessBodyInventory Auto
 Armor Property zadx_HR_RustyChainHarnessBodyRendered Auto
+Armor Property zadx_HR_RustyChainHarnessBraInventory Auto
+Armor Property zadx_HR_RustyChainHarnessBraRendered Auto
 Armor Property zadx_HR_RustyChainHarnessBootsInventory Auto
 Armor Property zadx_HR_RustyChainHarnessBootsRendered Auto
 Armor Property zadx_HR_RustyChainHarnessFullInventory Auto
