@@ -348,6 +348,10 @@ Armor Property zadx_HR_IronCollarBrownInventory Auto
 Armor Property zadx_HR_IronCollarBrownRendered Auto
 Armor Property zadx_HR_MaskofShameInventory Auto
 Armor Property zadx_HR_MaskofShameRendered Auto
+Armor Property zadx_HR_AnkleShacklesInventory Auto
+Armor Property zadx_HR_AnkleShacklesRendered Auto
+Armor Property zadx_HR_WristShacklesInventory Auto
+Armor Property zadx_HR_WristShacklesRendered Auto
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool skipEvents = false)
