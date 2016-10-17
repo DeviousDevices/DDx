@@ -371,12 +371,8 @@ Armor Property zadx_HR_RustyIronCollarInventory Auto
 Armor Property zadx_HR_RustyIronCollarRendered Auto
 Armor Property zadx_HR_MaskofShameInventory Auto
 Armor Property zadx_HR_MaskofShameRendered Auto
-Armor Property zadx_HR_AnkleShacklesInventory Auto
-Armor Property zadx_HR_AnkleShacklesRendered Auto
 Armor Property zadx_HR_WristShacklesInventory Auto
 Armor Property zadx_HR_WristShacklesRendered Auto
-Armor Property zadx_HR_RustyAnkleShacklesInventory Auto
-Armor Property zadx_HR_RustyAnkleShacklesRendered Auto
 Armor Property zadx_HR_RustyWristShacklesInventory Auto
 Armor Property zadx_HR_RustyWristShacklesRendered Auto
 Armor Property zadx_HR_IronBitGagInventory Auto
