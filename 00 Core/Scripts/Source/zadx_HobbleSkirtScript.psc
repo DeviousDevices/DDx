@@ -1,0 +1,1 @@
+Scriptname zadx_HobbleSkirtScript extends zadequipscript  

@@ -396,6 +396,9 @@ Armor Property zadx_HR_RustyIronBalletBootsRendered Auto
 Armor Property zadx_HR_RustyIronBalletBootsHeelInventory Auto
 Armor Property zadx_HR_RustyIronBalletBootsHeelRendered Auto
 
+Armor Property zadx_HobbleSkirtInventory Auto
+Armor Property zadx_HobbleSkirtRendered Auto
+
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
 Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool skipEvents = false)
