@@ -4,9 +4,23 @@ ScriptName zadx_HobbleSkirtEffectScript extends ActiveMagicEffect
 zadLibs Property Libs Auto
 
 Float SpeedMultDifferential = 0.0
-Float TargetSpeedMult = 15.0
+Float TargetSpeedMult = 25.0
+Float FlatSpeedDebuff = 75.0
 
 Actor who
+
+GlobalVariable REQExhaustion	;Requiem setting responsible for its exhaustion slowdown, disabled while the dress is worn
+float REQSavedVal				;Saved value of the setting, returned once the dress is unequipped
+
+bool Function GetRequiem()
+	If Game.GetFormFromFile(0x03609AF0, "Requiem.esp")
+		REQExhaustion = (Game.GetFormFromFile(0x0336AD6A, "Requiem.esp") as GlobalVariable)
+		libs.Log("GetRequiem(): Hobble Skirt == true. Switching to Requiem compatibility mode.")
+		return True
+	Else
+		return False
+	Endif
+EndFunction
 
 Function ApplySM(actor akTarget)
 	akTarget.DamageAv("CarryWeight", 0.02)
@@ -16,23 +30,39 @@ EndFunction
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	libs.Log("OnEffectStart(): Hobble Skirt")
 	libs.BoundCombat.Apply_HBC(akTarget)
-	Float CurrentSpeedMult = akTarget.GetAV("SpeedMult")	
-	SpeedMultDifferential = CurrentSpeedMult - TargetSpeedMult
-	If SpeedMultDifferential > 0.0
-		akTarget.DamageAV("SpeedMult", SpeedMultDifferential)
+	
+	If GetRequiem() == True
+		REQSavedVal = REQExhaustion.GetValue()
+		REQExhaustion.SetValue(1.0)
+		akTarget.DamageAV("SpeedMult", FlatSpeedDebuff)
 		ApplySM(akTarget)
-	EndIf
-	who = akTarget
-	RegisterForSingleUpdate(5.0)
+	Else
+		Float CurrentSpeedMult = akTarget.GetAV("SpeedMult")	
+		SpeedMultDifferential = CurrentSpeedMult - TargetSpeedMult
+		If SpeedMultDifferential > 0.0
+			akTarget.DamageAV("SpeedMult", SpeedMultDifferential)
+			ApplySM(akTarget)
+		EndIf
+		who = akTarget
+		RegisterForSingleUpdate(5.0)
+	Endif
 EndEvent
 
 Event OnEffectFinish(Actor akTarget, Actor akCaster)
 	libs.Log("OnEffectFinish(): Hobble Skirt")
-	If SpeedMultDifferential > 0.0
-		akTarget.RestoreAV("SpeedMult", SpeedMultDifferential)
+	
+	If GetRequiem() == True
+		akTarget.RestoreAV("SpeedMult", FlatSpeedDebuff)
+		REQExhaustion.SetValue(REQSavedVal)
 		ApplySM(akTarget)
-	EndIf
-	UnRegisterForUpdate()
+	Else
+		If SpeedMultDifferential > 0.0
+			akTarget.RestoreAV("SpeedMult", SpeedMultDifferential)
+			ApplySM(akTarget)
+		EndIf
+		UnRegisterForUpdate()
+	Endif
+
 	libs.BoundCombat.Remove_HBC(akTarget)
 EndEvent
 
