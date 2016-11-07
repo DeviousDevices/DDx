@@ -1,0 +1,401 @@
+<SliderSetInfo version="1">
+    <SliderSet name="Devious Devices Expansion - Paw Mittens">
+        <DataFolder>Devious Devices Expansion</DataFolder>
+        <SourceFile>pawmittens.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile GenWeights="true">pawmittens</OutputFile>
+        <Shape target="Mittens Leather">Mittens Leather</Shape>
+        <Shape target="Mittens Metal">Mittens Metal</Shape>
+        <Shape target="Mittens Padlocks">Mittens Padlocks</Shape>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="Mittens LeatherArms" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherArms</Data>
+            <Data name="Mittens MetalArms" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalArms</Data>
+            <Data name="Mittens PadlocksArms" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherChubbyArms" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherChubbyArms</Data>
+            <Data name="Mittens MetalChubbyArms" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalChubbyArms</Data>
+            <Data name="Mittens PadlocksChubbyArms" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="Mittens LeatherShoulderWidth" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherShoulderWidth</Data>
+            <Data name="Mittens MetalShoulderWidth" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalShoulderWidth</Data>
+            <Data name="Mittens PadlocksShoulderWidth" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherBigTorso" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherBigTorso</Data>
+            <Data name="Mittens MetalBigTorso" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalBigTorso</Data>
+            <Data name="Mittens PadlocksBigTorso" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksBigTorso</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B Low</Data>
+            <Data name="Mittens Metal7B Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B Low</Data>
+            <Data name="Mittens Padlocks7B Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B High" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B High</Data>
+            <Data name="Mittens Metal7B High" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B High</Data>
+            <Data name="Mittens Padlocks7B High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B Bombshell Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B Bombshell Low</Data>
+            <Data name="Mittens Metal7B Bombshell Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B Bombshell Low</Data>
+            <Data name="Mittens Padlocks7B Bombshell Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B Bombshell High" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B Bombshell High</Data>
+            <Data name="Mittens Metal7B Bombshell High" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B Bombshell High</Data>
+            <Data name="Mittens Padlocks7B Bombshell High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B Natural Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B Natural Low</Data>
+            <Data name="Mittens Metal7B Natural Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B Natural Low</Data>
+            <Data name="Mittens Padlocks7B Natural Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B Natural High" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B Natural High</Data>
+            <Data name="Mittens Metal7B Natural High" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B Natural High</Data>
+            <Data name="Mittens Padlocks7B Natural High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B Cleavage Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B Cleavage Low</Data>
+            <Data name="Mittens Metal7B Cleavage Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B Cleavage Low</Data>
+            <Data name="Mittens Padlocks7B Cleavage Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B Cleavage High" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B Cleavage High</Data>
+            <Data name="Mittens Metal7B Cleavage High" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B Cleavage High</Data>
+            <Data name="Mittens Padlocks7B Cleavage High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B BCup Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B BCup Low</Data>
+            <Data name="Mittens Metal7B BCup Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B BCup Low</Data>
+            <Data name="Mittens Padlocks7B BCup Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B BCup High" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B BCup High</Data>
+            <Data name="Mittens Metal7B BCup High" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B BCup High</Data>
+            <Data name="Mittens Padlocks7B BCup High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7BUNP Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7BUNP Low</Data>
+            <Data name="Mittens Metal7BUNP Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7BUNP Low</Data>
+            <Data name="Mittens Padlocks7BUNP Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7BUNP High" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7BUNP High</Data>
+            <Data name="Mittens Metal7BUNP High" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7BUNP High</Data>
+            <Data name="Mittens Padlocks7BUNP High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B Oppai Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B Oppai Low</Data>
+            <Data name="Mittens Metal7B Oppai Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B Oppai Low</Data>
+            <Data name="Mittens Padlocks7B Oppai Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B Oppai High" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B Oppai High</Data>
+            <Data name="Mittens Metal7B Oppai High" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B Oppai High</Data>
+            <Data name="Mittens Padlocks7B Oppai High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B CH Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B CH Low</Data>
+            <Data name="Mittens Metal7B CH Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B CH Low</Data>
+            <Data name="Mittens Padlocks7B CH Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Mittens Leather7B CH High" target="Mittens Leather" local="true">pawmittens.osd\Mittens Leather7B CH High</Data>
+            <Data name="Mittens Metal7B CH High" target="Mittens Metal" local="true">pawmittens.osd\Mittens Metal7B CH High</Data>
+            <Data name="Mittens Padlocks7B CH High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens Padlocks7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNP Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNP Low</Data>
+            <Data name="Mittens MetalUNP Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNP Low</Data>
+            <Data name="Mittens PadlocksUNP Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNP High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNP High</Data>
+            <Data name="Mittens MetalUNP High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNP High</Data>
+            <Data name="Mittens PadlocksUNP High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNP Pushup Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNP Pushup Low</Data>
+            <Data name="Mittens MetalUNP Pushup Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNP Pushup Low</Data>
+            <Data name="Mittens PadlocksUNP Pushup Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNP Pushup High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNP Pushup High</Data>
+            <Data name="Mittens MetalUNP Pushup High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNP Pushup High</Data>
+            <Data name="Mittens PadlocksUNP Pushup High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNP Skinny Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNP Skinny Low</Data>
+            <Data name="Mittens MetalUNP Skinny Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNP Skinny Low</Data>
+            <Data name="Mittens PadlocksUNP Skinny Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNP Skinny High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNP Skinny High</Data>
+            <Data name="Mittens MetalUNP Skinny High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNP Skinny High</Data>
+            <Data name="Mittens PadlocksUNP Skinny High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNP Perky Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNP Perky Low</Data>
+            <Data name="Mittens MetalUNP Perky Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNP Perky Low</Data>
+            <Data name="Mittens PadlocksUNP Perky Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNP Perky High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNP Perky High</Data>
+            <Data name="Mittens MetalUNP Perky High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNP Perky High</Data>
+            <Data name="Mittens PadlocksUNP Perky High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPB Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPB Low</Data>
+            <Data name="Mittens MetalUNPB Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPB Low</Data>
+            <Data name="Mittens PadlocksUNPB Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPB High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPB High</Data>
+            <Data name="Mittens MetalUNPB High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPB High</Data>
+            <Data name="Mittens PadlocksUNPB High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPB Chapi" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPB Chapi</Data>
+            <Data name="Mittens MetalUNPB Chapi" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPB Chapi</Data>
+            <Data name="Mittens PadlocksUNPB Chapi" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPB Oppai v1" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPB Oppai v1</Data>
+            <Data name="Mittens MetalUNPB Oppai v1" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPB Oppai v1</Data>
+            <Data name="Mittens PadlocksUNPB Oppai v1" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPB Oppai v3.2 Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPB Oppai v3.2 Low</Data>
+            <Data name="Mittens MetalUNPB Oppai v3.2 Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPB Oppai v3.2 Low</Data>
+            <Data name="Mittens PadlocksUNPB Oppai v3.2 Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPB Oppai v3.2 High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPB Oppai v3.2 High</Data>
+            <Data name="Mittens MetalUNPB Oppai v3.2 High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPB Oppai v3.2 High</Data>
+            <Data name="Mittens PadlocksUNPB Oppai v3.2 High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPetite Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPetite Low</Data>
+            <Data name="Mittens MetalUNPetite Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPetite Low</Data>
+            <Data name="Mittens PadlocksUNPetite Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPetite High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPetite High</Data>
+            <Data name="Mittens MetalUNPetite High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPetite High</Data>
+            <Data name="Mittens PadlocksUNPetite High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPC Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPC Low</Data>
+            <Data name="Mittens MetalUNPC Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPC Low</Data>
+            <Data name="Mittens PadlocksUNPC Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPC High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPC High</Data>
+            <Data name="Mittens MetalUNPC High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPC High</Data>
+            <Data name="Mittens PadlocksUNPC High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPCM Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPCM Low</Data>
+            <Data name="Mittens MetalUNPCM Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPCM Low</Data>
+            <Data name="Mittens PadlocksUNPCM Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPCM High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPCM High</Data>
+            <Data name="Mittens MetalUNPCM High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPCM High</Data>
+            <Data name="Mittens PadlocksUNPCM High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPSH Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPSH Low</Data>
+            <Data name="Mittens MetalUNPSH Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPSH Low</Data>
+            <Data name="Mittens PadlocksUNPSH Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPSH High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPSH High</Data>
+            <Data name="Mittens MetalUNPSH High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPSH High</Data>
+            <Data name="Mittens PadlocksUNPSH High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPK Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPK Low</Data>
+            <Data name="Mittens MetalUNPK Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPK Low</Data>
+            <Data name="Mittens PadlocksUNPK Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPK High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPK High</Data>
+            <Data name="Mittens MetalUNPK High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPK High</Data>
+            <Data name="Mittens PadlocksUNPK High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPK Bonus Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPK Bonus Low</Data>
+            <Data name="Mittens MetalUNPK Bonus Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPK Bonus Low</Data>
+            <Data name="Mittens PadlocksUNPK Bonus Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPK Bonus High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPK Bonus High</Data>
+            <Data name="Mittens MetalUNPK Bonus High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPK Bonus High</Data>
+            <Data name="Mittens PadlocksUNPK Bonus High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUN7B Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUN7B Low</Data>
+            <Data name="Mittens MetalUN7B Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUN7B Low</Data>
+            <Data name="Mittens PadlocksUN7B Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUN7B High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUN7B High</Data>
+            <Data name="Mittens MetalUN7B High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUN7B High</Data>
+            <Data name="Mittens PadlocksUN7B High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPBB Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPBB Low</Data>
+            <Data name="Mittens MetalUNPBB Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPBB Low</Data>
+            <Data name="Mittens PadlocksUNPBB Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPBB High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPBB High</Data>
+            <Data name="Mittens MetalUNPBB High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPBB High</Data>
+            <Data name="Mittens PadlocksUNPBB High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherSeraphim Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherSeraphim Low</Data>
+            <Data name="Mittens MetalSeraphim Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalSeraphim Low</Data>
+            <Data name="Mittens PadlocksSeraphim Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherSeraphim High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherSeraphim High</Data>
+            <Data name="Mittens MetalSeraphim High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalSeraphim High</Data>
+            <Data name="Mittens PadlocksSeraphim High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherDemonfet Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherDemonfet Low</Data>
+            <Data name="Mittens MetalDemonfet Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalDemonfet Low</Data>
+            <Data name="Mittens PadlocksDemonfet Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherDemonfet High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherDemonfet High</Data>
+            <Data name="Mittens MetalDemonfet High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalDemonfet High</Data>
+            <Data name="Mittens PadlocksDemonfet High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherDream Girl Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherDream Girl Low</Data>
+            <Data name="Mittens MetalDream Girl Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalDream Girl Low</Data>
+            <Data name="Mittens PadlocksDream Girl Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherDream Girl High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherDream Girl High</Data>
+            <Data name="Mittens MetalDream Girl High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalDream Girl High</Data>
+            <Data name="Mittens PadlocksDream Girl High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherTop Model Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherTop Model Low</Data>
+            <Data name="Mittens MetalTop Model Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalTop Model Low</Data>
+            <Data name="Mittens PadlocksTop Model Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherTop Model High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherTop Model High</Data>
+            <Data name="Mittens MetalTop Model High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalTop Model High</Data>
+            <Data name="Mittens PadlocksTop Model High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherLeito Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherLeito Low</Data>
+            <Data name="Mittens MetalLeito Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalLeito Low</Data>
+            <Data name="Mittens PadlocksLeito Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherLeito High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherLeito High</Data>
+            <Data name="Mittens MetalLeito High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalLeito High</Data>
+            <Data name="Mittens PadlocksLeito High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPF Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPF Low</Data>
+            <Data name="Mittens MetalUNPF Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPF Low</Data>
+            <Data name="Mittens PadlocksUNPF Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPF High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPF High</Data>
+            <Data name="Mittens MetalUNPF High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPF High</Data>
+            <Data name="Mittens PadlocksUNPF High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPFx Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPFx Low</Data>
+            <Data name="Mittens MetalUNPFx Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPFx Low</Data>
+            <Data name="Mittens PadlocksUNPFx Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherUNPFx High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherUNPFx High</Data>
+            <Data name="Mittens MetalUNPFx High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalUNPFx High</Data>
+            <Data name="Mittens PadlocksUNPFx High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherCNHF Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherCNHF Low</Data>
+            <Data name="Mittens MetalCNHF Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalCNHF Low</Data>
+            <Data name="Mittens PadlocksCNHF Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherCNHF High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherCNHF High</Data>
+            <Data name="Mittens MetalCNHF High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalCNHF High</Data>
+            <Data name="Mittens PadlocksCNHF High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherCNHF Bonus Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherCNHF Bonus Low</Data>
+            <Data name="Mittens MetalCNHF Bonus Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalCNHF Bonus Low</Data>
+            <Data name="Mittens PadlocksCNHF Bonus Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherCNHF Bonus High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherCNHF Bonus High</Data>
+            <Data name="Mittens MetalCNHF Bonus High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalCNHF Bonus High</Data>
+            <Data name="Mittens PadlocksCNHF Bonus High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherMCBM Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherMCBM Low</Data>
+            <Data name="Mittens MetalMCBM Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalMCBM Low</Data>
+            <Data name="Mittens PadlocksMCBM Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherMCBM High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherMCBM High</Data>
+            <Data name="Mittens MetalMCBM High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalMCBM High</Data>
+            <Data name="Mittens PadlocksMCBM High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherVenus Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherVenus Low</Data>
+            <Data name="Mittens MetalVenus Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalVenus Low</Data>
+            <Data name="Mittens PadlocksVenus Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherVenus High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherVenus High</Data>
+            <Data name="Mittens MetalVenus High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalVenus High</Data>
+            <Data name="Mittens PadlocksVenus High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherZGGB-R2 Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherZGGB-R2 Low</Data>
+            <Data name="Mittens MetalZGGB-R2 Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalZGGB-R2 Low</Data>
+            <Data name="Mittens PadlocksZGGB-R2 Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherZGGB-R2 High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherZGGB-R2 High</Data>
+            <Data name="Mittens MetalZGGB-R2 High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalZGGB-R2 High</Data>
+            <Data name="Mittens PadlocksZGGB-R2 High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherManga Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherManga Low</Data>
+            <Data name="Mittens MetalManga Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalManga Low</Data>
+            <Data name="Mittens PadlocksManga Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherManga High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherManga High</Data>
+            <Data name="Mittens MetalManga High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalManga High</Data>
+            <Data name="Mittens PadlocksManga High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherCHSBHC Low" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherCHSBHC Low</Data>
+            <Data name="Mittens MetalCHSBHC Low" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalCHSBHC Low</Data>
+            <Data name="Mittens PadlocksCHSBHC Low" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherCHSBHC High" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherCHSBHC High</Data>
+            <Data name="Mittens MetalCHSBHC High" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalCHSBHC High</Data>
+            <Data name="Mittens PadlocksCHSBHC High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
