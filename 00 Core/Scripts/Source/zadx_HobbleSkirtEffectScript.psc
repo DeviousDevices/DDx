@@ -4,8 +4,8 @@ ScriptName zadx_HobbleSkirtEffectScript extends ActiveMagicEffect
 zadLibs Property Libs Auto
 
 Float SpeedMultDifferential = 0.0
-Float TargetSpeedMult = 25.0
-Float FlatSpeedDebuff = 75.0
+Float TargetSpeedMult = 14.0
+Float FlatSpeedDebuff = 86.0
 
 Actor who
 
@@ -30,6 +30,10 @@ EndFunction
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	libs.Log("OnEffectStart(): Hobble Skirt")
 	libs.BoundCombat.Apply_HBC(akTarget)
+	
+	; For Princessity! *hugs*
+	TargetSpeedMult = 100 - Libs.Config.HobbleSkirtSpeedDebuff
+	FlatSpeedDebuff = Libs.Config.HobbleSkirtSpeedDebuff	
 	
 	If GetRequiem() == True
 		REQSavedVal = REQExhaustion.GetValue()
@@ -68,6 +72,7 @@ EndEvent
 
 Event OnUpdate()
 	Float CurrentSpeedMult = who.GetAV("SpeedMult")
+	TargetSpeedMult = 100 - Libs.Config.HobbleSkirtSpeedDebuff	
 	If CurrentSpeedMult != TargetSpeedMult
 		If SpeedMultDifferential > 0.0
 			who.RestoreAV("SpeedMult", SpeedMultDifferential)
