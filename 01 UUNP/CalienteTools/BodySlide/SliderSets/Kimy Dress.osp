@@ -222,10 +222,6 @@
         <Slider name="CalfSmooth" invert="false" small="0" big="0">
             <Data name="DressCalfSmooth" target="Dress" local="true">kimydress.osd\DressCalfSmooth</Data>
         </Slider>
-        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
-            <Data name="DressNeck" target="Dress" local="true">kimydress.osd\DressNeck</Data>
-            <Data name="BodyNeck" target="Body" local="true">kimydress.osd\BodyNeck</Data>
-        </Slider>
         <Slider name="7B Low" invert="false" small="0" big="0">
             <Data name="Cleveage7B Low" target="Cleveage" local="true">kimydress.osd\Cleveage7B Low</Data>
             <Data name="Dress7B Low" target="Dress" local="true">kimydress.osd\Dress7B Low</Data>
@@ -819,10 +815,6 @@
         </Slider>
         <Slider name="CalfSmooth" invert="false" small="0" big="0">
             <Data name="DressCalfSmooth" target="Dress" local="true">kimydress.osd\DressCalfSmooth</Data>
-        </Slider>
-        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
-            <Data name="DressNeck" target="Dress" local="true">kimydress.osd\DressNeck</Data>
-            <Data name="BodyNeck" target="Body" local="true">kimydress.osd\BodyNeck</Data>
         </Slider>
         <Slider name="7B Low" invert="false" small="0" big="0">
             <Data name="Cleveage7B Low" target="Cleveage" local="true">kimydress.osd\Cleveage7B Low</Data>
@@ -1418,10 +1410,6 @@
         <Slider name="CalfSmooth" invert="false" small="0" big="0">
             <Data name="DressCalfSmooth" target="Dress" local="true">kimydress.osd\DressCalfSmooth</Data>
         </Slider>
-        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
-            <Data name="DressNeck" target="Dress" local="true">kimydress.osd\DressNeck</Data>
-            <Data name="BodyNeck" target="Body" local="true">kimydress.osd\BodyNeck</Data>
-        </Slider>
         <Slider name="7B Low" invert="false" small="0" big="0">
             <Data name="Cleveage7B Low" target="Cleveage" local="true">kimydress.osd\Cleveage7B Low</Data>
             <Data name="Dress7B Low" target="Dress" local="true">kimydress.osd\Dress7B Low</Data>
@@ -2015,10 +2003,6 @@
         </Slider>
         <Slider name="CalfSmooth" invert="false" small="0" big="0">
             <Data name="DressCalfSmooth" target="Dress" local="true">kimydress.osd\DressCalfSmooth</Data>
-        </Slider>
-        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
-            <Data name="DressNeck" target="Dress" local="true">kimydress.osd\DressNeck</Data>
-            <Data name="BodyNeck" target="Body" local="true">kimydress.osd\BodyNeck</Data>
         </Slider>
         <Slider name="7B Low" invert="false" small="0" big="0">
             <Data name="Cleveage7B Low" target="Cleveage" local="true">kimydress.osd\Cleveage7B Low</Data>
