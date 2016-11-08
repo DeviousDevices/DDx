@@ -4,11 +4,11 @@ ScriptName zadx_HobbleSkirtEffectScript extends ActiveMagicEffect
 zadLibs Property Libs Auto
 
 Float SpeedMultDifferential = 0.0
-Float TargetSpeedMult = 14.0
-Float FlatSpeedDebuff = 86.0
+Float TargetSpeedMult = 10.0
+Float FlatSpeedDebuff = 90.0
 
 Actor who
-
+Keyword Property zad_DeviousHobbleSkirtRelaxed Auto	;extreme or relaxed speed debuff
 GlobalVariable REQExhaustion	;Requiem setting responsible for its exhaustion slowdown, disabled while the dress is worn
 float REQSavedVal				;Saved value of the setting, returned once the dress is unequipped
 
@@ -28,12 +28,17 @@ Function ApplySM(actor akTarget)
 EndFunction
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
-	libs.Log("OnEffectStart(): Hobble Skirt")
-	libs.BoundCombat.Apply_HBC(akTarget)
-	
+	libs.Log("OnEffectStart(): Hobble Skirt")	
 	; For Princessity! *hugs*
 	TargetSpeedMult = 100 - Libs.Config.HobbleSkirtSpeedDebuff
 	FlatSpeedDebuff = Libs.Config.HobbleSkirtSpeedDebuff	
+	If akTarget.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
+		TargetSpeedMult += 20
+		FlatSpeedDebuff -= 20
+	Else
+		; relaxed skirts do not use special animations, but the extreme ones do.
+		libs.BoundCombat.Apply_HBC(akTarget)
+	EndIf
 	
 	If GetRequiem() == True
 		REQSavedVal = REQExhaustion.GetValue()
@@ -66,13 +71,18 @@ Event OnEffectFinish(Actor akTarget, Actor akCaster)
 		EndIf
 		UnRegisterForUpdate()
 	Endif
-
-	libs.BoundCombat.Remove_HBC(akTarget)
+	If akTarget.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
+	Else
+		libs.BoundCombat.Remove_HBC(akTarget)
+	EndIf
 EndEvent
 
 Event OnUpdate()
 	Float CurrentSpeedMult = who.GetAV("SpeedMult")
 	TargetSpeedMult = 100 - Libs.Config.HobbleSkirtSpeedDebuff	
+	If who.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
+		TargetSpeedMult += 20
+	EndIf
 	If CurrentSpeedMult != TargetSpeedMult
 		If SpeedMultDifferential > 0.0
 			who.RestoreAV("SpeedMult", SpeedMultDifferential)

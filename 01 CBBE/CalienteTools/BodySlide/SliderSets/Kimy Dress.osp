@@ -1,10 +1,727 @@
 <SliderSetInfo version="1">
-    <SliderSet name="Devious Devices - Kimy Dress">
-        <DataFolder>Kimy Dress</DataFolder>
+    <SliderSet name="Devious Devices Expansion - Leather Hobble Dress">
+        <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>kimydress.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
         <OutputFile GenWeights="true">kimydress</OutputFile>
-        <Shape target="Body" DataFolder="Kimy Dress">Body</Shape>
+        <Shape target="Body" DataFolder="Devious Devices Expansion">Body</Shape>
+        <Shape target="Cleveage">Cleveage</Shape>
+        <Shape target="Dress">Dress</Shape>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <Data name="BodyBreasts" target="Body" local="true">kimydress.osd\BodyBreasts</Data>
+            <Data name="CleveageBreasts" target="Cleveage" local="true">kimydress.osd\CleveageBreasts</Data>
+            <Data name="DressBreasts" target="Dress" local="true">kimydress.osd\DressBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BodyBreastsSmall" target="Body" local="true">kimydress.osd\BodyBreastsSmall</Data>
+            <Data name="CleveageBreastsSmall" target="Cleveage" local="true">kimydress.osd\CleveageBreastsSmall</Data>
+            <Data name="DressBreastsSmall" target="Dress" local="true">kimydress.osd\DressBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BodyBreastsSH" target="Body" local="true">kimydress.osd\BodyBreastsSH</Data>
+            <Data name="CleveageBreastsSH" target="Cleveage" local="true">kimydress.osd\CleveageBreastsSH</Data>
+            <Data name="DressBreastsSH" target="Dress" local="true">kimydress.osd\DressBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BodyBreastsSSH" target="Body" local="true">kimydress.osd\BodyBreastsSSH</Data>
+            <Data name="CleveageBreastsSSH" target="Cleveage" local="true">kimydress.osd\CleveageBreastsSSH</Data>
+            <Data name="DressBreastsSSH" target="Dress" local="true">kimydress.osd\DressBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BodyBreastsFantasy" target="Body" local="true">kimydress.osd\BodyBreastsFantasy</Data>
+            <Data name="CleveageBreastsFantasy" target="Cleveage" local="true">kimydress.osd\CleveageBreastsFantasy</Data>
+            <Data name="DressBreastsFantasy" target="Dress" local="true">kimydress.osd\DressBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BodyDoubleMelon" target="Body" local="true">kimydress.osd\BodyDoubleMelon</Data>
+            <Data name="CleveageDoubleMelon" target="Cleveage" local="true">kimydress.osd\CleveageDoubleMelon</Data>
+            <Data name="DressDoubleMelon" target="Dress" local="true">kimydress.osd\DressDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BodyBreastCleavage" target="Body" local="true">kimydress.osd\BodyBreastCleavage</Data>
+            <Data name="CleveageBreastCleavage" target="Cleveage" local="true">kimydress.osd\CleveageBreastCleavage</Data>
+            <Data name="DressBreastCleavage" target="Dress" local="true">kimydress.osd\DressBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BodyBreastFlatness" target="Body" local="true">kimydress.osd\BodyBreastFlatness</Data>
+            <Data name="CleveageBreastFlatness" target="Cleveage" local="true">kimydress.osd\CleveageBreastFlatness</Data>
+            <Data name="DressBreastFlatness" target="Dress" local="true">kimydress.osd\DressBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BodyBreastGravity" target="Body" local="true">kimydress.osd\BodyBreastGravity</Data>
+            <Data name="CleveageBreastGravity" target="Cleveage" local="true">kimydress.osd\CleveageBreastGravity</Data>
+            <Data name="DressBreastGravity" target="Dress" local="true">kimydress.osd\DressBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BodyPushUp" target="Body" local="true">kimydress.osd\BodyPushUp</Data>
+            <Data name="CleveagePushUp" target="Cleveage" local="true">kimydress.osd\CleveagePushUp</Data>
+            <Data name="DressPushUp" target="Dress" local="true">kimydress.osd\DressPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BodyBreastHeight" target="Body" local="true">kimydress.osd\BodyBreastHeight</Data>
+            <Data name="CleveageBreastHeight" target="Cleveage" local="true">kimydress.osd\CleveageBreastHeight</Data>
+            <Data name="DressBreastHeight" target="Dress" local="true">kimydress.osd\DressBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BodyBreastPerkiness" target="Body" local="true">kimydress.osd\BodyBreastPerkiness</Data>
+            <Data name="CleveageBreastPerkiness" target="Cleveage" local="true">kimydress.osd\CleveageBreastPerkiness</Data>
+            <Data name="DressBreastPerkiness" target="Dress" local="true">kimydress.osd\DressBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BodyBreastWidth" target="Body" local="true">kimydress.osd\BodyBreastWidth</Data>
+            <Data name="CleveageBreastWidth" target="Cleveage" local="true">kimydress.osd\CleveageBreastWidth</Data>
+            <Data name="DressBreastWidth" target="Dress" local="true">kimydress.osd\DressBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BodyNippleDistance" target="Body" local="true">kimydress.osd\BodyNippleDistance</Data>
+            <Data name="CleveageNippleDistance" target="Cleveage" local="true">kimydress.osd\CleveageNippleDistance</Data>
+            <Data name="DressNippleDistance" target="Dress" local="true">kimydress.osd\DressNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BodyNipplePerkiness" target="Body" local="true">kimydress.osd\BodyNipplePerkiness</Data>
+            <Data name="CleveageNipplePerkiness" target="Cleveage" local="true">kimydress.osd\CleveageNipplePerkiness</Data>
+            <Data name="DressNipplePerkiness" target="Dress" local="true">kimydress.osd\DressNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BodyNippleLength" target="Body" local="true">kimydress.osd\BodyNippleLength</Data>
+            <Data name="CleveageNippleLength" target="Cleveage" local="true">kimydress.osd\CleveageNippleLength</Data>
+            <Data name="DressNippleLength" target="Dress" local="true">kimydress.osd\DressNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="BodyNippleSize" target="Body" local="true">kimydress.osd\BodyNippleSize</Data>
+            <Data name="CleveageNippleSize" target="Cleveage" local="true">kimydress.osd\CleveageNippleSize</Data>
+            <Data name="DressNippleSize" target="Dress" local="true">kimydress.osd\DressNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BodyNippleAreola" target="Body" local="true">kimydress.osd\BodyNippleAreola</Data>
+            <Data name="CleveageNippleAreola" target="Cleveage" local="true">kimydress.osd\CleveageNippleAreola</Data>
+            <Data name="DressNippleAreola" target="Dress" local="true">kimydress.osd\DressNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BodyNippleUp" target="Body" local="true">kimydress.osd\BodyNippleUp</Data>
+            <Data name="CleveageNippleUp" target="Cleveage" local="true">kimydress.osd\CleveageNippleUp</Data>
+            <Data name="DressNippleUp" target="Dress" local="true">kimydress.osd\DressNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BodyNippleDown" target="Body" local="true">kimydress.osd\BodyNippleDown</Data>
+            <Data name="CleveageNippleDown" target="Cleveage" local="true">kimydress.osd\CleveageNippleDown</Data>
+            <Data name="DressNippleDown" target="Dress" local="true">kimydress.osd\DressNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BodyNippleTip" target="Body" local="true">kimydress.osd\BodyNippleTip</Data>
+            <Data name="DressNippleTip" target="Dress" local="true">kimydress.osd\DressNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <Data name="BodyArms" target="Body" local="true">kimydress.osd\BodyArms</Data>
+            <Data name="DressArms" target="Dress" local="true">kimydress.osd\DressArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BodyChubbyArms" target="Body" local="true">kimydress.osd\BodyChubbyArms</Data>
+            <Data name="DressChubbyArms" target="Dress" local="true">kimydress.osd\DressChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BodyShoulderSmooth" target="Body" local="true">kimydress.osd\BodyShoulderSmooth</Data>
+            <Data name="CleveageShoulderSmooth" target="Cleveage" local="true">kimydress.osd\CleveageShoulderSmooth</Data>
+            <Data name="DressShoulderSmooth" target="Dress" local="true">kimydress.osd\DressShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BodyShoulderWidth" target="Body" local="true">kimydress.osd\BodyShoulderWidth</Data>
+            <Data name="DressShoulderWidth" target="Dress" local="true">kimydress.osd\DressShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BodyBigTorso" target="Body" local="true">kimydress.osd\BodyBigTorso</Data>
+            <Data name="CleveageBigTorso" target="Cleveage" local="true">kimydress.osd\CleveageBigTorso</Data>
+            <Data name="DressBigTorso" target="Dress" local="true">kimydress.osd\DressBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <Data name="BodyWaist" target="Body" local="true">kimydress.osd\BodyWaist</Data>
+            <Data name="DressWaist" target="Dress" local="true">kimydress.osd\DressWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="DressWideWaistLine" target="Dress" local="true">kimydress.osd\DressWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BodyChubbyWaist" target="Body" local="true">kimydress.osd\BodyChubbyWaist</Data>
+            <Data name="DressChubbyWaist" target="Dress" local="true">kimydress.osd\DressChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BodyBelly" target="Body" local="true">kimydress.osd\BodyBelly</Data>
+            <Data name="CleveageBelly" target="Cleveage" local="true">kimydress.osd\CleveageBelly</Data>
+            <Data name="DressBelly" target="Dress" local="true">kimydress.osd\DressBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BodyBigBelly" target="Body" local="true">kimydress.osd\BodyBigBelly</Data>
+            <Data name="CleveageBigBelly" target="Cleveage" local="true">kimydress.osd\CleveageBigBelly</Data>
+            <Data name="DressBigBelly" target="Dress" local="true">kimydress.osd\DressBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BodyPregnancyBelly" target="Body" local="true">kimydress.osd\BodyPregnancyBelly</Data>
+            <Data name="CleveagePregnancyBelly" target="Cleveage" local="true">kimydress.osd\CleveagePregnancyBelly</Data>
+            <Data name="DressPregnancyBelly" target="Dress" local="true">kimydress.osd\DressPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BodyTummyTuck" target="Body" local="true">kimydress.osd\BodyTummyTuck</Data>
+            <Data name="DressTummyTuck" target="Dress" local="true">kimydress.osd\DressTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BodyBack" target="Body" local="true">kimydress.osd\BodyBack</Data>
+            <Data name="CleveageBack" target="Cleveage" local="true">kimydress.osd\CleveageBack</Data>
+            <Data name="DressBack" target="Dress" local="true">kimydress.osd\DressBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="DressHipbone" target="Dress" local="true">kimydress.osd\DressHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="DressHips" target="Dress" local="true">kimydress.osd\DressHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="DressButtCrack" target="Dress" local="true">kimydress.osd\DressButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <Data name="BodyButt" target="Body" local="true">kimydress.osd\BodyButt</Data>
+            <Data name="DressButt" target="Dress" local="true">kimydress.osd\DressButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="DressButtSmall" target="Dress" local="true">kimydress.osd\DressButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="DressButtShape2" target="Dress" local="true">kimydress.osd\DressButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="DressBigButt" target="Dress" local="true">kimydress.osd\DressBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BodyChubbyButt" target="Body" local="true">kimydress.osd\BodyChubbyButt</Data>
+            <Data name="DressChubbyButt" target="Dress" local="true">kimydress.osd\DressChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="DressAppleCheeks" target="Dress" local="true">kimydress.osd\DressAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="DressRoundAss" target="Dress" local="true">kimydress.osd\DressRoundAss</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="DressGroin" target="Dress" local="true">kimydress.osd\DressGroin</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="DressSlimThighs" target="Dress" local="true">kimydress.osd\DressSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="DressThighs" target="Dress" local="true">kimydress.osd\DressThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="DressChubbyLegs" target="Dress" local="true">kimydress.osd\DressChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <Data name="DressLegs" target="Dress" local="true">kimydress.osd\DressLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="DressKneeHeight" target="Dress" local="true">kimydress.osd\DressKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="DressCalfSize" target="Dress" local="true">kimydress.osd\DressCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="DressCalfSmooth" target="Dress" local="true">kimydress.osd\DressCalfSmooth</Data>
+        </Slider>
+        <Slider name="Ankles" invert="true" small="100" big="100">
+            <Data name="DressAnkles" target="Dress" local="true">kimydress.osd\DressAnkles</Data>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="BodySmallSeam" target="Body" local="true">kimydress.osd\BodySmallSeam</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="100" big="100" hidden="true">
+            <Data name="BodyShoulderTweak" target="Body" local="true">kimydress.osd\BodyShoulderTweak</Data>
+            <Data name="DressShoulderTweak" target="Dress" local="true">kimydress.osd\DressShoulderTweak</Data>
+        </Slider>
+        <Slider name="Breast Cover" invert="false" small="0" big="0" zap="true">
+            <Data name="CleveageBreast Cover" target="Cleveage" local="true">kimydress.osd\CleveageBreast Cover</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Devious Devices Expansion - Open Leather Hobble Dress">
+        <DataFolder>Devious Devices Expansion</DataFolder>
+        <SourceFile>kimydress_open.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile GenWeights="true">kimydress_open</OutputFile>
+        <Shape target="Body" DataFolder="Devious Devices Expansion">Body</Shape>
+        <Shape target="Cleveage">Cleveage</Shape>
+        <Shape target="Dress">Dress</Shape>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <Data name="BodyBreasts" target="Body" local="true">kimydress.osd\BodyBreasts</Data>
+            <Data name="CleveageBreasts" target="Cleveage" local="true">kimydress.osd\CleveageBreasts</Data>
+            <Data name="DressBreasts" target="Dress" local="true">kimydress.osd\DressBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BodyBreastsSmall" target="Body" local="true">kimydress.osd\BodyBreastsSmall</Data>
+            <Data name="CleveageBreastsSmall" target="Cleveage" local="true">kimydress.osd\CleveageBreastsSmall</Data>
+            <Data name="DressBreastsSmall" target="Dress" local="true">kimydress.osd\DressBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BodyBreastsSH" target="Body" local="true">kimydress.osd\BodyBreastsSH</Data>
+            <Data name="CleveageBreastsSH" target="Cleveage" local="true">kimydress.osd\CleveageBreastsSH</Data>
+            <Data name="DressBreastsSH" target="Dress" local="true">kimydress.osd\DressBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BodyBreastsSSH" target="Body" local="true">kimydress.osd\BodyBreastsSSH</Data>
+            <Data name="CleveageBreastsSSH" target="Cleveage" local="true">kimydress.osd\CleveageBreastsSSH</Data>
+            <Data name="DressBreastsSSH" target="Dress" local="true">kimydress.osd\DressBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BodyBreastsFantasy" target="Body" local="true">kimydress.osd\BodyBreastsFantasy</Data>
+            <Data name="CleveageBreastsFantasy" target="Cleveage" local="true">kimydress.osd\CleveageBreastsFantasy</Data>
+            <Data name="DressBreastsFantasy" target="Dress" local="true">kimydress.osd\DressBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BodyDoubleMelon" target="Body" local="true">kimydress.osd\BodyDoubleMelon</Data>
+            <Data name="CleveageDoubleMelon" target="Cleveage" local="true">kimydress.osd\CleveageDoubleMelon</Data>
+            <Data name="DressDoubleMelon" target="Dress" local="true">kimydress.osd\DressDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BodyBreastCleavage" target="Body" local="true">kimydress.osd\BodyBreastCleavage</Data>
+            <Data name="CleveageBreastCleavage" target="Cleveage" local="true">kimydress.osd\CleveageBreastCleavage</Data>
+            <Data name="DressBreastCleavage" target="Dress" local="true">kimydress.osd\DressBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BodyBreastFlatness" target="Body" local="true">kimydress.osd\BodyBreastFlatness</Data>
+            <Data name="CleveageBreastFlatness" target="Cleveage" local="true">kimydress.osd\CleveageBreastFlatness</Data>
+            <Data name="DressBreastFlatness" target="Dress" local="true">kimydress.osd\DressBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BodyBreastGravity" target="Body" local="true">kimydress.osd\BodyBreastGravity</Data>
+            <Data name="CleveageBreastGravity" target="Cleveage" local="true">kimydress.osd\CleveageBreastGravity</Data>
+            <Data name="DressBreastGravity" target="Dress" local="true">kimydress.osd\DressBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BodyPushUp" target="Body" local="true">kimydress.osd\BodyPushUp</Data>
+            <Data name="CleveagePushUp" target="Cleveage" local="true">kimydress.osd\CleveagePushUp</Data>
+            <Data name="DressPushUp" target="Dress" local="true">kimydress.osd\DressPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BodyBreastHeight" target="Body" local="true">kimydress.osd\BodyBreastHeight</Data>
+            <Data name="CleveageBreastHeight" target="Cleveage" local="true">kimydress.osd\CleveageBreastHeight</Data>
+            <Data name="DressBreastHeight" target="Dress" local="true">kimydress.osd\DressBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BodyBreastPerkiness" target="Body" local="true">kimydress.osd\BodyBreastPerkiness</Data>
+            <Data name="CleveageBreastPerkiness" target="Cleveage" local="true">kimydress.osd\CleveageBreastPerkiness</Data>
+            <Data name="DressBreastPerkiness" target="Dress" local="true">kimydress.osd\DressBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BodyBreastWidth" target="Body" local="true">kimydress.osd\BodyBreastWidth</Data>
+            <Data name="CleveageBreastWidth" target="Cleveage" local="true">kimydress.osd\CleveageBreastWidth</Data>
+            <Data name="DressBreastWidth" target="Dress" local="true">kimydress.osd\DressBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BodyNippleDistance" target="Body" local="true">kimydress.osd\BodyNippleDistance</Data>
+            <Data name="CleveageNippleDistance" target="Cleveage" local="true">kimydress.osd\CleveageNippleDistance</Data>
+            <Data name="DressNippleDistance" target="Dress" local="true">kimydress.osd\DressNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BodyNipplePerkiness" target="Body" local="true">kimydress.osd\BodyNipplePerkiness</Data>
+            <Data name="CleveageNipplePerkiness" target="Cleveage" local="true">kimydress.osd\CleveageNipplePerkiness</Data>
+            <Data name="DressNipplePerkiness" target="Dress" local="true">kimydress.osd\DressNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BodyNippleLength" target="Body" local="true">kimydress.osd\BodyNippleLength</Data>
+            <Data name="CleveageNippleLength" target="Cleveage" local="true">kimydress.osd\CleveageNippleLength</Data>
+            <Data name="DressNippleLength" target="Dress" local="true">kimydress.osd\DressNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="BodyNippleSize" target="Body" local="true">kimydress.osd\BodyNippleSize</Data>
+            <Data name="CleveageNippleSize" target="Cleveage" local="true">kimydress.osd\CleveageNippleSize</Data>
+            <Data name="DressNippleSize" target="Dress" local="true">kimydress.osd\DressNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BodyNippleAreola" target="Body" local="true">kimydress.osd\BodyNippleAreola</Data>
+            <Data name="CleveageNippleAreola" target="Cleveage" local="true">kimydress.osd\CleveageNippleAreola</Data>
+            <Data name="DressNippleAreola" target="Dress" local="true">kimydress.osd\DressNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BodyNippleUp" target="Body" local="true">kimydress.osd\BodyNippleUp</Data>
+            <Data name="CleveageNippleUp" target="Cleveage" local="true">kimydress.osd\CleveageNippleUp</Data>
+            <Data name="DressNippleUp" target="Dress" local="true">kimydress.osd\DressNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BodyNippleDown" target="Body" local="true">kimydress.osd\BodyNippleDown</Data>
+            <Data name="CleveageNippleDown" target="Cleveage" local="true">kimydress.osd\CleveageNippleDown</Data>
+            <Data name="DressNippleDown" target="Dress" local="true">kimydress.osd\DressNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BodyNippleTip" target="Body" local="true">kimydress.osd\BodyNippleTip</Data>
+            <Data name="DressNippleTip" target="Dress" local="true">kimydress.osd\DressNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <Data name="BodyArms" target="Body" local="true">kimydress.osd\BodyArms</Data>
+            <Data name="DressArms" target="Dress" local="true">kimydress.osd\DressArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BodyChubbyArms" target="Body" local="true">kimydress.osd\BodyChubbyArms</Data>
+            <Data name="DressChubbyArms" target="Dress" local="true">kimydress.osd\DressChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BodyShoulderSmooth" target="Body" local="true">kimydress.osd\BodyShoulderSmooth</Data>
+            <Data name="CleveageShoulderSmooth" target="Cleveage" local="true">kimydress.osd\CleveageShoulderSmooth</Data>
+            <Data name="DressShoulderSmooth" target="Dress" local="true">kimydress.osd\DressShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BodyShoulderWidth" target="Body" local="true">kimydress.osd\BodyShoulderWidth</Data>
+            <Data name="DressShoulderWidth" target="Dress" local="true">kimydress.osd\DressShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BodyBigTorso" target="Body" local="true">kimydress.osd\BodyBigTorso</Data>
+            <Data name="CleveageBigTorso" target="Cleveage" local="true">kimydress.osd\CleveageBigTorso</Data>
+            <Data name="DressBigTorso" target="Dress" local="true">kimydress.osd\DressBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <Data name="BodyWaist" target="Body" local="true">kimydress.osd\BodyWaist</Data>
+            <Data name="DressWaist" target="Dress" local="true">kimydress.osd\DressWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="DressWideWaistLine" target="Dress" local="true">kimydress.osd\DressWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BodyChubbyWaist" target="Body" local="true">kimydress.osd\BodyChubbyWaist</Data>
+            <Data name="DressChubbyWaist" target="Dress" local="true">kimydress.osd\DressChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BodyBelly" target="Body" local="true">kimydress.osd\BodyBelly</Data>
+            <Data name="CleveageBelly" target="Cleveage" local="true">kimydress.osd\CleveageBelly</Data>
+            <Data name="DressBelly" target="Dress" local="true">kimydress.osd\DressBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BodyBigBelly" target="Body" local="true">kimydress.osd\BodyBigBelly</Data>
+            <Data name="CleveageBigBelly" target="Cleveage" local="true">kimydress.osd\CleveageBigBelly</Data>
+            <Data name="DressBigBelly" target="Dress" local="true">kimydress.osd\DressBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BodyPregnancyBelly" target="Body" local="true">kimydress.osd\BodyPregnancyBelly</Data>
+            <Data name="CleveagePregnancyBelly" target="Cleveage" local="true">kimydress.osd\CleveagePregnancyBelly</Data>
+            <Data name="DressPregnancyBelly" target="Dress" local="true">kimydress.osd\DressPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BodyTummyTuck" target="Body" local="true">kimydress.osd\BodyTummyTuck</Data>
+            <Data name="DressTummyTuck" target="Dress" local="true">kimydress.osd\DressTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BodyBack" target="Body" local="true">kimydress.osd\BodyBack</Data>
+            <Data name="CleveageBack" target="Cleveage" local="true">kimydress.osd\CleveageBack</Data>
+            <Data name="DressBack" target="Dress" local="true">kimydress.osd\DressBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="DressHipbone" target="Dress" local="true">kimydress.osd\DressHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="DressHips" target="Dress" local="true">kimydress.osd\DressHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="DressButtCrack" target="Dress" local="true">kimydress.osd\DressButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <Data name="BodyButt" target="Body" local="true">kimydress.osd\BodyButt</Data>
+            <Data name="DressButt" target="Dress" local="true">kimydress.osd\DressButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="DressButtSmall" target="Dress" local="true">kimydress.osd\DressButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="DressButtShape2" target="Dress" local="true">kimydress.osd\DressButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="DressBigButt" target="Dress" local="true">kimydress.osd\DressBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BodyChubbyButt" target="Body" local="true">kimydress.osd\BodyChubbyButt</Data>
+            <Data name="DressChubbyButt" target="Dress" local="true">kimydress.osd\DressChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="DressAppleCheeks" target="Dress" local="true">kimydress.osd\DressAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="DressRoundAss" target="Dress" local="true">kimydress.osd\DressRoundAss</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="DressGroin" target="Dress" local="true">kimydress.osd\DressGroin</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="DressSlimThighs" target="Dress" local="true">kimydress.osd\DressSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="DressThighs" target="Dress" local="true">kimydress.osd\DressThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="DressChubbyLegs" target="Dress" local="true">kimydress.osd\DressChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <Data name="DressLegs" target="Dress" local="true">kimydress.osd\DressLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="DressKneeHeight" target="Dress" local="true">kimydress.osd\DressKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="DressCalfSize" target="Dress" local="true">kimydress.osd\DressCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="DressCalfSmooth" target="Dress" local="true">kimydress.osd\DressCalfSmooth</Data>
+        </Slider>
+        <Slider name="Ankles" invert="true" small="100" big="100">
+            <Data name="DressAnkles" target="Dress" local="true">kimydress.osd\DressAnkles</Data>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="BodySmallSeam" target="Body" local="true">kimydress.osd\BodySmallSeam</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="100" big="100" hidden="true">
+            <Data name="BodyShoulderTweak" target="Body" local="true">kimydress.osd\BodyShoulderTweak</Data>
+            <Data name="DressShoulderTweak" target="Dress" local="true">kimydress.osd\DressShoulderTweak</Data>
+        </Slider>
+        <Slider name="Breast Cover" invert="false" small="0" big="0" zap="true">
+            <Data name="CleveageBreast Cover" target="Cleveage" local="true">kimydress.osd\CleveageBreast Cover</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Devious Devices Expansion - Ebonite Hobble Dress">
+        <DataFolder>Devious Devices Expansion</DataFolder>
+        <SourceFile>kimydress_eb.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile GenWeights="true">kimydress_eb</OutputFile>
+        <Shape target="Body" DataFolder="Devious Devices Expansion">Body</Shape>
+        <Shape target="Cleveage">Cleveage</Shape>
+        <Shape target="Dress">Dress</Shape>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <Data name="BodyBreasts" target="Body" local="true">kimydress.osd\BodyBreasts</Data>
+            <Data name="CleveageBreasts" target="Cleveage" local="true">kimydress.osd\CleveageBreasts</Data>
+            <Data name="DressBreasts" target="Dress" local="true">kimydress.osd\DressBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BodyBreastsSmall" target="Body" local="true">kimydress.osd\BodyBreastsSmall</Data>
+            <Data name="CleveageBreastsSmall" target="Cleveage" local="true">kimydress.osd\CleveageBreastsSmall</Data>
+            <Data name="DressBreastsSmall" target="Dress" local="true">kimydress.osd\DressBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BodyBreastsSH" target="Body" local="true">kimydress.osd\BodyBreastsSH</Data>
+            <Data name="CleveageBreastsSH" target="Cleveage" local="true">kimydress.osd\CleveageBreastsSH</Data>
+            <Data name="DressBreastsSH" target="Dress" local="true">kimydress.osd\DressBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BodyBreastsSSH" target="Body" local="true">kimydress.osd\BodyBreastsSSH</Data>
+            <Data name="CleveageBreastsSSH" target="Cleveage" local="true">kimydress.osd\CleveageBreastsSSH</Data>
+            <Data name="DressBreastsSSH" target="Dress" local="true">kimydress.osd\DressBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BodyBreastsFantasy" target="Body" local="true">kimydress.osd\BodyBreastsFantasy</Data>
+            <Data name="CleveageBreastsFantasy" target="Cleveage" local="true">kimydress.osd\CleveageBreastsFantasy</Data>
+            <Data name="DressBreastsFantasy" target="Dress" local="true">kimydress.osd\DressBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BodyDoubleMelon" target="Body" local="true">kimydress.osd\BodyDoubleMelon</Data>
+            <Data name="CleveageDoubleMelon" target="Cleveage" local="true">kimydress.osd\CleveageDoubleMelon</Data>
+            <Data name="DressDoubleMelon" target="Dress" local="true">kimydress.osd\DressDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BodyBreastCleavage" target="Body" local="true">kimydress.osd\BodyBreastCleavage</Data>
+            <Data name="CleveageBreastCleavage" target="Cleveage" local="true">kimydress.osd\CleveageBreastCleavage</Data>
+            <Data name="DressBreastCleavage" target="Dress" local="true">kimydress.osd\DressBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BodyBreastFlatness" target="Body" local="true">kimydress.osd\BodyBreastFlatness</Data>
+            <Data name="CleveageBreastFlatness" target="Cleveage" local="true">kimydress.osd\CleveageBreastFlatness</Data>
+            <Data name="DressBreastFlatness" target="Dress" local="true">kimydress.osd\DressBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BodyBreastGravity" target="Body" local="true">kimydress.osd\BodyBreastGravity</Data>
+            <Data name="CleveageBreastGravity" target="Cleveage" local="true">kimydress.osd\CleveageBreastGravity</Data>
+            <Data name="DressBreastGravity" target="Dress" local="true">kimydress.osd\DressBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BodyPushUp" target="Body" local="true">kimydress.osd\BodyPushUp</Data>
+            <Data name="CleveagePushUp" target="Cleveage" local="true">kimydress.osd\CleveagePushUp</Data>
+            <Data name="DressPushUp" target="Dress" local="true">kimydress.osd\DressPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BodyBreastHeight" target="Body" local="true">kimydress.osd\BodyBreastHeight</Data>
+            <Data name="CleveageBreastHeight" target="Cleveage" local="true">kimydress.osd\CleveageBreastHeight</Data>
+            <Data name="DressBreastHeight" target="Dress" local="true">kimydress.osd\DressBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BodyBreastPerkiness" target="Body" local="true">kimydress.osd\BodyBreastPerkiness</Data>
+            <Data name="CleveageBreastPerkiness" target="Cleveage" local="true">kimydress.osd\CleveageBreastPerkiness</Data>
+            <Data name="DressBreastPerkiness" target="Dress" local="true">kimydress.osd\DressBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BodyBreastWidth" target="Body" local="true">kimydress.osd\BodyBreastWidth</Data>
+            <Data name="CleveageBreastWidth" target="Cleveage" local="true">kimydress.osd\CleveageBreastWidth</Data>
+            <Data name="DressBreastWidth" target="Dress" local="true">kimydress.osd\DressBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BodyNippleDistance" target="Body" local="true">kimydress.osd\BodyNippleDistance</Data>
+            <Data name="CleveageNippleDistance" target="Cleveage" local="true">kimydress.osd\CleveageNippleDistance</Data>
+            <Data name="DressNippleDistance" target="Dress" local="true">kimydress.osd\DressNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BodyNipplePerkiness" target="Body" local="true">kimydress.osd\BodyNipplePerkiness</Data>
+            <Data name="CleveageNipplePerkiness" target="Cleveage" local="true">kimydress.osd\CleveageNipplePerkiness</Data>
+            <Data name="DressNipplePerkiness" target="Dress" local="true">kimydress.osd\DressNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BodyNippleLength" target="Body" local="true">kimydress.osd\BodyNippleLength</Data>
+            <Data name="CleveageNippleLength" target="Cleveage" local="true">kimydress.osd\CleveageNippleLength</Data>
+            <Data name="DressNippleLength" target="Dress" local="true">kimydress.osd\DressNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="BodyNippleSize" target="Body" local="true">kimydress.osd\BodyNippleSize</Data>
+            <Data name="CleveageNippleSize" target="Cleveage" local="true">kimydress.osd\CleveageNippleSize</Data>
+            <Data name="DressNippleSize" target="Dress" local="true">kimydress.osd\DressNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BodyNippleAreola" target="Body" local="true">kimydress.osd\BodyNippleAreola</Data>
+            <Data name="CleveageNippleAreola" target="Cleveage" local="true">kimydress.osd\CleveageNippleAreola</Data>
+            <Data name="DressNippleAreola" target="Dress" local="true">kimydress.osd\DressNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BodyNippleUp" target="Body" local="true">kimydress.osd\BodyNippleUp</Data>
+            <Data name="CleveageNippleUp" target="Cleveage" local="true">kimydress.osd\CleveageNippleUp</Data>
+            <Data name="DressNippleUp" target="Dress" local="true">kimydress.osd\DressNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BodyNippleDown" target="Body" local="true">kimydress.osd\BodyNippleDown</Data>
+            <Data name="CleveageNippleDown" target="Cleveage" local="true">kimydress.osd\CleveageNippleDown</Data>
+            <Data name="DressNippleDown" target="Dress" local="true">kimydress.osd\DressNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BodyNippleTip" target="Body" local="true">kimydress.osd\BodyNippleTip</Data>
+            <Data name="DressNippleTip" target="Dress" local="true">kimydress.osd\DressNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <Data name="BodyArms" target="Body" local="true">kimydress.osd\BodyArms</Data>
+            <Data name="DressArms" target="Dress" local="true">kimydress.osd\DressArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BodyChubbyArms" target="Body" local="true">kimydress.osd\BodyChubbyArms</Data>
+            <Data name="DressChubbyArms" target="Dress" local="true">kimydress.osd\DressChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BodyShoulderSmooth" target="Body" local="true">kimydress.osd\BodyShoulderSmooth</Data>
+            <Data name="CleveageShoulderSmooth" target="Cleveage" local="true">kimydress.osd\CleveageShoulderSmooth</Data>
+            <Data name="DressShoulderSmooth" target="Dress" local="true">kimydress.osd\DressShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BodyShoulderWidth" target="Body" local="true">kimydress.osd\BodyShoulderWidth</Data>
+            <Data name="DressShoulderWidth" target="Dress" local="true">kimydress.osd\DressShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BodyBigTorso" target="Body" local="true">kimydress.osd\BodyBigTorso</Data>
+            <Data name="CleveageBigTorso" target="Cleveage" local="true">kimydress.osd\CleveageBigTorso</Data>
+            <Data name="DressBigTorso" target="Dress" local="true">kimydress.osd\DressBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <Data name="BodyWaist" target="Body" local="true">kimydress.osd\BodyWaist</Data>
+            <Data name="DressWaist" target="Dress" local="true">kimydress.osd\DressWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="DressWideWaistLine" target="Dress" local="true">kimydress.osd\DressWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BodyChubbyWaist" target="Body" local="true">kimydress.osd\BodyChubbyWaist</Data>
+            <Data name="DressChubbyWaist" target="Dress" local="true">kimydress.osd\DressChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BodyBelly" target="Body" local="true">kimydress.osd\BodyBelly</Data>
+            <Data name="CleveageBelly" target="Cleveage" local="true">kimydress.osd\CleveageBelly</Data>
+            <Data name="DressBelly" target="Dress" local="true">kimydress.osd\DressBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BodyBigBelly" target="Body" local="true">kimydress.osd\BodyBigBelly</Data>
+            <Data name="CleveageBigBelly" target="Cleveage" local="true">kimydress.osd\CleveageBigBelly</Data>
+            <Data name="DressBigBelly" target="Dress" local="true">kimydress.osd\DressBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BodyPregnancyBelly" target="Body" local="true">kimydress.osd\BodyPregnancyBelly</Data>
+            <Data name="CleveagePregnancyBelly" target="Cleveage" local="true">kimydress.osd\CleveagePregnancyBelly</Data>
+            <Data name="DressPregnancyBelly" target="Dress" local="true">kimydress.osd\DressPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BodyTummyTuck" target="Body" local="true">kimydress.osd\BodyTummyTuck</Data>
+            <Data name="DressTummyTuck" target="Dress" local="true">kimydress.osd\DressTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BodyBack" target="Body" local="true">kimydress.osd\BodyBack</Data>
+            <Data name="CleveageBack" target="Cleveage" local="true">kimydress.osd\CleveageBack</Data>
+            <Data name="DressBack" target="Dress" local="true">kimydress.osd\DressBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="DressHipbone" target="Dress" local="true">kimydress.osd\DressHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="DressHips" target="Dress" local="true">kimydress.osd\DressHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="DressButtCrack" target="Dress" local="true">kimydress.osd\DressButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <Data name="BodyButt" target="Body" local="true">kimydress.osd\BodyButt</Data>
+            <Data name="DressButt" target="Dress" local="true">kimydress.osd\DressButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="DressButtSmall" target="Dress" local="true">kimydress.osd\DressButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="DressButtShape2" target="Dress" local="true">kimydress.osd\DressButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="DressBigButt" target="Dress" local="true">kimydress.osd\DressBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BodyChubbyButt" target="Body" local="true">kimydress.osd\BodyChubbyButt</Data>
+            <Data name="DressChubbyButt" target="Dress" local="true">kimydress.osd\DressChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="DressAppleCheeks" target="Dress" local="true">kimydress.osd\DressAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="DressRoundAss" target="Dress" local="true">kimydress.osd\DressRoundAss</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="DressGroin" target="Dress" local="true">kimydress.osd\DressGroin</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="DressSlimThighs" target="Dress" local="true">kimydress.osd\DressSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="DressThighs" target="Dress" local="true">kimydress.osd\DressThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="DressChubbyLegs" target="Dress" local="true">kimydress.osd\DressChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <Data name="DressLegs" target="Dress" local="true">kimydress.osd\DressLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="DressKneeHeight" target="Dress" local="true">kimydress.osd\DressKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="DressCalfSize" target="Dress" local="true">kimydress.osd\DressCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="DressCalfSmooth" target="Dress" local="true">kimydress.osd\DressCalfSmooth</Data>
+        </Slider>
+        <Slider name="Ankles" invert="true" small="100" big="100">
+            <Data name="DressAnkles" target="Dress" local="true">kimydress.osd\DressAnkles</Data>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="BodySmallSeam" target="Body" local="true">kimydress.osd\BodySmallSeam</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="100" big="100" hidden="true">
+            <Data name="BodyShoulderTweak" target="Body" local="true">kimydress.osd\BodyShoulderTweak</Data>
+            <Data name="DressShoulderTweak" target="Dress" local="true">kimydress.osd\DressShoulderTweak</Data>
+        </Slider>
+        <Slider name="Breast Cover" invert="false" small="0" big="0" zap="true">
+            <Data name="CleveageBreast Cover" target="Cleveage" local="true">kimydress.osd\CleveageBreast Cover</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Devious Devices Expansion - Open Ebonite Hobble Dress">
+        <DataFolder>Devious Devices Expansion</DataFolder>
+        <SourceFile>kimydress_eb_open.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile GenWeights="true">kimydress_eb_open</OutputFile>
+        <Shape target="Body" DataFolder="Devious Devices Expansion">Body</Shape>
         <Shape target="Cleveage">Cleveage</Shape>
         <Shape target="Dress">Dress</Shape>
         <Slider name="Breasts" invert="true" small="20" big="100">

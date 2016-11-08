@@ -396,9 +396,61 @@ Armor Property zadx_HR_RustyIronBalletBootsRendered Auto
 Armor Property zadx_HR_RustyIronBalletBootsHeelInventory Auto
 Armor Property zadx_HR_RustyIronBalletBootsHeelRendered Auto
 
-Armor Property zadx_HobbleSkirtInventory Auto
-Armor Property zadx_HobbleSkirtRendered Auto
-
+; Pincopallino's items.
+; Hobble Dresses
+;; extreme/restrictive version:
+Armor Property zadx_HobbleDressInventory Auto
+Armor Property zadx_HobbleDressRendered Auto
+Armor Property zadx_HobbleDressRedInventory Auto
+Armor Property zadx_HobbleDressRedRendered Auto
+Armor Property zadx_HobbleDressWhiteInventory Auto
+Armor Property zadx_HobbleDressWhiteRendered Auto
+Armor Property zadx_HobbleDressOpenInventory Auto
+Armor Property zadx_HobbleDressOpenRendered Auto
+Armor Property zadx_HobbleDressRedOpenInventory Auto
+Armor Property zadx_HobbleDressRedOpenRendered Auto
+Armor Property zadx_HobbleDressWhiteOpenInventory Auto
+Armor Property zadx_HobbleDressWhiteOpenRendered Auto
+;; extreme/restrictive latex version:
+Armor Property zadx_HobbleDressLatexInventory Auto
+Armor Property zadx_HobbleDressLatexRendered Auto
+Armor Property zadx_HobbleDressLatexRedInventory Auto
+Armor Property zadx_HobbleDressLatexRedRendered Auto
+Armor Property zadx_HobbleDressLatexWhiteInventory Auto
+Armor Property zadx_HobbleDressLatexWhiteRendered Auto
+Armor Property zadx_HobbleDressLatexOpenInventory Auto
+Armor Property zadx_HobbleDressLatexOpenRendered Auto
+Armor Property zadx_HobbleDressLatexRedOpenInventory Auto
+Armor Property zadx_HobbleDressLatexRedOpenRendered Auto
+Armor Property zadx_HobbleDressLatexWhiteOpenInventory Auto
+Armor Property zadx_HobbleDressLatexWhiteOpenRendered Auto
+;; less restrictive version:
+Armor Property zadx_HobbleDressRelaxedInventory Auto
+Armor Property zadx_HobbleDressRelaxedRendered Auto
+Armor Property zadx_HobbleDressRedRelaxedInventory Auto
+Armor Property zadx_HobbleDressRedRelaxedRendered Auto
+Armor Property zadx_HobbleDressWhiteRelaxedInventory Auto
+Armor Property zadx_HobbleDressWhiteRelaxedRendered Auto
+Armor Property zadx_HobbleDressOpenRelaxedInventory Auto
+Armor Property zadx_HobbleDressOpenRelaxedRendered Auto
+Armor Property zadx_HobbleDressRedOpenRelaxedInventory Auto
+Armor Property zadx_HobbleDressRedOpenRelaxedRendered Auto
+Armor Property zadx_HobbleDressWhiteOpenRelaxedInventory Auto
+Armor Property zadx_HobbleDressWhiteOpenRelaxedRendered Auto
+;; less restrictive latex version:
+Armor Property zadx_HobbleDressLatexRelaxedInventory Auto
+Armor Property zadx_HobbleDressLatexRelaxedRendered Auto
+Armor Property zadx_HobbleDressLatexRedRelaxedInventory Auto
+Armor Property zadx_HobbleDressLatexRedRelaxedRendered Auto
+Armor Property zadx_HobbleDressLatexWhiteRelaxedInventory Auto
+Armor Property zadx_HobbleDressLatexWhiteRelaxedRendered Auto
+Armor Property zadx_HobbleDressLatexOpenRelaxedInventory Auto
+Armor Property zadx_HobbleDressLatexOpenRelaxedRendered Auto
+Armor Property zadx_HobbleDressLatexRedOpenRelaxedInventory Auto
+Armor Property zadx_HobbleDressLatexRedOpenRelaxedRendered Auto
+Armor Property zadx_HobbleDressLatexWhiteOpenRelaxedInventory Auto
+Armor Property zadx_HobbleDressLatexWhiteOpenRelaxedRendered Auto
+; ballet heels and bondage mittens
 Armor Property zadx_SlaveHighHeelsInventory Auto
 Armor Property zadx_SlaveHighHeelsRendered Auto
 Armor Property zadx_SlaveHighHeelsRedInventory Auto
