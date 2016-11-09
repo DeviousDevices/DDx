@@ -1,9 +1,38 @@
 <SliderSetInfo version="1">
-    <SliderSet name="Devious Devices Expansion - Paw Mittens">
+    <SliderSet name="Devious Devices Expansion - Leather Paw Mittens">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>pawmittens.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
         <OutputFile GenWeights="true">pawmittens</OutputFile>
+        <Shape target="Mittens Leather">Mittens Leather</Shape>
+        <Shape target="Mittens Metal">Mittens Metal</Shape>
+        <Shape target="Mittens Padlocks">Mittens Padlocks</Shape>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <Data name="Mittens LeatherArms" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherArms</Data>
+            <Data name="Mittens MetalArms" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalArms</Data>
+            <Data name="Mittens PadlocksArms" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherChubbyArms" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherChubbyArms</Data>
+            <Data name="Mittens MetalChubbyArms" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalChubbyArms</Data>
+            <Data name="Mittens PadlocksChubbyArms" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="Mittens LeatherShoulderWidth" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherShoulderWidth</Data>
+            <Data name="Mittens MetalShoulderWidth" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalShoulderWidth</Data>
+            <Data name="Mittens PadlocksShoulderWidth" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="Mittens LeatherBigTorso" target="Mittens Leather" local="true">pawmittens.osd\Mittens LeatherBigTorso</Data>
+            <Data name="Mittens MetalBigTorso" target="Mittens Metal" local="true">pawmittens.osd\Mittens MetalBigTorso</Data>
+            <Data name="Mittens PadlocksBigTorso" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksBigTorso</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="Devious Devices Expansion - Ebonite Paw Mittens">
+        <DataFolder>Devious Devices Expansion</DataFolder>
+        <SourceFile>pawmittens_eb.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile GenWeights="true">pawmittens_eb</OutputFile>
         <Shape target="Mittens Leather">Mittens Leather</Shape>
         <Shape target="Mittens Metal">Mittens Metal</Shape>
         <Shape target="Mittens Padlocks">Mittens Padlocks</Shape>
