@@ -463,6 +463,14 @@ Armor Property zadx_PawBondageMittensRedInventory Auto
 Armor Property zadx_PawBondageMittensRedRendered Auto
 Armor Property zadx_PawBondageMittensWhiteInventory Auto
 Armor Property zadx_PawBondageMittensWhiteRendered Auto
+Armor Property zadx_PawBondageMittensLatexInventory Auto
+Armor Property zadx_PawBondageMittensLatexRendered Auto
+Armor Property zadx_PawBondageMittensRedLatexInventory Auto
+Armor Property zadx_PawBondageMittensRedLatexRendered Auto
+Armor Property zadx_PawBondageMittensWhiteLatexInventory Auto
+Armor Property zadx_PawBondageMittensWhiteLatexRendered Auto
+
+
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
