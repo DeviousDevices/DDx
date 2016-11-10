@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="Devious Devices Expansion - Leather Paw Mittens">
+    <SliderSet name="DDX - UUNP - LeatherPawMittens">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>pawmittens.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -398,7 +398,7 @@
             <Data name="Mittens PadlocksCHSBHC High" target="Mittens Padlocks" local="true">pawmittens.osd\Mittens PadlocksCHSBHC High</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Paw Mittens">
+    <SliderSet name="DDX - UUNP - EbonitePawMittens">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>pawmittens_eb.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>

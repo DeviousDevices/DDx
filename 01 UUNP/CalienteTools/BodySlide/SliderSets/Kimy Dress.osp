@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="Devious Devices Expansion - Leather Hobble Dress">
+    <SliderSet name="DDX - UUNP - LeatherHobbleDress">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>kimydress.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -593,7 +593,7 @@
             <Data name="BodyCHSBHC High" target="Body" local="true">kimydress.osd\BodyCHSBHC High</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Open Leather Hobble Dress">
+    <SliderSet name="DDX - UUNP - LeatherHobbleDressOpen">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>kimydress_open.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -1187,7 +1187,7 @@
             <Data name="BodyCHSBHC High" target="Body" local="true">kimydress.osd\BodyCHSBHC High</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Hobble Dress">
+    <SliderSet name="DDX - UUNP - EboniteHobbleDress">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>kimydress_eb.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -1781,7 +1781,7 @@
             <Data name="BodyCHSBHC High" target="Body" local="true">kimydress.osd\BodyCHSBHC High</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Open Ebonite Hobble Dress">
+    <SliderSet name="DDX - UUNP - EboniteHobbleDressOpen">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>kimydress_eb_open.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>

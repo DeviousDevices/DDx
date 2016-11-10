@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="DDX_HR_ChainHarnessLegs">
+    <SliderSet name="DDX - UUNP/CBBE - ChainHarnessLegs">
         <DataFolder>DDX_Heretical\HR_ChainHarnessLegs</DataFolder>
         <SourceFile>HR_ChainHarnessLegs.nif</SourceFile>
         <OutputPath>Meshes\Devious\Heretic\Restraints</OutputPath>

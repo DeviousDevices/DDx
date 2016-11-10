@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="DDX_HR_RestrictiveBoots02">
+    <SliderSet name="DDX - UUNP/CBBE - RestrictiveBoots02">
         <DataFolder>DDX_Heretical\HR_RestrictiveBoots02</DataFolder>
         <SourceFile>HR_RestrictiveBoots02.nif</SourceFile>
         <OutputPath>Meshes\Devious\Heretic\Boots</OutputPath>

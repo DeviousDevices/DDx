@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="DDX_HR_Piercing01">
+    <SliderSet name="DDX - UUNP/CBBE - Piercing01">
         <DataFolder>DDX_Heretical\HR_Piercing01</DataFolder>
         <SourceFile>HR_Piercing01.nif</SourceFile>
         <OutputPath>Meshes\Devious\Heretic\Piercings</OutputPath>

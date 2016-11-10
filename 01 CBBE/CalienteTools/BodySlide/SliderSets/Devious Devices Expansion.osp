@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="Devious Devices Expansion - Restrictive Boots">
+    <SliderSet name="DDX - CBBE - RestrictiveBoots">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>restrictiveBoots.nif</SourceFile>
         <OutputPath>meshes\devious\devices\koffii</OutputPath>
@@ -51,7 +51,7 @@
             <Data name="bootsSmallSeam" target="boots" local="true">restrictiveBoots.osd\bootsSmallSeam</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Armbinder">
+    <SliderSet name="DDX - CBBE - EboniteArmbinder">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>ArmbEbonite.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -145,7 +145,7 @@
             <Data name="Armbinder:4ShoulderTweak" target="Armbinder:4" local="true">armbinder01.osd\Armbinder:4ShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Arm Cuffs">
+    <SliderSet name="DDX - CBBE - EboniteArmCuffs">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>cuffEboniteArms.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -169,7 +169,7 @@
             <Data name="cuffsLeatherArms001:1BigTorso" target="cuffsLeatherArms001:1" local="true">cuffsLeatherArms.osd\cuffsLeatherArms001:1BigTorso</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Leg Cuffs">
+    <SliderSet name="DDX - CBBE - EboniteLegCuffs">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>cuffEboniteLegs.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -217,7 +217,7 @@
             <Data name="cuffsLeatherLegs:1Ankles" target="cuffsLeatherLegs:1" local="true">cuffsLeatherLegs.osd\cuffsLeatherLegs:1Ankles</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Restrictive Boots">
+    <SliderSet name="DDX - CBBE - EboniteRestrictiveBoots">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>ebRestrictiveBoots.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -269,7 +269,7 @@
             <Data name="bootsSmallSeam" target="boots" local="true">restrictiveBoots.osd\bootsSmallSeam</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Restrictive Collar (Bounce)">
+    <SliderSet name="DDX - CBBE - EboniteRestrictiveCollarHDT">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>ebRestrictiveCollar.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -345,7 +345,7 @@
             <Data name="collarShoulderTweak" target="collar" local="true">restrictiveCollar.osd\collarShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Restrictive Collar (No Bounce)">
+    <SliderSet name="DDX - CBBE - EboniteRestrictiveCollar">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>ebRestrictiveCollarNoBounce.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -421,7 +421,7 @@
             <Data name="collarShoulderTweak" target="collar" local="true">restrictiveCollar.osd\collarShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Restrictive Corset">
+    <SliderSet name="DDX - CBBE - EboniteRestrictiveCorset">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>ebRestrictiveCorset.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -524,7 +524,7 @@
             <Data name="corsetRoundAss" target="corset" local="true">restrictiveCorset.osd\corsetRoundAss</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Restrictive Corset with Belt">
+    <SliderSet name="DDX - CBBE - EboniteRestrictiveCorsetBelt">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>ebRestrictiveCorsetBelt.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -667,7 +667,7 @@
             <Data name="beltChubbyLegs" target="belt" local="true">restrictiveCorsetBelt.osd\beltChubbyLegs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Restrictive Corset with Open Belt">
+    <SliderSet name="DDX - CBBE - EboniteRestrictiveCorsetBeltOpen">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>EbRestrictiveCorsetBeltOpen.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -810,7 +810,7 @@
             <Data name="belt_openChubbyLegs" target="belt_open" local="true">restrictiveCorsetBeltOpen.osd\belt_openChubbyLegs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Restrictive Gloves">
+    <SliderSet name="DDX - CBBE - EboniteRestrictiveGloves">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>ebRestrictiveGloves.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -832,7 +832,7 @@
             <Data name="glovesSmallSeam" target="gloves" local="true">restrictiveGloves.osd\glovesSmallSeam</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Body Harness">
+    <SliderSet name="DDX - CBBE - EboniteBodyHarness">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>harnEboniteBody.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -996,7 +996,7 @@
             <Data name="HarnessBody:1Legs" target="HarnessBody:1" local="true">harnessBody.osd\HarnessBody:1Legs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Custom Ebony Body Harness">
+    <SliderSet name="DDX - CBBE - CustomEbonyBodyHarness">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>customEbHarnessSingle.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -1156,7 +1156,7 @@
             <Data name="MetalChubbyLegs" target="Metal" local="true">customHarnessSingle.osd\MetalChubbyLegs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Custom Body Harness">
+    <SliderSet name="DDX - CBBE - CustomBodyHarness">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>customHarnessSingle.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -1316,7 +1316,7 @@
             <Data name="MetalChubbyLegs" target="Metal" local="true">customHarnessSingle.osd\MetalChubbyLegs</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Pony Boots">
+    <SliderSet name="DDX - CBBE - PonyBoots">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>XinPonyBoot.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -1352,7 +1352,7 @@
             <Data name="PonySmallSeam" target="Pony" local="true">XinEbPonyBoot.osd\PonySmallSeam</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Ebonite Pony Boots">
+    <SliderSet name="DDX - CBBE - EbonitePonyBoots">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>XinEbPonyBoot.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
@@ -1388,7 +1388,7 @@
             <Data name="PonySmallSeam" target="Pony" local="true">XinEbPonyBoot.osd\PonySmallSeam</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="Devious Devices Expansion - Slave Boots">
+    <SliderSet name="DDX - CBBE - SlaveBoots">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>ZariaBoot7.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>

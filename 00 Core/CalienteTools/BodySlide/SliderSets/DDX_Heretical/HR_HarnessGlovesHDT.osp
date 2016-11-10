@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="DDX_HR_HarnessGlovesHDT">
+    <SliderSet name="DDX - UUNP/CBBE - HarnessGlovesHDT">
         <DataFolder>DDX_Heretical\HR_HarnessGlovesHDT</DataFolder>
         <SourceFile>HR_HarnessGlovesHDT.nif</SourceFile>
         <OutputPath>Meshes\Devious\Heretic\Gloves</OutputPath>

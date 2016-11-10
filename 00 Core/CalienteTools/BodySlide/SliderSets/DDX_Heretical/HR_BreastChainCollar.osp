@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="DDX_HR_BreastChainCollar">
+    <SliderSet name="DDX - UUNP/CBBE - BreastChainCollar">
         <DataFolder>DDX_Heretical\HR_BreastChainCollar</DataFolder>
         <SourceFile>HR_BreastChainCollar.nif</SourceFile>
         <OutputPath>Meshes\Devious\Heretic\Restraints</OutputPath>
