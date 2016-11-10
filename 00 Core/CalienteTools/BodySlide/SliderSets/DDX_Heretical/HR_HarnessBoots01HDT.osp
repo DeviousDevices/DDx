@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="DDX - UUNP/CBBE - HarnessBoots01HDT">
+    <SliderSet name="DDX - UUNP/CBBE - HarnessBoots01(HDT)">
         <DataFolder>DDX_Heretical\HR_HarnessBoots01HDT</DataFolder>
         <SourceFile>HR_HarnessBoots01HDT.nif</SourceFile>
         <OutputPath>Meshes\Devious\Heretic\Boots</OutputPath>

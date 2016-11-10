@@ -702,7 +702,7 @@
             <datafile name="cuffsLeatherLegs_1CHSBHC High" target="cuffsLeatherLegs_1" local="true">cuffsLeatherLegs_1CHSBHC High.bsd</datafile>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - UUNP - CustomHarnessHDT">
+    <SliderSet name="DDX - UUNP - CustomHarness(HDT)">
         <SetFolder>DeviousDevicesExpansionUUNP\Harness</SetFolder>
         <SourceFile>CustomHarnessHDT.nif</SourceFile>
         <OutputPath>meshes\Devious\Expansion</OutputPath>
@@ -1674,7 +1674,7 @@
             <datafile name="HarnessBody_1CHSBHC High" target="HarnessBody_1" local="true">HarnessBody_1CHSBHC High.bsd</datafile>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - UUNP - CustomEboniteHarnessHDT">
+    <SliderSet name="DDX - UUNP - CustomEboniteHarness(HDT)">
         <SetFolder>DeviousDevicesExpansionUUNP\Harness</SetFolder>
         <SourceFile>CustomEbHarnessHDT.nif</SourceFile>
         <OutputPath>meshes\Devious\Expansion</OutputPath>
@@ -2646,7 +2646,7 @@
             <datafile name="HarnessBody_1CHSBHC High" target="HarnessBody_1" local="true">HarnessBody_1CHSBHC High.bsd</datafile>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - UUNP - EboniteHarnessHDT">
+    <SliderSet name="DDX - UUNP - EboniteHarness(HDT)">
         <SetFolder>DeviousDevicesExpansionUUNP\Harness</SetFolder>
         <SourceFile>HarnessHDT.nif</SourceFile>
         <OutputPath>meshes\Devious\Expansion</OutputPath>
@@ -3618,7 +3618,7 @@
             <datafile name="HarnessBody_1CHSBHC High" target="HarnessBody_1" local="true">HarnessBody_1CHSBHC High.bsd</datafile>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - UUNP - EbRestrictiveCorsetHDT">
+    <SliderSet name="DDX - UUNP - EbRestrictiveCorset(HDT)">
         <SetFolder>DeviousDevicesExpansionUUNP\Corset</SetFolder>
         <SourceFile>CorsetHDT.nif</SourceFile>
         <OutputPath>meshes\Devious\Expansion</OutputPath>
@@ -4346,7 +4346,7 @@
             <datafile name="corsetCHSBHC High" target="corset" local="true">corsetCHSBHC High.bsd</datafile>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - UUNP - EbRestrictiveCorsetBeltHDT">
+    <SliderSet name="DDX - UUNP - EbRestrictiveCorsetBelt(HDT)">
         <SetFolder>DeviousDevicesExpansionUUNP\Corset</SetFolder>
         <SourceFile>CorsetBeltHDT.nif</SourceFile>
         <OutputPath>meshes\Devious\Expansion</OutputPath>
@@ -5276,7 +5276,7 @@
             <datafile name="BeltCHSBHC High" target="Belt" local="true">BeltCHSBHC High.bsd</datafile>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - UUNP - EbRestrictiveCorsetBeltOpenHDT">
+    <SliderSet name="DDX - UUNP - EbRestrictiveCorsetBeltOpen(HDT)">
         <SetFolder>DeviousDevicesExpansionUUNP\Corset</SetFolder>
         <SourceFile>CorsetOpenBeltHDT.nif</SourceFile>
         <OutputPath>meshes\Devious\Expansion</OutputPath>
@@ -6206,7 +6206,7 @@
             <datafile name="belt_openCHSBHC High" target="belt_open" local="true">belt_openCHSBHC High.bsd</datafile>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - UUNP - EbRestrictiveCollarHDT">
+    <SliderSet name="DDX - UUNP - EbRestrictiveCollar(HDT)">
         <SetFolder>DeviousDevicesExpansionUUNP\RestrictiveCollar</SetFolder>
         <SourceFile>CollarHDT.nif</SourceFile>
         <OutputPath>meshes\Devious\Expansion</OutputPath>

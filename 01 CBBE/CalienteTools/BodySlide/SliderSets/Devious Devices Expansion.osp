@@ -269,7 +269,7 @@
             <Data name="bootsSmallSeam" target="boots" local="true">restrictiveBoots.osd\bootsSmallSeam</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - CBBE - EboniteRestrictiveCollarHDT">
+    <SliderSet name="DDX - CBBE - EboniteRestrictiveCollar(HDT)">
         <DataFolder>Devious Devices</DataFolder>
         <SourceFile>ebRestrictiveCollar.nif</SourceFile>
         <OutputPath>meshes\devious\expansion</OutputPath>
