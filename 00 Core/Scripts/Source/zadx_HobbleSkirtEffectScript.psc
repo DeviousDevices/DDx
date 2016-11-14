@@ -3,6 +3,11 @@ ScriptName zadx_HobbleSkirtEffectScript extends ActiveMagicEffect
 ; Libraries
 zadLibs Property Libs Auto
 
+Float SpeedMultDifferential = 0.0
+Float TargetSpeedMult = 10.0
+Float FlatSpeedDebuff = 90.0
+
+Actor who
 Keyword Property zad_DeviousHobbleSkirtRelaxed Auto	;extreme or relaxed speed debuff
 GlobalVariable REQExhaustion	;Requiem setting responsible for its exhaustion slowdown, disabled while the dress is worn
 float REQSavedVal				;Saved value of the setting, returned once the dress is unequipped
@@ -17,28 +22,77 @@ bool Function GetRequiem()
 	Endif
 EndFunction
 
-Event OnEffectStart(Actor akTarget, Actor akCaster)
-	libs.Log("OnEffectStart(): Hobble Skirt")
+Function ApplySM(actor akTarget)
+	akTarget.DamageAv("CarryWeight", 0.02)
+	akTarget.RestoreAv("CarryWeight", 0.02)
+EndFunction
 
-	If !akTarget.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
+Event OnEffectStart(Actor akTarget, Actor akCaster)
+	libs.Log("OnEffectStart(): Hobble Skirt")	
+	; For Princessity! *hugs*
+	TargetSpeedMult = 100 - Libs.Config.HobbleSkirtSpeedDebuff
+	FlatSpeedDebuff = Libs.Config.HobbleSkirtSpeedDebuff	
+	If akTarget.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
+		TargetSpeedMult += 20
+		FlatSpeedDebuff -= 20
+	Else
 		; relaxed skirts do not use special animations, but the extreme ones do.
 		libs.BoundCombat.Apply_HBC(akTarget)
 	EndIf
-
+	
 	If GetRequiem() == True && akTarget == Libs.PlayerRef
 		REQSavedVal = REQExhaustion.GetValue()
 		REQExhaustion.SetValue(1.0)
+		akTarget.DamageAV("SpeedMult", FlatSpeedDebuff)
+		ApplySM(akTarget)
+	Else
+		Float CurrentSpeedMult = akTarget.GetAV("SpeedMult")	
+		SpeedMultDifferential = CurrentSpeedMult - TargetSpeedMult
+		If SpeedMultDifferential > 0.0
+			akTarget.DamageAV("SpeedMult", SpeedMultDifferential)
+			ApplySM(akTarget)
+		EndIf
+		who = akTarget
+		RegisterForSingleUpdate(5.0)
 	Endif
 EndEvent
 
 Event OnEffectFinish(Actor akTarget, Actor akCaster)
 	libs.Log("OnEffectFinish(): Hobble Skirt")
+	
+	If GetRequiem() == True && akTarget == Libs.PlayerRef
+		akTarget.RestoreAV("SpeedMult", FlatSpeedDebuff)
+		REQExhaustion.SetValue(REQSavedVal)
+		ApplySM(akTarget)
+	Else
+		If SpeedMultDifferential > 0.0
+			akTarget.RestoreAV("SpeedMult", SpeedMultDifferential)
+			ApplySM(akTarget)
+		EndIf
+		UnRegisterForUpdate()
+	Endif
 
 	If !akTarget.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
 		libs.BoundCombat.Remove_HBC(akTarget)
 	EndIf
+EndEvent
 
-	If GetRequiem() == True && akTarget == Libs.PlayerRef
-		REQExhaustion.SetValue(REQSavedVal)
-	Endif
+Event OnUpdate()
+	Float CurrentSpeedMult = who.GetAV("SpeedMult")
+	TargetSpeedMult = 100 - Libs.Config.HobbleSkirtSpeedDebuff	
+	If who.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
+		TargetSpeedMult += 20
+	EndIf
+	If CurrentSpeedMult != TargetSpeedMult
+		If SpeedMultDifferential > 0.0
+			who.RestoreAV("SpeedMult", SpeedMultDifferential)
+			ApplySM(who)
+		EndIf
+		SpeedMultDifferential = CurrentSpeedMult - TargetSpeedMult
+		If SpeedMultDifferential > 0.0
+			who.DamageAV("SpeedMult", SpeedMultDifferential)
+			ApplySM(who)
+		EndIf
+	EndIf
+	RegisterForSingleUpdate(5.0)
 EndEvent
