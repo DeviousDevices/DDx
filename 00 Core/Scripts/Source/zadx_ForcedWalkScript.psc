@@ -15,7 +15,7 @@ Event OnEffectStart(Actor akTarget, Actor akCaster)
 EndEvent
 
 Event OnEffectFinish(Actor akTarget, Actor akCaster)
-	Utility.SetINIBool("bDampenPlayerControls:Controls", true)
+	Utility.SetINIBool("bDampenPlayerControls:Controls", savedINIDampen)
 	Game.SetGameSettingString("sOverEncumbered", savedMSG1)
 	Game.SetGameSettingString("sNoFastTravelOverencumbered", savedMSG2)
 EndEvent
