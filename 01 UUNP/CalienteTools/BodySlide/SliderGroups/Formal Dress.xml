@@ -1,10 +1,10 @@
 <SliderGroups>
     <Group name="Unified UNP">
-        <Member name="Devious Devices Expansion - Leather Elegant Dress"/>
-        <Member name="Devious Devices Expansion - Ebonite Elegant Dress"/>
+        <Member name="DDX - UUNP - LeatherElegantDress"/>
+        <Member name="DDX - UUNP - EboniteElegantDress"/>
     </Group>
     <Group name="Unified UNP HDT">
-        <Member name="Devious Devices Expansion - Leather Elegant Dress"/>
-        <Member name="Devious Devices Expansion - Ebonite Elegant Dress"/>
+        <Member name="DDX - UUNP - LeatherElegantDress"/>
+        <Member name="DDX - UUNP - EboniteElegantDress"/>
     </Group>
 </SliderGroups>
