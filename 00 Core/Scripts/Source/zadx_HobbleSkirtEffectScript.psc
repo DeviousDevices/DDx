@@ -4,8 +4,8 @@ ScriptName zadx_HobbleSkirtEffectScript extends ActiveMagicEffect
 zadLibs Property Libs Auto
 
 Float SpeedMultDifferential = 0.0
-Float TargetSpeedMult = 10.0
-Float FlatSpeedDebuff = 90.0
+Float TargetSpeedMult = 50.0
+Float FlatSpeedDebuff = 50.0
 
 Actor who
 Keyword Property zad_DeviousHobbleSkirtRelaxed Auto	;extreme or relaxed speed debuff
