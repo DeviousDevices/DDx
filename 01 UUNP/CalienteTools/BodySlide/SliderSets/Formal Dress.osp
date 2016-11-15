@@ -1,0 +1,1020 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - UUNP - LeatherElegantDress">
+        <DataFolder>Devious Devices Expansion</DataFolder>
+        <SourceFile>formal_dress.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile GenWeights="true">formal_dress</OutputFile>
+        <Shape target="Body">Body</Shape>
+        <Shape target="Dress">Dress</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="DressBreasts" target="Dress" local="true">formal_dress_eb.osd\DressBreasts</Data>
+            <Data name="BodyBreasts" target="Body" local="true">formal_dress_eb.osd\BodyBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="DressBreastsSmall" target="Dress" local="true">formal_dress_eb.osd\DressBreastsSmall</Data>
+            <Data name="BodyBreastsSmall" target="Body" local="true">formal_dress_eb.osd\BodyBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="DressBreastsSH" target="Dress" local="true">formal_dress_eb.osd\DressBreastsSH</Data>
+            <Data name="BodyBreastsSH" target="Body" local="true">formal_dress_eb.osd\BodyBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="DressBreastsSSH" target="Dress" local="true">formal_dress_eb.osd\DressBreastsSSH</Data>
+            <Data name="BodyBreastsSSH" target="Body" local="true">formal_dress_eb.osd\BodyBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="DressBreastsFantasy" target="Dress" local="true">formal_dress_eb.osd\DressBreastsFantasy</Data>
+            <Data name="BodyBreastsFantasy" target="Body" local="true">formal_dress_eb.osd\BodyBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="DressDoubleMelon" target="Dress" local="true">formal_dress_eb.osd\DressDoubleMelon</Data>
+            <Data name="BodyDoubleMelon" target="Body" local="true">formal_dress_eb.osd\BodyDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="DressBreastCleavage" target="Dress" local="true">formal_dress_eb.osd\DressBreastCleavage</Data>
+            <Data name="BodyBreastCleavage" target="Body" local="true">formal_dress_eb.osd\BodyBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="DressBreastFlatness" target="Dress" local="true">formal_dress_eb.osd\DressBreastFlatness</Data>
+            <Data name="BodyBreastFlatness" target="Body" local="true">formal_dress_eb.osd\BodyBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="DressBreastGravity" target="Dress" local="true">formal_dress_eb.osd\DressBreastGravity</Data>
+            <Data name="BodyBreastGravity" target="Body" local="true">formal_dress_eb.osd\BodyBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="DressPushUp" target="Dress" local="true">formal_dress_eb.osd\DressPushUp</Data>
+            <Data name="BodyPushUp" target="Body" local="true">formal_dress_eb.osd\BodyPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="DressBreastHeight" target="Dress" local="true">formal_dress_eb.osd\DressBreastHeight</Data>
+            <Data name="BodyBreastHeight" target="Body" local="true">formal_dress_eb.osd\BodyBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="DressBreastPerkiness" target="Dress" local="true">formal_dress_eb.osd\DressBreastPerkiness</Data>
+            <Data name="BodyBreastPerkiness" target="Body" local="true">formal_dress_eb.osd\BodyBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="DressBreastWidth" target="Dress" local="true">formal_dress_eb.osd\DressBreastWidth</Data>
+            <Data name="BodyBreastWidth" target="Body" local="true">formal_dress_eb.osd\BodyBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="DressNippleDistance" target="Dress" local="true">formal_dress_eb.osd\DressNippleDistance</Data>
+            <Data name="BodyNippleDistance" target="Body" local="true">formal_dress_eb.osd\BodyNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="DressNipplePerkiness" target="Dress" local="true">formal_dress_eb.osd\DressNipplePerkiness</Data>
+            <Data name="BodyNipplePerkiness" target="Body" local="true">formal_dress_eb.osd\BodyNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="DressNippleLength" target="Dress" local="true">formal_dress_eb.osd\DressNippleLength</Data>
+            <Data name="BodyNippleLength" target="Body" local="true">formal_dress_eb.osd\BodyNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="DressNippleSize" target="Dress" local="true">formal_dress_eb.osd\DressNippleSize</Data>
+            <Data name="BodyNippleSize" target="Body" local="true">formal_dress_eb.osd\BodyNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="DressNippleAreola" target="Dress" local="true">formal_dress_eb.osd\DressNippleAreola</Data>
+            <Data name="BodyNippleAreola" target="Body" local="true">formal_dress_eb.osd\BodyNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="DressNippleUp" target="Dress" local="true">formal_dress_eb.osd\DressNippleUp</Data>
+            <Data name="BodyNippleUp" target="Body" local="true">formal_dress_eb.osd\BodyNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="DressNippleDown" target="Dress" local="true">formal_dress_eb.osd\DressNippleDown</Data>
+            <Data name="BodyNippleDown" target="Body" local="true">formal_dress_eb.osd\BodyNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="DressNippleTip" target="Dress" local="true">formal_dress_eb.osd\DressNippleTip</Data>
+            <Data name="BodyNippleTip" target="Body" local="true">formal_dress_eb.osd\BodyNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="DressArms" target="Dress" local="true">formal_dress_eb.osd\DressArms</Data>
+            <Data name="BodyArms" target="Body" local="true">formal_dress_eb.osd\BodyArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="DressChubbyArms" target="Dress" local="true">formal_dress_eb.osd\DressChubbyArms</Data>
+            <Data name="BodyChubbyArms" target="Body" local="true">formal_dress_eb.osd\BodyChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="DressShoulderSmooth" target="Dress" local="true">formal_dress_eb.osd\DressShoulderSmooth</Data>
+            <Data name="BodyShoulderSmooth" target="Body" local="true">formal_dress_eb.osd\BodyShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="DressShoulderWidth" target="Dress" local="true">formal_dress_eb.osd\DressShoulderWidth</Data>
+            <Data name="BodyShoulderWidth" target="Body" local="true">formal_dress_eb.osd\BodyShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="DressBigTorso" target="Dress" local="true">formal_dress_eb.osd\DressBigTorso</Data>
+            <Data name="BodyBigTorso" target="Body" local="true">formal_dress_eb.osd\BodyBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="DressWaist" target="Dress" local="true">formal_dress_eb.osd\DressWaist</Data>
+            <Data name="BodyWaist" target="Body" local="true">formal_dress_eb.osd\BodyWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="DressWideWaistLine" target="Dress" local="true">formal_dress_eb.osd\DressWideWaistLine</Data>
+            <Data name="BodyWideWaistLine" target="Body" local="true">formal_dress_eb.osd\BodyWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="DressChubbyWaist" target="Dress" local="true">formal_dress_eb.osd\DressChubbyWaist</Data>
+            <Data name="BodyChubbyWaist" target="Body" local="true">formal_dress_eb.osd\BodyChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="DressBelly" target="Dress" local="true">formal_dress_eb.osd\DressBelly</Data>
+            <Data name="BodyBelly" target="Body" local="true">formal_dress_eb.osd\BodyBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="DressBigBelly" target="Dress" local="true">formal_dress_eb.osd\DressBigBelly</Data>
+            <Data name="BodyBigBelly" target="Body" local="true">formal_dress_eb.osd\BodyBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="DressPregnancyBelly" target="Dress" local="true">formal_dress_eb.osd\DressPregnancyBelly</Data>
+            <Data name="BodyPregnancyBelly" target="Body" local="true">formal_dress_eb.osd\BodyPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="DressTummyTuck" target="Dress" local="true">formal_dress_eb.osd\DressTummyTuck</Data>
+            <Data name="BodyTummyTuck" target="Body" local="true">formal_dress_eb.osd\BodyTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="DressBack" target="Dress" local="true">formal_dress_eb.osd\DressBack</Data>
+            <Data name="BodyBack" target="Body" local="true">formal_dress_eb.osd\BodyBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="DressHipbone" target="Dress" local="true">formal_dress_eb.osd\DressHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="DressHips" target="Dress" local="true">formal_dress_eb.osd\DressHips</Data>
+            <Data name="BodyHips" target="Body" local="true">formal_dress_eb.osd\BodyHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="DressButtCrack" target="Dress" local="true">formal_dress_eb.osd\DressButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="DressButt" target="Dress" local="true">formal_dress_eb.osd\DressButt</Data>
+            <Data name="BodyButt" target="Body" local="true">formal_dress_eb.osd\BodyButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="DressButtSmall" target="Dress" local="true">formal_dress_eb.osd\DressButtSmall</Data>
+            <Data name="BodyButtSmall" target="Body" local="true">formal_dress_eb.osd\BodyButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="DressButtShape2" target="Dress" local="true">formal_dress_eb.osd\DressButtShape2</Data>
+            <Data name="BodyButtShape2" target="Body" local="true">formal_dress_eb.osd\BodyButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="DressBigButt" target="Dress" local="true">formal_dress_eb.osd\DressBigButt</Data>
+            <Data name="BodyBigButt" target="Body" local="true">formal_dress_eb.osd\BodyBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="DressChubbyButt" target="Dress" local="true">formal_dress_eb.osd\DressChubbyButt</Data>
+            <Data name="BodyChubbyButt" target="Body" local="true">formal_dress_eb.osd\BodyChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="DressAppleCheeks" target="Dress" local="true">formal_dress_eb.osd\DressAppleCheeks</Data>
+            <Data name="BodyAppleCheeks" target="Body" local="true">formal_dress_eb.osd\BodyAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="DressRoundAss" target="Dress" local="true">formal_dress_eb.osd\DressRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="DressSlimThighs" target="Dress" local="true">formal_dress_eb.osd\DressSlimThighs</Data>
+            <Data name="BodySlimThighs" target="Body" local="true">formal_dress_eb.osd\BodySlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="DressThighs" target="Dress" local="true">formal_dress_eb.osd\DressThighs</Data>
+            <Data name="BodyThighs" target="Body" local="true">formal_dress_eb.osd\BodyThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="DressChubbyLegs" target="Dress" local="true">formal_dress_eb.osd\DressChubbyLegs</Data>
+            <Data name="BodyChubbyLegs" target="Body" local="true">formal_dress_eb.osd\BodyChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="DressLegs" target="Dress" local="true">formal_dress_eb.osd\DressLegs</Data>
+            <Data name="BodyLegs" target="Body" local="true">formal_dress_eb.osd\BodyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="DressKneeHeight" target="Dress" local="true">formal_dress_eb.osd\DressKneeHeight</Data>
+            <Data name="BodyKneeHeight" target="Body" local="true">formal_dress_eb.osd\BodyKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="DressCalfSize" target="Dress" local="true">formal_dress_eb.osd\DressCalfSize</Data>
+            <Data name="BodyCalfSize" target="Body" local="true">formal_dress_eb.osd\BodyCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="DressCalfSmooth" target="Dress" local="true">formal_dress_eb.osd\DressCalfSmooth</Data>
+            <Data name="BodyCalfSmooth" target="Body" local="true">formal_dress_eb.osd\BodyCalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="DressNeck" target="Dress" local="true">formal_dress_eb.osd\DressNeck</Data>
+            <Data name="BodyNeck" target="Body" local="true">formal_dress_eb.osd\BodyNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Low</Data>
+            <Data name="Body7B Low" target="Body" local="true">formal_dress_eb.osd\Body7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Dress7B High" target="Dress" local="true">formal_dress_eb.osd\Dress7B High</Data>
+            <Data name="Body7B High" target="Body" local="true">formal_dress_eb.osd\Body7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Bombshell Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Bombshell Low</Data>
+            <Data name="Body7B Bombshell Low" target="Body" local="true">formal_dress_eb.osd\Body7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Dress7B Bombshell High" target="Dress" local="true">formal_dress_eb.osd\Dress7B Bombshell High</Data>
+            <Data name="Body7B Bombshell High" target="Body" local="true">formal_dress_eb.osd\Body7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Natural Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Natural Low</Data>
+            <Data name="Body7B Natural Low" target="Body" local="true">formal_dress_eb.osd\Body7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Dress7B Natural High" target="Dress" local="true">formal_dress_eb.osd\Dress7B Natural High</Data>
+            <Data name="Body7B Natural High" target="Body" local="true">formal_dress_eb.osd\Body7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Cleavage Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Cleavage Low</Data>
+            <Data name="Body7B Cleavage Low" target="Body" local="true">formal_dress_eb.osd\Body7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Dress7B Cleavage High" target="Dress" local="true">formal_dress_eb.osd\Dress7B Cleavage High</Data>
+            <Data name="Body7B Cleavage High" target="Body" local="true">formal_dress_eb.osd\Body7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Dress7B BCup Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B BCup Low</Data>
+            <Data name="Body7B BCup Low" target="Body" local="true">formal_dress_eb.osd\Body7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Dress7B BCup High" target="Dress" local="true">formal_dress_eb.osd\Dress7B BCup High</Data>
+            <Data name="Body7B BCup High" target="Body" local="true">formal_dress_eb.osd\Body7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Dress7BUNP Low" target="Dress" local="true">formal_dress_eb.osd\Dress7BUNP Low</Data>
+            <Data name="Body7BUNP Low" target="Body" local="true">formal_dress_eb.osd\Body7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Dress7BUNP High" target="Dress" local="true">formal_dress_eb.osd\Dress7BUNP High</Data>
+            <Data name="Body7BUNP High" target="Body" local="true">formal_dress_eb.osd\Body7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Oppai Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Oppai Low</Data>
+            <Data name="Body7B Oppai Low" target="Body" local="true">formal_dress_eb.osd\Body7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Dress7B Oppai High" target="Dress" local="true">formal_dress_eb.osd\Dress7B Oppai High</Data>
+            <Data name="Body7B Oppai High" target="Body" local="true">formal_dress_eb.osd\Body7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Dress7B CH Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B CH Low</Data>
+            <Data name="Body7B CH Low" target="Body" local="true">formal_dress_eb.osd\Body7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Dress7B CH High" target="Dress" local="true">formal_dress_eb.osd\Dress7B CH High</Data>
+            <Data name="Body7B CH High" target="Body" local="true">formal_dress_eb.osd\Body7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="DressUNP Low" target="Dress" local="true">formal_dress_eb.osd\DressUNP Low</Data>
+            <Data name="BodyUNP Low" target="Body" local="true">formal_dress_eb.osd\BodyUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="DressUNP High" target="Dress" local="true">formal_dress_eb.osd\DressUNP High</Data>
+            <Data name="BodyUNP High" target="Body" local="true">formal_dress_eb.osd\BodyUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="DressUNP Pushup Low" target="Dress" local="true">formal_dress_eb.osd\DressUNP Pushup Low</Data>
+            <Data name="BodyUNP Pushup Low" target="Body" local="true">formal_dress_eb.osd\BodyUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="DressUNP Pushup High" target="Dress" local="true">formal_dress_eb.osd\DressUNP Pushup High</Data>
+            <Data name="BodyUNP Pushup High" target="Body" local="true">formal_dress_eb.osd\BodyUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="DressUNP Skinny Low" target="Dress" local="true">formal_dress_eb.osd\DressUNP Skinny Low</Data>
+            <Data name="BodyUNP Skinny Low" target="Body" local="true">formal_dress_eb.osd\BodyUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="DressUNP Skinny High" target="Dress" local="true">formal_dress_eb.osd\DressUNP Skinny High</Data>
+            <Data name="BodyUNP Skinny High" target="Body" local="true">formal_dress_eb.osd\BodyUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="DressUNP Perky Low" target="Dress" local="true">formal_dress_eb.osd\DressUNP Perky Low</Data>
+            <Data name="BodyUNP Perky Low" target="Body" local="true">formal_dress_eb.osd\BodyUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="DressUNP Perky High" target="Dress" local="true">formal_dress_eb.osd\DressUNP Perky High</Data>
+            <Data name="BodyUNP Perky High" target="Body" local="true">formal_dress_eb.osd\BodyUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="DressUNPB Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Low</Data>
+            <Data name="BodyUNPB Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="DressUNPB High" target="Dress" local="true">formal_dress_eb.osd\DressUNPB High</Data>
+            <Data name="BodyUNPB High" target="Body" local="true">formal_dress_eb.osd\BodyUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="DressUNPB Chapi" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Chapi</Data>
+            <Data name="BodyUNPB Chapi" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="DressUNPB Oppai v1" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Oppai v1</Data>
+            <Data name="BodyUNPB Oppai v1" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="DressUNPB Oppai v3.2 Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Oppai v3.2 Low</Data>
+            <Data name="BodyUNPB Oppai v3.2 Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="DressUNPB Oppai v3.2 High" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Oppai v3.2 High</Data>
+            <Data name="BodyUNPB Oppai v3.2 High" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="DressUNPetite Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPetite Low</Data>
+            <Data name="BodyUNPetite Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="DressUNPetite High" target="Dress" local="true">formal_dress_eb.osd\DressUNPetite High</Data>
+            <Data name="BodyUNPetite High" target="Body" local="true">formal_dress_eb.osd\BodyUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="DressUNPC Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPC Low</Data>
+            <Data name="BodyUNPC Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="DressUNPC High" target="Dress" local="true">formal_dress_eb.osd\DressUNPC High</Data>
+            <Data name="BodyUNPC High" target="Body" local="true">formal_dress_eb.osd\BodyUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="DressUNPCM Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPCM Low</Data>
+            <Data name="BodyUNPCM Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="DressUNPCM High" target="Dress" local="true">formal_dress_eb.osd\DressUNPCM High</Data>
+            <Data name="BodyUNPCM High" target="Body" local="true">formal_dress_eb.osd\BodyUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="DressUNPSH Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPSH Low</Data>
+            <Data name="BodyUNPSH Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="DressUNPSH High" target="Dress" local="true">formal_dress_eb.osd\DressUNPSH High</Data>
+            <Data name="BodyUNPSH High" target="Body" local="true">formal_dress_eb.osd\BodyUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="DressUNPK Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPK Low</Data>
+            <Data name="BodyUNPK Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="DressUNPK High" target="Dress" local="true">formal_dress_eb.osd\DressUNPK High</Data>
+            <Data name="BodyUNPK High" target="Body" local="true">formal_dress_eb.osd\BodyUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="DressUNPK Bonus Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPK Bonus Low</Data>
+            <Data name="BodyUNPK Bonus Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="DressUNPK Bonus High" target="Dress" local="true">formal_dress_eb.osd\DressUNPK Bonus High</Data>
+            <Data name="BodyUNPK Bonus High" target="Body" local="true">formal_dress_eb.osd\BodyUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="DressUN7B Low" target="Dress" local="true">formal_dress_eb.osd\DressUN7B Low</Data>
+            <Data name="BodyUN7B Low" target="Body" local="true">formal_dress_eb.osd\BodyUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="DressUN7B High" target="Dress" local="true">formal_dress_eb.osd\DressUN7B High</Data>
+            <Data name="BodyUN7B High" target="Body" local="true">formal_dress_eb.osd\BodyUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="DressUNPBB Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPBB Low</Data>
+            <Data name="BodyUNPBB Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="DressUNPBB High" target="Dress" local="true">formal_dress_eb.osd\DressUNPBB High</Data>
+            <Data name="BodyUNPBB High" target="Body" local="true">formal_dress_eb.osd\BodyUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="DressSeraphim Low" target="Dress" local="true">formal_dress_eb.osd\DressSeraphim Low</Data>
+            <Data name="BodySeraphim Low" target="Body" local="true">formal_dress_eb.osd\BodySeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="DressSeraphim High" target="Dress" local="true">formal_dress_eb.osd\DressSeraphim High</Data>
+            <Data name="BodySeraphim High" target="Body" local="true">formal_dress_eb.osd\BodySeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="DressDemonfet Low" target="Dress" local="true">formal_dress_eb.osd\DressDemonfet Low</Data>
+            <Data name="BodyDemonfet Low" target="Body" local="true">formal_dress_eb.osd\BodyDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="DressDemonfet High" target="Dress" local="true">formal_dress_eb.osd\DressDemonfet High</Data>
+            <Data name="BodyDemonfet High" target="Body" local="true">formal_dress_eb.osd\BodyDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="DressDream Girl Low" target="Dress" local="true">formal_dress_eb.osd\DressDream Girl Low</Data>
+            <Data name="BodyDream Girl Low" target="Body" local="true">formal_dress_eb.osd\BodyDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="DressDream Girl High" target="Dress" local="true">formal_dress_eb.osd\DressDream Girl High</Data>
+            <Data name="BodyDream Girl High" target="Body" local="true">formal_dress_eb.osd\BodyDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="DressTop Model Low" target="Dress" local="true">formal_dress_eb.osd\DressTop Model Low</Data>
+            <Data name="BodyTop Model Low" target="Body" local="true">formal_dress_eb.osd\BodyTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="DressTop Model High" target="Dress" local="true">formal_dress_eb.osd\DressTop Model High</Data>
+            <Data name="BodyTop Model High" target="Body" local="true">formal_dress_eb.osd\BodyTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="DressLeito Low" target="Dress" local="true">formal_dress_eb.osd\DressLeito Low</Data>
+            <Data name="BodyLeito Low" target="Body" local="true">formal_dress_eb.osd\BodyLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="DressLeito High" target="Dress" local="true">formal_dress_eb.osd\DressLeito High</Data>
+            <Data name="BodyLeito High" target="Body" local="true">formal_dress_eb.osd\BodyLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="DressUNPF Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPF Low</Data>
+            <Data name="BodyUNPF Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="DressUNPF High" target="Dress" local="true">formal_dress_eb.osd\DressUNPF High</Data>
+            <Data name="BodyUNPF High" target="Body" local="true">formal_dress_eb.osd\BodyUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="DressUNPFx Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPFx Low</Data>
+            <Data name="BodyUNPFx Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="DressUNPFx High" target="Dress" local="true">formal_dress_eb.osd\DressUNPFx High</Data>
+            <Data name="BodyUNPFx High" target="Body" local="true">formal_dress_eb.osd\BodyUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="DressCNHF Low" target="Dress" local="true">formal_dress_eb.osd\DressCNHF Low</Data>
+            <Data name="BodyCNHF Low" target="Body" local="true">formal_dress_eb.osd\BodyCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="DressCNHF High" target="Dress" local="true">formal_dress_eb.osd\DressCNHF High</Data>
+            <Data name="BodyCNHF High" target="Body" local="true">formal_dress_eb.osd\BodyCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="DressCNHF Bonus Low" target="Dress" local="true">formal_dress_eb.osd\DressCNHF Bonus Low</Data>
+            <Data name="BodyCNHF Bonus Low" target="Body" local="true">formal_dress_eb.osd\BodyCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="DressCNHF Bonus High" target="Dress" local="true">formal_dress_eb.osd\DressCNHF Bonus High</Data>
+            <Data name="BodyCNHF Bonus High" target="Body" local="true">formal_dress_eb.osd\BodyCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="DressMCBM Low" target="Dress" local="true">formal_dress_eb.osd\DressMCBM Low</Data>
+            <Data name="BodyMCBM Low" target="Body" local="true">formal_dress_eb.osd\BodyMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="DressMCBM High" target="Dress" local="true">formal_dress_eb.osd\DressMCBM High</Data>
+            <Data name="BodyMCBM High" target="Body" local="true">formal_dress_eb.osd\BodyMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="DressVenus Low" target="Dress" local="true">formal_dress_eb.osd\DressVenus Low</Data>
+            <Data name="BodyVenus Low" target="Body" local="true">formal_dress_eb.osd\BodyVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="DressVenus High" target="Dress" local="true">formal_dress_eb.osd\DressVenus High</Data>
+            <Data name="BodyVenus High" target="Body" local="true">formal_dress_eb.osd\BodyVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="DressZGGB-R2 Low" target="Dress" local="true">formal_dress_eb.osd\DressZGGB-R2 Low</Data>
+            <Data name="BodyZGGB-R2 Low" target="Body" local="true">formal_dress_eb.osd\BodyZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="DressZGGB-R2 High" target="Dress" local="true">formal_dress_eb.osd\DressZGGB-R2 High</Data>
+            <Data name="BodyZGGB-R2 High" target="Body" local="true">formal_dress_eb.osd\BodyZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="DressManga Low" target="Dress" local="true">formal_dress_eb.osd\DressManga Low</Data>
+            <Data name="BodyManga Low" target="Body" local="true">formal_dress_eb.osd\BodyManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="DressManga High" target="Dress" local="true">formal_dress_eb.osd\DressManga High</Data>
+            <Data name="BodyManga High" target="Body" local="true">formal_dress_eb.osd\BodyManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="DressCHSBHC Low" target="Dress" local="true">formal_dress_eb.osd\DressCHSBHC Low</Data>
+            <Data name="BodyCHSBHC Low" target="Body" local="true">formal_dress_eb.osd\BodyCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="DressCHSBHC High" target="Dress" local="true">formal_dress_eb.osd\DressCHSBHC High</Data>
+            <Data name="BodyCHSBHC High" target="Body" local="true">formal_dress_eb.osd\BodyCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+    <SliderSet name="DDX - UUNP - EboniteElegantDress">
+        <DataFolder>Devious Devices Expansion</DataFolder>
+        <SourceFile>formal_dress_eb.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile GenWeights="true">formal_dress_eb</OutputFile>
+        <Shape target="Body">Body</Shape>
+        <Shape target="Dress">Dress</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="DressBreasts" target="Dress" local="true">formal_dress_eb.osd\DressBreasts</Data>
+            <Data name="BodyBreasts" target="Body" local="true">formal_dress_eb.osd\BodyBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="DressBreastsSmall" target="Dress" local="true">formal_dress_eb.osd\DressBreastsSmall</Data>
+            <Data name="BodyBreastsSmall" target="Body" local="true">formal_dress_eb.osd\BodyBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="DressBreastsSH" target="Dress" local="true">formal_dress_eb.osd\DressBreastsSH</Data>
+            <Data name="BodyBreastsSH" target="Body" local="true">formal_dress_eb.osd\BodyBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="DressBreastsSSH" target="Dress" local="true">formal_dress_eb.osd\DressBreastsSSH</Data>
+            <Data name="BodyBreastsSSH" target="Body" local="true">formal_dress_eb.osd\BodyBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="DressBreastsFantasy" target="Dress" local="true">formal_dress_eb.osd\DressBreastsFantasy</Data>
+            <Data name="BodyBreastsFantasy" target="Body" local="true">formal_dress_eb.osd\BodyBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="DressDoubleMelon" target="Dress" local="true">formal_dress_eb.osd\DressDoubleMelon</Data>
+            <Data name="BodyDoubleMelon" target="Body" local="true">formal_dress_eb.osd\BodyDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="DressBreastCleavage" target="Dress" local="true">formal_dress_eb.osd\DressBreastCleavage</Data>
+            <Data name="BodyBreastCleavage" target="Body" local="true">formal_dress_eb.osd\BodyBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="DressBreastFlatness" target="Dress" local="true">formal_dress_eb.osd\DressBreastFlatness</Data>
+            <Data name="BodyBreastFlatness" target="Body" local="true">formal_dress_eb.osd\BodyBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="DressBreastGravity" target="Dress" local="true">formal_dress_eb.osd\DressBreastGravity</Data>
+            <Data name="BodyBreastGravity" target="Body" local="true">formal_dress_eb.osd\BodyBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="DressPushUp" target="Dress" local="true">formal_dress_eb.osd\DressPushUp</Data>
+            <Data name="BodyPushUp" target="Body" local="true">formal_dress_eb.osd\BodyPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="DressBreastHeight" target="Dress" local="true">formal_dress_eb.osd\DressBreastHeight</Data>
+            <Data name="BodyBreastHeight" target="Body" local="true">formal_dress_eb.osd\BodyBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="DressBreastPerkiness" target="Dress" local="true">formal_dress_eb.osd\DressBreastPerkiness</Data>
+            <Data name="BodyBreastPerkiness" target="Body" local="true">formal_dress_eb.osd\BodyBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="DressBreastWidth" target="Dress" local="true">formal_dress_eb.osd\DressBreastWidth</Data>
+            <Data name="BodyBreastWidth" target="Body" local="true">formal_dress_eb.osd\BodyBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="DressNippleDistance" target="Dress" local="true">formal_dress_eb.osd\DressNippleDistance</Data>
+            <Data name="BodyNippleDistance" target="Body" local="true">formal_dress_eb.osd\BodyNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="DressNipplePerkiness" target="Dress" local="true">formal_dress_eb.osd\DressNipplePerkiness</Data>
+            <Data name="BodyNipplePerkiness" target="Body" local="true">formal_dress_eb.osd\BodyNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="DressNippleLength" target="Dress" local="true">formal_dress_eb.osd\DressNippleLength</Data>
+            <Data name="BodyNippleLength" target="Body" local="true">formal_dress_eb.osd\BodyNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="DressNippleSize" target="Dress" local="true">formal_dress_eb.osd\DressNippleSize</Data>
+            <Data name="BodyNippleSize" target="Body" local="true">formal_dress_eb.osd\BodyNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="DressNippleAreola" target="Dress" local="true">formal_dress_eb.osd\DressNippleAreola</Data>
+            <Data name="BodyNippleAreola" target="Body" local="true">formal_dress_eb.osd\BodyNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="DressNippleUp" target="Dress" local="true">formal_dress_eb.osd\DressNippleUp</Data>
+            <Data name="BodyNippleUp" target="Body" local="true">formal_dress_eb.osd\BodyNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="DressNippleDown" target="Dress" local="true">formal_dress_eb.osd\DressNippleDown</Data>
+            <Data name="BodyNippleDown" target="Body" local="true">formal_dress_eb.osd\BodyNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="DressNippleTip" target="Dress" local="true">formal_dress_eb.osd\DressNippleTip</Data>
+            <Data name="BodyNippleTip" target="Body" local="true">formal_dress_eb.osd\BodyNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="DressArms" target="Dress" local="true">formal_dress_eb.osd\DressArms</Data>
+            <Data name="BodyArms" target="Body" local="true">formal_dress_eb.osd\BodyArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="DressChubbyArms" target="Dress" local="true">formal_dress_eb.osd\DressChubbyArms</Data>
+            <Data name="BodyChubbyArms" target="Body" local="true">formal_dress_eb.osd\BodyChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="DressShoulderSmooth" target="Dress" local="true">formal_dress_eb.osd\DressShoulderSmooth</Data>
+            <Data name="BodyShoulderSmooth" target="Body" local="true">formal_dress_eb.osd\BodyShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="DressShoulderWidth" target="Dress" local="true">formal_dress_eb.osd\DressShoulderWidth</Data>
+            <Data name="BodyShoulderWidth" target="Body" local="true">formal_dress_eb.osd\BodyShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="DressBigTorso" target="Dress" local="true">formal_dress_eb.osd\DressBigTorso</Data>
+            <Data name="BodyBigTorso" target="Body" local="true">formal_dress_eb.osd\BodyBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="DressWaist" target="Dress" local="true">formal_dress_eb.osd\DressWaist</Data>
+            <Data name="BodyWaist" target="Body" local="true">formal_dress_eb.osd\BodyWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="DressWideWaistLine" target="Dress" local="true">formal_dress_eb.osd\DressWideWaistLine</Data>
+            <Data name="BodyWideWaistLine" target="Body" local="true">formal_dress_eb.osd\BodyWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="DressChubbyWaist" target="Dress" local="true">formal_dress_eb.osd\DressChubbyWaist</Data>
+            <Data name="BodyChubbyWaist" target="Body" local="true">formal_dress_eb.osd\BodyChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="DressBelly" target="Dress" local="true">formal_dress_eb.osd\DressBelly</Data>
+            <Data name="BodyBelly" target="Body" local="true">formal_dress_eb.osd\BodyBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="DressBigBelly" target="Dress" local="true">formal_dress_eb.osd\DressBigBelly</Data>
+            <Data name="BodyBigBelly" target="Body" local="true">formal_dress_eb.osd\BodyBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="DressPregnancyBelly" target="Dress" local="true">formal_dress_eb.osd\DressPregnancyBelly</Data>
+            <Data name="BodyPregnancyBelly" target="Body" local="true">formal_dress_eb.osd\BodyPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="DressTummyTuck" target="Dress" local="true">formal_dress_eb.osd\DressTummyTuck</Data>
+            <Data name="BodyTummyTuck" target="Body" local="true">formal_dress_eb.osd\BodyTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="DressBack" target="Dress" local="true">formal_dress_eb.osd\DressBack</Data>
+            <Data name="BodyBack" target="Body" local="true">formal_dress_eb.osd\BodyBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="DressHipbone" target="Dress" local="true">formal_dress_eb.osd\DressHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="DressHips" target="Dress" local="true">formal_dress_eb.osd\DressHips</Data>
+            <Data name="BodyHips" target="Body" local="true">formal_dress_eb.osd\BodyHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="DressButtCrack" target="Dress" local="true">formal_dress_eb.osd\DressButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="DressButt" target="Dress" local="true">formal_dress_eb.osd\DressButt</Data>
+            <Data name="BodyButt" target="Body" local="true">formal_dress_eb.osd\BodyButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="DressButtSmall" target="Dress" local="true">formal_dress_eb.osd\DressButtSmall</Data>
+            <Data name="BodyButtSmall" target="Body" local="true">formal_dress_eb.osd\BodyButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="DressButtShape2" target="Dress" local="true">formal_dress_eb.osd\DressButtShape2</Data>
+            <Data name="BodyButtShape2" target="Body" local="true">formal_dress_eb.osd\BodyButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="DressBigButt" target="Dress" local="true">formal_dress_eb.osd\DressBigButt</Data>
+            <Data name="BodyBigButt" target="Body" local="true">formal_dress_eb.osd\BodyBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="DressChubbyButt" target="Dress" local="true">formal_dress_eb.osd\DressChubbyButt</Data>
+            <Data name="BodyChubbyButt" target="Body" local="true">formal_dress_eb.osd\BodyChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="DressAppleCheeks" target="Dress" local="true">formal_dress_eb.osd\DressAppleCheeks</Data>
+            <Data name="BodyAppleCheeks" target="Body" local="true">formal_dress_eb.osd\BodyAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="DressRoundAss" target="Dress" local="true">formal_dress_eb.osd\DressRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="DressSlimThighs" target="Dress" local="true">formal_dress_eb.osd\DressSlimThighs</Data>
+            <Data name="BodySlimThighs" target="Body" local="true">formal_dress_eb.osd\BodySlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="DressThighs" target="Dress" local="true">formal_dress_eb.osd\DressThighs</Data>
+            <Data name="BodyThighs" target="Body" local="true">formal_dress_eb.osd\BodyThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="DressChubbyLegs" target="Dress" local="true">formal_dress_eb.osd\DressChubbyLegs</Data>
+            <Data name="BodyChubbyLegs" target="Body" local="true">formal_dress_eb.osd\BodyChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="DressLegs" target="Dress" local="true">formal_dress_eb.osd\DressLegs</Data>
+            <Data name="BodyLegs" target="Body" local="true">formal_dress_eb.osd\BodyLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="DressKneeHeight" target="Dress" local="true">formal_dress_eb.osd\DressKneeHeight</Data>
+            <Data name="BodyKneeHeight" target="Body" local="true">formal_dress_eb.osd\BodyKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="DressCalfSize" target="Dress" local="true">formal_dress_eb.osd\DressCalfSize</Data>
+            <Data name="BodyCalfSize" target="Body" local="true">formal_dress_eb.osd\BodyCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="DressCalfSmooth" target="Dress" local="true">formal_dress_eb.osd\DressCalfSmooth</Data>
+            <Data name="BodyCalfSmooth" target="Body" local="true">formal_dress_eb.osd\BodyCalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="DressNeck" target="Dress" local="true">formal_dress_eb.osd\DressNeck</Data>
+            <Data name="BodyNeck" target="Body" local="true">formal_dress_eb.osd\BodyNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Low</Data>
+            <Data name="Body7B Low" target="Body" local="true">formal_dress_eb.osd\Body7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Dress7B High" target="Dress" local="true">formal_dress_eb.osd\Dress7B High</Data>
+            <Data name="Body7B High" target="Body" local="true">formal_dress_eb.osd\Body7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Bombshell Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Bombshell Low</Data>
+            <Data name="Body7B Bombshell Low" target="Body" local="true">formal_dress_eb.osd\Body7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Dress7B Bombshell High" target="Dress" local="true">formal_dress_eb.osd\Dress7B Bombshell High</Data>
+            <Data name="Body7B Bombshell High" target="Body" local="true">formal_dress_eb.osd\Body7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Natural Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Natural Low</Data>
+            <Data name="Body7B Natural Low" target="Body" local="true">formal_dress_eb.osd\Body7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Dress7B Natural High" target="Dress" local="true">formal_dress_eb.osd\Dress7B Natural High</Data>
+            <Data name="Body7B Natural High" target="Body" local="true">formal_dress_eb.osd\Body7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Cleavage Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Cleavage Low</Data>
+            <Data name="Body7B Cleavage Low" target="Body" local="true">formal_dress_eb.osd\Body7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Dress7B Cleavage High" target="Dress" local="true">formal_dress_eb.osd\Dress7B Cleavage High</Data>
+            <Data name="Body7B Cleavage High" target="Body" local="true">formal_dress_eb.osd\Body7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Dress7B BCup Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B BCup Low</Data>
+            <Data name="Body7B BCup Low" target="Body" local="true">formal_dress_eb.osd\Body7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Dress7B BCup High" target="Dress" local="true">formal_dress_eb.osd\Dress7B BCup High</Data>
+            <Data name="Body7B BCup High" target="Body" local="true">formal_dress_eb.osd\Body7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Dress7BUNP Low" target="Dress" local="true">formal_dress_eb.osd\Dress7BUNP Low</Data>
+            <Data name="Body7BUNP Low" target="Body" local="true">formal_dress_eb.osd\Body7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Dress7BUNP High" target="Dress" local="true">formal_dress_eb.osd\Dress7BUNP High</Data>
+            <Data name="Body7BUNP High" target="Body" local="true">formal_dress_eb.osd\Body7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Dress7B Oppai Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B Oppai Low</Data>
+            <Data name="Body7B Oppai Low" target="Body" local="true">formal_dress_eb.osd\Body7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Dress7B Oppai High" target="Dress" local="true">formal_dress_eb.osd\Dress7B Oppai High</Data>
+            <Data name="Body7B Oppai High" target="Body" local="true">formal_dress_eb.osd\Body7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Dress7B CH Low" target="Dress" local="true">formal_dress_eb.osd\Dress7B CH Low</Data>
+            <Data name="Body7B CH Low" target="Body" local="true">formal_dress_eb.osd\Body7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Dress7B CH High" target="Dress" local="true">formal_dress_eb.osd\Dress7B CH High</Data>
+            <Data name="Body7B CH High" target="Body" local="true">formal_dress_eb.osd\Body7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="DressUNP Low" target="Dress" local="true">formal_dress_eb.osd\DressUNP Low</Data>
+            <Data name="BodyUNP Low" target="Body" local="true">formal_dress_eb.osd\BodyUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="DressUNP High" target="Dress" local="true">formal_dress_eb.osd\DressUNP High</Data>
+            <Data name="BodyUNP High" target="Body" local="true">formal_dress_eb.osd\BodyUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="DressUNP Pushup Low" target="Dress" local="true">formal_dress_eb.osd\DressUNP Pushup Low</Data>
+            <Data name="BodyUNP Pushup Low" target="Body" local="true">formal_dress_eb.osd\BodyUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="DressUNP Pushup High" target="Dress" local="true">formal_dress_eb.osd\DressUNP Pushup High</Data>
+            <Data name="BodyUNP Pushup High" target="Body" local="true">formal_dress_eb.osd\BodyUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="DressUNP Skinny Low" target="Dress" local="true">formal_dress_eb.osd\DressUNP Skinny Low</Data>
+            <Data name="BodyUNP Skinny Low" target="Body" local="true">formal_dress_eb.osd\BodyUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="DressUNP Skinny High" target="Dress" local="true">formal_dress_eb.osd\DressUNP Skinny High</Data>
+            <Data name="BodyUNP Skinny High" target="Body" local="true">formal_dress_eb.osd\BodyUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="DressUNP Perky Low" target="Dress" local="true">formal_dress_eb.osd\DressUNP Perky Low</Data>
+            <Data name="BodyUNP Perky Low" target="Body" local="true">formal_dress_eb.osd\BodyUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="DressUNP Perky High" target="Dress" local="true">formal_dress_eb.osd\DressUNP Perky High</Data>
+            <Data name="BodyUNP Perky High" target="Body" local="true">formal_dress_eb.osd\BodyUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="DressUNPB Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Low</Data>
+            <Data name="BodyUNPB Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="DressUNPB High" target="Dress" local="true">formal_dress_eb.osd\DressUNPB High</Data>
+            <Data name="BodyUNPB High" target="Body" local="true">formal_dress_eb.osd\BodyUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="DressUNPB Chapi" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Chapi</Data>
+            <Data name="BodyUNPB Chapi" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="DressUNPB Oppai v1" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Oppai v1</Data>
+            <Data name="BodyUNPB Oppai v1" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="DressUNPB Oppai v3.2 Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Oppai v3.2 Low</Data>
+            <Data name="BodyUNPB Oppai v3.2 Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="DressUNPB Oppai v3.2 High" target="Dress" local="true">formal_dress_eb.osd\DressUNPB Oppai v3.2 High</Data>
+            <Data name="BodyUNPB Oppai v3.2 High" target="Body" local="true">formal_dress_eb.osd\BodyUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="DressUNPetite Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPetite Low</Data>
+            <Data name="BodyUNPetite Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="DressUNPetite High" target="Dress" local="true">formal_dress_eb.osd\DressUNPetite High</Data>
+            <Data name="BodyUNPetite High" target="Body" local="true">formal_dress_eb.osd\BodyUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="DressUNPC Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPC Low</Data>
+            <Data name="BodyUNPC Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="DressUNPC High" target="Dress" local="true">formal_dress_eb.osd\DressUNPC High</Data>
+            <Data name="BodyUNPC High" target="Body" local="true">formal_dress_eb.osd\BodyUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="DressUNPCM Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPCM Low</Data>
+            <Data name="BodyUNPCM Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="DressUNPCM High" target="Dress" local="true">formal_dress_eb.osd\DressUNPCM High</Data>
+            <Data name="BodyUNPCM High" target="Body" local="true">formal_dress_eb.osd\BodyUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="DressUNPSH Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPSH Low</Data>
+            <Data name="BodyUNPSH Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="DressUNPSH High" target="Dress" local="true">formal_dress_eb.osd\DressUNPSH High</Data>
+            <Data name="BodyUNPSH High" target="Body" local="true">formal_dress_eb.osd\BodyUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="DressUNPK Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPK Low</Data>
+            <Data name="BodyUNPK Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="DressUNPK High" target="Dress" local="true">formal_dress_eb.osd\DressUNPK High</Data>
+            <Data name="BodyUNPK High" target="Body" local="true">formal_dress_eb.osd\BodyUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="DressUNPK Bonus Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPK Bonus Low</Data>
+            <Data name="BodyUNPK Bonus Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="DressUNPK Bonus High" target="Dress" local="true">formal_dress_eb.osd\DressUNPK Bonus High</Data>
+            <Data name="BodyUNPK Bonus High" target="Body" local="true">formal_dress_eb.osd\BodyUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="DressUN7B Low" target="Dress" local="true">formal_dress_eb.osd\DressUN7B Low</Data>
+            <Data name="BodyUN7B Low" target="Body" local="true">formal_dress_eb.osd\BodyUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="DressUN7B High" target="Dress" local="true">formal_dress_eb.osd\DressUN7B High</Data>
+            <Data name="BodyUN7B High" target="Body" local="true">formal_dress_eb.osd\BodyUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="DressUNPBB Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPBB Low</Data>
+            <Data name="BodyUNPBB Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="DressUNPBB High" target="Dress" local="true">formal_dress_eb.osd\DressUNPBB High</Data>
+            <Data name="BodyUNPBB High" target="Body" local="true">formal_dress_eb.osd\BodyUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="DressSeraphim Low" target="Dress" local="true">formal_dress_eb.osd\DressSeraphim Low</Data>
+            <Data name="BodySeraphim Low" target="Body" local="true">formal_dress_eb.osd\BodySeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="DressSeraphim High" target="Dress" local="true">formal_dress_eb.osd\DressSeraphim High</Data>
+            <Data name="BodySeraphim High" target="Body" local="true">formal_dress_eb.osd\BodySeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="DressDemonfet Low" target="Dress" local="true">formal_dress_eb.osd\DressDemonfet Low</Data>
+            <Data name="BodyDemonfet Low" target="Body" local="true">formal_dress_eb.osd\BodyDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="DressDemonfet High" target="Dress" local="true">formal_dress_eb.osd\DressDemonfet High</Data>
+            <Data name="BodyDemonfet High" target="Body" local="true">formal_dress_eb.osd\BodyDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="DressDream Girl Low" target="Dress" local="true">formal_dress_eb.osd\DressDream Girl Low</Data>
+            <Data name="BodyDream Girl Low" target="Body" local="true">formal_dress_eb.osd\BodyDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="DressDream Girl High" target="Dress" local="true">formal_dress_eb.osd\DressDream Girl High</Data>
+            <Data name="BodyDream Girl High" target="Body" local="true">formal_dress_eb.osd\BodyDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="DressTop Model Low" target="Dress" local="true">formal_dress_eb.osd\DressTop Model Low</Data>
+            <Data name="BodyTop Model Low" target="Body" local="true">formal_dress_eb.osd\BodyTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="DressTop Model High" target="Dress" local="true">formal_dress_eb.osd\DressTop Model High</Data>
+            <Data name="BodyTop Model High" target="Body" local="true">formal_dress_eb.osd\BodyTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="DressLeito Low" target="Dress" local="true">formal_dress_eb.osd\DressLeito Low</Data>
+            <Data name="BodyLeito Low" target="Body" local="true">formal_dress_eb.osd\BodyLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="DressLeito High" target="Dress" local="true">formal_dress_eb.osd\DressLeito High</Data>
+            <Data name="BodyLeito High" target="Body" local="true">formal_dress_eb.osd\BodyLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="DressUNPF Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPF Low</Data>
+            <Data name="BodyUNPF Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="DressUNPF High" target="Dress" local="true">formal_dress_eb.osd\DressUNPF High</Data>
+            <Data name="BodyUNPF High" target="Body" local="true">formal_dress_eb.osd\BodyUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="DressUNPFx Low" target="Dress" local="true">formal_dress_eb.osd\DressUNPFx Low</Data>
+            <Data name="BodyUNPFx Low" target="Body" local="true">formal_dress_eb.osd\BodyUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="DressUNPFx High" target="Dress" local="true">formal_dress_eb.osd\DressUNPFx High</Data>
+            <Data name="BodyUNPFx High" target="Body" local="true">formal_dress_eb.osd\BodyUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="DressCNHF Low" target="Dress" local="true">formal_dress_eb.osd\DressCNHF Low</Data>
+            <Data name="BodyCNHF Low" target="Body" local="true">formal_dress_eb.osd\BodyCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="DressCNHF High" target="Dress" local="true">formal_dress_eb.osd\DressCNHF High</Data>
+            <Data name="BodyCNHF High" target="Body" local="true">formal_dress_eb.osd\BodyCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="DressCNHF Bonus Low" target="Dress" local="true">formal_dress_eb.osd\DressCNHF Bonus Low</Data>
+            <Data name="BodyCNHF Bonus Low" target="Body" local="true">formal_dress_eb.osd\BodyCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="DressCNHF Bonus High" target="Dress" local="true">formal_dress_eb.osd\DressCNHF Bonus High</Data>
+            <Data name="BodyCNHF Bonus High" target="Body" local="true">formal_dress_eb.osd\BodyCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="DressMCBM Low" target="Dress" local="true">formal_dress_eb.osd\DressMCBM Low</Data>
+            <Data name="BodyMCBM Low" target="Body" local="true">formal_dress_eb.osd\BodyMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="DressMCBM High" target="Dress" local="true">formal_dress_eb.osd\DressMCBM High</Data>
+            <Data name="BodyMCBM High" target="Body" local="true">formal_dress_eb.osd\BodyMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="DressVenus Low" target="Dress" local="true">formal_dress_eb.osd\DressVenus Low</Data>
+            <Data name="BodyVenus Low" target="Body" local="true">formal_dress_eb.osd\BodyVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="DressVenus High" target="Dress" local="true">formal_dress_eb.osd\DressVenus High</Data>
+            <Data name="BodyVenus High" target="Body" local="true">formal_dress_eb.osd\BodyVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="DressZGGB-R2 Low" target="Dress" local="true">formal_dress_eb.osd\DressZGGB-R2 Low</Data>
+            <Data name="BodyZGGB-R2 Low" target="Body" local="true">formal_dress_eb.osd\BodyZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="DressZGGB-R2 High" target="Dress" local="true">formal_dress_eb.osd\DressZGGB-R2 High</Data>
+            <Data name="BodyZGGB-R2 High" target="Body" local="true">formal_dress_eb.osd\BodyZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="DressManga Low" target="Dress" local="true">formal_dress_eb.osd\DressManga Low</Data>
+            <Data name="BodyManga Low" target="Body" local="true">formal_dress_eb.osd\BodyManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="DressManga High" target="Dress" local="true">formal_dress_eb.osd\DressManga High</Data>
+            <Data name="BodyManga High" target="Body" local="true">formal_dress_eb.osd\BodyManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="DressCHSBHC Low" target="Dress" local="true">formal_dress_eb.osd\DressCHSBHC Low</Data>
+            <Data name="BodyCHSBHC Low" target="Body" local="true">formal_dress_eb.osd\BodyCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="DressCHSBHC High" target="Dress" local="true">formal_dress_eb.osd\DressCHSBHC High</Data>
+            <Data name="BodyCHSBHC High" target="Body" local="true">formal_dress_eb.osd\BodyCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
