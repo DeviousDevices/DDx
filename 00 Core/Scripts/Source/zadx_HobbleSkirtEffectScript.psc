@@ -33,8 +33,9 @@ Event OnEffectStart(Actor akTarget, Actor akCaster)
 	TargetSpeedMult = 100 - Libs.Config.HobbleSkirtSpeedDebuff
 	FlatSpeedDebuff = Libs.Config.HobbleSkirtSpeedDebuff	
 	If akTarget.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
-		TargetSpeedMult += 20
-		FlatSpeedDebuff -= 20
+		; With the current default values, the relaxed skirt needs no modification
+		;TargetSpeedMult += 20
+		;FlatSpeedDebuff -= 20
 	Else
 		; relaxed skirts do not use special animations, but the extreme ones do.
 		libs.BoundCombat.Apply_HBC(akTarget)
@@ -81,7 +82,7 @@ Event OnUpdate()
 	Float CurrentSpeedMult = who.GetAV("SpeedMult")
 	TargetSpeedMult = 100 - Libs.Config.HobbleSkirtSpeedDebuff	
 	If who.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
-		TargetSpeedMult += 20
+		;TargetSpeedMult += 20
 	EndIf
 	If CurrentSpeedMult != TargetSpeedMult
 		If SpeedMultDifferential > 0.0
