@@ -450,6 +450,19 @@ Armor Property zadx_HobbleDressLatexRedOpenRelaxedInventory Auto
 Armor Property zadx_HobbleDressLatexRedOpenRelaxedRendered Auto
 Armor Property zadx_HobbleDressLatexWhiteOpenRelaxedInventory Auto
 Armor Property zadx_HobbleDressLatexWhiteOpenRelaxedRendered Auto
+;; elegant dresses (relaxed):
+Armor Property zadx_ElegantHobbleDressInventory Auto
+Armor Property zadx_ElegantHobbleDressRendered Auto
+Armor Property zadx_ElegantHobbleDressRedInventory Auto
+Armor Property zadx_ElegantHobbleDressRedRendered Auto
+Armor Property zadx_ElegantHobbleDressWhiteInventory Auto
+Armor Property zadx_ElegantHobbleDressWhiteRendered Auto
+Armor Property zadx_ElegantHobbleDressLatexInventory Auto
+Armor Property zadx_ElegantHobbleDressLatexRendered Auto
+Armor Property zadx_ElegantHobbleDressLatexRedInventory Auto
+Armor Property zadx_ElegantHobbleDressLatexRedRendered Auto
+Armor Property zadx_ElegantHobbleDressLatexWhiteInventory Auto
+Armor Property zadx_ElegantHobbleDressLatexWhiteRendered Auto
 ; ballet heels and bondage mittens
 Armor Property zadx_SlaveHighHeelsInventory Auto
 Armor Property zadx_SlaveHighHeelsRendered Auto
