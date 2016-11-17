@@ -83,7 +83,7 @@ Event OnObjectEquipped(Form akBaseObject, ObjectReference akReference)
 EndEvent
 
 Event OnItemAdded(Form akBaseItem, int aiItemCount, ObjectReference akItemReference, ObjectReference akSourceContainer)
-	If !akBaseItem || GetTargetActor() != libs.playerRef
+	If !libs.Config.mittensDropToggle || !akBaseItem || GetTargetActor() != libs.playerRef
 		return
 	Endif	
 	If UI.IsMenuOpen("BarterMenu") || !isValidItem(akBaseItem)
