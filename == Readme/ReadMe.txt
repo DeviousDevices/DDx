@@ -1,11 +1,22 @@
 Devious Devices - Expansion (DDX).
-----------------------------------
+
+By The DD Team:
+
+- Min (Founder)
+- Kimy (Lead Maintainer)
+- Princessity
+- Pincopallino
+- Heretical
+- Feuertin
+- MaikCG
+
+Past Contributors: Zadil, Coopervane, Koffii, Aelie, zenetx, Srende, Lordescobar666, xaz, Cedec0
  
 DDX is an add-on content pack for the Devious Devices family of mods. It is considered a required mod for the DD framework and most content mods using it.
  
+For more details, see the Devious Devices Integration readme.
  
-Requirements:
--------------
+REQUIREMENTS
 
 DDA: http://www.loverslab.com/topic/19865-devious-devices-assets/
 DDI: http://www.loverslab.com/topic/21484-devious-devices-integration-02022015/
@@ -13,9 +24,8 @@ Bodyslide and Outfit Studio: http://www.nexusmods.com/skyrim/mods/49015/?
  
 ^And their respective requirements^
 
- 
-Installation:
--------------
+
+INSTALLATION
 
 Install with mod manager of your choice. Build your outfits in Bodyslide after installation.
  
@@ -23,8 +33,7 @@ Manual install:
 Just don't do that, ok!
  
  
-Changelog:
----------- 
+CHANGELOG
 
 V2.0
 - Added: LOTS of new items (almost 100 in total!): Hobble dresses, pew bondage mittens, new slave high heels, chain harnesses, more gags, bridles, pear plugs...
@@ -107,34 +116,3 @@ v1.1.
  
 v1.0.
 * Initial release.
-
- 
-Credits:
---------
- 
-For assorted 3D, 2D, writing and code work, aswell permissions.
-
-Zaria.
-UrbanSniper.
-Xinafay.
-idontkn0w123.
-Veladarius.
-Kimy
-Aelie.
-AlbertAffe.
-Min.
-Zadil.
-Koffii.
-Srende.
-Princessity.
-Coopervane.
- 
-And of course, the staff of Devious testers:
- 
-Aaeryn.
-Naaitsab.
-KomradePavlov.
-Mord Sif.
-Verstort.
-Pinute.
-Slorm.
