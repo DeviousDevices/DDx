@@ -3,11 +3,11 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 3
+    return 4
 EndFunction
 
 String function GetVersionString()
-    return "3.0"
+    return "3.1"
 EndFunction
 
 
@@ -482,8 +482,59 @@ Armor Property zadx_PawBondageMittensRedLatexInventory Auto
 Armor Property zadx_PawBondageMittensRedLatexRendered Auto
 Armor Property zadx_PawBondageMittensWhiteLatexInventory Auto
 Armor Property zadx_PawBondageMittensWhiteLatexRendered Auto
-
-
+; Straitjackets
+; Dresses:
+Armor Property zadx_StraitJacketLeatherLegsBlackInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsBlackRendered Auto
+Armor Property zadx_StraitJacketLeatherLegsRedInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsRedRendered Auto
+Armor Property zadx_StraitJacketLeatherLegsWhiteInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsWhiteRendered Auto
+Armor Property zadx_StraitJacketLatexLegsBlackInventory Auto
+Armor Property zadx_StraitJacketLatexLegsBlackRendered Auto
+Armor Property zadx_StraitJacketLatexLegsRedInventory Auto
+Armor Property zadx_StraitJacketLatexLegsRedRendered Auto
+Armor Property zadx_StraitJacketLatexLegsWhiteInventory Auto
+Armor Property zadx_StraitJacketLatexLegsWhiteRendered Auto
+; Jackets:
+Armor Property zadx_StraitJacketLeatherBlackInventory Auto
+Armor Property zadx_StraitJacketLeatherBlackRendered Auto
+Armor Property zadx_StraitJacketLeatherRedInventory Auto
+Armor Property zadx_StraitJacketLeatherRedRendered Auto
+Armor Property zadx_StraitJacketLeatherWhiteInventory Auto
+Armor Property zadx_StraitJacketLeatherWhiteRendered Auto
+Armor Property zadx_StraitJacketLatexBlackInventory Auto
+Armor Property zadx_StraitJacketLatexBlackRendered Auto
+Armor Property zadx_StraitJacketLatexRedInventory Auto
+Armor Property zadx_StraitJacketLatexRedRendered Auto
+Armor Property zadx_StraitJacketLatexWhiteInventory Auto
+Armor Property zadx_StraitJacketLatexWhiteRendered Auto
+; Open jackets
+Armor Property zadx_StraitJacketLeatherToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLeatherToplessBlackRendered Auto
+Armor Property zadx_StraitJacketLeatherToplessRedInventory Auto
+Armor Property zadx_StraitJacketLeatherToplessRedRendered Auto
+Armor Property zadx_StraitJacketLeatherToplessWhiteInventory Auto
+Armor Property zadx_StraitJacketLeatherToplessWhiteRendered Auto
+Armor Property zadx_StraitJacketLatexToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLatexToplessBlackRendered Auto
+Armor Property zadx_StraitJacketLatexToplessRedInventory Auto
+Armor Property zadx_StraitJacketLatexToplessRedRendered Auto
+Armor Property zadx_StraitJacketLatexToplessWhiteInventory Auto
+Armor Property zadx_StraitJacketLatexToplessWhiteRendered Auto
+; Open dresses
+Armor Property zadx_StraitJacketLeatherLegsToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessBlackRendered Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessRedInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessRedRendered Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessWhiteInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessWhiteRendered Auto
+Armor Property zadx_StraitJacketLatexLegsToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLatexLegsToplessBlackRendered Auto
+Armor Property zadx_StraitJacketLatexLegsToplessRedInventory Auto
+Armor Property zadx_StraitJacketLatexLegsToplessRedRendered Auto
+Armor Property zadx_StraitJacketLatexLegsToplessWhiteInventory Auto
+Armor Property zadx_StraitJacketLatexLegsToplessWhiteRendered Auto
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
