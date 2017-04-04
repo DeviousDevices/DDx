@@ -1,0 +1,1242 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - Topless Leather Straitjacket with Legbinder (UUNP)">
+        <DataFolder>DeviousDevicesExpansionUUNP</DataFolder>
+        <SourceFile>straitjacket_leather_leg_topless.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile GenWeights="true">straitjacket_leather_leg_topless</OutputFile>
+        <Shape target="UUNP Optimized" DataFolder="DeviousDevicesExpansionUUNP">UUNP Optimized</Shape>
+        <Shape target="arms">arms</Shape>
+        <Shape target="arms_metal">arms_metal</Shape>
+        <Shape target="emblem">emblem</Shape>
+        <Shape target="legbinder">legbinder</Shape>
+        <Shape target="legbinder_laces">legbinder_laces</Shape>
+        <Shape target="legbinder_metal">legbinder_metal</Shape>
+        <Shape target="pads">pads</Shape>
+        <Shape target="pelvis_bands">pelvis_bands</Shape>
+        <Shape target="shirt">shirt</Shape>
+        <Shape target="shirt_laces">shirt_laces</Shape>
+        <Shape target="shirt_metal">shirt_metal</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedBreasts" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreasts</Data>
+            <Data name="padsBreasts" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreasts</Data>
+            <Data name="shirtBreasts" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedBreastsSmall" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastsSmall</Data>
+            <Data name="emblemBreastsSmall" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemBreastsSmall</Data>
+            <Data name="padsBreastsSmall" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastsSmall</Data>
+            <Data name="pelvis_bandsBreastsSmall" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsBreastsSmall</Data>
+            <Data name="shirtBreastsSmall" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastsSmall</Data>
+            <Data name="shirt_metalBreastsSmall" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBreastsSH" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastsSH</Data>
+            <Data name="padsBreastsSH" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastsSH</Data>
+            <Data name="shirtBreastsSH" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBreastsSSH" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastsSSH</Data>
+            <Data name="padsBreastsSSH" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastsSSH</Data>
+            <Data name="shirtBreastsSSH" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBreastsFantasy" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastsFantasy</Data>
+            <Data name="padsBreastsFantasy" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastsFantasy</Data>
+            <Data name="shirtBreastsFantasy" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedDoubleMelon" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedDoubleMelon</Data>
+            <Data name="padsDoubleMelon" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsDoubleMelon</Data>
+            <Data name="shirtDoubleMelon" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBreastCleavage" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastCleavage</Data>
+            <Data name="arms_metalBreastCleavage" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalBreastCleavage</Data>
+            <Data name="padsBreastCleavage" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastCleavage</Data>
+            <Data name="shirtBreastCleavage" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBreastFlatness" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastFlatness</Data>
+            <Data name="padsBreastFlatness" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastFlatness</Data>
+            <Data name="shirtBreastFlatness" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastFlatness</Data>
+            <Data name="shirt_metalBreastFlatness" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBreastGravity" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastGravity</Data>
+            <Data name="padsBreastGravity" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastGravity</Data>
+            <Data name="shirtBreastGravity" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedPushUp" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedPushUp</Data>
+            <Data name="padsPushUp" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsPushUp</Data>
+            <Data name="shirtPushUp" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBreastHeight" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastHeight</Data>
+            <Data name="padsBreastHeight" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastHeight</Data>
+            <Data name="shirtBreastHeight" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastHeight</Data>
+            <Data name="shirt_metalBreastHeight" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBreastPerkiness" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastPerkiness</Data>
+            <Data name="padsBreastPerkiness" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastPerkiness</Data>
+            <Data name="shirtBreastPerkiness" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBreastWidth" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBreastWidth</Data>
+            <Data name="padsBreastWidth" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBreastWidth</Data>
+            <Data name="shirtBreastWidth" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBreastWidth</Data>
+            <Data name="shirt_metalBreastWidth" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedNippleDistance" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedNippleDistance</Data>
+            <Data name="arms_metalNippleDistance" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalNippleDistance</Data>
+            <Data name="shirtNippleDistance" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedNipplePerkiness" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedNipplePerkiness</Data>
+            <Data name="armsNipplePerkiness" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedNippleLength" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedNippleSize" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedNippleSize</Data>
+            <Data name="armsNippleSize" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedNippleAreola" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedNippleAreola</Data>
+            <Data name="padsNippleAreola" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsNippleAreola</Data>
+            <Data name="shirtNippleAreola" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedNippleUp" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedNippleUp</Data>
+            <Data name="padsNippleUp" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsNippleUp</Data>
+            <Data name="shirtNippleUp" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedNippleDown" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedNippleDown</Data>
+            <Data name="arms_metalNippleDown" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalNippleDown</Data>
+            <Data name="padsNippleDown" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsNippleDown</Data>
+            <Data name="shirtNippleDown" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedNippleTip" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedArms" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedArms</Data>
+            <Data name="armsArms" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsArms</Data>
+            <Data name="arms_metalArms" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalArms</Data>
+            <Data name="padsArms" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsArms</Data>
+            <Data name="shirtArms" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtArms</Data>
+            <Data name="shirt_lacesArms" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesArms</Data>
+            <Data name="shirt_metalArms" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedChubbyArms" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedChubbyArms</Data>
+            <Data name="armsChubbyArms" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsChubbyArms</Data>
+            <Data name="arms_metalChubbyArms" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalChubbyArms</Data>
+            <Data name="padsChubbyArms" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsChubbyArms</Data>
+            <Data name="shirtChubbyArms" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtChubbyArms</Data>
+            <Data name="shirt_metalChubbyArms" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedShoulderSmooth" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedShoulderSmooth</Data>
+            <Data name="armsShoulderSmooth" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsShoulderSmooth</Data>
+            <Data name="padsShoulderSmooth" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsShoulderSmooth</Data>
+            <Data name="shirtShoulderSmooth" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtShoulderSmooth</Data>
+            <Data name="shirt_lacesShoulderSmooth" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesShoulderSmooth</Data>
+            <Data name="shirt_metalShoulderSmooth" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedShoulderWidth" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedShoulderWidth</Data>
+            <Data name="armsShoulderWidth" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsShoulderWidth</Data>
+            <Data name="arms_metalShoulderWidth" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalShoulderWidth</Data>
+            <Data name="padsShoulderWidth" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsShoulderWidth</Data>
+            <Data name="shirtShoulderWidth" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtShoulderWidth</Data>
+            <Data name="shirt_lacesShoulderWidth" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesShoulderWidth</Data>
+            <Data name="shirt_metalShoulderWidth" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBigTorso" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBigTorso</Data>
+            <Data name="armsBigTorso" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsBigTorso</Data>
+            <Data name="arms_metalBigTorso" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalBigTorso</Data>
+            <Data name="emblemBigTorso" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemBigTorso</Data>
+            <Data name="legbinderBigTorso" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderBigTorso</Data>
+            <Data name="padsBigTorso" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBigTorso</Data>
+            <Data name="pelvis_bandsBigTorso" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsBigTorso</Data>
+            <Data name="shirtBigTorso" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBigTorso</Data>
+            <Data name="shirt_lacesBigTorso" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesBigTorso</Data>
+            <Data name="shirt_metalBigTorso" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedWaist" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedWaist</Data>
+            <Data name="arms_metalWaist" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalWaist</Data>
+            <Data name="emblemWaist" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemWaist</Data>
+            <Data name="legbinderWaist" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderWaist</Data>
+            <Data name="padsWaist" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsWaist</Data>
+            <Data name="pelvis_bandsWaist" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsWaist</Data>
+            <Data name="shirtWaist" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtWaist</Data>
+            <Data name="shirt_lacesWaist" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesWaist</Data>
+            <Data name="shirt_metalWaist" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedWideWaistLine" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedWideWaistLine</Data>
+            <Data name="arms_metalWideWaistLine" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalWideWaistLine</Data>
+            <Data name="legbinderWideWaistLine" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderWideWaistLine</Data>
+            <Data name="pelvis_bandsWideWaistLine" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsWideWaistLine</Data>
+            <Data name="shirtWideWaistLine" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtWideWaistLine</Data>
+            <Data name="shirt_lacesWideWaistLine" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesWideWaistLine</Data>
+            <Data name="shirt_metalWideWaistLine" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedChubbyWaist" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedChubbyWaist</Data>
+            <Data name="arms_metalChubbyWaist" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalChubbyWaist</Data>
+            <Data name="emblemChubbyWaist" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemChubbyWaist</Data>
+            <Data name="legbinderChubbyWaist" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderChubbyWaist</Data>
+            <Data name="padsChubbyWaist" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsChubbyWaist</Data>
+            <Data name="pelvis_bandsChubbyWaist" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsChubbyWaist</Data>
+            <Data name="shirtChubbyWaist" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtChubbyWaist</Data>
+            <Data name="shirt_lacesChubbyWaist" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesChubbyWaist</Data>
+            <Data name="shirt_metalChubbyWaist" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBelly" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBelly</Data>
+            <Data name="emblemBelly" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemBelly</Data>
+            <Data name="legbinderBelly" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderBelly</Data>
+            <Data name="pelvis_bandsBelly" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsBelly</Data>
+            <Data name="shirtBelly" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBelly</Data>
+            <Data name="shirt_metalBelly" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBigBelly" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBigBelly</Data>
+            <Data name="emblemBigBelly" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemBigBelly</Data>
+            <Data name="legbinderBigBelly" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderBigBelly</Data>
+            <Data name="pelvis_bandsBigBelly" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsBigBelly</Data>
+            <Data name="shirtBigBelly" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBigBelly</Data>
+            <Data name="shirt_metalBigBelly" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedPregnancyBelly" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedPregnancyBelly</Data>
+            <Data name="emblemPregnancyBelly" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemPregnancyBelly</Data>
+            <Data name="legbinderPregnancyBelly" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderPregnancyBelly</Data>
+            <Data name="padsPregnancyBelly" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsPregnancyBelly</Data>
+            <Data name="pelvis_bandsPregnancyBelly" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsPregnancyBelly</Data>
+            <Data name="shirtPregnancyBelly" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtPregnancyBelly</Data>
+            <Data name="shirt_metalPregnancyBelly" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedTummyTuck" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedTummyTuck</Data>
+            <Data name="armsTummyTuck" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsTummyTuck</Data>
+            <Data name="arms_metalTummyTuck" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalTummyTuck</Data>
+            <Data name="emblemTummyTuck" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemTummyTuck</Data>
+            <Data name="legbinderTummyTuck" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderTummyTuck</Data>
+            <Data name="pelvis_bandsTummyTuck" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsTummyTuck</Data>
+            <Data name="shirtTummyTuck" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBack" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBack</Data>
+            <Data name="armsBack" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsBack</Data>
+            <Data name="arms_metalBack" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalBack</Data>
+            <Data name="legbinderBack" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderBack</Data>
+            <Data name="padsBack" target="pads" local="true">straitjacket_leather_leg_topless.osd\padsBack</Data>
+            <Data name="pelvis_bandsBack" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsBack</Data>
+            <Data name="shirtBack" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBack</Data>
+            <Data name="shirt_lacesBack" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesBack</Data>
+            <Data name="shirt_metalBack" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedHipbone" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedHipbone</Data>
+            <Data name="armsHipbone" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsHipbone</Data>
+            <Data name="arms_metalHipbone" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalHipbone</Data>
+            <Data name="emblemHipbone" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemHipbone</Data>
+            <Data name="legbinderHipbone" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderHipbone</Data>
+            <Data name="pelvis_bandsHipbone" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsHipbone</Data>
+            <Data name="shirtHipbone" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtHipbone</Data>
+            <Data name="shirt_metalHipbone" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedHips" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedHips</Data>
+            <Data name="armsHips" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsHips</Data>
+            <Data name="arms_metalHips" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalHips</Data>
+            <Data name="emblemHips" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemHips</Data>
+            <Data name="legbinderHips" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderHips</Data>
+            <Data name="legbinder_lacesHips" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesHips</Data>
+            <Data name="pelvis_bandsHips" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsHips</Data>
+            <Data name="shirtHips" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtHips</Data>
+            <Data name="shirt_lacesHips" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesHips</Data>
+            <Data name="shirt_metalHips" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedButtCrack" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedButtCrack</Data>
+            <Data name="pelvis_bandsButtCrack" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsButtCrack</Data>
+            <Data name="shirtButtCrack" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtButtCrack</Data>
+            <Data name="shirt_lacesButtCrack" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesButtCrack</Data>
+            <Data name="shirt_metalButtCrack" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedButt" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedButt</Data>
+            <Data name="armsButt" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsButt</Data>
+            <Data name="arms_metalButt" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalButt</Data>
+            <Data name="emblemButt" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemButt</Data>
+            <Data name="legbinderButt" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderButt</Data>
+            <Data name="legbinder_lacesButt" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesButt</Data>
+            <Data name="legbinder_metalButt" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalButt</Data>
+            <Data name="pelvis_bandsButt" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsButt</Data>
+            <Data name="shirtButt" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtButt</Data>
+            <Data name="shirt_lacesButt" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesButt</Data>
+            <Data name="shirt_metalButt" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedButtSmall" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedButtSmall</Data>
+            <Data name="armsButtSmall" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsButtSmall</Data>
+            <Data name="arms_metalButtSmall" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalButtSmall</Data>
+            <Data name="emblemButtSmall" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemButtSmall</Data>
+            <Data name="legbinderButtSmall" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderButtSmall</Data>
+            <Data name="legbinder_lacesButtSmall" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesButtSmall</Data>
+            <Data name="legbinder_metalButtSmall" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalButtSmall</Data>
+            <Data name="pelvis_bandsButtSmall" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsButtSmall</Data>
+            <Data name="shirtButtSmall" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtButtSmall</Data>
+            <Data name="shirt_lacesButtSmall" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesButtSmall</Data>
+            <Data name="shirt_metalButtSmall" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedButtShape2" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedButtShape2</Data>
+            <Data name="armsButtShape2" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsButtShape2</Data>
+            <Data name="arms_metalButtShape2" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalButtShape2</Data>
+            <Data name="emblemButtShape2" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemButtShape2</Data>
+            <Data name="legbinderButtShape2" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderButtShape2</Data>
+            <Data name="legbinder_lacesButtShape2" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesButtShape2</Data>
+            <Data name="pelvis_bandsButtShape2" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsButtShape2</Data>
+            <Data name="shirtButtShape2" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtButtShape2</Data>
+            <Data name="shirt_lacesButtShape2" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesButtShape2</Data>
+            <Data name="shirt_metalButtShape2" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedBigButt" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedBigButt</Data>
+            <Data name="armsBigButt" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsBigButt</Data>
+            <Data name="arms_metalBigButt" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalBigButt</Data>
+            <Data name="emblemBigButt" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemBigButt</Data>
+            <Data name="legbinderBigButt" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderBigButt</Data>
+            <Data name="legbinder_lacesBigButt" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesBigButt</Data>
+            <Data name="pelvis_bandsBigButt" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsBigButt</Data>
+            <Data name="shirtBigButt" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtBigButt</Data>
+            <Data name="shirt_lacesBigButt" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesBigButt</Data>
+            <Data name="shirt_metalBigButt" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedChubbyButt" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedChubbyButt</Data>
+            <Data name="armsChubbyButt" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsChubbyButt</Data>
+            <Data name="arms_metalChubbyButt" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalChubbyButt</Data>
+            <Data name="emblemChubbyButt" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemChubbyButt</Data>
+            <Data name="legbinderChubbyButt" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderChubbyButt</Data>
+            <Data name="legbinder_lacesChubbyButt" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesChubbyButt</Data>
+            <Data name="pelvis_bandsChubbyButt" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsChubbyButt</Data>
+            <Data name="shirtChubbyButt" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtChubbyButt</Data>
+            <Data name="shirt_lacesChubbyButt" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesChubbyButt</Data>
+            <Data name="shirt_metalChubbyButt" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedAppleCheeks" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedAppleCheeks</Data>
+            <Data name="armsAppleCheeks" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsAppleCheeks</Data>
+            <Data name="arms_metalAppleCheeks" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalAppleCheeks</Data>
+            <Data name="legbinderAppleCheeks" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderAppleCheeks</Data>
+            <Data name="legbinder_lacesAppleCheeks" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesAppleCheeks</Data>
+            <Data name="pelvis_bandsAppleCheeks" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsAppleCheeks</Data>
+            <Data name="shirtAppleCheeks" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtAppleCheeks</Data>
+            <Data name="shirt_lacesAppleCheeks" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesAppleCheeks</Data>
+            <Data name="shirt_metalAppleCheeks" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedRoundAss" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedRoundAss</Data>
+            <Data name="armsRoundAss" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsRoundAss</Data>
+            <Data name="arms_metalRoundAss" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalRoundAss</Data>
+            <Data name="legbinderRoundAss" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderRoundAss</Data>
+            <Data name="legbinder_lacesRoundAss" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesRoundAss</Data>
+            <Data name="pelvis_bandsRoundAss" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsRoundAss</Data>
+            <Data name="shirtRoundAss" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtRoundAss</Data>
+            <Data name="shirt_lacesRoundAss" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesRoundAss</Data>
+            <Data name="shirt_metalRoundAss" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedSlimThighs" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedSlimThighs</Data>
+            <Data name="armsSlimThighs" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsSlimThighs</Data>
+            <Data name="arms_metalSlimThighs" target="arms_metal" local="true">straitjacket_leather_leg_topless.osd\arms_metalSlimThighs</Data>
+            <Data name="emblemSlimThighs" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemSlimThighs</Data>
+            <Data name="legbinderSlimThighs" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderSlimThighs</Data>
+            <Data name="legbinder_lacesSlimThighs" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesSlimThighs</Data>
+            <Data name="legbinder_metalSlimThighs" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalSlimThighs</Data>
+            <Data name="pelvis_bandsSlimThighs" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsSlimThighs</Data>
+            <Data name="shirtSlimThighs" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtSlimThighs</Data>
+            <Data name="shirt_lacesSlimThighs" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesSlimThighs</Data>
+            <Data name="shirt_metalSlimThighs" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedThighs" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedThighs</Data>
+            <Data name="armsThighs" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsThighs</Data>
+            <Data name="emblemThighs" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemThighs</Data>
+            <Data name="legbinderThighs" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderThighs</Data>
+            <Data name="legbinder_lacesThighs" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesThighs</Data>
+            <Data name="legbinder_metalThighs" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalThighs</Data>
+            <Data name="pelvis_bandsThighs" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsThighs</Data>
+            <Data name="shirtThighs" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedChubbyLegs" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedChubbyLegs</Data>
+            <Data name="armsChubbyLegs" target="arms" local="true">straitjacket_leather_leg_topless.osd\armsChubbyLegs</Data>
+            <Data name="legbinderChubbyLegs" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderChubbyLegs</Data>
+            <Data name="legbinder_lacesChubbyLegs" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesChubbyLegs</Data>
+            <Data name="legbinder_metalChubbyLegs" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalChubbyLegs</Data>
+            <Data name="pelvis_bandsChubbyLegs" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsChubbyLegs</Data>
+            <Data name="shirtChubbyLegs" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtChubbyLegs</Data>
+            <Data name="shirt_metalChubbyLegs" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="UUNP OptimizedLegs" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedLegs</Data>
+            <Data name="legbinderLegs" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderLegs</Data>
+            <Data name="legbinder_lacesLegs" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesLegs</Data>
+            <Data name="legbinder_metalLegs" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalLegs</Data>
+            <Data name="pelvis_bandsLegs" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsLegs</Data>
+            <Data name="shirtLegs" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedKneeHeight" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedKneeHeight</Data>
+            <Data name="legbinderKneeHeight" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderKneeHeight</Data>
+            <Data name="legbinder_lacesKneeHeight" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesKneeHeight</Data>
+            <Data name="legbinder_metalKneeHeight" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalKneeHeight</Data>
+            <Data name="pelvis_bandsKneeHeight" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedCalfSize" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedCalfSize</Data>
+            <Data name="legbinderCalfSize" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderCalfSize</Data>
+            <Data name="legbinder_lacesCalfSize" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesCalfSize</Data>
+            <Data name="legbinder_metalCalfSize" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedCalfSmooth" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedCalfSmooth</Data>
+            <Data name="legbinderCalfSmooth" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderCalfSmooth</Data>
+            <Data name="legbinder_lacesCalfSmooth" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesCalfSmooth</Data>
+            <Data name="legbinder_metalCalfSmooth" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalCalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="UUNP OptimizedNeck" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedNeck</Data>
+            <Data name="shirtNeck" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtNeck</Data>
+            <Data name="shirt_lacesNeck" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B Low</Data>
+            <Data name="emblem7B Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B Low</Data>
+            <Data name="legbinder7B Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B Low</Data>
+            <Data name="legbinder_laces7B Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B Low</Data>
+            <Data name="legbinder_metal7B Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B Low</Data>
+            <Data name="pelvis_bands7B Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B Low</Data>
+            <Data name="shirt7B Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B Low</Data>
+            <Data name="shirt_laces7B Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B Low</Data>
+            <Data name="shirt_metal7B Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B High</Data>
+            <Data name="emblem7B High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B High</Data>
+            <Data name="legbinder7B High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B High</Data>
+            <Data name="legbinder_laces7B High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B High</Data>
+            <Data name="legbinder_metal7B High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B High</Data>
+            <Data name="pelvis_bands7B High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B High</Data>
+            <Data name="shirt7B High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B High</Data>
+            <Data name="shirt_laces7B High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B High</Data>
+            <Data name="shirt_metal7B High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B Bombshell Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B Bombshell Low</Data>
+            <Data name="emblem7B Bombshell Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B Bombshell Low</Data>
+            <Data name="legbinder7B Bombshell Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B Bombshell Low</Data>
+            <Data name="legbinder_laces7B Bombshell Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B Bombshell Low</Data>
+            <Data name="legbinder_metal7B Bombshell Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B Bombshell Low</Data>
+            <Data name="pelvis_bands7B Bombshell Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B Bombshell Low</Data>
+            <Data name="shirt7B Bombshell Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B Bombshell Low</Data>
+            <Data name="shirt_laces7B Bombshell Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B Bombshell Low</Data>
+            <Data name="shirt_metal7B Bombshell Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B Bombshell High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B Bombshell High</Data>
+            <Data name="emblem7B Bombshell High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B Bombshell High</Data>
+            <Data name="legbinder7B Bombshell High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B Bombshell High</Data>
+            <Data name="legbinder_laces7B Bombshell High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B Bombshell High</Data>
+            <Data name="legbinder_metal7B Bombshell High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B Bombshell High</Data>
+            <Data name="pelvis_bands7B Bombshell High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B Bombshell High</Data>
+            <Data name="shirt7B Bombshell High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B Bombshell High</Data>
+            <Data name="shirt_laces7B Bombshell High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B Bombshell High</Data>
+            <Data name="shirt_metal7B Bombshell High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B Natural Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B Natural Low</Data>
+            <Data name="emblem7B Natural Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B Natural Low</Data>
+            <Data name="legbinder7B Natural Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B Natural Low</Data>
+            <Data name="legbinder_laces7B Natural Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B Natural Low</Data>
+            <Data name="legbinder_metal7B Natural Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B Natural Low</Data>
+            <Data name="pelvis_bands7B Natural Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B Natural Low</Data>
+            <Data name="shirt7B Natural Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B Natural Low</Data>
+            <Data name="shirt_laces7B Natural Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B Natural Low</Data>
+            <Data name="shirt_metal7B Natural Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B Natural High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B Natural High</Data>
+            <Data name="emblem7B Natural High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B Natural High</Data>
+            <Data name="legbinder7B Natural High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B Natural High</Data>
+            <Data name="legbinder_laces7B Natural High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B Natural High</Data>
+            <Data name="legbinder_metal7B Natural High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B Natural High</Data>
+            <Data name="pelvis_bands7B Natural High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B Natural High</Data>
+            <Data name="shirt7B Natural High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B Natural High</Data>
+            <Data name="shirt_laces7B Natural High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B Natural High</Data>
+            <Data name="shirt_metal7B Natural High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B Cleavage Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B Cleavage Low</Data>
+            <Data name="emblem7B Cleavage Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B Cleavage Low</Data>
+            <Data name="legbinder7B Cleavage Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B Cleavage Low</Data>
+            <Data name="legbinder_laces7B Cleavage Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B Cleavage Low</Data>
+            <Data name="legbinder_metal7B Cleavage Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B Cleavage Low</Data>
+            <Data name="pelvis_bands7B Cleavage Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B Cleavage Low</Data>
+            <Data name="shirt7B Cleavage Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B Cleavage Low</Data>
+            <Data name="shirt_laces7B Cleavage Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B Cleavage Low</Data>
+            <Data name="shirt_metal7B Cleavage Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B Cleavage High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B Cleavage High</Data>
+            <Data name="emblem7B Cleavage High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B Cleavage High</Data>
+            <Data name="legbinder7B Cleavage High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B Cleavage High</Data>
+            <Data name="legbinder_laces7B Cleavage High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B Cleavage High</Data>
+            <Data name="legbinder_metal7B Cleavage High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B Cleavage High</Data>
+            <Data name="pelvis_bands7B Cleavage High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B Cleavage High</Data>
+            <Data name="shirt7B Cleavage High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B Cleavage High</Data>
+            <Data name="shirt_laces7B Cleavage High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B Cleavage High</Data>
+            <Data name="shirt_metal7B Cleavage High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B BCup Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B BCup Low</Data>
+            <Data name="emblem7B BCup Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B BCup Low</Data>
+            <Data name="legbinder7B BCup Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B BCup Low</Data>
+            <Data name="legbinder_laces7B BCup Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B BCup Low</Data>
+            <Data name="legbinder_metal7B BCup Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B BCup Low</Data>
+            <Data name="pelvis_bands7B BCup Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B BCup Low</Data>
+            <Data name="shirt7B BCup Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B BCup Low</Data>
+            <Data name="shirt_laces7B BCup Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B BCup Low</Data>
+            <Data name="shirt_metal7B BCup Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B BCup High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B BCup High</Data>
+            <Data name="emblem7B BCup High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B BCup High</Data>
+            <Data name="legbinder7B BCup High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B BCup High</Data>
+            <Data name="legbinder_laces7B BCup High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B BCup High</Data>
+            <Data name="legbinder_metal7B BCup High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B BCup High</Data>
+            <Data name="pelvis_bands7B BCup High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B BCup High</Data>
+            <Data name="shirt7B BCup High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B BCup High</Data>
+            <Data name="shirt_laces7B BCup High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B BCup High</Data>
+            <Data name="shirt_metal7B BCup High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7BUNP Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7BUNP Low</Data>
+            <Data name="emblem7BUNP Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7BUNP Low</Data>
+            <Data name="legbinder7BUNP Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7BUNP Low</Data>
+            <Data name="legbinder_laces7BUNP Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7BUNP Low</Data>
+            <Data name="legbinder_metal7BUNP Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7BUNP Low</Data>
+            <Data name="pads7BUNP Low" target="pads" local="true">straitjacket_leather_leg_topless.osd\pads7BUNP Low</Data>
+            <Data name="pelvis_bands7BUNP Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7BUNP Low</Data>
+            <Data name="shirt7BUNP Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7BUNP Low</Data>
+            <Data name="shirt_laces7BUNP Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7BUNP Low</Data>
+            <Data name="shirt_metal7BUNP Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7BUNP High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7BUNP High</Data>
+            <Data name="emblem7BUNP High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7BUNP High</Data>
+            <Data name="legbinder7BUNP High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7BUNP High</Data>
+            <Data name="legbinder_laces7BUNP High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7BUNP High</Data>
+            <Data name="legbinder_metal7BUNP High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7BUNP High</Data>
+            <Data name="pelvis_bands7BUNP High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7BUNP High</Data>
+            <Data name="shirt7BUNP High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7BUNP High</Data>
+            <Data name="shirt_laces7BUNP High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7BUNP High</Data>
+            <Data name="shirt_metal7BUNP High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B Oppai Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B Oppai Low</Data>
+            <Data name="emblem7B Oppai Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B Oppai Low</Data>
+            <Data name="legbinder7B Oppai Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B Oppai Low</Data>
+            <Data name="legbinder_laces7B Oppai Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B Oppai Low</Data>
+            <Data name="legbinder_metal7B Oppai Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B Oppai Low</Data>
+            <Data name="pelvis_bands7B Oppai Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B Oppai Low</Data>
+            <Data name="shirt7B Oppai Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B Oppai Low</Data>
+            <Data name="shirt_laces7B Oppai Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B Oppai Low</Data>
+            <Data name="shirt_metal7B Oppai Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B Oppai High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B Oppai High</Data>
+            <Data name="emblem7B Oppai High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B Oppai High</Data>
+            <Data name="legbinder7B Oppai High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B Oppai High</Data>
+            <Data name="legbinder_laces7B Oppai High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B Oppai High</Data>
+            <Data name="legbinder_metal7B Oppai High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B Oppai High</Data>
+            <Data name="pelvis_bands7B Oppai High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B Oppai High</Data>
+            <Data name="shirt7B Oppai High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B Oppai High</Data>
+            <Data name="shirt_laces7B Oppai High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B Oppai High</Data>
+            <Data name="shirt_metal7B Oppai High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B CH Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B CH Low</Data>
+            <Data name="emblem7B CH Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B CH Low</Data>
+            <Data name="legbinder7B CH Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B CH Low</Data>
+            <Data name="legbinder_laces7B CH Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B CH Low</Data>
+            <Data name="legbinder_metal7B CH Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B CH Low</Data>
+            <Data name="pelvis_bands7B CH Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B CH Low</Data>
+            <Data name="shirt7B CH Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B CH Low</Data>
+            <Data name="shirt_laces7B CH Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B CH Low</Data>
+            <Data name="shirt_metal7B CH Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="UUNP Optimized7B CH High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP Optimized7B CH High</Data>
+            <Data name="emblem7B CH High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblem7B CH High</Data>
+            <Data name="legbinder7B CH High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinder7B CH High</Data>
+            <Data name="legbinder_laces7B CH High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_laces7B CH High</Data>
+            <Data name="legbinder_metal7B CH High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metal7B CH High</Data>
+            <Data name="pelvis_bands7B CH High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bands7B CH High</Data>
+            <Data name="shirt7B CH High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirt7B CH High</Data>
+            <Data name="shirt_laces7B CH High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_laces7B CH High</Data>
+            <Data name="shirt_metal7B CH High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metal7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNP Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNP Low</Data>
+            <Data name="emblemUNP Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNP Low</Data>
+            <Data name="legbinderUNP Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNP Low</Data>
+            <Data name="legbinder_lacesUNP Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNP Low</Data>
+            <Data name="legbinder_metalUNP Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNP Low</Data>
+            <Data name="pelvis_bandsUNP Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNP Low</Data>
+            <Data name="shirtUNP Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNP Low</Data>
+            <Data name="shirt_lacesUNP Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNP Low</Data>
+            <Data name="shirt_metalUNP Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNP High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNP High</Data>
+            <Data name="emblemUNP High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNP High</Data>
+            <Data name="legbinderUNP High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNP High</Data>
+            <Data name="legbinder_lacesUNP High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNP High</Data>
+            <Data name="legbinder_metalUNP High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNP High</Data>
+            <Data name="pelvis_bandsUNP High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNP High</Data>
+            <Data name="shirtUNP High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNP High</Data>
+            <Data name="shirt_lacesUNP High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNP High</Data>
+            <Data name="shirt_metalUNP High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNP Pushup Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNP Pushup Low</Data>
+            <Data name="emblemUNP Pushup Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNP Pushup Low</Data>
+            <Data name="legbinderUNP Pushup Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNP Pushup Low</Data>
+            <Data name="legbinder_lacesUNP Pushup Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNP Pushup Low</Data>
+            <Data name="legbinder_metalUNP Pushup Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNP Pushup Low</Data>
+            <Data name="pelvis_bandsUNP Pushup Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNP Pushup Low</Data>
+            <Data name="shirtUNP Pushup Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNP Pushup Low</Data>
+            <Data name="shirt_lacesUNP Pushup Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNP Pushup Low</Data>
+            <Data name="shirt_metalUNP Pushup Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNP Pushup High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNP Pushup High</Data>
+            <Data name="emblemUNP Pushup High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNP Pushup High</Data>
+            <Data name="legbinderUNP Pushup High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNP Pushup High</Data>
+            <Data name="legbinder_lacesUNP Pushup High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNP Pushup High</Data>
+            <Data name="legbinder_metalUNP Pushup High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNP Pushup High</Data>
+            <Data name="pelvis_bandsUNP Pushup High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNP Pushup High</Data>
+            <Data name="shirtUNP Pushup High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNP Pushup High</Data>
+            <Data name="shirt_lacesUNP Pushup High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNP Pushup High</Data>
+            <Data name="shirt_metalUNP Pushup High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNP Skinny Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNP Skinny Low</Data>
+            <Data name="emblemUNP Skinny Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNP Skinny Low</Data>
+            <Data name="legbinderUNP Skinny Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNP Skinny Low</Data>
+            <Data name="legbinder_lacesUNP Skinny Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNP Skinny Low</Data>
+            <Data name="legbinder_metalUNP Skinny Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNP Skinny Low</Data>
+            <Data name="pelvis_bandsUNP Skinny Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNP Skinny Low</Data>
+            <Data name="shirtUNP Skinny Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNP Skinny Low</Data>
+            <Data name="shirt_lacesUNP Skinny Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNP Skinny Low</Data>
+            <Data name="shirt_metalUNP Skinny Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNP Skinny High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNP Skinny High</Data>
+            <Data name="emblemUNP Skinny High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNP Skinny High</Data>
+            <Data name="legbinderUNP Skinny High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNP Skinny High</Data>
+            <Data name="legbinder_lacesUNP Skinny High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNP Skinny High</Data>
+            <Data name="legbinder_metalUNP Skinny High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNP Skinny High</Data>
+            <Data name="pelvis_bandsUNP Skinny High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNP Skinny High</Data>
+            <Data name="shirtUNP Skinny High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNP Skinny High</Data>
+            <Data name="shirt_lacesUNP Skinny High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNP Skinny High</Data>
+            <Data name="shirt_metalUNP Skinny High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNP Perky Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNP Perky Low</Data>
+            <Data name="emblemUNP Perky Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNP Perky Low</Data>
+            <Data name="legbinderUNP Perky Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNP Perky Low</Data>
+            <Data name="legbinder_lacesUNP Perky Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNP Perky Low</Data>
+            <Data name="legbinder_metalUNP Perky Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNP Perky Low</Data>
+            <Data name="pelvis_bandsUNP Perky Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNP Perky Low</Data>
+            <Data name="shirtUNP Perky Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNP Perky Low</Data>
+            <Data name="shirt_lacesUNP Perky Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNP Perky Low</Data>
+            <Data name="shirt_metalUNP Perky Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNP Perky High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNP Perky High</Data>
+            <Data name="emblemUNP Perky High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNP Perky High</Data>
+            <Data name="legbinderUNP Perky High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNP Perky High</Data>
+            <Data name="legbinder_lacesUNP Perky High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNP Perky High</Data>
+            <Data name="legbinder_metalUNP Perky High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNP Perky High</Data>
+            <Data name="pelvis_bandsUNP Perky High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNP Perky High</Data>
+            <Data name="shirtUNP Perky High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNP Perky High</Data>
+            <Data name="shirt_lacesUNP Perky High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNP Perky High</Data>
+            <Data name="shirt_metalUNP Perky High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPB Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPB Low</Data>
+            <Data name="emblemUNPB Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPB Low</Data>
+            <Data name="legbinderUNPB Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPB Low</Data>
+            <Data name="legbinder_lacesUNPB Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPB Low</Data>
+            <Data name="legbinder_metalUNPB Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPB Low</Data>
+            <Data name="pelvis_bandsUNPB Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPB Low</Data>
+            <Data name="shirtUNPB Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPB Low</Data>
+            <Data name="shirt_lacesUNPB Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPB Low</Data>
+            <Data name="shirt_metalUNPB Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPB High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPB High</Data>
+            <Data name="emblemUNPB High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPB High</Data>
+            <Data name="legbinderUNPB High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPB High</Data>
+            <Data name="legbinder_lacesUNPB High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPB High</Data>
+            <Data name="legbinder_metalUNPB High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPB High</Data>
+            <Data name="pelvis_bandsUNPB High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPB High</Data>
+            <Data name="shirtUNPB High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPB High</Data>
+            <Data name="shirt_lacesUNPB High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPB High</Data>
+            <Data name="shirt_metalUNPB High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPB Chapi" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPB Chapi</Data>
+            <Data name="emblemUNPB Chapi" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPB Chapi</Data>
+            <Data name="legbinderUNPB Chapi" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPB Chapi</Data>
+            <Data name="legbinder_lacesUNPB Chapi" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPB Chapi</Data>
+            <Data name="legbinder_metalUNPB Chapi" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPB Chapi</Data>
+            <Data name="pelvis_bandsUNPB Chapi" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPB Chapi</Data>
+            <Data name="shirtUNPB Chapi" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPB Chapi</Data>
+            <Data name="shirt_lacesUNPB Chapi" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPB Chapi</Data>
+            <Data name="shirt_metalUNPB Chapi" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPB Oppai v1" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPB Oppai v1</Data>
+            <Data name="emblemUNPB Oppai v1" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPB Oppai v1</Data>
+            <Data name="legbinderUNPB Oppai v1" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPB Oppai v1</Data>
+            <Data name="legbinder_lacesUNPB Oppai v1" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPB Oppai v1</Data>
+            <Data name="legbinder_metalUNPB Oppai v1" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPB Oppai v1</Data>
+            <Data name="pelvis_bandsUNPB Oppai v1" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPB Oppai v1</Data>
+            <Data name="shirtUNPB Oppai v1" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPB Oppai v1</Data>
+            <Data name="shirt_lacesUNPB Oppai v1" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPB Oppai v1</Data>
+            <Data name="shirt_metalUNPB Oppai v1" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPB Oppai v3.2 Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPB Oppai v3.2 Low</Data>
+            <Data name="emblemUNPB Oppai v3.2 Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPB Oppai v3.2 Low</Data>
+            <Data name="legbinderUNPB Oppai v3.2 Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPB Oppai v3.2 Low</Data>
+            <Data name="legbinder_lacesUNPB Oppai v3.2 Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPB Oppai v3.2 Low</Data>
+            <Data name="legbinder_metalUNPB Oppai v3.2 Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPB Oppai v3.2 Low</Data>
+            <Data name="pelvis_bandsUNPB Oppai v3.2 Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPB Oppai v3.2 Low</Data>
+            <Data name="shirtUNPB Oppai v3.2 Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPB Oppai v3.2 Low</Data>
+            <Data name="shirt_lacesUNPB Oppai v3.2 Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPB Oppai v3.2 Low</Data>
+            <Data name="shirt_metalUNPB Oppai v3.2 Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPB Oppai v3.2 High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPB Oppai v3.2 High</Data>
+            <Data name="emblemUNPB Oppai v3.2 High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPB Oppai v3.2 High</Data>
+            <Data name="legbinderUNPB Oppai v3.2 High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPB Oppai v3.2 High</Data>
+            <Data name="legbinder_lacesUNPB Oppai v3.2 High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPB Oppai v3.2 High</Data>
+            <Data name="legbinder_metalUNPB Oppai v3.2 High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPB Oppai v3.2 High</Data>
+            <Data name="pelvis_bandsUNPB Oppai v3.2 High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPB Oppai v3.2 High</Data>
+            <Data name="shirtUNPB Oppai v3.2 High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPB Oppai v3.2 High</Data>
+            <Data name="shirt_lacesUNPB Oppai v3.2 High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPB Oppai v3.2 High</Data>
+            <Data name="shirt_metalUNPB Oppai v3.2 High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPetite Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPetite Low</Data>
+            <Data name="emblemUNPetite Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPetite Low</Data>
+            <Data name="legbinderUNPetite Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPetite Low</Data>
+            <Data name="legbinder_lacesUNPetite Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPetite Low</Data>
+            <Data name="legbinder_metalUNPetite Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPetite Low</Data>
+            <Data name="pelvis_bandsUNPetite Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPetite Low</Data>
+            <Data name="shirtUNPetite Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPetite Low</Data>
+            <Data name="shirt_lacesUNPetite Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPetite Low</Data>
+            <Data name="shirt_metalUNPetite Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPetite High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPetite High</Data>
+            <Data name="emblemUNPetite High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPetite High</Data>
+            <Data name="legbinderUNPetite High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPetite High</Data>
+            <Data name="legbinder_lacesUNPetite High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPetite High</Data>
+            <Data name="legbinder_metalUNPetite High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPetite High</Data>
+            <Data name="pelvis_bandsUNPetite High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPetite High</Data>
+            <Data name="shirtUNPetite High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPetite High</Data>
+            <Data name="shirt_lacesUNPetite High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPetite High</Data>
+            <Data name="shirt_metalUNPetite High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPC Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPC Low</Data>
+            <Data name="emblemUNPC Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPC Low</Data>
+            <Data name="legbinderUNPC Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPC Low</Data>
+            <Data name="legbinder_lacesUNPC Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPC Low</Data>
+            <Data name="legbinder_metalUNPC Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPC Low</Data>
+            <Data name="pelvis_bandsUNPC Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPC Low</Data>
+            <Data name="shirtUNPC Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPC Low</Data>
+            <Data name="shirt_lacesUNPC Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPC Low</Data>
+            <Data name="shirt_metalUNPC Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPC High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPC High</Data>
+            <Data name="emblemUNPC High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPC High</Data>
+            <Data name="legbinderUNPC High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPC High</Data>
+            <Data name="legbinder_lacesUNPC High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPC High</Data>
+            <Data name="legbinder_metalUNPC High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPC High</Data>
+            <Data name="pelvis_bandsUNPC High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPC High</Data>
+            <Data name="shirtUNPC High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPC High</Data>
+            <Data name="shirt_lacesUNPC High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPC High</Data>
+            <Data name="shirt_metalUNPC High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPCM Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPCM Low</Data>
+            <Data name="emblemUNPCM Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPCM Low</Data>
+            <Data name="legbinderUNPCM Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPCM Low</Data>
+            <Data name="legbinder_lacesUNPCM Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPCM Low</Data>
+            <Data name="legbinder_metalUNPCM Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPCM Low</Data>
+            <Data name="pelvis_bandsUNPCM Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPCM Low</Data>
+            <Data name="shirtUNPCM Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPCM Low</Data>
+            <Data name="shirt_lacesUNPCM Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPCM Low</Data>
+            <Data name="shirt_metalUNPCM Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPCM High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPCM High</Data>
+            <Data name="emblemUNPCM High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPCM High</Data>
+            <Data name="legbinderUNPCM High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPCM High</Data>
+            <Data name="legbinder_lacesUNPCM High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPCM High</Data>
+            <Data name="legbinder_metalUNPCM High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPCM High</Data>
+            <Data name="pelvis_bandsUNPCM High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPCM High</Data>
+            <Data name="shirtUNPCM High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPCM High</Data>
+            <Data name="shirt_lacesUNPCM High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPCM High</Data>
+            <Data name="shirt_metalUNPCM High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPSH Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPSH Low</Data>
+            <Data name="emblemUNPSH Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPSH Low</Data>
+            <Data name="legbinderUNPSH Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPSH Low</Data>
+            <Data name="legbinder_lacesUNPSH Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPSH Low</Data>
+            <Data name="legbinder_metalUNPSH Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPSH Low</Data>
+            <Data name="pelvis_bandsUNPSH Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPSH Low</Data>
+            <Data name="shirtUNPSH Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPSH Low</Data>
+            <Data name="shirt_lacesUNPSH Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPSH Low</Data>
+            <Data name="shirt_metalUNPSH Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPSH High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPSH High</Data>
+            <Data name="emblemUNPSH High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPSH High</Data>
+            <Data name="legbinderUNPSH High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPSH High</Data>
+            <Data name="legbinder_lacesUNPSH High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPSH High</Data>
+            <Data name="legbinder_metalUNPSH High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPSH High</Data>
+            <Data name="pelvis_bandsUNPSH High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPSH High</Data>
+            <Data name="shirtUNPSH High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPSH High</Data>
+            <Data name="shirt_lacesUNPSH High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPSH High</Data>
+            <Data name="shirt_metalUNPSH High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPK Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPK Low</Data>
+            <Data name="emblemUNPK Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPK Low</Data>
+            <Data name="legbinderUNPK Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPK Low</Data>
+            <Data name="legbinder_lacesUNPK Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPK Low</Data>
+            <Data name="legbinder_metalUNPK Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPK Low</Data>
+            <Data name="pelvis_bandsUNPK Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPK Low</Data>
+            <Data name="shirtUNPK Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPK Low</Data>
+            <Data name="shirt_lacesUNPK Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPK Low</Data>
+            <Data name="shirt_metalUNPK Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPK High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPK High</Data>
+            <Data name="emblemUNPK High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPK High</Data>
+            <Data name="legbinderUNPK High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPK High</Data>
+            <Data name="legbinder_lacesUNPK High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPK High</Data>
+            <Data name="legbinder_metalUNPK High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPK High</Data>
+            <Data name="pelvis_bandsUNPK High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPK High</Data>
+            <Data name="shirtUNPK High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPK High</Data>
+            <Data name="shirt_lacesUNPK High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPK High</Data>
+            <Data name="shirt_metalUNPK High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPK Bonus Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPK Bonus Low</Data>
+            <Data name="emblemUNPK Bonus Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPK Bonus Low</Data>
+            <Data name="legbinderUNPK Bonus Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPK Bonus Low</Data>
+            <Data name="legbinder_lacesUNPK Bonus Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPK Bonus Low</Data>
+            <Data name="legbinder_metalUNPK Bonus Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPK Bonus Low</Data>
+            <Data name="pelvis_bandsUNPK Bonus Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPK Bonus Low</Data>
+            <Data name="shirtUNPK Bonus Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPK Bonus Low</Data>
+            <Data name="shirt_lacesUNPK Bonus Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPK Bonus Low</Data>
+            <Data name="shirt_metalUNPK Bonus Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPK Bonus High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPK Bonus High</Data>
+            <Data name="emblemUNPK Bonus High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPK Bonus High</Data>
+            <Data name="legbinderUNPK Bonus High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPK Bonus High</Data>
+            <Data name="legbinder_lacesUNPK Bonus High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPK Bonus High</Data>
+            <Data name="legbinder_metalUNPK Bonus High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPK Bonus High</Data>
+            <Data name="pelvis_bandsUNPK Bonus High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPK Bonus High</Data>
+            <Data name="shirtUNPK Bonus High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPK Bonus High</Data>
+            <Data name="shirt_lacesUNPK Bonus High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPK Bonus High</Data>
+            <Data name="shirt_metalUNPK Bonus High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUN7B Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUN7B Low</Data>
+            <Data name="emblemUN7B Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUN7B Low</Data>
+            <Data name="legbinderUN7B Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUN7B Low</Data>
+            <Data name="legbinder_lacesUN7B Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUN7B Low</Data>
+            <Data name="legbinder_metalUN7B Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUN7B Low</Data>
+            <Data name="pelvis_bandsUN7B Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUN7B Low</Data>
+            <Data name="shirtUN7B Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUN7B Low</Data>
+            <Data name="shirt_lacesUN7B Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUN7B Low</Data>
+            <Data name="shirt_metalUN7B Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUN7B High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUN7B High</Data>
+            <Data name="emblemUN7B High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUN7B High</Data>
+            <Data name="legbinderUN7B High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUN7B High</Data>
+            <Data name="legbinder_lacesUN7B High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUN7B High</Data>
+            <Data name="legbinder_metalUN7B High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUN7B High</Data>
+            <Data name="pelvis_bandsUN7B High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUN7B High</Data>
+            <Data name="shirtUN7B High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUN7B High</Data>
+            <Data name="shirt_lacesUN7B High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUN7B High</Data>
+            <Data name="shirt_metalUN7B High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPBB Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPBB Low</Data>
+            <Data name="emblemUNPBB Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPBB Low</Data>
+            <Data name="legbinderUNPBB Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPBB Low</Data>
+            <Data name="legbinder_lacesUNPBB Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPBB Low</Data>
+            <Data name="legbinder_metalUNPBB Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPBB Low</Data>
+            <Data name="pelvis_bandsUNPBB Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPBB Low</Data>
+            <Data name="shirtUNPBB Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPBB Low</Data>
+            <Data name="shirt_lacesUNPBB Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPBB Low</Data>
+            <Data name="shirt_metalUNPBB Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPBB High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPBB High</Data>
+            <Data name="emblemUNPBB High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPBB High</Data>
+            <Data name="legbinderUNPBB High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPBB High</Data>
+            <Data name="legbinder_lacesUNPBB High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPBB High</Data>
+            <Data name="legbinder_metalUNPBB High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPBB High</Data>
+            <Data name="pelvis_bandsUNPBB High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPBB High</Data>
+            <Data name="shirtUNPBB High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPBB High</Data>
+            <Data name="shirt_lacesUNPBB High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPBB High</Data>
+            <Data name="shirt_metalUNPBB High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedSeraphim Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedSeraphim Low</Data>
+            <Data name="emblemSeraphim Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemSeraphim Low</Data>
+            <Data name="legbinderSeraphim Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderSeraphim Low</Data>
+            <Data name="legbinder_lacesSeraphim Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesSeraphim Low</Data>
+            <Data name="legbinder_metalSeraphim Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalSeraphim Low</Data>
+            <Data name="pelvis_bandsSeraphim Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsSeraphim Low</Data>
+            <Data name="shirtSeraphim Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtSeraphim Low</Data>
+            <Data name="shirt_lacesSeraphim Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesSeraphim Low</Data>
+            <Data name="shirt_metalSeraphim Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedSeraphim High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedSeraphim High</Data>
+            <Data name="emblemSeraphim High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemSeraphim High</Data>
+            <Data name="legbinderSeraphim High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderSeraphim High</Data>
+            <Data name="legbinder_lacesSeraphim High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesSeraphim High</Data>
+            <Data name="legbinder_metalSeraphim High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalSeraphim High</Data>
+            <Data name="pelvis_bandsSeraphim High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsSeraphim High</Data>
+            <Data name="shirtSeraphim High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtSeraphim High</Data>
+            <Data name="shirt_lacesSeraphim High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesSeraphim High</Data>
+            <Data name="shirt_metalSeraphim High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedDemonfet Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedDemonfet Low</Data>
+            <Data name="emblemDemonfet Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemDemonfet Low</Data>
+            <Data name="legbinderDemonfet Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderDemonfet Low</Data>
+            <Data name="legbinder_lacesDemonfet Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesDemonfet Low</Data>
+            <Data name="legbinder_metalDemonfet Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalDemonfet Low</Data>
+            <Data name="pelvis_bandsDemonfet Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsDemonfet Low</Data>
+            <Data name="shirtDemonfet Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtDemonfet Low</Data>
+            <Data name="shirt_lacesDemonfet Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesDemonfet Low</Data>
+            <Data name="shirt_metalDemonfet Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedDemonfet High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedDemonfet High</Data>
+            <Data name="emblemDemonfet High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemDemonfet High</Data>
+            <Data name="legbinderDemonfet High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderDemonfet High</Data>
+            <Data name="legbinder_lacesDemonfet High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesDemonfet High</Data>
+            <Data name="legbinder_metalDemonfet High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalDemonfet High</Data>
+            <Data name="pelvis_bandsDemonfet High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsDemonfet High</Data>
+            <Data name="shirtDemonfet High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtDemonfet High</Data>
+            <Data name="shirt_lacesDemonfet High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesDemonfet High</Data>
+            <Data name="shirt_metalDemonfet High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedDream Girl Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedDream Girl Low</Data>
+            <Data name="emblemDream Girl Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemDream Girl Low</Data>
+            <Data name="legbinderDream Girl Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderDream Girl Low</Data>
+            <Data name="legbinder_lacesDream Girl Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesDream Girl Low</Data>
+            <Data name="legbinder_metalDream Girl Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalDream Girl Low</Data>
+            <Data name="pelvis_bandsDream Girl Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsDream Girl Low</Data>
+            <Data name="shirtDream Girl Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtDream Girl Low</Data>
+            <Data name="shirt_lacesDream Girl Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesDream Girl Low</Data>
+            <Data name="shirt_metalDream Girl Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedDream Girl High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedDream Girl High</Data>
+            <Data name="emblemDream Girl High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemDream Girl High</Data>
+            <Data name="legbinderDream Girl High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderDream Girl High</Data>
+            <Data name="legbinder_lacesDream Girl High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesDream Girl High</Data>
+            <Data name="legbinder_metalDream Girl High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalDream Girl High</Data>
+            <Data name="pelvis_bandsDream Girl High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsDream Girl High</Data>
+            <Data name="shirtDream Girl High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtDream Girl High</Data>
+            <Data name="shirt_lacesDream Girl High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesDream Girl High</Data>
+            <Data name="shirt_metalDream Girl High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedTop Model Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedTop Model Low</Data>
+            <Data name="emblemTop Model Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemTop Model Low</Data>
+            <Data name="legbinderTop Model Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderTop Model Low</Data>
+            <Data name="legbinder_lacesTop Model Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesTop Model Low</Data>
+            <Data name="legbinder_metalTop Model Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalTop Model Low</Data>
+            <Data name="pelvis_bandsTop Model Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsTop Model Low</Data>
+            <Data name="shirtTop Model Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtTop Model Low</Data>
+            <Data name="shirt_lacesTop Model Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesTop Model Low</Data>
+            <Data name="shirt_metalTop Model Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedTop Model High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedTop Model High</Data>
+            <Data name="emblemTop Model High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemTop Model High</Data>
+            <Data name="legbinderTop Model High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderTop Model High</Data>
+            <Data name="legbinder_lacesTop Model High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesTop Model High</Data>
+            <Data name="legbinder_metalTop Model High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalTop Model High</Data>
+            <Data name="pelvis_bandsTop Model High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsTop Model High</Data>
+            <Data name="shirtTop Model High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtTop Model High</Data>
+            <Data name="shirt_lacesTop Model High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesTop Model High</Data>
+            <Data name="shirt_metalTop Model High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedLeito Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedLeito Low</Data>
+            <Data name="emblemLeito Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemLeito Low</Data>
+            <Data name="legbinderLeito Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderLeito Low</Data>
+            <Data name="legbinder_lacesLeito Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesLeito Low</Data>
+            <Data name="legbinder_metalLeito Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalLeito Low</Data>
+            <Data name="pelvis_bandsLeito Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsLeito Low</Data>
+            <Data name="shirtLeito Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtLeito Low</Data>
+            <Data name="shirt_lacesLeito Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesLeito Low</Data>
+            <Data name="shirt_metalLeito Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedLeito High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedLeito High</Data>
+            <Data name="emblemLeito High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemLeito High</Data>
+            <Data name="legbinderLeito High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderLeito High</Data>
+            <Data name="legbinder_lacesLeito High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesLeito High</Data>
+            <Data name="legbinder_metalLeito High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalLeito High</Data>
+            <Data name="pelvis_bandsLeito High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsLeito High</Data>
+            <Data name="shirtLeito High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtLeito High</Data>
+            <Data name="shirt_lacesLeito High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesLeito High</Data>
+            <Data name="shirt_metalLeito High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPF Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPF Low</Data>
+            <Data name="emblemUNPF Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPF Low</Data>
+            <Data name="legbinderUNPF Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPF Low</Data>
+            <Data name="legbinder_lacesUNPF Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPF Low</Data>
+            <Data name="legbinder_metalUNPF Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPF Low</Data>
+            <Data name="pelvis_bandsUNPF Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPF Low</Data>
+            <Data name="shirtUNPF Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPF Low</Data>
+            <Data name="shirt_lacesUNPF Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPF Low</Data>
+            <Data name="shirt_metalUNPF Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPF High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPF High</Data>
+            <Data name="emblemUNPF High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPF High</Data>
+            <Data name="legbinderUNPF High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPF High</Data>
+            <Data name="legbinder_lacesUNPF High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPF High</Data>
+            <Data name="legbinder_metalUNPF High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPF High</Data>
+            <Data name="pelvis_bandsUNPF High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPF High</Data>
+            <Data name="shirtUNPF High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPF High</Data>
+            <Data name="shirt_lacesUNPF High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPF High</Data>
+            <Data name="shirt_metalUNPF High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPFx Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPFx Low</Data>
+            <Data name="emblemUNPFx Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPFx Low</Data>
+            <Data name="legbinderUNPFx Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPFx Low</Data>
+            <Data name="legbinder_lacesUNPFx Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPFx Low</Data>
+            <Data name="legbinder_metalUNPFx Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPFx Low</Data>
+            <Data name="pelvis_bandsUNPFx Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPFx Low</Data>
+            <Data name="shirtUNPFx Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPFx Low</Data>
+            <Data name="shirt_lacesUNPFx Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPFx Low</Data>
+            <Data name="shirt_metalUNPFx Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedUNPFx High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedUNPFx High</Data>
+            <Data name="emblemUNPFx High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemUNPFx High</Data>
+            <Data name="legbinderUNPFx High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderUNPFx High</Data>
+            <Data name="legbinder_lacesUNPFx High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesUNPFx High</Data>
+            <Data name="legbinder_metalUNPFx High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalUNPFx High</Data>
+            <Data name="pelvis_bandsUNPFx High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsUNPFx High</Data>
+            <Data name="shirtUNPFx High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtUNPFx High</Data>
+            <Data name="shirt_lacesUNPFx High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesUNPFx High</Data>
+            <Data name="shirt_metalUNPFx High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedCNHF Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedCNHF Low</Data>
+            <Data name="emblemCNHF Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemCNHF Low</Data>
+            <Data name="legbinderCNHF Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderCNHF Low</Data>
+            <Data name="legbinder_lacesCNHF Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesCNHF Low</Data>
+            <Data name="legbinder_metalCNHF Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalCNHF Low</Data>
+            <Data name="pelvis_bandsCNHF Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsCNHF Low</Data>
+            <Data name="shirtCNHF Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtCNHF Low</Data>
+            <Data name="shirt_lacesCNHF Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesCNHF Low</Data>
+            <Data name="shirt_metalCNHF Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedCNHF High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedCNHF High</Data>
+            <Data name="emblemCNHF High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemCNHF High</Data>
+            <Data name="legbinderCNHF High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderCNHF High</Data>
+            <Data name="legbinder_lacesCNHF High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesCNHF High</Data>
+            <Data name="legbinder_metalCNHF High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalCNHF High</Data>
+            <Data name="pelvis_bandsCNHF High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsCNHF High</Data>
+            <Data name="shirtCNHF High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtCNHF High</Data>
+            <Data name="shirt_lacesCNHF High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesCNHF High</Data>
+            <Data name="shirt_metalCNHF High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedCNHF Bonus Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedCNHF Bonus Low</Data>
+            <Data name="emblemCNHF Bonus Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemCNHF Bonus Low</Data>
+            <Data name="legbinderCNHF Bonus Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderCNHF Bonus Low</Data>
+            <Data name="legbinder_lacesCNHF Bonus Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesCNHF Bonus Low</Data>
+            <Data name="legbinder_metalCNHF Bonus Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalCNHF Bonus Low</Data>
+            <Data name="pelvis_bandsCNHF Bonus Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsCNHF Bonus Low</Data>
+            <Data name="shirtCNHF Bonus Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtCNHF Bonus Low</Data>
+            <Data name="shirt_lacesCNHF Bonus Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesCNHF Bonus Low</Data>
+            <Data name="shirt_metalCNHF Bonus Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedCNHF Bonus High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedCNHF Bonus High</Data>
+            <Data name="emblemCNHF Bonus High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemCNHF Bonus High</Data>
+            <Data name="legbinderCNHF Bonus High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderCNHF Bonus High</Data>
+            <Data name="legbinder_lacesCNHF Bonus High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesCNHF Bonus High</Data>
+            <Data name="legbinder_metalCNHF Bonus High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalCNHF Bonus High</Data>
+            <Data name="pelvis_bandsCNHF Bonus High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsCNHF Bonus High</Data>
+            <Data name="shirtCNHF Bonus High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtCNHF Bonus High</Data>
+            <Data name="shirt_lacesCNHF Bonus High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesCNHF Bonus High</Data>
+            <Data name="shirt_metalCNHF Bonus High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedMCBM Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedMCBM Low</Data>
+            <Data name="emblemMCBM Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemMCBM Low</Data>
+            <Data name="legbinderMCBM Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderMCBM Low</Data>
+            <Data name="legbinder_lacesMCBM Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesMCBM Low</Data>
+            <Data name="legbinder_metalMCBM Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalMCBM Low</Data>
+            <Data name="pelvis_bandsMCBM Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsMCBM Low</Data>
+            <Data name="shirtMCBM Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtMCBM Low</Data>
+            <Data name="shirt_lacesMCBM Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesMCBM Low</Data>
+            <Data name="shirt_metalMCBM Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedMCBM High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedMCBM High</Data>
+            <Data name="emblemMCBM High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemMCBM High</Data>
+            <Data name="legbinderMCBM High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderMCBM High</Data>
+            <Data name="legbinder_lacesMCBM High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesMCBM High</Data>
+            <Data name="legbinder_metalMCBM High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalMCBM High</Data>
+            <Data name="pelvis_bandsMCBM High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsMCBM High</Data>
+            <Data name="shirtMCBM High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtMCBM High</Data>
+            <Data name="shirt_lacesMCBM High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesMCBM High</Data>
+            <Data name="shirt_metalMCBM High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedVenus Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedVenus Low</Data>
+            <Data name="emblemVenus Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemVenus Low</Data>
+            <Data name="legbinderVenus Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderVenus Low</Data>
+            <Data name="legbinder_lacesVenus Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesVenus Low</Data>
+            <Data name="legbinder_metalVenus Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalVenus Low</Data>
+            <Data name="pelvis_bandsVenus Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsVenus Low</Data>
+            <Data name="shirtVenus Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtVenus Low</Data>
+            <Data name="shirt_lacesVenus Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesVenus Low</Data>
+            <Data name="shirt_metalVenus Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedVenus High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedVenus High</Data>
+            <Data name="emblemVenus High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemVenus High</Data>
+            <Data name="legbinderVenus High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderVenus High</Data>
+            <Data name="legbinder_lacesVenus High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesVenus High</Data>
+            <Data name="legbinder_metalVenus High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalVenus High</Data>
+            <Data name="pelvis_bandsVenus High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsVenus High</Data>
+            <Data name="shirtVenus High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtVenus High</Data>
+            <Data name="shirt_lacesVenus High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesVenus High</Data>
+            <Data name="shirt_metalVenus High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedZGGB-R2 Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedZGGB-R2 Low</Data>
+            <Data name="emblemZGGB-R2 Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemZGGB-R2 Low</Data>
+            <Data name="legbinderZGGB-R2 Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderZGGB-R2 Low</Data>
+            <Data name="legbinder_lacesZGGB-R2 Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesZGGB-R2 Low</Data>
+            <Data name="legbinder_metalZGGB-R2 Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalZGGB-R2 Low</Data>
+            <Data name="pelvis_bandsZGGB-R2 Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsZGGB-R2 Low</Data>
+            <Data name="shirtZGGB-R2 Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtZGGB-R2 Low</Data>
+            <Data name="shirt_lacesZGGB-R2 Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesZGGB-R2 Low</Data>
+            <Data name="shirt_metalZGGB-R2 Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedZGGB-R2 High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedZGGB-R2 High</Data>
+            <Data name="emblemZGGB-R2 High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemZGGB-R2 High</Data>
+            <Data name="legbinderZGGB-R2 High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderZGGB-R2 High</Data>
+            <Data name="legbinder_lacesZGGB-R2 High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesZGGB-R2 High</Data>
+            <Data name="legbinder_metalZGGB-R2 High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalZGGB-R2 High</Data>
+            <Data name="pelvis_bandsZGGB-R2 High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsZGGB-R2 High</Data>
+            <Data name="shirtZGGB-R2 High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtZGGB-R2 High</Data>
+            <Data name="shirt_lacesZGGB-R2 High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesZGGB-R2 High</Data>
+            <Data name="shirt_metalZGGB-R2 High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedManga Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedManga Low</Data>
+            <Data name="emblemManga Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemManga Low</Data>
+            <Data name="legbinderManga Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderManga Low</Data>
+            <Data name="legbinder_lacesManga Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesManga Low</Data>
+            <Data name="legbinder_metalManga Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalManga Low</Data>
+            <Data name="pelvis_bandsManga Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsManga Low</Data>
+            <Data name="shirtManga Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtManga Low</Data>
+            <Data name="shirt_lacesManga Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesManga Low</Data>
+            <Data name="shirt_metalManga Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedManga High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedManga High</Data>
+            <Data name="emblemManga High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemManga High</Data>
+            <Data name="legbinderManga High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderManga High</Data>
+            <Data name="legbinder_lacesManga High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesManga High</Data>
+            <Data name="legbinder_metalManga High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalManga High</Data>
+            <Data name="pelvis_bandsManga High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsManga High</Data>
+            <Data name="shirtManga High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtManga High</Data>
+            <Data name="shirt_lacesManga High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesManga High</Data>
+            <Data name="shirt_metalManga High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedCHSBHC Low" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedCHSBHC Low</Data>
+            <Data name="emblemCHSBHC Low" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemCHSBHC Low</Data>
+            <Data name="legbinderCHSBHC Low" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderCHSBHC Low</Data>
+            <Data name="legbinder_lacesCHSBHC Low" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesCHSBHC Low</Data>
+            <Data name="legbinder_metalCHSBHC Low" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalCHSBHC Low</Data>
+            <Data name="pelvis_bandsCHSBHC Low" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsCHSBHC Low</Data>
+            <Data name="shirtCHSBHC Low" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtCHSBHC Low</Data>
+            <Data name="shirt_lacesCHSBHC Low" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesCHSBHC Low</Data>
+            <Data name="shirt_metalCHSBHC Low" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="UUNP OptimizedCHSBHC High" target="UUNP Optimized" local="true">straitjacket_leather_leg_topless.osd\UUNP OptimizedCHSBHC High</Data>
+            <Data name="emblemCHSBHC High" target="emblem" local="true">straitjacket_leather_leg_topless.osd\emblemCHSBHC High</Data>
+            <Data name="legbinderCHSBHC High" target="legbinder" local="true">straitjacket_leather_leg_topless.osd\legbinderCHSBHC High</Data>
+            <Data name="legbinder_lacesCHSBHC High" target="legbinder_laces" local="true">straitjacket_leather_leg_topless.osd\legbinder_lacesCHSBHC High</Data>
+            <Data name="legbinder_metalCHSBHC High" target="legbinder_metal" local="true">straitjacket_leather_leg_topless.osd\legbinder_metalCHSBHC High</Data>
+            <Data name="pelvis_bandsCHSBHC High" target="pelvis_bands" local="true">straitjacket_leather_leg_topless.osd\pelvis_bandsCHSBHC High</Data>
+            <Data name="shirtCHSBHC High" target="shirt" local="true">straitjacket_leather_leg_topless.osd\shirtCHSBHC High</Data>
+            <Data name="shirt_lacesCHSBHC High" target="shirt_laces" local="true">straitjacket_leather_leg_topless.osd\shirt_lacesCHSBHC High</Data>
+            <Data name="shirt_metalCHSBHC High" target="shirt_metal" local="true">straitjacket_leather_leg_topless.osd\shirt_metalCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
