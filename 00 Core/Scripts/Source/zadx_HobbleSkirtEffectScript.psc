@@ -7,6 +7,8 @@ Float SpeedMultDifferential = 0.0
 Float TargetSpeedMult = 50.0
 Float FlatSpeedDebuff = 50.0
 
+bool savedINIDampen
+
 Actor who
 Keyword Property zad_DeviousHobbleSkirtRelaxed Auto	;extreme or relaxed speed debuff
 GlobalVariable REQExhaustion	;Requiem setting responsible for its exhaustion slowdown, disabled while the dress is worn
@@ -32,6 +34,9 @@ Event OnEffectStart(Actor akTarget, Actor akCaster)
 	; For Princessity! *hugs*
 	TargetSpeedMult = 100 - Libs.Config.HobbleSkirtSpeedDebuff
 	FlatSpeedDebuff = Libs.Config.HobbleSkirtSpeedDebuff
+	
+	savedINIDampen = Utility.GetINIBool("bDampenPlayerControls:Controls")
+	Utility.SetINIBool("bDampenPlayerControls:Controls", false)
 	
 	If akTarget.WornHasKeyword(zad_DeviousHobbleSkirtRelaxed)
 		; With the current default values, the relaxed skirt needs no modification
@@ -61,6 +66,8 @@ EndEvent
 
 Event OnEffectFinish(Actor akTarget, Actor akCaster)
 	libs.Log("OnEffectFinish(): Hobble Skirt")
+	
+	Utility.SetINIBool("bDampenPlayerControls:Controls", savedINIDampen)
 	
 	If GetRequiem() == True && akTarget == Libs.PlayerRef
 		akTarget.RestoreAV("SpeedMult", FlatSpeedDebuff)
