@@ -8,6 +8,10 @@
         <Member name="DDX - CBBE - EboniteElegantDress"/>
         <Member name="DDX - CBBE - EboniteHobbleDress"/>
         <Member name="DDX - CBBE - EboniteHobbleDressOpen"/>
+		<Member name="DDX - CBBE - EboniteStraitjacket"/>
+		<Member name="DDX - CBBE - EboniteStraitjacketTopless"/>
+		<Member name="DDX - CBBE - EboniteStraitjacketLegbinder"/>
+		<Member name="DDX - CBBE - EboniteStraitjacketLegbinderTopless"/>
         <Member name="DDX - CBBE - EboniteLegCuffs"/>
         <Member name="DDX - CBBE - EbonitePawMittens"/>
         <Member name="DDX - CBBE - EbonitePonyBoots"/>
@@ -21,6 +25,10 @@
         <Member name="DDX - CBBE - LeatherElegantDress"/>
         <Member name="DDX - CBBE - LeatherHobbleDress"/>
         <Member name="DDX - CBBE - LeatherHobbleDressOpen"/>
+		<Member name="DDX - CBBE - LeatherStraitjacket"/>
+		<Member name="DDX - CBBE - LeatherStraitjacketTopless"/>
+		<Member name="DDX - CBBE - LeatherStraitjacketLegbinder"/>
+		<Member name="DDX - CBBE - LeatherStraitjacketLegbinderTopless"/>
         <Member name="DDX - CBBE - LeatherPawMittens"/>
         <Member name="DDX - CBBE - PonyBoots"/>
         <Member name="DDX - CBBE - RestrictiveBoots"/>
@@ -49,6 +57,10 @@
         <Member name="DDX - CBBE - EboniteElegantDress"/>
         <Member name="DDX - CBBE - EboniteHobbleDress"/>
         <Member name="DDX - CBBE - EboniteHobbleDressOpen"/>
+		<Member name="DDX - CBBE - EboniteStraitjacket"/>
+		<Member name="DDX - CBBE - EboniteStraitjacketTopless"/>
+		<Member name="DDX - CBBE - EboniteStraitjacketLegbinder"/>
+		<Member name="DDX - CBBE - EboniteStraitjacketLegbinderTopless"/>
         <Member name="DDX - CBBE - EboniteLegCuffs"/>
         <Member name="DDX - CBBE - EbonitePawMittens"/>
         <Member name="DDX - CBBE - EbonitePonyBoots"/>
@@ -62,6 +74,10 @@
         <Member name="DDX - CBBE - LeatherElegantDress"/>
         <Member name="DDX - CBBE - LeatherHobbleDress"/>
         <Member name="DDX - CBBE - LeatherHobbleDressOpen"/>
+		<Member name="DDX - CBBE - LeatherStraitjacket"/>
+		<Member name="DDX - CBBE - LeatherStraitjacketTopless"/>
+		<Member name="DDX - CBBE - LeatherStraitjacketLegbinder"/>
+		<Member name="DDX - CBBE - LeatherStraitjacketLegbinderTopless"/>
         <Member name="DDX - CBBE - LeatherPawMittens"/>
         <Member name="DDX - CBBE - PonyBoots"/>
         <Member name="DDX - CBBE - RestrictiveBoots"/>

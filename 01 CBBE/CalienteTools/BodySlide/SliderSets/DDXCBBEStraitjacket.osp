@@ -1,5 +1,5 @@
 <SliderSetInfo version="1">
-    <SliderSet name="DDX - Leather Straitjacket">
+    <SliderSet name="DDX - CBBE - LeatherStraitjacket">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>straitjacket_leather.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -449,7 +449,7 @@
             <Data name="shirtShoulderTweak" target="shirt" local="true">straitjacket_leather_leg.osd\shirtShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - Topless Leather Straitjacket">
+    <SliderSet name="DDX - CBBE - LeatherStraitjacketTopless">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>straitjacket_leather_topless.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -899,7 +899,7 @@
             <Data name="shirtShoulderTweak" target="shirt" local="true">straitjacket_leather_leg.osd\shirtShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - Leather Straitjacket with Legbinder">
+    <SliderSet name="DDX - CBBE - LeatherStraitjacketLegbinder">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>straitjacket_leather_leg.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -1349,7 +1349,7 @@
             <Data name="shirtShoulderTweak" target="shirt" local="true">straitjacket_leather_leg.osd\shirtShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - Topless Leather Straitjacket with Legbinder">
+    <SliderSet name="DDX - CBBE - LeatherStraitjacketLegbinderTopless">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>straitjacket_leather_leg_topless.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -1799,7 +1799,7 @@
             <Data name="shirtShoulderTweak" target="shirt" local="true">straitjacket_leather_leg.osd\shirtShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - Ebonite Straitjacket">
+    <SliderSet name="DDX - CBBE - EboniteStraitjacket">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>straitjacket_ebonite.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -2249,7 +2249,7 @@
             <Data name="shirtShoulderTweak" target="shirt" local="true">straitjacket_leather_leg.osd\shirtShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - Topless Ebonite Straitjacket">
+    <SliderSet name="DDX - CBBE - EboniteStraitjacketTopless">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>straitjacket_ebonite_topless.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -2699,7 +2699,7 @@
             <Data name="shirtShoulderTweak" target="shirt" local="true">straitjacket_leather_leg.osd\shirtShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - Ebonite Straitjacket with Legbinder">
+    <SliderSet name="DDX - CBBE - EboniteStraitjacketLegbinder">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>straitjacket_ebonite_leg.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
@@ -3149,7 +3149,7 @@
             <Data name="shirtShoulderTweak" target="shirt" local="true">straitjacket_leather_leg.osd\shirtShoulderTweak</Data>
         </Slider>
     </SliderSet>
-    <SliderSet name="DDX - Topless Ebonite Straitjacket with Legbinder">
+    <SliderSet name="DDX - CBBE - EboniteStraitjacketLegbinderTopless">
         <DataFolder>Devious Devices Expansion</DataFolder>
         <SourceFile>straitjacket_ebonite_leg_topless.nif</SourceFile>
         <OutputPath>meshes\devious\devices</OutputPath>
