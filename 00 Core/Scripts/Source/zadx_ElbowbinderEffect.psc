@@ -53,8 +53,8 @@ EndEvent
 
 Event OnEffectStart(Actor akTarget, Actor akCaster)
 	if akTarget != libs.PlayerRef
-		;libs.BoundCombat.Apply_ABC(akTarget)
-		;libs.BoundCombat.Apply_NPC_ABC(akTarget)
+		libs.BoundCombat.EvaluateAA(akTarget)
+		libs.BoundCombat.Apply_NPC_ABC(akTarget)
 		return
 	EndIf
 	libs.Log("OnEffectStart(): Elbowbinder")	
@@ -81,9 +81,9 @@ Event OnEffectFinish(Actor akTarget, Actor akCaster)
 		libs.UpdateControls()
 		; UnregisterForAllKeys() ; Not necessary: Automatically unregistered on effect expiration
 	else
-		;libs.BoundCombat.Remove_NPC_ABC(akTarget)
+		libs.BoundCombat.Remove_NPC_ABC(akTarget)
 	EndIf
-	;libs.BoundCombat.Remove_ABC(akTarget)
+	libs.BoundCombat.EvaluateAA(akTarget)
 EndEvent
 
 
@@ -96,7 +96,7 @@ Event OnKeyDown(Int KeyCode)
 EndEvent
 
 Function PlayBoundIdle()
-	;libs.BoundCombat.Apply_ABC(target)
+	libs.BoundCombat.EvaluateAA(target)
 	if !Terminate && libs.IsValidActor(target) && !libs.IsAnimating(target) && !target.IsInFaction(libs.SexLabAnimatingFaction) 
 		libs.ApplyBoundAnim(target)
 	EndIf
