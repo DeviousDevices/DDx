@@ -30,13 +30,7 @@ EndFunction
 Function DeviceMenuPostStruggle()
 	If devicekey && libs.PlayerRef.GetItemCount(devicekey) < 1
 		libs.notify("Struggle as you might, but without the proper key, there will be no chance to escape your bindings.", true)
-		return
-	ElseIf devicekey && libs.PlayerRef.GetItemCount(devicekey) > 0
-		If Utility.RandomFloat(0.0, 99.9) < Libs.Config.DestroyKeyProbability
-			libs.notify("You struggle a bit too hard while trying to insert the key into the lock - and break the key in the process. Oh no!", true)
-			libs.PlayerRef.RemoveItem(devicekey, 1)
-			return
-		EndIf
+		return	
 	EndIf
 	if IsLoose || (StruggleCount >= Libs.Config.ArmbinderMinStruggle) && (Utility.RandomFloat(0.0, 99.9) < Libs.Config.ArmbinderStruggleBaseChance + StruggleCount)
 		zadx_StraitJacketStruggleLooseMsg.Show()
