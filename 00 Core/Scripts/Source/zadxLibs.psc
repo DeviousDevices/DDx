@@ -3,11 +3,11 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 4
+    return 5
 EndFunction
 
 String function GetVersionString()
-    return "3.1"
+    return "4.0"
 EndFunction
 
 
@@ -483,7 +483,7 @@ Armor Property zadx_PawBondageMittensRedLatexRendered Auto
 Armor Property zadx_PawBondageMittensWhiteLatexInventory Auto
 Armor Property zadx_PawBondageMittensWhiteLatexRendered Auto
 ; Straitjackets
-; Dresses:
+; w/ Legbinder:
 Armor Property zadx_StraitJacketLeatherLegsBlackInventory Auto
 Armor Property zadx_StraitJacketLeatherLegsBlackRendered Auto
 Armor Property zadx_StraitJacketLeatherLegsRedInventory Auto
@@ -522,7 +522,7 @@ Armor Property zadx_StraitJacketLatexToplessRedInventory Auto
 Armor Property zadx_StraitJacketLatexToplessRedRendered Auto
 Armor Property zadx_StraitJacketLatexToplessWhiteInventory Auto
 Armor Property zadx_StraitJacketLatexToplessWhiteRendered Auto
-; Open dresses
+; Open, w/ legbinder
 Armor Property zadx_StraitJacketLeatherLegsToplessBlackInventory Auto
 Armor Property zadx_StraitJacketLeatherLegsToplessBlackRendered Auto
 Armor Property zadx_StraitJacketLeatherLegsToplessRedInventory Auto
@@ -535,6 +535,11 @@ Armor Property zadx_StraitJacketLatexLegsToplessRedInventory Auto
 Armor Property zadx_StraitJacketLatexLegsToplessRedRendered Auto
 Armor Property zadx_StraitJacketLatexLegsToplessWhiteInventory Auto
 Armor Property zadx_StraitJacketLatexLegsToplessWhiteRendered Auto
+; w/ hobble skirt:
+Armor Property zadx_StraitJacketLatexDressBlackInventory Auto
+Armor Property zadx_StraitJacketLatexDressBlackRendered Auto
+Armor Property zadx_StraitJacketLatexDressToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLatexDressToplessBlackRendered Auto
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
