@@ -1,0 +1,400 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - CBBE - LeatherStraitjacketxHobble">
+        <DataFolder>Devious Devices Expansion</DataFolder>
+        <SourceFile>straitjacket_leather_hobble.nif</SourceFile>
+        <OutputPath>meshes\devious\devices</OutputPath>
+        <OutputFile GenWeights="true">straitjacket_leather_hobble</OutputFile>
+        <Shape target="arms">arms</Shape>
+        <Shape target="arms_metal">arms_metal</Shape>
+        <Shape target="body" DataFolder="Devious Devices Expansion">body</Shape>
+        <Shape target="breast_cover">breast_cover</Shape>
+        <Shape target="dress leather cbbe">dress leather cbbe</Shape>
+        <Shape target="emblem">emblem</Shape>
+        <Shape target="pads">pads</Shape>
+        <Shape target="shirt">shirt</Shape>
+        <Shape target="shirt_laces">shirt_laces</Shape>
+        <Shape target="shirt_metal">shirt_metal</Shape>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <Data name="bodyBreasts" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreasts</Data>
+            <Data name="shirtBreasts" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreasts</Data>
+            <Data name="breast_coverBreasts" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="bodyBreastsSmall" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastsSmall</Data>
+            <Data name="emblemBreastsSmall" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemBreastsSmall</Data>
+            <Data name="shirtBreastsSmall" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastsSmall</Data>
+            <Data name="breast_coverBreastsSmall" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastsSmall</Data>
+            <Data name="dress leather cbbeBreastsSmall" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="bodyBreastsSH" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastsSH</Data>
+            <Data name="shirtBreastsSH" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastsSH</Data>
+            <Data name="breast_coverBreastsSH" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="bodyBreastsSSH" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastsSSH</Data>
+            <Data name="shirtBreastsSSH" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastsSSH</Data>
+            <Data name="breast_coverBreastsSSH" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="bodyBreastsFantasy" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastsFantasy</Data>
+            <Data name="shirtBreastsFantasy" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastsFantasy</Data>
+            <Data name="breast_coverBreastsFantasy" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="bodyDoubleMelon" target="body" local="true">straitjacket_leather_hobble.osd\bodyDoubleMelon</Data>
+            <Data name="shirtDoubleMelon" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtDoubleMelon</Data>
+            <Data name="breast_coverDoubleMelon" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="bodyBreastCleavage" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastCleavage</Data>
+            <Data name="shirtBreastCleavage" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastCleavage</Data>
+            <Data name="breast_coverBreastCleavage" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="bodyBreastFlatness" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastFlatness</Data>
+            <Data name="shirtBreastFlatness" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastFlatness</Data>
+            <Data name="shirt_metalBreastFlatness" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalBreastFlatness</Data>
+            <Data name="breast_coverBreastFlatness" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="bodyBreastGravity" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastGravity</Data>
+            <Data name="shirtBreastGravity" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastGravity</Data>
+            <Data name="breast_coverBreastGravity" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="bodyPushUp" target="body" local="true">straitjacket_leather_hobble.osd\bodyPushUp</Data>
+            <Data name="shirtPushUp" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtPushUp</Data>
+            <Data name="breast_coverPushUp" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="bodyBreastHeight" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastHeight</Data>
+            <Data name="emblemBreastHeight" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemBreastHeight</Data>
+            <Data name="shirtBreastHeight" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastHeight</Data>
+            <Data name="shirt_lacesBreastHeight" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesBreastHeight</Data>
+            <Data name="shirt_metalBreastHeight" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalBreastHeight</Data>
+            <Data name="breast_coverBreastHeight" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastHeight</Data>
+            <Data name="dress leather cbbeBreastHeight" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="bodyBreastPerkiness" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastPerkiness</Data>
+            <Data name="shirtBreastPerkiness" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastPerkiness</Data>
+            <Data name="breast_coverBreastPerkiness" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="bodyBreastWidth" target="body" local="true">straitjacket_leather_hobble.osd\bodyBreastWidth</Data>
+            <Data name="shirtBreastWidth" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBreastWidth</Data>
+            <Data name="shirt_metalBreastWidth" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalBreastWidth</Data>
+            <Data name="breast_coverBreastWidth" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="bodyNippleDistance" target="body" local="true">straitjacket_leather_hobble.osd\bodyNippleDistance</Data>
+            <Data name="breast_coverNippleDistance" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="bodyNipplePerkiness" target="body" local="true">straitjacket_leather_hobble.osd\bodyNipplePerkiness</Data>
+            <Data name="breast_coverNipplePerkiness" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="bodyNippleLength" target="body" local="true">straitjacket_leather_hobble.osd\bodyNippleLength</Data>
+            <Data name="shirtNippleLength" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtNippleLength</Data>
+            <Data name="shirt_lacesNippleLength" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesNippleLength</Data>
+            <Data name="shirt_metalNippleLength" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalNippleLength</Data>
+            <Data name="breast_coverNippleLength" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="bodyNippleSize" target="body" local="true">straitjacket_leather_hobble.osd\bodyNippleSize</Data>
+            <Data name="breast_coverNippleSize" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="bodyNippleAreola" target="body" local="true">straitjacket_leather_hobble.osd\bodyNippleAreola</Data>
+            <Data name="shirtNippleAreola" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtNippleAreola</Data>
+            <Data name="breast_coverNippleAreola" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="bodyNippleUp" target="body" local="true">straitjacket_leather_hobble.osd\bodyNippleUp</Data>
+            <Data name="shirtNippleUp" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtNippleUp</Data>
+            <Data name="breast_coverNippleUp" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="bodyNippleDown" target="body" local="true">straitjacket_leather_hobble.osd\bodyNippleDown</Data>
+            <Data name="shirtNippleDown" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtNippleDown</Data>
+            <Data name="breast_coverNippleDown" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="bodyNippleTip" target="body" local="true">straitjacket_leather_hobble.osd\bodyNippleTip</Data>
+            <Data name="breast_coverNippleTip" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <Data name="bodyArms" target="body" local="true">straitjacket_leather_hobble.osd\bodyArms</Data>
+            <Data name="armsArms" target="arms" local="true">straitjacket_leather_hobble.osd\armsArms</Data>
+            <Data name="arms_metalArms" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalArms</Data>
+            <Data name="padsArms" target="pads" local="true">straitjacket_leather_hobble.osd\padsArms</Data>
+            <Data name="shirtArms" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtArms</Data>
+            <Data name="shirt_lacesArms" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesArms</Data>
+            <Data name="shirt_metalArms" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalArms</Data>
+            <Data name="breast_coverArms" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="bodyChubbyArms" target="body" local="true">straitjacket_leather_hobble.osd\bodyChubbyArms</Data>
+            <Data name="armsChubbyArms" target="arms" local="true">straitjacket_leather_hobble.osd\armsChubbyArms</Data>
+            <Data name="arms_metalChubbyArms" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalChubbyArms</Data>
+            <Data name="padsChubbyArms" target="pads" local="true">straitjacket_leather_hobble.osd\padsChubbyArms</Data>
+            <Data name="shirtChubbyArms" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtChubbyArms</Data>
+            <Data name="breast_coverChubbyArms" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="bodyShoulderSmooth" target="body" local="true">straitjacket_leather_hobble.osd\bodyShoulderSmooth</Data>
+            <Data name="armsShoulderSmooth" target="arms" local="true">straitjacket_leather_hobble.osd\armsShoulderSmooth</Data>
+            <Data name="padsShoulderSmooth" target="pads" local="true">straitjacket_leather_hobble.osd\padsShoulderSmooth</Data>
+            <Data name="shirtShoulderSmooth" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtShoulderSmooth</Data>
+            <Data name="shirt_lacesShoulderSmooth" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesShoulderSmooth</Data>
+            <Data name="shirt_metalShoulderSmooth" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalShoulderSmooth</Data>
+            <Data name="breast_coverShoulderSmooth" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="bodyShoulderWidth" target="body" local="true">straitjacket_leather_hobble.osd\bodyShoulderWidth</Data>
+            <Data name="armsShoulderWidth" target="arms" local="true">straitjacket_leather_hobble.osd\armsShoulderWidth</Data>
+            <Data name="arms_metalShoulderWidth" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalShoulderWidth</Data>
+            <Data name="padsShoulderWidth" target="pads" local="true">straitjacket_leather_hobble.osd\padsShoulderWidth</Data>
+            <Data name="shirtShoulderWidth" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtShoulderWidth</Data>
+            <Data name="shirt_lacesShoulderWidth" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesShoulderWidth</Data>
+            <Data name="shirt_metalShoulderWidth" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalShoulderWidth</Data>
+            <Data name="breast_coverShoulderWidth" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="bodyBigTorso" target="body" local="true">straitjacket_leather_hobble.osd\bodyBigTorso</Data>
+            <Data name="armsBigTorso" target="arms" local="true">straitjacket_leather_hobble.osd\armsBigTorso</Data>
+            <Data name="arms_metalBigTorso" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalBigTorso</Data>
+            <Data name="emblemBigTorso" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemBigTorso</Data>
+            <Data name="padsBigTorso" target="pads" local="true">straitjacket_leather_hobble.osd\padsBigTorso</Data>
+            <Data name="shirtBigTorso" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBigTorso</Data>
+            <Data name="shirt_lacesBigTorso" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesBigTorso</Data>
+            <Data name="shirt_metalBigTorso" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalBigTorso</Data>
+            <Data name="breast_coverBigTorso" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBigTorso</Data>
+            <Data name="dress leather cbbeBigTorso" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <Data name="bodyWaist" target="body" local="true">straitjacket_leather_hobble.osd\bodyWaist</Data>
+            <Data name="emblemWaist" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemWaist</Data>
+            <Data name="shirtWaist" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtWaist</Data>
+            <Data name="shirt_lacesWaist" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesWaist</Data>
+            <Data name="shirt_metalWaist" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalWaist</Data>
+            <Data name="breast_coverWaist" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverWaist</Data>
+            <Data name="dress leather cbbeWaist" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="bodyWideWaistLine" target="body" local="true">straitjacket_leather_hobble.osd\bodyWideWaistLine</Data>
+            <Data name="shirtWideWaistLine" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtWideWaistLine</Data>
+            <Data name="shirt_metalWideWaistLine" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalWideWaistLine</Data>
+            <Data name="breast_coverWideWaistLine" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverWideWaistLine</Data>
+            <Data name="dress leather cbbeWideWaistLine" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="bodyChubbyWaist" target="body" local="true">straitjacket_leather_hobble.osd\bodyChubbyWaist</Data>
+            <Data name="emblemChubbyWaist" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemChubbyWaist</Data>
+            <Data name="shirtChubbyWaist" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtChubbyWaist</Data>
+            <Data name="shirt_lacesChubbyWaist" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesChubbyWaist</Data>
+            <Data name="shirt_metalChubbyWaist" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalChubbyWaist</Data>
+            <Data name="breast_coverChubbyWaist" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverChubbyWaist</Data>
+            <Data name="dress leather cbbeChubbyWaist" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="bodyBelly" target="body" local="true">straitjacket_leather_hobble.osd\bodyBelly</Data>
+            <Data name="emblemBelly" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemBelly</Data>
+            <Data name="shirtBelly" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBelly</Data>
+            <Data name="breast_coverBelly" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBelly</Data>
+            <Data name="dress leather cbbeBelly" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="bodyBigBelly" target="body" local="true">straitjacket_leather_hobble.osd\bodyBigBelly</Data>
+            <Data name="emblemBigBelly" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemBigBelly</Data>
+            <Data name="shirtBigBelly" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBigBelly</Data>
+            <Data name="shirt_metalBigBelly" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalBigBelly</Data>
+            <Data name="breast_coverBigBelly" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBigBelly</Data>
+            <Data name="dress leather cbbeBigBelly" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="bodyPregnancyBelly" target="body" local="true">straitjacket_leather_hobble.osd\bodyPregnancyBelly</Data>
+            <Data name="emblemPregnancyBelly" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemPregnancyBelly</Data>
+            <Data name="shirtPregnancyBelly" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtPregnancyBelly</Data>
+            <Data name="shirt_lacesPregnancyBelly" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesPregnancyBelly</Data>
+            <Data name="shirt_metalPregnancyBelly" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalPregnancyBelly</Data>
+            <Data name="breast_coverPregnancyBelly" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverPregnancyBelly</Data>
+            <Data name="dress leather cbbePregnancyBelly" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbePregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="bodyTummyTuck" target="body" local="true">straitjacket_leather_hobble.osd\bodyTummyTuck</Data>
+            <Data name="emblemTummyTuck" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemTummyTuck</Data>
+            <Data name="shirtTummyTuck" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtTummyTuck</Data>
+            <Data name="breast_coverTummyTuck" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverTummyTuck</Data>
+            <Data name="dress leather cbbeTummyTuck" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="bodyBack" target="body" local="true">straitjacket_leather_hobble.osd\bodyBack</Data>
+            <Data name="armsBack" target="arms" local="true">straitjacket_leather_hobble.osd\armsBack</Data>
+            <Data name="arms_metalBack" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalBack</Data>
+            <Data name="emblemBack" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemBack</Data>
+            <Data name="padsBack" target="pads" local="true">straitjacket_leather_hobble.osd\padsBack</Data>
+            <Data name="shirtBack" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBack</Data>
+            <Data name="shirt_lacesBack" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesBack</Data>
+            <Data name="shirt_metalBack" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalBack</Data>
+            <Data name="breast_coverBack" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBack</Data>
+            <Data name="dress leather cbbeBack" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="bodyHipbone" target="body" local="true">straitjacket_leather_hobble.osd\bodyHipbone</Data>
+            <Data name="armsHipbone" target="arms" local="true">straitjacket_leather_hobble.osd\armsHipbone</Data>
+            <Data name="arms_metalHipbone" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalHipbone</Data>
+            <Data name="emblemHipbone" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemHipbone</Data>
+            <Data name="shirtHipbone" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtHipbone</Data>
+            <Data name="shirt_metalHipbone" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalHipbone</Data>
+            <Data name="dress leather cbbeHipbone" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="bodyHips" target="body" local="true">straitjacket_leather_hobble.osd\bodyHips</Data>
+            <Data name="armsHips" target="arms" local="true">straitjacket_leather_hobble.osd\armsHips</Data>
+            <Data name="arms_metalHips" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalHips</Data>
+            <Data name="emblemHips" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemHips</Data>
+            <Data name="shirtHips" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtHips</Data>
+            <Data name="shirt_lacesHips" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesHips</Data>
+            <Data name="shirt_metalHips" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalHips</Data>
+            <Data name="breast_coverHips" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverHips</Data>
+            <Data name="dress leather cbbeHips" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="bodyButtCrack" target="body" local="true">straitjacket_leather_hobble.osd\bodyButtCrack</Data>
+            <Data name="shirtButtCrack" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtButtCrack</Data>
+            <Data name="shirt_lacesButtCrack" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesButtCrack</Data>
+            <Data name="shirt_metalButtCrack" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalButtCrack</Data>
+            <Data name="dress leather cbbeButtCrack" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <Data name="bodyButt" target="body" local="true">straitjacket_leather_hobble.osd\bodyButt</Data>
+            <Data name="armsButt" target="arms" local="true">straitjacket_leather_hobble.osd\armsButt</Data>
+            <Data name="arms_metalButt" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalButt</Data>
+            <Data name="shirtButt" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtButt</Data>
+            <Data name="shirt_lacesButt" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesButt</Data>
+            <Data name="shirt_metalButt" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalButt</Data>
+            <Data name="dress leather cbbeButt" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="bodyButtSmall" target="body" local="true">straitjacket_leather_hobble.osd\bodyButtSmall</Data>
+            <Data name="armsButtSmall" target="arms" local="true">straitjacket_leather_hobble.osd\armsButtSmall</Data>
+            <Data name="arms_metalButtSmall" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalButtSmall</Data>
+            <Data name="emblemButtSmall" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemButtSmall</Data>
+            <Data name="shirtButtSmall" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtButtSmall</Data>
+            <Data name="shirt_lacesButtSmall" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesButtSmall</Data>
+            <Data name="shirt_metalButtSmall" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalButtSmall</Data>
+            <Data name="dress leather cbbeButtSmall" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="bodyButtShape2" target="body" local="true">straitjacket_leather_hobble.osd\bodyButtShape2</Data>
+            <Data name="armsButtShape2" target="arms" local="true">straitjacket_leather_hobble.osd\armsButtShape2</Data>
+            <Data name="arms_metalButtShape2" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalButtShape2</Data>
+            <Data name="emblemButtShape2" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemButtShape2</Data>
+            <Data name="shirtButtShape2" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtButtShape2</Data>
+            <Data name="shirt_lacesButtShape2" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesButtShape2</Data>
+            <Data name="shirt_metalButtShape2" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalButtShape2</Data>
+            <Data name="breast_coverButtShape2" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverButtShape2</Data>
+            <Data name="dress leather cbbeButtShape2" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="bodyBigButt" target="body" local="true">straitjacket_leather_hobble.osd\bodyBigButt</Data>
+            <Data name="armsBigButt" target="arms" local="true">straitjacket_leather_hobble.osd\armsBigButt</Data>
+            <Data name="arms_metalBigButt" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalBigButt</Data>
+            <Data name="emblemBigButt" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemBigButt</Data>
+            <Data name="shirtBigButt" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtBigButt</Data>
+            <Data name="shirt_lacesBigButt" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesBigButt</Data>
+            <Data name="shirt_metalBigButt" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalBigButt</Data>
+            <Data name="breast_coverBigButt" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverBigButt</Data>
+            <Data name="dress leather cbbeBigButt" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="bodyChubbyButt" target="body" local="true">straitjacket_leather_hobble.osd\bodyChubbyButt</Data>
+            <Data name="armsChubbyButt" target="arms" local="true">straitjacket_leather_hobble.osd\armsChubbyButt</Data>
+            <Data name="arms_metalChubbyButt" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalChubbyButt</Data>
+            <Data name="emblemChubbyButt" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemChubbyButt</Data>
+            <Data name="shirtChubbyButt" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtChubbyButt</Data>
+            <Data name="shirt_lacesChubbyButt" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesChubbyButt</Data>
+            <Data name="shirt_metalChubbyButt" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalChubbyButt</Data>
+            <Data name="breast_coverChubbyButt" target="breast_cover" local="true">straitjacket_leather_hobble.osd\breast_coverChubbyButt</Data>
+            <Data name="dress leather cbbeChubbyButt" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="bodyAppleCheeks" target="body" local="true">straitjacket_leather_hobble.osd\bodyAppleCheeks</Data>
+            <Data name="armsAppleCheeks" target="arms" local="true">straitjacket_leather_hobble.osd\armsAppleCheeks</Data>
+            <Data name="arms_metalAppleCheeks" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalAppleCheeks</Data>
+            <Data name="shirtAppleCheeks" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtAppleCheeks</Data>
+            <Data name="shirt_lacesAppleCheeks" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesAppleCheeks</Data>
+            <Data name="shirt_metalAppleCheeks" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalAppleCheeks</Data>
+            <Data name="dress leather cbbeAppleCheeks" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="bodyRoundAss" target="body" local="true">straitjacket_leather_hobble.osd\bodyRoundAss</Data>
+            <Data name="arms_metalRoundAss" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalRoundAss</Data>
+            <Data name="shirtRoundAss" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtRoundAss</Data>
+            <Data name="shirt_lacesRoundAss" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesRoundAss</Data>
+            <Data name="shirt_metalRoundAss" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalRoundAss</Data>
+            <Data name="dress leather cbbeRoundAss" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeRoundAss</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="shirtGroin" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtGroin</Data>
+            <Data name="dress leather cbbeGroin" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeGroin</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="bodySlimThighs" target="body" local="true">straitjacket_leather_hobble.osd\bodySlimThighs</Data>
+            <Data name="armsSlimThighs" target="arms" local="true">straitjacket_leather_hobble.osd\armsSlimThighs</Data>
+            <Data name="arms_metalSlimThighs" target="arms_metal" local="true">straitjacket_leather_hobble.osd\arms_metalSlimThighs</Data>
+            <Data name="emblemSlimThighs" target="emblem" local="true">straitjacket_leather_hobble.osd\emblemSlimThighs</Data>
+            <Data name="shirtSlimThighs" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtSlimThighs</Data>
+            <Data name="shirt_lacesSlimThighs" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesSlimThighs</Data>
+            <Data name="shirt_metalSlimThighs" target="shirt_metal" local="true">straitjacket_leather_hobble.osd\shirt_metalSlimThighs</Data>
+            <Data name="dress leather cbbeSlimThighs" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="shirtThighs" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtThighs</Data>
+            <Data name="dress leather cbbeThighs" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="bodyChubbyLegs" target="body" local="true">straitjacket_leather_hobble.osd\bodyChubbyLegs</Data>
+            <Data name="armsChubbyLegs" target="arms" local="true">straitjacket_leather_hobble.osd\armsChubbyLegs</Data>
+            <Data name="shirtChubbyLegs" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtChubbyLegs</Data>
+            <Data name="dress leather cbbeChubbyLegs" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <Data name="bodyLegs" target="body" local="true">straitjacket_leather_hobble.osd\bodyLegs</Data>
+            <Data name="armsLegs" target="arms" local="true">straitjacket_leather_hobble.osd\armsLegs</Data>
+            <Data name="shirtLegs" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtLegs</Data>
+            <Data name="dress leather cbbeLegs" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="bodyKneeHeight" target="body" local="true">straitjacket_leather_hobble.osd\bodyKneeHeight</Data>
+            <Data name="dress leather cbbeKneeHeight" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="bodyCalfSize" target="body" local="true">straitjacket_leather_hobble.osd\bodyCalfSize</Data>
+            <Data name="dress leather cbbeCalfSize" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="bodyCalfSmooth" target="body" local="true">straitjacket_leather_hobble.osd\bodyCalfSmooth</Data>
+            <Data name="dress leather cbbeCalfSmooth" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeCalfSmooth</Data>
+        </Slider>
+        <Slider name="Ankles" invert="true" small="100" big="100">
+            <Data name="bodyAnkles" target="body" local="true">straitjacket_leather_hobble.osd\bodyAnkles</Data>
+            <Data name="dress leather cbbeAnkles" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeAnkles</Data>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="bodySmallSeam" target="body" local="true">straitjacket_leather_hobble.osd\bodySmallSeam</Data>
+            <Data name="shirtSmallSeam" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtSmallSeam</Data>
+            <Data name="shirt_lacesSmallSeam" target="shirt_laces" local="true">straitjacket_leather_hobble.osd\shirt_lacesSmallSeam</Data>
+            <Data name="dress leather cbbeSmallSeam" target="dress leather cbbe" local="true">straitjacket_leather_hobble.osd\dress leather cbbeSmallSeam</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="100" big="100" hidden="true">
+            <Data name="bodyShoulderTweak" target="body" local="true">straitjacket_leather_hobble.osd\bodyShoulderTweak</Data>
+            <Data name="armsShoulderTweak" target="arms" local="true">straitjacket_leather_hobble.osd\armsShoulderTweak</Data>
+            <Data name="padsShoulderTweak" target="pads" local="true">straitjacket_leather_hobble.osd\padsShoulderTweak</Data>
+            <Data name="shirtShoulderTweak" target="shirt" local="true">straitjacket_leather_hobble.osd\shirtShoulderTweak</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
