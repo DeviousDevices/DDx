@@ -541,6 +541,30 @@ Armor Property zadx_StraitJacketLatexDressBlackRendered Auto
 Armor Property zadx_StraitJacketLatexDressToplessBlackInventory Auto
 Armor Property zadx_StraitJacketLatexDressToplessBlackRendered Auto
 
+; Duderino's items
+; Pony gags
+Armor Property zadx_dud_Pony_BitGag_Chin_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Ebonite_BlackRendered Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Ebonite_BlackRendered Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Ebonite_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Ebonite_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Ebonite_BlackRendered Auto
+
+
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
 Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool skipEvents = false)
