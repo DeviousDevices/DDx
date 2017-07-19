@@ -1,0 +1,495 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - UUNP - BBYoke01">
+        <DataFolder>DDX_Heretical\HR_BBYoke01</DataFolder>
+        <SourceFile>HR_BBYoke01.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\BreastBondage</OutputPath>
+        <OutputFile GenWeights="true">HR_BBYoke01</OutputFile>
+        <Shape target="BBYoke_IronM_None">BBYoke_IronM_None</Shape>
+        <Shape target="UUNP" DataFolder="BBYoke01UUNP">UUNP</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="UUNPBreasts" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreasts</Data>
+            <Data name="BBYoke_IronM_NoneBreasts" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="UUNPBreastsSmall" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastsSmall</Data>
+            <Data name="BBYoke_IronM_NoneBreastsSmall" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="UUNPBreastsSH" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastsSH</Data>
+            <Data name="BBYoke_IronM_NoneBreastsSH" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="UUNPBreastsSSH" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastsSSH</Data>
+            <Data name="BBYoke_IronM_NoneBreastsSSH" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="UUNPBreastsFantasy" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastsFantasy</Data>
+            <Data name="BBYoke_IronM_NoneBreastsFantasy" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="UUNPDoubleMelon" target="UUNP" local="true">HR_BBYoke01.osd\UUNPDoubleMelon</Data>
+            <Data name="BBYoke_IronM_NoneDoubleMelon" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="UUNPBreastCleavage" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastCleavage</Data>
+            <Data name="BBYoke_IronM_NoneBreastCleavage" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="UUNPBreastFlatness" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastFlatness</Data>
+            <Data name="BBYoke_IronM_NoneBreastFlatness" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="UUNPBreastGravity" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastGravity</Data>
+            <Data name="BBYoke_IronM_NoneBreastGravity" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="UUNPPushUp" target="UUNP" local="true">HR_BBYoke01.osd\UUNPPushUp</Data>
+            <Data name="BBYoke_IronM_NonePushUp" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NonePushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="UUNPBreastHeight" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastHeight</Data>
+            <Data name="BBYoke_IronM_NoneBreastHeight" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="UUNPBreastPerkiness" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastPerkiness</Data>
+            <Data name="BBYoke_IronM_NoneBreastPerkiness" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="UUNPBreastWidth" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBreastWidth</Data>
+            <Data name="BBYoke_IronM_NoneBreastWidth" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="UUNPNippleDistance" target="UUNP" local="true">HR_BBYoke01.osd\UUNPNippleDistance</Data>
+            <Data name="BBYoke_IronM_NoneNippleDistance" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="UUNPNipplePerkiness" target="UUNP" local="true">HR_BBYoke01.osd\UUNPNipplePerkiness</Data>
+            <Data name="BBYoke_IronM_NoneNipplePerkiness" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="UUNPNippleLength" target="UUNP" local="true">HR_BBYoke01.osd\UUNPNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="UUNPNippleSize" target="UUNP" local="true">HR_BBYoke01.osd\UUNPNippleSize</Data>
+            <Data name="BBYoke_IronM_NoneNippleSize" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="UUNPNippleAreola" target="UUNP" local="true">HR_BBYoke01.osd\UUNPNippleAreola</Data>
+            <Data name="BBYoke_IronM_NoneNippleAreola" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="UUNPNippleUp" target="UUNP" local="true">HR_BBYoke01.osd\UUNPNippleUp</Data>
+            <Data name="BBYoke_IronM_NoneNippleUp" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="UUNPNippleDown" target="UUNP" local="true">HR_BBYoke01.osd\UUNPNippleDown</Data>
+            <Data name="BBYoke_IronM_NoneNippleDown" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="UUNPNippleTip" target="UUNP" local="true">HR_BBYoke01.osd\UUNPNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="UUNPArms" target="UUNP" local="true">HR_BBYoke01.osd\UUNPArms</Data>
+            <Data name="BBYoke_IronM_NoneArms" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="UUNPChubbyArms" target="UUNP" local="true">HR_BBYoke01.osd\UUNPChubbyArms</Data>
+            <Data name="BBYoke_IronM_NoneChubbyArms" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="UUNPShoulderSmooth" target="UUNP" local="true">HR_BBYoke01.osd\UUNPShoulderSmooth</Data>
+            <Data name="BBYoke_IronM_NoneShoulderSmooth" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="UUNPShoulderWidth" target="UUNP" local="true">HR_BBYoke01.osd\UUNPShoulderWidth</Data>
+            <Data name="BBYoke_IronM_NoneShoulderWidth" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="UUNPBigTorso" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBigTorso</Data>
+            <Data name="BBYoke_IronM_NoneBigTorso" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="UUNPWaist" target="UUNP" local="true">HR_BBYoke01.osd\UUNPWaist</Data>
+            <Data name="BBYoke_IronM_NoneWaist" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="UUNPWideWaistLine" target="UUNP" local="true">HR_BBYoke01.osd\UUNPWideWaistLine</Data>
+            <Data name="BBYoke_IronM_NoneWideWaistLine" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="UUNPChubbyWaist" target="UUNP" local="true">HR_BBYoke01.osd\UUNPChubbyWaist</Data>
+            <Data name="BBYoke_IronM_NoneChubbyWaist" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="UUNPBelly" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBelly</Data>
+            <Data name="BBYoke_IronM_NoneBelly" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="UUNPBigBelly" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBigBelly</Data>
+            <Data name="BBYoke_IronM_NoneBigBelly" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="UUNPPregnancyBelly" target="UUNP" local="true">HR_BBYoke01.osd\UUNPPregnancyBelly</Data>
+            <Data name="BBYoke_IronM_NonePregnancyBelly" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NonePregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="UUNPTummyTuck" target="UUNP" local="true">HR_BBYoke01.osd\UUNPTummyTuck</Data>
+            <Data name="BBYoke_IronM_NoneTummyTuck" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="UUNPBack" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBack</Data>
+            <Data name="BBYoke_IronM_NoneBack" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="UUNPHipbone" target="UUNP" local="true">HR_BBYoke01.osd\UUNPHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="UUNPHips" target="UUNP" local="true">HR_BBYoke01.osd\UUNPHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="UUNPButtCrack" target="UUNP" local="true">HR_BBYoke01.osd\UUNPButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="UUNPButt" target="UUNP" local="true">HR_BBYoke01.osd\UUNPButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="UUNPButtSmall" target="UUNP" local="true">HR_BBYoke01.osd\UUNPButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="UUNPButtShape2" target="UUNP" local="true">HR_BBYoke01.osd\UUNPButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="UUNPBigButt" target="UUNP" local="true">HR_BBYoke01.osd\UUNPBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="UUNPChubbyButt" target="UUNP" local="true">HR_BBYoke01.osd\UUNPChubbyButt</Data>
+            <Data name="BBYoke_IronM_NoneChubbyButt" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="UUNPAppleCheeks" target="UUNP" local="true">HR_BBYoke01.osd\UUNPAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="UUNPRoundAss" target="UUNP" local="true">HR_BBYoke01.osd\UUNPRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="UUNPSlimThighs" target="UUNP" local="true">HR_BBYoke01.osd\UUNPSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="UUNPThighs" target="UUNP" local="true">HR_BBYoke01.osd\UUNPThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="UUNPChubbyLegs" target="UUNP" local="true">HR_BBYoke01.osd\UUNPChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="UUNPLegs" target="UUNP" local="true">HR_BBYoke01.osd\UUNPLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="UUNPKneeHeight" target="UUNP" local="true">HR_BBYoke01.osd\UUNPKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="UUNPCalfSize" target="UUNP" local="true">HR_BBYoke01.osd\UUNPCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="UUNPCalfSmooth" target="UUNP" local="true">HR_BBYoke01.osd\UUNPCalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="UUNPNeck" target="UUNP" local="true">HR_BBYoke01.osd\UUNPNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="UUNP7B Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B Low</Data>
+            <Data name="BBYoke_IronM_None7B Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="UUNP7B High" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B High</Data>
+            <Data name="BBYoke_IronM_None7B High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="UUNP7B Bombshell Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B Bombshell Low</Data>
+            <Data name="BBYoke_IronM_None7B Bombshell Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="UUNP7B Bombshell High" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B Bombshell High</Data>
+            <Data name="BBYoke_IronM_None7B Bombshell High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="UUNP7B Natural Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B Natural Low</Data>
+            <Data name="BBYoke_IronM_None7B Natural Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="UUNP7B Natural High" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B Natural High</Data>
+            <Data name="BBYoke_IronM_None7B Natural High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="UUNP7B Cleavage Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B Cleavage Low</Data>
+            <Data name="BBYoke_IronM_None7B Cleavage Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="UUNP7B Cleavage High" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B Cleavage High</Data>
+            <Data name="BBYoke_IronM_None7B Cleavage High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="UUNP7B BCup Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B BCup Low</Data>
+            <Data name="BBYoke_IronM_None7B BCup Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="UUNP7B BCup High" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B BCup High</Data>
+            <Data name="BBYoke_IronM_None7B BCup High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="UUNP7BUNP Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7BUNP Low</Data>
+            <Data name="BBYoke_IronM_None7BUNP Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="UUNP7BUNP High" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7BUNP High</Data>
+            <Data name="BBYoke_IronM_None7BUNP High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="UUNP7B Oppai Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B Oppai Low</Data>
+            <Data name="BBYoke_IronM_None7B Oppai Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="UUNP7B Oppai High" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B Oppai High</Data>
+            <Data name="BBYoke_IronM_None7B Oppai High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="UUNP7B CH Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B CH Low</Data>
+            <Data name="BBYoke_IronM_None7B CH Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="UUNP7B CH High" target="UUNP" local="true">HR_BBYoke01.osd\UUNP7B CH High</Data>
+            <Data name="BBYoke_IronM_None7B CH High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_None7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNP Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNP Low</Data>
+            <Data name="BBYoke_IronM_NoneUNP Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="UUNPUNP High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNP High</Data>
+            <Data name="BBYoke_IronM_NoneUNP High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNP Pushup Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNP Pushup Low</Data>
+            <Data name="BBYoke_IronM_NoneUNP Pushup Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="UUNPUNP Pushup High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNP Pushup High</Data>
+            <Data name="BBYoke_IronM_NoneUNP Pushup High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNP Skinny Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNP Skinny Low</Data>
+            <Data name="BBYoke_IronM_NoneUNP Skinny Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="UUNPUNP Skinny High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNP Skinny High</Data>
+            <Data name="BBYoke_IronM_NoneUNP Skinny High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNP Perky Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNP Perky Low</Data>
+            <Data name="BBYoke_IronM_NoneUNP Perky Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="UUNPUNP Perky High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNP Perky High</Data>
+            <Data name="BBYoke_IronM_NoneUNP Perky High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPB Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPB Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPB Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPB High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPB High</Data>
+            <Data name="BBYoke_IronM_NoneUNPB High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="UUNPUNPB Chapi" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPB Chapi</Data>
+            <Data name="BBYoke_IronM_NoneUNPB Chapi" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="UUNPUNPB Oppai v1" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPB Oppai v1</Data>
+            <Data name="BBYoke_IronM_NoneUNPB Oppai v1" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPB Oppai v3.2 Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPB Oppai v3.2 Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPB Oppai v3.2 Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPB Oppai v3.2 High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPB Oppai v3.2 High</Data>
+            <Data name="BBYoke_IronM_NoneUNPB Oppai v3.2 High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPetite Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPetite Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPetite Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPetite High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPetite High</Data>
+            <Data name="BBYoke_IronM_NoneUNPetite High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPC Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPC Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPC Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPC High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPC High</Data>
+            <Data name="BBYoke_IronM_NoneUNPC High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPCM Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPCM Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPCM Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPCM High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPCM High</Data>
+            <Data name="BBYoke_IronM_NoneUNPCM High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPSH Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPSH Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPSH Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPSH High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPSH High</Data>
+            <Data name="BBYoke_IronM_NoneUNPSH High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPK Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPK Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPK Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPK High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPK High</Data>
+            <Data name="BBYoke_IronM_NoneUNPK High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPK Bonus Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPK Bonus Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPK Bonus Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPK Bonus High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPK Bonus High</Data>
+            <Data name="BBYoke_IronM_NoneUNPK Bonus High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="UUNPUN7B Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUN7B Low</Data>
+            <Data name="BBYoke_IronM_NoneUN7B Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="UUNPUN7B High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUN7B High</Data>
+            <Data name="BBYoke_IronM_NoneUN7B High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPBB Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPBB Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPBB Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPBB High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPBB High</Data>
+            <Data name="BBYoke_IronM_NoneUNPBB High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="UUNPSeraphim Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPSeraphim Low</Data>
+            <Data name="BBYoke_IronM_NoneSeraphim Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="UUNPSeraphim High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPSeraphim High</Data>
+            <Data name="BBYoke_IronM_NoneSeraphim High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="UUNPDemonfet Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPDemonfet Low</Data>
+            <Data name="BBYoke_IronM_NoneDemonfet Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="UUNPDemonfet High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPDemonfet High</Data>
+            <Data name="BBYoke_IronM_NoneDemonfet High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="UUNPDream Girl Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPDream Girl Low</Data>
+            <Data name="BBYoke_IronM_NoneDream Girl Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="UUNPDream Girl High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPDream Girl High</Data>
+            <Data name="BBYoke_IronM_NoneDream Girl High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="UUNPTop Model Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPTop Model Low</Data>
+            <Data name="BBYoke_IronM_NoneTop Model Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="UUNPTop Model High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPTop Model High</Data>
+            <Data name="BBYoke_IronM_NoneTop Model High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="UUNPLeito Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPLeito Low</Data>
+            <Data name="BBYoke_IronM_NoneLeito Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="UUNPLeito High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPLeito High</Data>
+            <Data name="BBYoke_IronM_NoneLeito High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPF Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPF Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPF Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPF High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPF High</Data>
+            <Data name="BBYoke_IronM_NoneUNPF High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="UUNPUNPFx Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPFx Low</Data>
+            <Data name="BBYoke_IronM_NoneUNPFx Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="UUNPUNPFx High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPUNPFx High</Data>
+            <Data name="BBYoke_IronM_NoneUNPFx High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="UUNPCNHF Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPCNHF Low</Data>
+            <Data name="BBYoke_IronM_NoneCNHF Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="UUNPCNHF High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPCNHF High</Data>
+            <Data name="BBYoke_IronM_NoneCNHF High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="UUNPCNHF Bonus Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPCNHF Bonus Low</Data>
+            <Data name="BBYoke_IronM_NoneCNHF Bonus Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="UUNPCNHF Bonus High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPCNHF Bonus High</Data>
+            <Data name="BBYoke_IronM_NoneCNHF Bonus High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="UUNPMCBM Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPMCBM Low</Data>
+            <Data name="BBYoke_IronM_NoneMCBM Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="UUNPMCBM High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPMCBM High</Data>
+            <Data name="BBYoke_IronM_NoneMCBM High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="UUNPVenus Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPVenus Low</Data>
+            <Data name="BBYoke_IronM_NoneVenus Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="UUNPVenus High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPVenus High</Data>
+            <Data name="BBYoke_IronM_NoneVenus High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="UUNPZGGB-R2 Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPZGGB-R2 Low</Data>
+            <Data name="BBYoke_IronM_NoneZGGB-R2 Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="UUNPZGGB-R2 High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPZGGB-R2 High</Data>
+            <Data name="BBYoke_IronM_NoneZGGB-R2 High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="UUNPManga Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPManga Low</Data>
+            <Data name="BBYoke_IronM_NoneManga Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="UUNPManga High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPManga High</Data>
+            <Data name="BBYoke_IronM_NoneManga High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="UUNPCHSBHC Low" target="UUNP" local="true">HR_BBYoke01.osd\UUNPCHSBHC Low</Data>
+            <Data name="BBYoke_IronM_NoneCHSBHC Low" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="UUNPCHSBHC High" target="UUNP" local="true">HR_BBYoke01.osd\UUNPCHSBHC High</Data>
+            <Data name="BBYoke_IronM_NoneCHSBHC High" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

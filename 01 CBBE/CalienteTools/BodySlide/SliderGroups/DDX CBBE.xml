@@ -51,6 +51,7 @@
         <Member name="DDX - UUNP/CBBE - Piercing03"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots01"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots02"/>
+        <Member name="DDX - CBBE - BBYoke01"/>
 
     </Group>
     <Group name="CBAdvanced">
@@ -105,6 +106,7 @@
         <Member name="DDX - UUNP/CBBE - Piercing03"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots01"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots02"/>
+        <Member name="DDX - CBBE - BBYoke01"/>
 
     </Group>
 </SliderGroups>

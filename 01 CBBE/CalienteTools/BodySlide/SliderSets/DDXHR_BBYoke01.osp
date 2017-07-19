@@ -1,0 +1,210 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - CBBE - BBYoke01">
+        <DataFolder>DDX_Heretical\HR_BBYoke01</DataFolder>
+        <SourceFile>HR_BBYoke01.nif</SourceFile>
+        <OutputPath>Meshes\Devious\Heretic\BreastBondage</OutputPath>
+        <OutputFile GenWeights="true">HR_BBYoke01</OutputFile>
+        <Shape target="BBYoke_IronM_None">BBYoke_IronM_None</Shape>
+        <Shape target="BaseSapeCBBE" DataFolder="Heretical Resources\BBYoke01 cbbe+">BaseSapeCBBE</Shape>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <Data name="BaseSapeCBBEBreasts" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreasts</Data>
+            <Data name="BBYoke_IronM_NoneBreasts" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="BaseSapeCBBEBreastsSmall" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastsSmall</Data>
+            <Data name="BBYoke_IronM_NoneBreastsSmall" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBreastsSH" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastsSH</Data>
+            <Data name="BBYoke_IronM_NoneBreastsSH" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBreastsSSH" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastsSSH</Data>
+            <Data name="BBYoke_IronM_NoneBreastsSSH" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBreastsFantasy" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastsFantasy</Data>
+            <Data name="BBYoke_IronM_NoneBreastsFantasy" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEDoubleMelon" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEDoubleMelon</Data>
+            <Data name="BBYoke_IronM_NoneDoubleMelon" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBreastCleavage" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastCleavage</Data>
+            <Data name="BBYoke_IronM_NoneBreastCleavage" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBreastFlatness" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastFlatness</Data>
+            <Data name="BBYoke_IronM_NoneBreastFlatness" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBreastGravity" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastGravity</Data>
+            <Data name="BBYoke_IronM_NoneBreastGravity" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEPushUp" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEPushUp</Data>
+            <Data name="BBYoke_IronM_NonePushUp" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NonePushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBreastHeight" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastHeight</Data>
+            <Data name="BBYoke_IronM_NoneBreastHeight" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBreastPerkiness" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastPerkiness</Data>
+            <Data name="BBYoke_IronM_NoneBreastPerkiness" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBreastWidth" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBreastWidth</Data>
+            <Data name="BBYoke_IronM_NoneBreastWidth" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="BaseSapeCBBENippleDistance" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBENippleDistance</Data>
+            <Data name="BBYoke_IronM_NoneNippleDistance" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBENipplePerkiness" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBENipplePerkiness</Data>
+            <Data name="BBYoke_IronM_NoneNipplePerkiness" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBENippleLength" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBENippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="BaseSapeCBBENippleSize" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBENippleSize</Data>
+            <Data name="BBYoke_IronM_NoneNippleSize" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBENippleAreola" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBENippleAreola</Data>
+            <Data name="BBYoke_IronM_NoneNippleAreola" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBENippleUp" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBENippleUp</Data>
+            <Data name="BBYoke_IronM_NoneNippleUp" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBENippleDown" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBENippleDown</Data>
+            <Data name="BBYoke_IronM_NoneNippleDown" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBENippleTip" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBENippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="0" big="100">
+            <Data name="BaseSapeCBBEArms" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEArms</Data>
+            <Data name="BBYoke_IronM_NoneArms" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEChubbyArms" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEChubbyArms</Data>
+            <Data name="BBYoke_IronM_NoneChubbyArms" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEShoulderSmooth" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEShoulderSmooth</Data>
+            <Data name="BBYoke_IronM_NoneShoulderSmooth" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="BaseSapeCBBEShoulderWidth" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEShoulderWidth</Data>
+            <Data name="BBYoke_IronM_NoneShoulderWidth" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBigTorso" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBigTorso</Data>
+            <Data name="BBYoke_IronM_NoneBigTorso" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="100">
+            <Data name="BaseSapeCBBEWaist" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEWaist</Data>
+            <Data name="BBYoke_IronM_NoneWaist" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEWideWaistLine" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEChubbyWaist" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEChubbyWaist</Data>
+            <Data name="BBYoke_IronM_NoneChubbyWaist" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBelly" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBelly</Data>
+            <Data name="BBYoke_IronM_NoneBelly" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBigBelly" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBigBelly</Data>
+            <Data name="BBYoke_IronM_NoneBigBelly" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEPregnancyBelly" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEPregnancyBelly</Data>
+            <Data name="BBYoke_IronM_NonePregnancyBelly" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NonePregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBETummyTuck" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBETummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBack" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBack</Data>
+            <Data name="BBYoke_IronM_NoneBack" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEHipbone" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEHips" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEHips</Data>
+            <Data name="BBYoke_IronM_NoneHips" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="BaseSapeCBBEButtCrack" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="0" big="100">
+            <Data name="BaseSapeCBBEButt" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="BaseSapeCBBEButtSmall" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEButtShape2" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEBigButt" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEChubbyButt" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEChubbyButt</Data>
+            <Data name="BBYoke_IronM_NoneChubbyButt" target="BBYoke_IronM_None" local="true">HR_BBYoke01.osd\BBYoke_IronM_NoneChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEAppleCheeks" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBERoundAss" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBERoundAss</Data>
+        </Slider>
+        <Slider name="Groin" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEGroin" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEGroin</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBESlimThighs" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBESlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEThighs" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEChubbyLegs" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="0" big="100">
+            <Data name="BaseSapeCBBELegs" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBELegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBEKneeHeight" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBECalfSize" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBECalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="BaseSapeCBBECalfSmooth" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBECalfSmooth</Data>
+        </Slider>
+        <Slider name="Ankles" invert="true" small="100" big="100">
+            <Data name="BaseSapeCBBEAnkles" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEAnkles</Data>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="BaseSapeCBBESmallSeam" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBESmallSeam</Data>
+        </Slider>
+        <Slider name="ShoulderTweak" invert="false" small="100" big="100" hidden="true">
+            <Data name="BaseSapeCBBEShoulderTweak" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEShoulderTweak</Data>
+        </Slider>
+        <Slider name="BBYoke" invert="false" small="100" big="100" hidden="true">
+            <Data name="BaseSapeCBBEBBYoke" target="BaseSapeCBBE" local="true">HR_BBYoke01.osd\BaseSapeCBBEBBYoke</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
