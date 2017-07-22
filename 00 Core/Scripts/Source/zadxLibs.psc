@@ -564,6 +564,37 @@ Armor Property zadx_dud_Pony_Harness_Secure_Leather_BlackRendered Auto
 Armor Property zadx_dud_Pony_Harness_Secure_Ebonite_BlackInventory Auto
 Armor Property zadx_dud_Pony_Harness_Secure_Ebonite_BlackRendered Auto
 
+; DCL items
+; Rubber stuffz! \o/
+Armor Property zadx_catsuit_black_Inventory Auto
+Armor Property zadx_catsuit_black_Rendered Auto
+Armor Property zadx_catsuit_gloves_black_Inventory Auto
+Armor Property zadx_catsuit_gloves_black_Rendered Auto
+Armor Property zadx_catsuit_longgloves_black_Inventory Auto
+Armor Property zadx_catsuit_longgloves_black_Rendered Auto
+Armor Property zadx_catsuit_boots_black_Inventory Auto
+Armor Property zadx_catsuit_boots_black_Rendered Auto
+Armor Property zadx_catsuit_balletboots_black_Inventory Auto
+Armor Property zadx_catsuit_balletboots_black_Rendered Auto
+Armor Property zadx_catsuit_collar_black_Inventory Auto
+Armor Property zadx_catsuit_collar_black_Rendered Auto
+Armor Property zadx_catsuit_gasmask_black_Inventory Auto
+Armor Property zadx_catsuit_gasmask_black_Rendered Auto
+Armor Property zadx_catsuit_transparent_Inventory Auto
+Armor Property zadx_catsuit_transparent_Rendered Auto
+Armor Property zadx_catsuit_boots_transparent_Inventory Auto
+Armor Property zadx_catsuit_boots_transparent_Rendered Auto
+; other devices
+Armor Property zadx_hood_rubber_black_Inventory Auto
+Armor Property zadx_hood_rubber_black_Rendered Auto
+Armor Property zadx_yoke_steel_Inventory Auto
+Armor Property zadx_yoke_steel_Rendered Auto
+Armor Property zadx_shackles_steel_Inventory Auto
+Armor Property zadx_shackles_steel_Rendered Auto
+Armor Property zadx_AnkleShackles_Black_Inventory Auto
+Armor Property zadx_AnkleShackles_Black_Rendered Auto
+Armor Property zadx_AnkleShackles_Silver_Inventory Auto
+Armor Property zadx_AnkleShackles_Silver_Rendered Auto
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.

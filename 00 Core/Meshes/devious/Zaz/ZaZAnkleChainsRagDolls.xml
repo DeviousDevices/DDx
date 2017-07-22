@@ -1,0 +1,4208 @@
+<?xml version="1.0" encoding="ascii"?>
+<hkpackfile classversion="9" contentsversion="hk_2013.1.0-r1" toplevelobject="#0060">
+
+	<hksection name="__data__">
+
+		<hkobject name="#0061" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(0.004740 0.994391 -0.105658)(-0.044564 0.105764 0.993392)(0.998995 -0.000000 0.044815)(-0.000001 -0.000005 0.000001)</hkparam>
+							<hkparam name="transformB">(0.004741 0.979016 -0.203726)(-0.044563 0.203733 0.978012)(0.998995 0.004442 0.044594)(-0.010151 2.101863 0.350246)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.000000</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0064" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.838513</hkparam>
+			<hkparam name="vertexA">(-0.005071 1.052093 -0.031562 0.838513)</hkparam>
+			<hkparam name="vertexB">(-0.005071 1.052093 0.379470 0.838513)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0063" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0064</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneR.07</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(-0.000000 -0.000000 1.000000)(-0.970265 -0.242044 -0.000000)(0.242044 -0.970265 0.000000)(5.021278 -20.128462 10.405435)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(4.042573 -20.551895 10.400364 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(4.042573 -20.551895 10.400364 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.557235 -0.435303 0.557235 0.435303)</hkparam>
+									<hkparam name="rotation1">(0.557235 -0.435303 0.557235 0.435303)</hkparam>
+									<hkparam name="centerOfMassLocal">(-0.005071 1.052093 0.173954 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.579938</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.187547 0.187547 0.187547 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">209</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0066" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.821400</hkparam>
+			<hkparam name="vertexA">(0.005066 1.062929 -0.335618 0.821400)</hkparam>
+			<hkparam name="vertexB">(0.005066 1.062929 0.109826 0.821400)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0065" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0066</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneR.08</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(0.000000 -0.000000 1.000000)(-0.989482 -0.144655 -0.000000)(0.144655 -0.989482 0.000000)(3.066682 -20.977037 10.395285)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(1.998602 -21.019087 10.400351 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(1.998602 -21.019087 10.400351 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.534943 -0.462424 0.534943 0.462424)</hkparam>
+									<hkparam name="rotation1">(0.534943 -0.462424 0.534943 0.462424)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.005066 1.062929 -0.112896 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.561918</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.099176 0.099176 0.099176 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">198</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0062" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0061</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0065 #0063</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0067" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(-0.004762 0.986388 0.164366)(0.028571 0.164435 -0.985974)(-0.999580 0.000001 -0.028965)(0.000000 -0.000003 0.000003)</hkparam>
+							<hkparam name="transformB">(-0.004763 0.998153 0.060570)(0.028571 0.060682 -0.997748)(-0.999581 -0.003022 -0.028808)(0.088981 2.164133 0.106946)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.000000</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0070" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.808392</hkparam>
+			<hkparam name="vertexA">(-0.196234 1.081860 0.053464 0.808392)</hkparam>
+			<hkparam name="vertexB">(0.285214 1.081860 0.053464 0.808392)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0069" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0070</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneR.06</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(-0.000000 -0.000000 1.000000)(-0.939722 -0.341940 -0.000000)(0.341940 -0.939722 0.000000)(7.018395 -19.287960 10.316454)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(6.020030 -19.708134 10.360944 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(6.020030 -19.708134 10.360944 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.579211 -0.405604 0.579211 0.405604)</hkparam>
+									<hkparam name="rotation1">(0.579211 -0.405604 0.579211 0.405604)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.044490 1.081859 0.053464 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.551657</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.184417 0.184417 0.184417 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">129</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0068" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0067</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0063 #0069</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0071" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(0.041030 0.997940 0.049319)(-0.638231 0.064155 -0.767167)(-0.768751 -0.000000 0.639548)(-0.000001 -0.000001 -0.000004)</hkparam>
+							<hkparam name="transformB">(0.041030 0.997739 -0.053232)(-0.638230 -0.014820 -0.769703)(-0.768751 0.065555 0.636179)(-0.088983 2.103864 0.172118)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.000000</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0074" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.816605</hkparam>
+			<hkparam name="vertexA">(-0.044493 1.051524 -0.143841 0.816605)</hkparam>
+			<hkparam name="vertexB">(-0.044493 1.051524 0.315956 0.816605)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0073" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0074</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneR.05</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(0.000000 -0.000000 1.000000)(-0.899722 -0.436462 -0.000000)(0.436462 -0.899722 -0.000000)(8.836166 -18.214840 10.405437)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(7.927648 -18.751219 10.360944 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(7.927648 -18.751219 10.360944 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.599263 -0.375346 0.599262 0.375346)</hkparam>
+									<hkparam name="rotation1">(0.599263 -0.375346 0.599262 0.375346)</hkparam>
+									<hkparam name="centerOfMassLocal">(-0.044493 1.051524 0.086058 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.558479</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.189251 0.189251 0.189251 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">49</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0072" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0071</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0069 #0073</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0075" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(-0.042117 0.995786 0.081464)(0.457316 0.091707 -0.884563)(-0.888306 -0.000000 -0.459252)(-0.000001 0.000003 0.000003)</hkparam>
+							<hkparam name="transformB">(-0.042117 0.998952 -0.017941)(0.457316 0.003309 -0.889298)(-0.888306 -0.045659 -0.456976)(0.010145 2.012754 -0.042435)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.000000</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0078" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.804977</hkparam>
+			<hkparam name="vertexA">(0.005074 1.006478 -0.266009 0.804977)</hkparam>
+			<hkparam name="vertexB">(0.005074 1.006478 0.223570 0.804977)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0077" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0078</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneR.04</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(0.000000 -0.000000 1.000000)(-0.851872 -0.523750 -0.000000)(0.523750 -0.851872 0.000000)(10.572999 -17.196812 10.395290)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(9.704495 -17.705879 10.400364 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(9.704495 -17.705879 10.400364 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.617201 -0.345054 0.617201 0.345054)</hkparam>
+									<hkparam name="rotation1">(0.617201 -0.345054 0.617201 0.345054)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.005074 1.006478 -0.021219 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.548544</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.198665 0.198665 0.198665 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">74</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0076" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0075</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0073 #0077</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0079" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(0.005040 0.999765 -0.021079)(0.028922 -0.021216 -0.999357)(-0.999569 0.004427 -0.029022)(0.000000 -0.000001 -0.000002)</hkparam>
+							<hkparam name="transformB">(0.005040 0.992271 -0.123990)(0.028921 -0.124084 -0.991850)(-0.999569 0.001413 -0.029323)(-0.010148 2.080231 0.127206)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-15.000000</hkparam>
+							<hkparam name="maxAngle">15.000000</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.000000</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0082" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.799689</hkparam>
+			<hkparam name="vertexA">(-0.255373 1.040137 0.063602 0.799689)</hkparam>
+			<hkparam name="vertexB">(0.245224 1.040137 0.063602 0.799689)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0081" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0082</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneR.03</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(0.000000 -0.000000 1.000000)(-0.793365 -0.608745 -0.000000)(0.608746 -0.793365 -0.000000)(12.145947 -15.829557 10.405438)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(11.359455 -16.513195 10.400364 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(11.359455 -16.513195 10.400364 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.634182 -0.312752 0.634182 0.312752)</hkparam>
+									<hkparam name="rotation1">(0.634182 -0.312752 0.634182 0.312752)</hkparam>
+									<hkparam name="centerOfMassLocal">(-0.005075 1.040137 0.063602 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.543204</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.191920 0.191920 0.191920 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">118</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0080" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0079</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0077 #0081</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0083" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(-0.004869 0.998124 0.061037)(0.079373 0.061231 -0.994963)(-0.996833 0.000000 -0.079522)(-0.000002 -0.000002 -0.000006)</hkparam>
+							<hkparam name="transformB">(-0.004869 0.998923 -0.046133)(0.079373 -0.045602 -0.995801)(-0.996833 -0.008511 -0.079066)(0.010147 2.135328 0.558558)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.000000</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0086" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.863053</hkparam>
+			<hkparam name="vertexA">(0.005074 1.067474 0.100869 0.863053)</hkparam>
+			<hkparam name="vertexB">(0.005074 1.067474 0.458076 0.863053)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0085" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0086</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneR.02</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_SPHERE_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(0.000000 -0.000000 1.000000)(-0.723660 -0.690156 -0.000000)(0.690156 -0.723660 -0.000000)(13.305704 -13.951635 10.395289)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(12.726095 -14.890602 10.400363 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(12.726095 -14.890602 10.400363 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.650030 -0.278318 0.650030 0.278318)</hkparam>
+									<hkparam name="rotation1">(0.650030 -0.278318 0.650030 0.278318)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.005074 1.067474 0.279472 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.604609</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.181202 0.181202 0.181202 10.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">38</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0084" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0083</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0081 #0085</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0087" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(0.004598 0.967439 0.253062)(-0.017576 0.253103 -0.967280)(-0.999835 -0.000000 0.018168)(-0.000002 -0.000003 -0.000004)</hkparam>
+							<hkparam name="transformB">(0.004598 0.994976 0.100008)(-0.017577 0.100074 -0.994825)(-0.999835 0.002816 0.017949)(-0.015026 2.989083 0.277397)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.000000</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0090" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.819216</hkparam>
+			<hkparam name="vertexA">(-0.007539 1.268266 0.139161 0.819216)</hkparam>
+			<hkparam name="vertexB">(-0.007539 1.720822 0.139161 0.819216)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0089" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0090</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">1</hkparam>
+							<hkparam name="collisionFilterInfo">0</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneR.01</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_KEYFRAMED</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(0.000000 0.000000 1.000000)(-0.607907 -0.794008 0.000000)(0.794008 -0.607907 0.000000)(14.902532 -11.409641 10.410313)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(14.902532 -11.409641 10.410313 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(14.902532 -11.409641 10.410313 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.669703 -0.226931 0.669703 0.226932)</hkparam>
+									<hkparam name="rotation1">(0.669703 -0.226931 0.669703 0.226932)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">2.833567</hkparam>
+							<hkparam name="linearDamping">0.000000</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">255</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">255</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0088" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0087</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0085 #0089</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0091" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(0.004149 -0.994401 -0.105592)(0.000011 -0.105593 0.994409)(-0.999991 -0.004127 -0.000427)(-0.000003 -0.000002 0.000003)</hkparam>
+							<hkparam name="transformB">(0.004150 -0.979033 -0.203662)(0.000012 -0.203664 0.979041)(-0.999992 -0.004065 -0.000834)(-0.010153 -2.101871 0.350218)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0094" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.790264</hkparam>
+			<hkparam name="vertexA">(-0.264806 -1.050959 0.175108 0.790264)</hkparam>
+			<hkparam name="vertexB">(0.254642 -1.050959 0.175108 0.790264)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0093" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0094</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneL.07</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(-0.000000 0.000000 1.000000)(-0.970266 0.242041 -0.000000)(-0.242041 -0.970266 0.000000)(-5.021179 -20.128323 10.405433)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(-4.043852 -20.552599 10.400351 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(-4.043852 -20.552599 10.400351 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.435304 -0.557234 0.435304 0.557234)</hkparam>
+									<hkparam name="rotation1">(0.435304 -0.557234 0.435304 0.557234)</hkparam>
+									<hkparam name="centerOfMassLocal">(-0.005082 -1.050959 0.175108 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.533463</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.187712 0.187712 0.187712 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">53251</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0096" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.796668</hkparam>
+			<hkparam name="vertexA">(-0.248263 -1.062380 -0.112897 0.796668)</hkparam>
+			<hkparam name="vertexB">(0.258377 -1.062380 -0.112897 0.796668)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0095" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0096</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneL.08</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(-0.000000 -0.000000 1.000000)(-0.989483 0.144651 -0.000000)(-0.144651 -0.989483 0.000000)(-3.066573 -20.976862 10.395283)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(-1.999036 -21.018826 10.400340 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(-1.999036 -21.018826 10.400340 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.462425 -0.534942 0.462426 0.534942)</hkparam>
+									<hkparam name="rotation1">(0.462425 -0.534942 0.462426 0.534942)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.005057 -1.062380 -0.112897 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.540076</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.099154 0.099154 0.099154 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">50690</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0092" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0091</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0095 #0093</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0097" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(-0.004763 -0.986390 0.164352)(-0.028578 0.164421 0.985976)(-0.999580 -0.000001 -0.028972)(-0.000002 0.000001 0.000008)</hkparam>
+							<hkparam name="transformB">(-0.004764 -0.998154 0.060554)(-0.028578 0.060665 0.997749)(-0.999580 0.003022 -0.028814)(0.088984 -2.164140 0.106921)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0100" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.808393</hkparam>
+			<hkparam name="vertexA">(-0.196234 -1.081862 0.053451 0.808393)</hkparam>
+			<hkparam name="vertexB">(0.285212 -1.081862 0.053451 0.808393)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0099" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0100</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneL.06</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(-0.000000 0.000000 1.000000)(-0.939722 0.341939 -0.000000)(-0.341939 -0.939722 0.000000)(-7.018312 -19.287851 10.316446)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(-6.019939 -19.708012 10.360935 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(-6.019939 -19.708012 10.360935 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.405605 -0.579210 0.405605 0.579210)</hkparam>
+									<hkparam name="rotation1">(0.405605 -0.579210 0.405605 0.579210)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.044489 -1.081862 0.053451 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.551658</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.184413 0.184413 0.184413 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">252</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0098" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0097</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0093 #0099</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0101" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(0.041033 -0.997941 0.049302)(0.638386 0.064144 0.767039)(-0.768622 -0.000000 0.639703)(-0.000002 -0.000002 0.000001)</hkparam>
+							<hkparam name="transformB">(0.041033 -0.997738 -0.053248)(0.638385 -0.014817 0.769574)(-0.768622 -0.065571 0.636333)(-0.088991 -2.103867 0.172082)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0104" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.816603</hkparam>
+			<hkparam name="vertexA">(-0.044497 -1.052341 -0.143863 0.816603)</hkparam>
+			<hkparam name="vertexB">(-0.044497 -1.052341 0.315940 0.816603)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0103" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0104</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneL.05</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(-0.000000 0.000000 1.000000)(-0.899723 0.436461 -0.000000)(-0.436461 -0.899723 0.000000)(-8.836102 -18.214771 10.405436)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(-7.926838 -18.751488 10.360938 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(-7.926838 -18.751488 10.360938 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.375346 -0.599262 0.375346 0.599262)</hkparam>
+									<hkparam name="rotation1">(0.375346 -0.599262 0.375346 0.599262)</hkparam>
+									<hkparam name="centerOfMassLocal">(-0.044497 -1.052341 0.086039 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.558478</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.189251 0.189251 0.189251 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">172</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0102" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0101</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0099 #0103</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0105" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(-0.042118 -0.995787 0.081452)(-0.457382 0.091697 0.884530)(-0.888272 0.000000 -0.459317)(-0.000001 0.000000 -0.000002)</hkparam>
+							<hkparam name="transformB">(-0.042117 -0.998951 -0.017954)(-0.457382 0.003302 0.889264)(-0.888272 0.045665 -0.457042)(0.010148 -2.012753 -0.042466)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0108" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.804980</hkparam>
+			<hkparam name="vertexA">(0.005070 -1.006266 -0.266021 0.804980)</hkparam>
+			<hkparam name="vertexB">(0.005070 -1.006266 0.223548 0.804980)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0107" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0108</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneL.04</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(-0.000000 -0.000000 1.000000)(-0.851872 0.523750 -0.000000)(-0.523750 -0.851872 -0.000000)(-10.572950 -17.196766 10.395287)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(-9.704618 -17.705708 10.400356 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(-9.704618 -17.705708 10.400356 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.345054 -0.617201 0.345054 0.617201)</hkparam>
+									<hkparam name="rotation1">(0.345054 -0.617201 0.345054 0.617201)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.005070 -1.006266 -0.021236 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.548545</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.198665 0.198665 0.198665 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">182</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0106" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0105</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0103 #0107</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0109" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(0.042951 -0.998858 -0.020915)(-0.004172 -0.021113 0.999768)(-0.999068 -0.042853 -0.005074)(-0.000001 0.000001 -0.000002)</hkparam>
+							<hkparam name="transformB">(0.042951 -0.991385 -0.123735)(-0.004172 -0.124027 0.992270)(-0.999069 -0.042103 -0.009464)(-0.010148 -2.080232 0.127179)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0112" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.799690</hkparam>
+			<hkparam name="vertexA">(-0.255373 -1.040138 0.063589 0.799690)</hkparam>
+			<hkparam name="vertexB">(0.245221 -1.040138 0.063589 0.799690)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0111" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0112</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneL.03</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(0.000000 -0.000000 1.000000)(-0.793365 0.608746 0.000000)(-0.608746 -0.793365 0.000000)(-12.145914 -15.829532 10.405434)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(-11.359414 -16.513161 10.400357 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(-11.359414 -16.513161 10.400357 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.312751 -0.634182 0.312751 0.634182)</hkparam>
+									<hkparam name="rotation1">(0.312751 -0.634182 0.312751 0.634182)</hkparam>
+									<hkparam name="centerOfMassLocal">(-0.005076 -1.040138 0.063589 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.543205</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.191920 0.191920 0.191920 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">226</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0110" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0109</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0107 #0111</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0113" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(-0.004868 -0.998125 0.061021)(-0.079379 0.061215 0.994963)(-0.996833 -0.000001 -0.079528)(-0.000001 0.000001 0.000002)</hkparam>
+							<hkparam name="transformB">(-0.004869 -0.998923 -0.046139)(-0.079378 -0.045608 0.995801)(-0.996833 0.008511 -0.079071)(0.010141 -2.135335 0.558552)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0116" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.793601</hkparam>
+			<hkparam name="vertexA">(-0.251319 -1.067646 0.279266 0.793601)</hkparam>
+			<hkparam name="vertexB">(0.261456 -1.067646 0.279266 0.793601)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0115" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0116</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneL.02</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(-0.000000 0.000000 1.000000)(-0.723668 0.690149 -0.000000)(-0.690149 -0.723668 -0.000000)(-13.305705 -13.951628 10.395290)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(-12.725820 -14.890558 10.400359 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(-12.725820 -14.890558 10.400359 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.278321 -0.650029 0.278322 0.650028)</hkparam>
+									<hkparam name="rotation1">(0.278321 -0.650029 0.278322 0.650028)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.005069 -1.067646 0.279266 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.536907</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.181222 0.181222 0.181222 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">146</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0114" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0113</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0111 #0115</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0117" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(0.004595 -0.967441 0.253057)(0.017565 0.253099 0.967281)(-0.999835 -0.000000 0.018156)(-0.000001 -0.000001 0.000004)</hkparam>
+							<hkparam name="transformB">(0.004596 -0.994977 0.099994)(0.017564 0.100060 0.994826)(-0.999835 -0.002816 0.017936)(-0.015022 -2.989077 0.277399)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.523599</hkparam>
+							<hkparam name="maxAngle">0.523599</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0120" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.819217</hkparam>
+			<hkparam name="vertexA">(-0.007535 -1.720816 0.139166 0.819217)</hkparam>
+			<hkparam name="vertexB">(-0.007535 -1.268261 0.139166 0.819217)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0119" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0120</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">1</hkparam>
+							<hkparam name="collisionFilterInfo">0</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">BoneL.01</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_KEYFRAMED</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(0.000000 -0.000000 1.000000)(-0.607907 0.794008 0.000000)(-0.794008 -0.607907 0.000000)(-14.902531 -11.409647 10.410313)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(-14.902531 -11.409647 10.410313 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(-14.902531 -11.409647 10.410313 0.000000)</hkparam>
+									<hkparam name="rotation0">(0.226932 -0.669703 0.226932 0.669703)</hkparam>
+									<hkparam name="rotation1">(0.226932 -0.669703 0.226932 0.669703)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">2.756402</hkparam>
+							<hkparam name="linearDamping">0.000000</hkparam>
+							<hkparam name="angularDamping">0.050049</hkparam>
+							<hkparam name="timeFactor">1.000000</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">255</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">255</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">0</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0118" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0117</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0115 #0119</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0121" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(1.000000 0.000000 0.000000)(0.000000 1.000000 -0.000000)(-0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="transformB">(1.000000 0.000000 -0.000000)(-0.000000 0.989482 -0.144655)(0.000000 0.144655 0.989482)(0.114141 3.076060 -0.158823)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.349066</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.349066</hkparam>
+							<hkparam name="maxAngle">0.000000</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0124" class="hkpCapsuleShape" signature="0xb58289ff">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- type SERIALIZE_IGNORED -->
+			<hkparam name="dispatchType">USER</hkparam>
+			<hkparam name="bitsPerKey">0</hkparam>
+			<hkparam name="shapeInfoCodecType">NULL_CODEC</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="radius">0.812712</hkparam>
+			<hkparam name="vertexA">(0.000286 -0.232838 -0.000361 0.812712)</hkparam>
+			<hkparam name="vertexB">(0.000286 0.232840 -0.000361 0.812712)</hkparam>
+		</hkobject>
+
+		<hkobject name="#0123" class="hkpRigidBody" signature="0xd0313594">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- world SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="collidable">
+				<hkobject>
+					<hkparam name="shape">#0124</hkparam>
+					<hkparam name="shapeKey">4294967295</hkparam>
+					<!-- motion SERIALIZE_IGNORED -->
+					<!-- parent SERIALIZE_IGNORED -->
+					<!-- ownerOffset SERIALIZE_IGNORED -->
+					<hkparam name="forceCollideOntoPpu">8</hkparam>
+					<!-- shapeSizeOnSpu SERIALIZE_IGNORED -->
+					<hkparam name="broadPhaseHandle">
+						<hkobject>
+							<!-- id SERIALIZE_IGNORED -->
+							<hkparam name="type">1</hkparam>
+							<!-- ownerOffset SERIALIZE_IGNORED -->
+							<hkparam name="objectQualityType">2</hkparam>
+							<hkparam name="collisionFilterInfo">83886080</hkparam>
+						</hkobject>
+					</hkparam>
+					<!-- boundingVolumeData SERIALIZE_IGNORED -->
+					<hkparam name="allowedPenetrationDepth">0.100000</hkparam>
+					<!-- collisionEntries SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="multiThreadCheck">
+				<hkobject>
+					<!-- threadId SERIALIZE_IGNORED -->
+					<!-- stackTraceId SERIALIZE_IGNORED -->
+					<!-- markCount SERIALIZE_IGNORED -->
+					<!-- markBitStack SERIALIZE_IGNORED -->
+				</hkobject>
+			</hkparam>
+			<hkparam name="name">Bone001</hkparam>
+			<hkparam name="properties" numelements="0"></hkparam>
+			<hkparam name="material">
+				<hkobject>
+					<hkparam name="responseType">RESPONSE_SIMPLE_CONTACT</hkparam>
+					<hkparam name="rollingFrictionMultiplier">0.000000</hkparam>
+					<hkparam name="friction">0.300000</hkparam>
+					<hkparam name="restitution">0.800000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- limitContactImpulseUtilAndFlag SERIALIZE_IGNORED -->
+			<hkparam name="damageMultiplier">1.000000</hkparam>
+			<!-- breakableBody SERIALIZE_IGNORED -->
+			<!-- solverData SERIALIZE_IGNORED -->
+			<hkparam name="storageIndex">65535</hkparam>
+			<hkparam name="contactPointCallbackDelay">65535</hkparam>
+			<!-- constraintsMaster SERIALIZE_IGNORED -->
+			<!-- constraintsSlave SERIALIZE_IGNORED -->
+			<!-- constraintRuntime SERIALIZE_IGNORED -->
+			<!-- simulationIsland SERIALIZE_IGNORED -->
+			<hkparam name="autoRemoveLevel">0</hkparam>
+			<hkparam name="numShapeKeysInContactPointProperties">0</hkparam>
+			<hkparam name="responseModifierFlags">0</hkparam>
+			<hkparam name="uid">4294967295</hkparam>
+			<hkparam name="spuCollisionCallback">
+				<hkobject>
+					<!-- util SERIALIZE_IGNORED -->
+					<!-- capacity SERIALIZE_IGNORED -->
+					<hkparam name="eventFilter">3</hkparam>
+					<hkparam name="userFilter">1</hkparam>
+				</hkobject>
+			</hkparam>
+			<hkparam name="motion">
+				<hkobject>
+					<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+					<!-- referenceCount SERIALIZE_IGNORED -->
+					<hkparam name="type">MOTION_BOX_INERTIA</hkparam>
+					<hkparam name="deactivationIntegrateCounter">15</hkparam>
+					<hkparam name="deactivationNumInactiveFrames">49152 49152</hkparam>
+					<hkparam name="motionState">
+						<hkobject>
+							<hkparam name="transform">(-0.000000 -0.000000 1.000000)(-1.000000 0.000000 -0.000000)(-0.000000 -1.000000 0.000000)(0.000001 -21.264853 10.509426)</hkparam>
+							<hkparam name="sweptTransform">
+								<hkobject>
+									<hkparam name="centerOfMass0">(-0.000000 -21.264492 10.509712 0.000000)</hkparam>
+									<hkparam name="centerOfMass1">(-0.000000 -21.264492 10.509712 0.000000)</hkparam>
+									<hkparam name="rotation0">(-0.500000 0.500000 -0.500000 -0.500000)</hkparam>
+									<hkparam name="rotation1">(-0.500000 0.500000 -0.500000 -0.500000)</hkparam>
+									<hkparam name="centerOfMassLocal">(0.000286 0.000001 -0.000361 0.000000)</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deltaAngle">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="objectRadius">1.553763</hkparam>
+							<hkparam name="linearDamping">0.500000</hkparam>
+							<hkparam name="angularDamping">0.500000</hkparam>
+							<hkparam name="timeFactor">0.601563</hkparam>
+							<hkparam name="maxLinearVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="maxAngularVelocity">
+								<hkobject>
+									<hkparam name="value">88</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="deactivationClass">2</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="inertiaAndMassInv">(0.530448 0.704077 0.530448 9.999999)</hkparam>
+					<hkparam name="linearVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="angularVelocity">(0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefPosition">(0.000000 0.000000 0.000000 0.000000) (0.000000 0.000000 0.000000 0.000000)</hkparam>
+					<hkparam name="deactivationRefOrientation">0 0</hkparam>
+					<hkparam name="savedMotion">null</hkparam>
+					<hkparam name="savedQualityTypeIndex">26638</hkparam>
+					<hkparam name="gravityFactor">1.000000</hkparam>
+				</hkobject>
+			</hkparam>
+			<!-- contactListeners SERIALIZE_IGNORED -->
+			<!-- actions SERIALIZE_IGNORED -->
+			<hkparam name="localFrame">null</hkparam>
+			<!-- extendedListeners SERIALIZE_IGNORED -->
+			<hkparam name="npData">4294967295</hkparam>
+		</hkobject>
+
+		<hkobject name="#0122" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0121</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0123 #0065</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0125" class="hkpRagdollConstraintData" signature="0x3cef0526">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="atoms">
+				<hkobject>
+					<hkparam name="transforms">
+						<hkobject>
+							<hkparam name="type">TYPE_SET_LOCAL_TRANSFORMS</hkparam>
+							<hkparam name="transformA">(1.000000 0.000000 0.000000)(0.000000 1.000000 -0.000000)(-0.000000 0.000000 1.000000)(0.000000 0.000000 0.000000)</hkparam>
+							<hkparam name="transformB">(1.000000 0.000000 0.000000)(0.000000 0.989483 0.144650)(0.000000 -0.144650 0.989483)(0.114143 -3.075980 -0.158620)</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="setupStabilization">
+						<hkobject>
+							<hkparam name="type">TYPE_SETUP_STABILIZATION</hkparam>
+							<hkparam name="enabled">false</hkparam>
+							<hkparam name="maxLinImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="maxAngle">18446726481523507000.000000</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="ragdollMotors">
+						<hkobject>
+							<hkparam name="type">TYPE_RAGDOLL_MOTOR</hkparam>
+							<hkparam name="isEnabled">false</hkparam>
+							<!-- initializedOffset SERIALIZE_IGNORED -->
+							<!-- previousTargetAnglesOffset SERIALIZE_IGNORED -->
+							<hkparam name="target_bRca">(1.000000 0.000000 0.000000)(0.000000 1.000000 0.000000)(0.000000 0.000000 1.000000)</hkparam>
+							<hkparam name="motors">null null null</hkparam>
+						</hkobject>
+					</hkparam>
+					<hkparam name="angFriction">
+						<hkobject>
+							<hkparam name="type">TYPE_ANG_FRICTION</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="firstFrictionAxis">0</hkparam>
+							<hkparam name="numFrictionAxes">3</hkparam>
+							<hkparam name="maxFrictionTorque">0.000000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="twistLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_TWIST_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxis">0</hkparam>
+							<hkparam name="refAxis">1</hkparam>
+							<hkparam name="minAngle">-0.261799</hkparam>
+							<hkparam name="maxAngle">0.261799</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="coneLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">0</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_ALIGNED</hkparam>
+							<hkparam name="memOffsetToAngleOffset">56</hkparam>
+							<hkparam name="minAngle">-100.000000</hkparam>
+							<hkparam name="maxAngle">0.349066</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="planesLimit">
+						<hkobject>
+							<hkparam name="type">TYPE_CONE_LIMIT</hkparam>
+							<hkparam name="isEnabled">1</hkparam>
+							<hkparam name="twistAxisInA">0</hkparam>
+							<hkparam name="refAxisInB">1</hkparam>
+							<hkparam name="angleMeasurementMode">ZERO_WHEN_VECTORS_PERPENDICULAR</hkparam>
+							<hkparam name="memOffsetToAngleOffset">0</hkparam>
+							<hkparam name="minAngle">-0.349066</hkparam>
+							<hkparam name="maxAngle">0.349066</hkparam>
+							<hkparam name="angularLimitsTauFactor">0.800000</hkparam>
+							<!-- padding SERIALIZE_IGNORED -->
+						</hkobject>
+					</hkparam>
+					<hkparam name="ballSocket">
+						<hkobject>
+							<hkparam name="type">TYPE_BALL_SOCKET</hkparam>
+							<hkparam name="solvingMethod">METHOD_OLD</hkparam>
+							<hkparam name="bodiesToNotify">0</hkparam>
+							<hkparam name="velocityStabilizationFactor">
+								<hkobject>
+									<hkparam name="value">48</hkparam>
+								</hkobject>
+							</hkparam>
+							<hkparam name="enableLinearImpulseLimit">false</hkparam>
+							<hkparam name="breachImpulse">340282001837565600000000000000000000000.000000</hkparam>
+							<hkparam name="inertiaStabilizationFactor">0.000000</hkparam>
+						</hkobject>
+					</hkparam>
+				</hkobject>
+			</hkparam>
+		</hkobject>
+
+		<hkobject name="#0126" class="hkpConstraintInstance" signature="0x34eba5f">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<!-- owner SERIALIZE_IGNORED -->
+			<hkparam name="data">#0125</hkparam>
+			<hkparam name="constraintModifiers">null</hkparam>
+			<hkparam name="entities">#0123 #0095</hkparam>
+			<hkparam name="priority">PRIORITY_PSI</hkparam>
+			<hkparam name="wantRuntime">true</hkparam>
+			<hkparam name="destructionRemapInfo">ON_DESTRUCTION_REMAP</hkparam>
+			<!-- listeners SERIALIZE_IGNORED -->
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<!-- internal SERIALIZE_IGNORED -->
+			<!-- uid SERIALIZE_IGNORED -->
+		</hkobject>
+
+		<hkobject name="#0060" class="hkpPhysicsSystem" signature="0xd6c543df">
+			<!-- memSizeAndFlags SERIALIZE_IGNORED -->
+			<!-- referenceCount SERIALIZE_IGNORED -->
+			<hkparam name="rigidBodies" numelements="17">
+				#0123 #0119 #0115 #0111 #0107 #0103 #0099 #0093 #0095 #0089 #0085 #0081 #0077 #0073 #0069 #0063
+				#0065
+			</hkparam>
+			<hkparam name="constraints" numelements="16">
+				#0126 #0122 #0118 #0114 #0110 #0106 #0102 #0098 #0092 #0088 #0084 #0080 #0076 #0072 #0068 #0062
+			</hkparam>
+			<hkparam name="actions" numelements="0"></hkparam>
+			<hkparam name="phantoms" numelements="0"></hkparam>
+			<hkparam name="name">&#9216;</hkparam>
+			<hkparam name="userData">0</hkparam>
+			<hkparam name="active">true</hkparam>
+		</hkobject>
+
+	</hksection>
+
+</hkpackfile>
