@@ -584,9 +584,18 @@ Armor Property zadx_catsuit_transparent_Inventory Auto
 Armor Property zadx_catsuit_transparent_Rendered Auto
 Armor Property zadx_catsuit_boots_transparent_Inventory Auto
 Armor Property zadx_catsuit_boots_transparent_Rendered Auto
-; other devices
+; hoods
 Armor Property zadx_hood_rubber_black_Inventory Auto
 Armor Property zadx_hood_rubber_black_Rendered Auto
+Armor Property zadx_hood_leather_black_Inventory Auto
+Armor Property zadx_hood_leather_black_Rendered Auto
+Armor Property zadx_hood_rubber_openeyesmouth_black_Inventory Auto
+Armor Property zadx_hood_rubber_openeyesmouth_black_Rendered Auto
+Armor Property zadx_hood_rubber_openeyes_black_Inventory Auto
+Armor Property zadx_hood_rubber_openeyes_black_Rendered Auto
+Armor Property zadx_hood_rubber_openface_black_Inventory Auto
+Armor Property zadx_hood_rubber_openface_black_Rendered Auto
+; other devices
 Armor Property zadx_yoke_steel_Inventory Auto
 Armor Property zadx_yoke_steel_Rendered Auto
 Armor Property zadx_shackles_steel_Inventory Auto
