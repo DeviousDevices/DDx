@@ -75,6 +75,7 @@ Event OnObjectEquipped(Form akBaseObject, ObjectReference akReference)
 	If akBaseObject.GetType() == 22 || akBaseObject.GetType() == 41 || ((akBaseObject.GetType() == 26 && !isDeviousDevice(akBaseObject) && akBaseObject != zad_DeviceHider))	
 		If UI.IsMenuOpen("InventoryMenu")
 			libs.notify("You can't equip this while locked in bondage mittens!")	
+			libs.playerRef.UnEquipItem(akBaseObject, false, true)
 		Endif		
 		while hasAnyWeaponEquipped(libs.playerRef)
 			stripweapons(libs.playerRef)
