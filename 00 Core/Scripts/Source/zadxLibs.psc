@@ -851,6 +851,24 @@ Armor Property zadx_AnkleShackles_Black_Rendered Auto
 Armor Property zadx_AnkleShackles_Silver_Inventory Auto
 Armor Property zadx_AnkleShackles_Silver_Rendered Auto
 
+; Feuertin's items
+; Elbowbinders
+Armor Property zadx_ElbowbinderInventory Auto
+Armor Property zadx_ElbowbinderRendered Auto
+Armor Property zadx_ElbowbinderRedInventory Auto
+Armor Property zadx_ElbowbinderRedRendered Auto
+Armor Property zadx_ElbowbinderWhiteInventory Auto
+Armor Property zadx_ElbowbinderWhiteRendered Auto
+Armor Property zadx_ElbowbinderEboniteInventory Auto
+Armor Property zadx_ElbowbinderEboniteRendered Auto
+Armor Property zadx_ElbowbinderEboniteRedInventory Auto
+Armor Property zadx_ElbowbinderEboniteRedRendered Auto
+Armor Property zadx_ElbowbinderEboniteWhiteInventory Auto
+Armor Property zadx_ElbowbinderEboniteWhiteRendered Auto
+
+Armor Property zadx_HR_BBYokeInventory Auto
+Armor Property zadx_HR_BBYokeRendered Auto
+
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
 Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool skipEvents = false)
