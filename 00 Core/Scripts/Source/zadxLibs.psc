@@ -395,6 +395,16 @@ Armor Property zadx_HR_RustyIronBalletBootsInventory Auto
 Armor Property zadx_HR_RustyIronBalletBootsRendered Auto
 Armor Property zadx_HR_RustyIronBalletBootsHeelInventory Auto
 Armor Property zadx_HR_RustyIronBalletBootsHeelRendered Auto
+Armor Property zadx_HR_BBYokeInventory Auto
+Armor Property zadx_HR_BBYokeRendered Auto
+Armor Property zadx_HR_PrisonerChains01Inventory Auto
+Armor Property zadx_HR_PrisonerChains01Rendered Auto
+Armor Property zadx_HR_RustyPrisonerChains01Inventory Auto
+Armor Property zadx_HR_RustyPrisonerChains01Rendered Auto
+Armor Property zadx_HR_IronCuffsFrontInventory Auto
+Armor Property zadx_HR_IronCuffsFrontRendered Auto
+Armor Property zadx_HR_RustyIronCuffsFrontInventory Auto
+Armor Property zadx_HR_RustyIronCuffsFrontRendered Auto
 
 ; Pincopallino's items.
 ; Hobble Dresses
@@ -865,9 +875,6 @@ Armor Property zadx_ElbowbinderEboniteRedInventory Auto
 Armor Property zadx_ElbowbinderEboniteRedRendered Auto
 Armor Property zadx_ElbowbinderEboniteWhiteInventory Auto
 Armor Property zadx_ElbowbinderEboniteWhiteRendered Auto
-
-Armor Property zadx_HR_BBYokeInventory Auto
-Armor Property zadx_HR_BBYokeRendered Auto
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
