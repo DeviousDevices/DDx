@@ -3,7 +3,7 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 5
+    return 6
 EndFunction
 
 String function GetVersionString()
