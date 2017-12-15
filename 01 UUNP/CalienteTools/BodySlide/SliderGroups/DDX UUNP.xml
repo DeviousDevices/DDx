@@ -16,6 +16,10 @@
         <Member name="DDX - UUNP - EboniteHarness"/>
         <Member name="DDX - UUNP - EboniteHobbleDress"/>
         <Member name="DDX - UUNP - EboniteHobbleDressOpen"/>
+		<Member name="DDX - UUNP - EboniteStraitjacket"/>
+		<Member name="DDX - UUNP - EboniteStraitjacketTopless"/>
+		<Member name="DDX - UUNP - EboniteStraitjacketLegbinder"/>
+		<Member name="DDX - UUNP - EboniteStraitjacketLegbinderTopless"/>
         <Member name="DDX - UUNP - EbonitePawMittens"/>
         <Member name="DDX - UUNP - EbRestrictiveBoots"/>
         <Member name="DDX - UUNP - EbRestrictiveCollar(HDT)"/>
@@ -30,6 +34,10 @@
         <Member name="DDX - UUNP - LeatherElegantDress"/>
         <Member name="DDX - UUNP - LeatherHobbleDress"/>
         <Member name="DDX - UUNP - LeatherHobbleDressOpen"/>
+		<Member name="DDX - UUNP - LeatherStraitjacket"/>
+		<Member name="DDX - UUNP - LeatherStraitjacketTopless"/>
+		<Member name="DDX - UUNP - LeatherStraitjacketLegbinder"/>
+		<Member name="DDX - UUNP - LeatherStraitjacketLegbinderTopless"/>
         <Member name="DDX - UUNP - LeatherPawMittens"/>
         <Member name="DDX - UUNP - RestrictiveBoots"/>
         <Member name="DDX - UUNP - XinEbPonyBoot"/>
@@ -48,6 +56,12 @@
         <Member name="DDX - UUNP/CBBE - Piercing03"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots01"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots02"/>
+        <Member name="DDX - UUNP - LeatherStraitjacketxHobble"/>
+        <Member name="DDX - UUNP - LeatherStraitjacketxHobbleTopless"/>
+        <Member name="DDX - UUNP - EboniteStraitjacketxHobble"/>
+        <Member name="DDX - UUNP - EboniteStraitjacketxHobbleTopless"/>
+        <Member name="DDX - UUNP - BBYoke01"/>
+
     </Group>
     <Group name="Unified UNP">
         <Member name="DDX - UUNP - 1stpersonEbRestrictiveGloves"/>
@@ -63,6 +77,10 @@
         <Member name="DDX - UUNP - EboniteHarness"/>
         <Member name="DDX - UUNP - EboniteHobbleDress"/>
         <Member name="DDX - UUNP - EboniteHobbleDressOpen"/>
+		<Member name="DDX - UUNP - EboniteStraitjacket"/>
+		<Member name="DDX - UUNP - EboniteStraitjacketTopless"/>
+		<Member name="DDX - UUNP - EboniteStraitjacketLegbinder"/>
+		<Member name="DDX - UUNP - EboniteStraitjacketLegbinderTopless"/>
         <Member name="DDX - UUNP - EbonitePawMittens"/>
         <Member name="DDX - UUNP - EbRestrictiveBoots"/>
         <Member name="DDX - UUNP - EbRestrictiveCollar"/>
@@ -73,6 +91,10 @@
         <Member name="DDX - UUNP - LeatherElegantDress"/>
         <Member name="DDX - UUNP - LeatherHobbleDress"/>
         <Member name="DDX - UUNP - LeatherHobbleDressOpen"/>
+		<Member name="DDX - UUNP - LeatherStraitjacket"/>
+		<Member name="DDX - UUNP - LeatherStraitjacketTopless"/>
+		<Member name="DDX - UUNP - LeatherStraitjacketLegbinder"/>
+		<Member name="DDX - UUNP - LeatherStraitjacketLegbinderTopless"/>
         <Member name="DDX - UUNP - LeatherPawMittens"/>
         <Member name="DDX - UUNP - RestrictiveBoots"/>
         <Member name="DDX - UUNP - XinEbPonyBoot"/>
@@ -91,6 +113,12 @@
         <Member name="DDX - UUNP/CBBE - Piercing03"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots01"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots02"/>
+        <Member name="DDX - UUNP - LeatherStraitjacketxHobble"/>
+        <Member name="DDX - UUNP - LeatherStraitjacketxHobbleTopless"/>
+        <Member name="DDX - UUNP - EboniteStraitjacketxHobble"/>
+        <Member name="DDX - UUNP - EboniteStraitjacketxHobbleTopless"/>
+        <Member name="DDX - UUNP - BBYoke01"/>
+
     </Group>
     <Group name="Unified UNP HDT">
         <Member name="DDX - UUNP - 1stpersonEbRestrictiveGloves"/>
@@ -106,6 +134,10 @@
         <Member name="DDX - UUNP - EboniteHarness(HDT)"/>
         <Member name="DDX - UUNP - EboniteHobbleDress"/>
         <Member name="DDX - UUNP - EboniteHobbleDressOpen"/>
+		<Member name="DDX - UUNP - EboniteStraitjacket"/>
+		<Member name="DDX - UUNP - EboniteStraitjacketTopless"/>
+		<Member name="DDX - UUNP - EboniteStraitjacketLegbinder"/>
+		<Member name="DDX - UUNP - EboniteStraitjacketLegbinderTopless"/>
         <Member name="DDX - UUNP - EbonitePawMittens"/>
         <Member name="DDX - UUNP - EbRestrictiveBoots"/>
         <Member name="DDX - UUNP - EbRestrictiveCollar(HDT)"/>
@@ -116,6 +148,10 @@
         <Member name="DDX - UUNP - LeatherElegantDress"/>
         <Member name="DDX - UUNP - LeatherHobbleDress"/>
         <Member name="DDX - UUNP - LeatherHobbleDressOpen"/>
+		<Member name="DDX - UUNP - LeatherStraitjacket"/>
+		<Member name="DDX - UUNP - LeatherStraitjacketTopless"/>
+		<Member name="DDX - UUNP - LeatherStraitjacketLegbinder"/>
+		<Member name="DDX - UUNP - LeatherStraitjacketLegbinderTopless"/>
         <Member name="DDX - UUNP - LeatherPawMittens"/>
         <Member name="DDX - UUNP - RestrictiveBoots"/>
         <Member name="DDX - UUNP - XinEbPonyBoot"/>
@@ -134,5 +170,11 @@
         <Member name="DDX - UUNP/CBBE - Piercing03"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots01"/>
         <Member name="DDX - UUNP/CBBE - RestrictiveBoots02"/>
+        <Member name="DDX - UUNP - LeatherStraitjacketxHobble"/>
+        <Member name="DDX - UUNP - LeatherStraitjacketxHobbleTopless"/>
+        <Member name="DDX - UUNP - EboniteStraitjacketxHobble"/>
+        <Member name="DDX - UUNP - EboniteStraitjacketxHobbleTopless"/>
+        <Member name="DDX - UUNP - BBYoke01"/>
+
     </Group>
 </SliderGroups>

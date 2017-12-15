@@ -3,11 +3,11 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 3
+    return 6
 EndFunction
 
 String function GetVersionString()
-    return "3.0"
+    return "4.0"
 EndFunction
 
 
@@ -395,6 +395,16 @@ Armor Property zadx_HR_RustyIronBalletBootsInventory Auto
 Armor Property zadx_HR_RustyIronBalletBootsRendered Auto
 Armor Property zadx_HR_RustyIronBalletBootsHeelInventory Auto
 Armor Property zadx_HR_RustyIronBalletBootsHeelRendered Auto
+Armor Property zadx_HR_BBYokeInventory Auto
+Armor Property zadx_HR_BBYokeRendered Auto
+Armor Property zadx_HR_PrisonerChains01Inventory Auto
+Armor Property zadx_HR_PrisonerChains01Rendered Auto
+Armor Property zadx_HR_RustyPrisonerChains01Inventory Auto
+Armor Property zadx_HR_RustyPrisonerChains01Rendered Auto
+Armor Property zadx_HR_IronCuffsFrontInventory Auto
+Armor Property zadx_HR_IronCuffsFrontRendered Auto
+Armor Property zadx_HR_RustyIronCuffsFrontInventory Auto
+Armor Property zadx_HR_RustyIronCuffsFrontRendered Auto
 
 ; Pincopallino's items.
 ; Hobble Dresses
@@ -482,8 +492,389 @@ Armor Property zadx_PawBondageMittensRedLatexInventory Auto
 Armor Property zadx_PawBondageMittensRedLatexRendered Auto
 Armor Property zadx_PawBondageMittensWhiteLatexInventory Auto
 Armor Property zadx_PawBondageMittensWhiteLatexRendered Auto
+; Straitjackets
+; w/ Legbinder:
+Armor Property zadx_StraitJacketLeatherLegsBlackInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsBlackRendered Auto
+Armor Property zadx_StraitJacketLeatherLegsRedInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsRedRendered Auto
+Armor Property zadx_StraitJacketLeatherLegsWhiteInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsWhiteRendered Auto
+Armor Property zadx_StraitJacketLatexLegsBlackInventory Auto
+Armor Property zadx_StraitJacketLatexLegsBlackRendered Auto
+Armor Property zadx_StraitJacketLatexLegsRedInventory Auto
+Armor Property zadx_StraitJacketLatexLegsRedRendered Auto
+Armor Property zadx_StraitJacketLatexLegsWhiteInventory Auto
+Armor Property zadx_StraitJacketLatexLegsWhiteRendered Auto
+; Jackets:
+Armor Property zadx_StraitJacketLeatherBlackInventory Auto
+Armor Property zadx_StraitJacketLeatherBlackRendered Auto
+Armor Property zadx_StraitJacketLeatherRedInventory Auto
+Armor Property zadx_StraitJacketLeatherRedRendered Auto
+Armor Property zadx_StraitJacketLeatherWhiteInventory Auto
+Armor Property zadx_StraitJacketLeatherWhiteRendered Auto
+Armor Property zadx_StraitJacketLatexBlackInventory Auto
+Armor Property zadx_StraitJacketLatexBlackRendered Auto
+Armor Property zadx_StraitJacketLatexRedInventory Auto
+Armor Property zadx_StraitJacketLatexRedRendered Auto
+Armor Property zadx_StraitJacketLatexWhiteInventory Auto
+Armor Property zadx_StraitJacketLatexWhiteRendered Auto
+; Open jackets
+Armor Property zadx_StraitJacketLeatherToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLeatherToplessBlackRendered Auto
+Armor Property zadx_StraitJacketLeatherToplessRedInventory Auto
+Armor Property zadx_StraitJacketLeatherToplessRedRendered Auto
+Armor Property zadx_StraitJacketLeatherToplessWhiteInventory Auto
+Armor Property zadx_StraitJacketLeatherToplessWhiteRendered Auto
+Armor Property zadx_StraitJacketLatexToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLatexToplessBlackRendered Auto
+Armor Property zadx_StraitJacketLatexToplessRedInventory Auto
+Armor Property zadx_StraitJacketLatexToplessRedRendered Auto
+Armor Property zadx_StraitJacketLatexToplessWhiteInventory Auto
+Armor Property zadx_StraitJacketLatexToplessWhiteRendered Auto
+; Open, w/ legbinder
+Armor Property zadx_StraitJacketLeatherLegsToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessBlackRendered Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessRedInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessRedRendered Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessWhiteInventory Auto
+Armor Property zadx_StraitJacketLeatherLegsToplessWhiteRendered Auto
+Armor Property zadx_StraitJacketLatexLegsToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLatexLegsToplessBlackRendered Auto
+Armor Property zadx_StraitJacketLatexLegsToplessRedInventory Auto
+Armor Property zadx_StraitJacketLatexLegsToplessRedRendered Auto
+Armor Property zadx_StraitJacketLatexLegsToplessWhiteInventory Auto
+Armor Property zadx_StraitJacketLatexLegsToplessWhiteRendered Auto
+; w/ hobble skirt:
+Armor Property zadx_StraitJacketLatexDressBlackInventory Auto
+Armor Property zadx_StraitJacketLatexDressBlackRendered Auto
+Armor Property zadx_StraitJacketLatexDressToplessBlackInventory Auto
+Armor Property zadx_StraitJacketLatexDressToplessBlackRendered Auto
 
+; Duderino's items
+; Pony gags
+Armor Property zadx_dud_Pony_BitGag_Chin_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Ebonite_BlackRendered Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Ebonite_BlackRendered Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Ebonite_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Ebonite_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Leather_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Leather_BlackRendered Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Ebonite_BlackInventory Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Ebonite_BlackRendered Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_White_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_White_Ebonite_Rendered Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_White_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_White_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_White_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_White_Ebonite_Rendered Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_White_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_White_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_White_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_White_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_White_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_White_Ebonite_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Ears_White_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Ears_White_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Ears_White_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Ears_White_Ebonite_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Secure_White_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Secure_White_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Secure_White_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Secure_White_Ebonite_Rendered Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Red_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Red_Ebonite_Rendered Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Red_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_BitGag_Chin_Red_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Red_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Red_Ebonite_Rendered Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Red_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_BitGag_Simple_Red_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Red_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Red_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Red_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Blinders_Red_Ebonite_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Red_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Red_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Red_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Ears_Red_Ebonite_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Red_Leather_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Red_Leather_Rendered Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Red_Ebonite_Inventory Auto
+Armor Property zadx_dud_Pony_Harness_Secure_Red_Ebonite_Rendered Auto
 
+; silver and gold gear
+Armor Property zadx_chastitybelt_Padded_Gold_Inventory Auto
+Armor Property zadx_chastitybelt_Padded_Gold_Rendered Auto
+Armor Property zadx_chastitybra_Padded_Gold_Inventory Auto
+Armor Property zadx_chastitybra_Padded_Gold_Rendered Auto
+Armor Property zadx_chastitybelt_Padded_Silver_Inventory Auto
+Armor Property zadx_chastitybelt_Padded_Silver_Rendered Auto
+Armor Property zadx_chastitybra_Padded_Silver_Inventory Auto
+Armor Property zadx_chastitybra_Padded_Silver_Rendered Auto
+Armor Property zadx_Collar_Posture_Gold_Inventory Auto
+Armor Property zadx_Collar_Posture_Gold_Rendered Auto
+Armor Property zadx_Collar_Posture_Silver_Inventory Auto
+Armor Property zadx_Collar_Posture_Silver_Rendered Auto
+Armor Property zadx_cuffs_Padded_Arms_Gold_Inventory Auto
+Armor Property zadx_cuffs_Padded_Arms_Gold_Rendered Auto
+Armor Property zadx_cuffs_Padded_Legs_Gold_Inventory Auto
+Armor Property zadx_cuffs_Padded_Legs_Gold_Rendered Auto
+Armor Property zadx_cuffs_Padded_Collar_Gold_Inventory Auto
+Armor Property zadx_cuffs_Padded_Collar_Gold_Rendered Auto
+Armor Property zadx_cuffs_Padded_Arms_Silver_Inventory Auto
+Armor Property zadx_cuffs_Padded_Arms_Silver_Rendered Auto
+Armor Property zadx_cuffs_Padded_Legs_Silver_Inventory Auto
+Armor Property zadx_cuffs_Padded_Legs_Silver_Rendered Auto
+Armor Property zadx_cuffs_Padded_Collar_Silver_Inventory Auto
+Armor Property zadx_cuffs_Padded_Collar_Silver_Rendered Auto
+
+; DCL items
+; Rubber stuffz! \o/
+Armor Property zadx_catsuit_black_Inventory Auto
+Armor Property zadx_catsuit_black_Rendered Auto
+Armor Property zadx_catsuit_blue_Inventory Auto
+Armor Property zadx_catsuit_blue_Rendered Auto
+Armor Property zadx_catsuit_cyan_Inventory Auto
+Armor Property zadx_catsuit_cyan_Rendered Auto
+Armor Property zadx_catsuit_dgreen_Inventory Auto
+Armor Property zadx_catsuit_dgreen_Rendered Auto
+Armor Property zadx_catsuit_dgrey_Inventory Auto
+Armor Property zadx_catsuit_dgrey_Rendered Auto
+Armor Property zadx_catsuit_dred_Inventory Auto
+Armor Property zadx_catsuit_dred_Rendered Auto
+Armor Property zadx_catsuit_gold_Inventory Auto
+Armor Property zadx_catsuit_gold_Rendered Auto
+Armor Property zadx_catsuit_green_Inventory Auto
+Armor Property zadx_catsuit_green_Rendered Auto
+Armor Property zadx_catsuit_lgrey_Inventory Auto
+Armor Property zadx_catsuit_lgrey_Rendered Auto
+Armor Property zadx_catsuit_orange_Inventory Auto
+Armor Property zadx_catsuit_orange_Rendered Auto
+Armor Property zadx_catsuit_pink_Inventory Auto
+Armor Property zadx_catsuit_pink_Rendered Auto
+Armor Property zadx_catsuit_purple_Inventory Auto
+Armor Property zadx_catsuit_purple_Rendered Auto
+Armor Property zadx_catsuit_red_Inventory Auto
+Armor Property zadx_catsuit_red_Rendered Auto
+Armor Property zadx_catsuit_redwhite_Inventory Auto
+Armor Property zadx_catsuit_redwhite_Rendered Auto
+Armor Property zadx_catsuit_white_Inventory Auto
+Armor Property zadx_catsuit_white_Rendered Auto
+Armor Property zadx_catsuit_yellow_Inventory Auto
+Armor Property zadx_catsuit_yellow_Rendered Auto
+
+Armor Property zadx_catsuit_balletboots_black_Inventory Auto
+Armor Property zadx_catsuit_balletboots_black_Rendered Auto
+Armor Property zadx_catsuit_balletboots_blue_Inventory Auto
+Armor Property zadx_catsuit_balletboots_blue_Rendered Auto
+Armor Property zadx_catsuit_balletboots_cyan_Inventory Auto
+Armor Property zadx_catsuit_balletboots_cyan_Rendered Auto
+Armor Property zadx_catsuit_balletboots_dgreen_Inventory Auto
+Armor Property zadx_catsuit_balletboots_dgreen_Rendered Auto
+Armor Property zadx_catsuit_balletboots_dgrey_Inventory Auto
+Armor Property zadx_catsuit_balletboots_dgrey_Rendered Auto
+Armor Property zadx_catsuit_balletboots_dred_Inventory Auto
+Armor Property zadx_catsuit_balletboots_dred_Rendered Auto
+Armor Property zadx_catsuit_balletboots_gold_Inventory Auto
+Armor Property zadx_catsuit_balletboots_gold_Rendered Auto
+Armor Property zadx_catsuit_balletboots_green_Inventory Auto
+Armor Property zadx_catsuit_balletboots_green_Rendered Auto
+Armor Property zadx_catsuit_balletboots_lgrey_Inventory Auto
+Armor Property zadx_catsuit_balletboots_lgrey_Rendered Auto
+Armor Property zadx_catsuit_balletboots_orange_Inventory Auto
+Armor Property zadx_catsuit_balletboots_orange_Rendered Auto
+Armor Property zadx_catsuit_balletboots_pink_Inventory Auto
+Armor Property zadx_catsuit_balletboots_pink_Rendered Auto
+Armor Property zadx_catsuit_balletboots_purple_Inventory Auto
+Armor Property zadx_catsuit_balletboots_purple_Rendered Auto
+Armor Property zadx_catsuit_balletboots_red_Inventory Auto
+Armor Property zadx_catsuit_balletboots_red_Rendered Auto
+Armor Property zadx_catsuit_balletboots_white_Inventory Auto
+Armor Property zadx_catsuit_balletboots_white_Rendered Auto
+Armor Property zadx_catsuit_balletboots_yellow_Inventory Auto
+Armor Property zadx_catsuit_balletboots_yellow_Rendered Auto
+
+Armor Property zadx_catsuit_boots_black_Inventory Auto
+Armor Property zadx_catsuit_boots_black_Rendered Auto
+Armor Property zadx_catsuit_boots_blue_Inventory Auto
+Armor Property zadx_catsuit_boots_blue_Rendered Auto
+Armor Property zadx_catsuit_boots_cyan_Inventory Auto
+Armor Property zadx_catsuit_boots_cyan_Rendered Auto
+Armor Property zadx_catsuit_boots_dgreen_Inventory Auto
+Armor Property zadx_catsuit_boots_dgreen_Rendered Auto
+Armor Property zadx_catsuit_boots_dgrey_Inventory Auto
+Armor Property zadx_catsuit_boots_dgrey_Rendered Auto
+Armor Property zadx_catsuit_boots_dred_Inventory Auto
+Armor Property zadx_catsuit_boots_dred_Rendered Auto
+Armor Property zadx_catsuit_boots_gold_Inventory Auto
+Armor Property zadx_catsuit_boots_gold_Rendered Auto
+Armor Property zadx_catsuit_boots_green_Inventory Auto
+Armor Property zadx_catsuit_boots_green_Rendered Auto
+Armor Property zadx_catsuit_boots_lgrey_Inventory Auto
+Armor Property zadx_catsuit_boots_lgrey_Rendered Auto
+Armor Property zadx_catsuit_boots_orange_Inventory Auto
+Armor Property zadx_catsuit_boots_orange_Rendered Auto
+Armor Property zadx_catsuit_boots_pink_Inventory Auto
+Armor Property zadx_catsuit_boots_pink_Rendered Auto
+Armor Property zadx_catsuit_boots_purple_Inventory Auto
+Armor Property zadx_catsuit_boots_purple_Rendered Auto
+Armor Property zadx_catsuit_boots_red_Inventory Auto
+Armor Property zadx_catsuit_boots_red_Rendered Auto
+Armor Property zadx_catsuit_boots_redwhite_Inventory Auto
+Armor Property zadx_catsuit_boots_redwhite_Rendered Auto
+Armor Property zadx_catsuit_boots_white_Inventory Auto
+Armor Property zadx_catsuit_boots_white_Rendered Auto
+Armor Property zadx_catsuit_boots_yellow_Inventory Auto
+Armor Property zadx_catsuit_boots_yellow_Rendered Auto
+
+Armor Property zadx_catsuit_collar_black_Inventory Auto
+Armor Property zadx_catsuit_collar_black_Rendered Auto
+Armor Property zadx_catsuit_collar_blue_Inventory Auto
+Armor Property zadx_catsuit_collar_blue_Rendered Auto
+Armor Property zadx_catsuit_collar_cyan_Inventory Auto
+Armor Property zadx_catsuit_collar_cyan_Rendered Auto
+Armor Property zadx_catsuit_collar_dgreen_Inventory Auto
+Armor Property zadx_catsuit_collar_dgreen_Rendered Auto
+Armor Property zadx_catsuit_collar_dgrey_Inventory Auto
+Armor Property zadx_catsuit_collar_dgrey_Rendered Auto
+Armor Property zadx_catsuit_collar_dred_Inventory Auto
+Armor Property zadx_catsuit_collar_dred_Rendered Auto
+Armor Property zadx_catsuit_collar_gold_Inventory Auto
+Armor Property zadx_catsuit_collar_gold_Rendered Auto
+Armor Property zadx_catsuit_collar_green_Inventory Auto
+Armor Property zadx_catsuit_collar_green_Rendered Auto
+Armor Property zadx_catsuit_collar_lgrey_Inventory Auto
+Armor Property zadx_catsuit_collar_lgrey_Rendered Auto
+Armor Property zadx_catsuit_collar_orange_Inventory Auto
+Armor Property zadx_catsuit_collar_orange_Rendered Auto
+Armor Property zadx_catsuit_collar_pink_Inventory Auto
+Armor Property zadx_catsuit_collar_pink_Rendered Auto
+Armor Property zadx_catsuit_collar_purple_Inventory Auto
+Armor Property zadx_catsuit_collar_purple_Rendered Auto
+Armor Property zadx_catsuit_collar_red_Inventory Auto
+Armor Property zadx_catsuit_collar_red_Rendered Auto
+Armor Property zadx_catsuit_collar_white_Inventory Auto
+Armor Property zadx_catsuit_collar_white_Rendered Auto
+Armor Property zadx_catsuit_collar_yellow_Inventory Auto
+Armor Property zadx_catsuit_collar_yellow_Rendered Auto
+
+Armor Property zadx_catsuit_gloves_black_Inventory Auto
+Armor Property zadx_catsuit_gloves_black_Rendered Auto
+Armor Property zadx_catsuit_gloves_blue_Inventory Auto
+Armor Property zadx_catsuit_gloves_blue_Rendered Auto
+Armor Property zadx_catsuit_gloves_cyan_Inventory Auto
+Armor Property zadx_catsuit_gloves_cyan_Rendered Auto
+Armor Property zadx_catsuit_gloves_dgreen_Inventory Auto
+Armor Property zadx_catsuit_gloves_dgreen_Rendered Auto
+Armor Property zadx_catsuit_gloves_dgrey_Inventory Auto
+Armor Property zadx_catsuit_gloves_dgrey_Rendered Auto
+Armor Property zadx_catsuit_gloves_dred_Inventory Auto
+Armor Property zadx_catsuit_gloves_dred_Rendered Auto
+Armor Property zadx_catsuit_gloves_gold_Inventory Auto
+Armor Property zadx_catsuit_gloves_gold_Rendered Auto
+Armor Property zadx_catsuit_gloves_green_Inventory Auto
+Armor Property zadx_catsuit_gloves_green_Rendered Auto
+Armor Property zadx_catsuit_gloves_lgrey_Inventory Auto
+Armor Property zadx_catsuit_gloves_lgrey_Rendered Auto
+Armor Property zadx_catsuit_gloves_orange_Inventory Auto
+Armor Property zadx_catsuit_gloves_orange_Rendered Auto
+Armor Property zadx_catsuit_gloves_pink_Inventory Auto
+Armor Property zadx_catsuit_gloves_pink_Rendered Auto
+Armor Property zadx_catsuit_gloves_purple_Inventory Auto
+Armor Property zadx_catsuit_gloves_purple_Rendered Auto
+Armor Property zadx_catsuit_gloves_red_Inventory Auto
+Armor Property zadx_catsuit_gloves_red_Rendered Auto
+Armor Property zadx_catsuit_gloves_white_Inventory Auto
+Armor Property zadx_catsuit_gloves_white_Rendered Auto
+Armor Property zadx_catsuit_gloves_redwhite_Inventory Auto
+Armor Property zadx_catsuit_gloves_redwhite_Rendered Auto
+Armor Property zadx_catsuit_gloves_yellow_Inventory Auto
+Armor Property zadx_catsuit_gloves_yellow_Rendered Auto
+
+Armor Property zadx_catsuit_longgloves_black_Inventory Auto
+Armor Property zadx_catsuit_longgloves_black_Rendered Auto
+Armor Property zadx_catsuit_longgloves_blue_Inventory Auto
+Armor Property zadx_catsuit_longgloves_blue_Rendered Auto
+Armor Property zadx_catsuit_longgloves_cyan_Inventory Auto
+Armor Property zadx_catsuit_longgloves_cyan_Rendered Auto
+Armor Property zadx_catsuit_longgloves_dgreen_Inventory Auto
+Armor Property zadx_catsuit_longgloves_dgreen_Rendered Auto
+Armor Property zadx_catsuit_longgloves_dgrey_Inventory Auto
+Armor Property zadx_catsuit_longgloves_dgrey_Rendered Auto
+Armor Property zadx_catsuit_longgloves_dred_Inventory Auto
+Armor Property zadx_catsuit_longgloves_dred_Rendered Auto
+Armor Property zadx_catsuit_longgloves_gold_Inventory Auto
+Armor Property zadx_catsuit_longgloves_gold_Rendered Auto
+Armor Property zadx_catsuit_longgloves_green_Inventory Auto
+Armor Property zadx_catsuit_longgloves_green_Rendered Auto
+Armor Property zadx_catsuit_longgloves_lgrey_Inventory Auto
+Armor Property zadx_catsuit_longgloves_lgrey_Rendered Auto
+Armor Property zadx_catsuit_longgloves_orange_Inventory Auto
+Armor Property zadx_catsuit_longgloves_orange_Rendered Auto
+Armor Property zadx_catsuit_longgloves_pink_Inventory Auto
+Armor Property zadx_catsuit_longgloves_pink_Rendered Auto
+Armor Property zadx_catsuit_longgloves_purple_Inventory Auto
+Armor Property zadx_catsuit_longgloves_purple_Rendered Auto
+Armor Property zadx_catsuit_longgloves_red_Inventory Auto
+Armor Property zadx_catsuit_longgloves_red_Rendered Auto
+Armor Property zadx_catsuit_longgloves_white_Inventory Auto
+Armor Property zadx_catsuit_longgloves_white_Rendered Auto
+Armor Property zadx_catsuit_longgloves_yellow_Inventory Auto
+Armor Property zadx_catsuit_longgloves_yellow_Rendered Auto
+
+Armor Property zadx_catsuit_gasmask_black_Inventory Auto
+Armor Property zadx_catsuit_gasmask_black_Rendered Auto
+Armor Property zadx_catsuit_transparent_Inventory Auto
+Armor Property zadx_catsuit_transparent_Rendered Auto
+Armor Property zadx_catsuit_boots_transparent_Inventory Auto
+Armor Property zadx_catsuit_boots_transparent_Rendered Auto
+; hoods
+Armor Property zadx_hood_rubber_black_Inventory Auto
+Armor Property zadx_hood_rubber_black_Rendered Auto
+Armor Property zadx_hood_leather_black_Inventory Auto
+Armor Property zadx_hood_leather_black_Rendered Auto
+Armor Property zadx_hood_rubber_openeyesmouth_black_Inventory Auto
+Armor Property zadx_hood_rubber_openeyesmouth_black_Rendered Auto
+Armor Property zadx_hood_rubber_openeyes_black_Inventory Auto
+Armor Property zadx_hood_rubber_openeyes_black_Rendered Auto
+Armor Property zadx_hood_rubber_openface_black_Inventory Auto
+Armor Property zadx_hood_rubber_openface_black_Rendered Auto
+; other devices
+Armor Property zadx_yoke_steel_Inventory Auto
+Armor Property zadx_yoke_steel_Rendered Auto
+Armor Property zadx_shackles_steel_Inventory Auto
+Armor Property zadx_shackles_steel_Rendered Auto
+Armor Property zadx_AnkleShackles_Black_Inventory Auto
+Armor Property zadx_AnkleShackles_Black_Rendered Auto
+Armor Property zadx_AnkleShackles_Silver_Inventory Auto
+Armor Property zadx_AnkleShackles_Silver_Rendered Auto
+
+; Feuertin's items
+; Elbowbinders
+Armor Property zadx_ElbowbinderInventory Auto
+Armor Property zadx_ElbowbinderRendered Auto
+Armor Property zadx_ElbowbinderRedInventory Auto
+Armor Property zadx_ElbowbinderRedRendered Auto
+Armor Property zadx_ElbowbinderWhiteInventory Auto
+Armor Property zadx_ElbowbinderWhiteRendered Auto
+Armor Property zadx_ElbowbinderEboniteInventory Auto
+Armor Property zadx_ElbowbinderEboniteRendered Auto
+Armor Property zadx_ElbowbinderEboniteRedInventory Auto
+Armor Property zadx_ElbowbinderEboniteRedRendered Auto
+Armor Property zadx_ElbowbinderEboniteWhiteInventory Auto
+Armor Property zadx_ElbowbinderEboniteWhiteRendered Auto
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
@@ -1002,7 +1393,6 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(zadx_HR_RustyPearGagInventory				, "gag,pear,metal,rusty,heretic,ddx")
 	libs.RegisterGenericDevice(zadx_HR_IronCollarInventory					, "collar,short,metal,iron,heretic,ddx")
 	libs.RegisterGenericDevice(zadx_HR_RustyIronCollarInventory				, "collar,short,metal,rusty,heretic,ddx")
-	libs.RegisterGenericDevice(zadx_HR_MaskofShameInventory					, "hood,mask,blocking,shame,metal,iron,heretic,ddx")
 	libs.RegisterGenericDevice(zadx_HR_WristShacklesInventory				, "cuffs,arms,chain,metal,iron,heretic,ddx")
 	libs.RegisterGenericDevice(zadx_HR_RustyWristShacklesInventory			, "cuffs,arms,chain,metal,rusty,heretic,ddx")
 	libs.RegisterGenericDevice(zadx_HR_IronBitGagInventory					, "gag,strap,bit,iron,heretic,ddx")
@@ -1015,6 +1405,8 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(zadx_HR_IronBalletBootsHeelInventory			, "boots,ballet,reinforced,blocking,metal,iron,heretic,ddx")
 	libs.RegisterGenericDevice(zadx_HR_RustyIronBalletBootsInventory		, "boots,ballet,blocking,metal,rusty,heretic,ddx")
 	libs.RegisterGenericDevice(zadx_HR_RustyIronBalletBootsHeelInventory	, "boots,ballet,reinforced,blocking,metal,rusty,heretic,ddx")
+	libs.RegisterGenericDevice(zadx_HR_IronCuffsFrontInventory				, "handcuffs,front,metal,iron,heretic,ddx")
+	libs.RegisterGenericDevice(zadx_HR_RustyIronCuffsFrontInventory			, "handcuffs,front,metal,rusty,heretic,ddx")
 	
 	; Pincopallino's Items.
 	libs.RegisterGenericDevice(zadx_HobbleDressRelaxedInventory					, "dress,blocking,hobble,relaxed,leather,black,pincopallino,ddx")
@@ -1044,6 +1436,71 @@ Function RegisterDevices()
 	libs.RegisterGenericDevice(zadx_PawBondageMittensLatexInventory				, "mittens,paw,blocking,ebonite,black,pincopallino,ddx")
 	libs.RegisterGenericDevice(zadx_PawBondageMittensRedLatexInventory			, "mittens,paw,blocking,ebonite,red,pincopallino,ddx")
 	libs.RegisterGenericDevice(zadx_PawBondageMittensWhiteLatexInventory		, "mittens,paw,blocking,ebonite,white,pincopallino,ddx")
+	
+	; Duderino's Items
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Chin_Ebonite_BlackInventory			, "gag,bit,strap,chin,ebonite,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Chin_Leather_BlackInventory			, "gag,bit,strap,chin,leather,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Simple_Ebonite_BlackInventory		, "gag,bit,strap,ebonite,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Simple_Leather_BlackInventory		, "gag,bit,strap,leather,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Blinders_Leather_BlackInventory	, "gag,bit,harness,blinders,leather,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Blinders_Ebonite_BlackInventory	, "gag,bit,harness,blinders,ebonite,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Ears_Leather_BlackInventory		, "gag,bit,harness,ears,leather,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Ears_Ebonite_BlackInventory		, "gag,bit,harness,ears,ebonite,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Secure_Leather_BlackInventory		, "gag,bit,harness,leather,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Secure_Ebonite_BlackInventory		, "gag,bit,harness,ebonite,black,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Chin_White_Ebonite_Inventory		, "gag,bit,strap,chin,ebonite,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Chin_White_Leather_Inventory		, "gag,bit,strap,chin,leather,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Simple_White_Ebonite_Inventory		, "gag,bit,strap,ebonite,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Simple_White_Leather_Inventory		, "gag,bit,strap,leather,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Blinders_White_Leather_Inventory	, "gag,bit,harness,blinders,leather,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Blinders_White_Ebonite_Inventory	, "gag,bit,harness,blinders,ebonite,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Ears_White_Leather_Inventory		, "gag,bit,harness,ears,leather,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Ears_White_Ebonite_Inventory		, "gag,bit,harness,ears,ebonite,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Secure_White_Leather_Inventory		, "gag,bit,harness,leather,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Secure_White_Ebonite_Inventory		, "gag,bit,harness,ebonite,white,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Chin_Red_Ebonite_Inventory			, "gag,bit,strap,chin,ebonite,red,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Chin_Red_Leather_Inventory			, "gag,bit,strap,chin,leather,red,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Simple_Red_Ebonite_Inventory		, "gag,bit,strap,ebonite,red,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_BitGag_Simple_Red_Leather_Inventory		, "gag,bit,strap,leather,red,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Blinders_Red_Leather_Inventory		, "gag,bit,harness,blinders,leather,red,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Blinders_Red_Ebonite_Inventory		, "gag,bit,harness,blinders,ebonite,red,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Ears_Red_Leather_Inventory			, "gag,bit,harness,ears,leather,red,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Ears_Red_Ebonite_Inventory			, "gag,bit,harness,ears,ebonite,red,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Secure_Red_Leather_Inventory		, "gag,bit,harness,leather,red,pony,duderino,ddx")
+	libs.RegisterGenericDevice(zadx_dud_Pony_Harness_Secure_Red_Ebonite_Inventory		, "gag,bit,harness,ebonite,red,pony,duderino,ddx")
+	
+	; Silver and Gold
+	libs.RegisterGenericDevice(zadx_chastitybelt_Padded_Gold_Inventory		, "belt,metal,padded,gold,full,ddx")
+	libs.RegisterGenericDevice(zadx_chastitybra_Padded_Gold_Inventory		, "bra,metal,padded,gold,ddx")
+	libs.RegisterGenericDevice(zadx_chastitybelt_Padded_Silver_Inventory	, "belt,metal,padded,silver,full,ddx")
+	libs.RegisterGenericDevice(zadx_chastitybra_Padded_Silver_Inventory		, "bra,metal,padded,silver,ddx")
+	libs.RegisterGenericDevice(zadx_Collar_Posture_Gold_Inventory			, "collar,metal,padded,gold,posture,ddx")
+	libs.RegisterGenericDevice(zadx_Collar_Posture_Silver_Inventory			, "collar,metal,padded,silver,posture,ddx")
+	libs.RegisterGenericDevice(zadx_cuffs_Padded_Arms_Gold_Inventory		, "cuffs,arms,metal,padded,gold,ddx")
+	libs.RegisterGenericDevice(zadx_cuffs_Padded_Legs_Gold_Inventory		, "cuffs,arms,metal,padded,gold,ddx")
+	libs.RegisterGenericDevice(zadx_cuffs_Padded_Collar_Gold_Inventory		, "collar,metal,padded,gold,short,ddx")
+	libs.RegisterGenericDevice(zadx_cuffs_Padded_Arms_Silver_Inventory		, "cuffs,arms,metal,padded,silver,ddx")
+	libs.RegisterGenericDevice(zadx_cuffs_Padded_Legs_Silver_Inventory		, "cuffs,arms,metal,padded,silver,ddx")
+	libs.RegisterGenericDevice(zadx_cuffs_Padded_Collar_Silver_Inventory	, "collar,metal,padded,silver,short,ddx")
+
+	; Hoods
+	libs.RegisterGenericDevice(zadx_hood_rubber_black_Inventory					, "hood,ebonite,black,ddx")
+	libs.RegisterGenericDevice(zadx_hood_leather_black_Inventory				, "hood,leather,black,ddx")
+	libs.RegisterGenericDevice(zadx_hood_rubber_openeyesmouth_black_Inventory	, "hood,ebonite,black,openeyes,openmouth,ddx")
+	libs.RegisterGenericDevice(zadx_hood_rubber_openeyes_black_Inventory		, "hood,ebonite,black,openeyes,ddx")
+	libs.RegisterGenericDevice(zadx_hood_rubber_openface_black_Inventory		, "hood,ebonite,black,openface,ddx")
+
+	; ZaZ Items
+	libs.RegisterGenericDevice(zadx_yoke_steel_Inventory			, "yoke,metal,steel,zaz,ddx")
+	libs.RegisterGenericDevice(zadx_shackles_steel_Inventory		, "shackles,metal,steel,zaz,ddx")
+
+	; Feuertin's Items
+	libs.RegisterGenericDevice(zadx_ElbowbinderInventory				, "elbowbinder,leather,black,ddx")
+	libs.RegisterGenericDevice(zadx_ElbowbinderRedInventory				, "elbowbinder,leather,red,ddx")
+	libs.RegisterGenericDevice(zadx_ElbowbinderWhiteInventory			, "elbowbinder,leather,white,ddx")
+	libs.RegisterGenericDevice(zadx_ElbowbinderEboniteInventory			, "elbowbinder,ebonite,black,ddx")
+	libs.RegisterGenericDevice(zadx_ElbowbinderEboniteRedInventory		, "elbowbinder,ebonite,red,ddx")
+	libs.RegisterGenericDevice(zadx_ElbowbinderEboniteWhiteInventory	, "elbowbinder,ebonite,white,ddx")
 
 	Log("Finished registering items.")
 

@@ -1,5 +1,5 @@
 ﻿<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://qconsulting.ca/fo3/ModConfig5.0.xsd">
-  <moduleName>Devious Devices: Expansion 2.0</moduleName>
+  <moduleName>Devious Devices: Expansion 4.0.0</moduleName>
   <moduleImage path="fomod\images\header.jpg"/>
   <installSteps order="Explicit">
     
@@ -13,8 +13,8 @@
               </description>
               <image path="fomod\images\01_cbbe.png"/>
               <files>
-                <folder source="00 Core" destination=""/>
-                <folder source="01 CBBE" destination=""/>
+                <folder source="00 Core" destination="" priority="1"/>
+                <folder source="01 CBBE" destination="" priority="2"/>
               </files>
               <conditionFlags>
                 <flag name="CBBE">On</flag>
@@ -27,8 +27,8 @@
               </description>
               <image path="fomod\images\01_unp.png"/>
               <files>
-                <folder source="00 Core" destination=""/>
-                <folder source="01 UUNP" destination=""/>
+                <folder source="00 Core" destination="" priority="1"/>
+                <folder source="01 UUNP" destination="" priority="2"/>
               </files>
               <conditionFlags>
                 <flag name="UUNP">On</flag>

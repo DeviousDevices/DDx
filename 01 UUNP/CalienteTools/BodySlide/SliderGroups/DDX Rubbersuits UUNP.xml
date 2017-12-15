@@ -1,0 +1,32 @@
+<SliderGroups>
+    <Group name="DDX Rubber Suits UUNP HDT">
+        <Member name="DDX - UUNP - BalBoot"/>
+        <Member name="DDX - UUNP - LongGloves"/>
+        <Member name="DDX - UUNP - MWX_CatSuit HDT"/>
+        <Member name="DDX - UUNP - Zipsuit HDT"/>
+        <Member name="DDX - UUNP - Zipsuit Shoes"/>
+    </Group>
+    <Group name="Unified UNP">
+        <Member name="DDX - UUNP - BalBoot"/>
+        <Member name="DDX - UUNP - LongGloves"/>
+        <Member name="DDX - UUNP - MWX_CatSuit"/>
+        <Member name="DDX - UUNP - MWX_CatSuit HDT"/>
+        <Member name="DDX - UUNP - Zipsuit"/>
+        <Member name="DDX - UUNP - Zipsuit Shoes"/>
+        <Member name="DDX - UUNP - Zipsuit HDT"/>
+    </Group>
+    <Group name="Unified UNP HDT">
+        <Member name="DDX - UUNP - BalBoot"/>
+        <Member name="DDX - UUNP - LongGloves"/>
+        <Member name="DDX - UUNP - MWX_CatSuit HDT"/>
+        <Member name="DDX - UUNP - Zipsuit HDT"/>
+        <Member name="DDX - UUNP - Zipsuit Shoes"/>
+    </Group>
+    <Group name="DDX Rubber Suits UUNP">
+        <Member name="DDX - UUNP - BalBoot"/>
+        <Member name="DDX - UUNP - LongGloves"/>
+        <Member name="DDX - UUNP - MWX_CatSuit"/>
+        <Member name="DDX - UUNP - Zipsuit"/>
+        <Member name="DDX - UUNP - Zipsuit Shoes"/>
+    </Group>
+</SliderGroups>

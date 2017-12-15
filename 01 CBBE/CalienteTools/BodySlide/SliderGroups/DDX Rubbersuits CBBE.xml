@@ -1,0 +1,12 @@
+<SliderGroups>
+   <Group name="CB++">
+        <Member name="DDX - CBBE - MXW_Catsuit"/>
+	<Member name="DDX - CBBE - MXW_Catsuit TBBP"/>
+	<Member name="DDX - CBBE - Zipsuit"/>
+    </Group>
+    <Group name="DDX Rubber Suits CBBE">
+        <Member name="DDX - CBBE - MXW_Catsuit"/>
+	<Member name="DDX - CBBE - MXW_Catsuit TBBP"/>
+	<Member name="DDX - CBBE - Zipsuit"/>
+    </Group>
+</SliderGroups>
