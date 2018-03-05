@@ -1,0 +1,312 @@
+<SliderSetInfo>
+    <SliderSet name="DDX - UUNP - EbRestrictiveCollar(HDT) Transparent Rubber">
+        <SetFolder>DeviousDevicesExpansionUUNP\RestrictiveCollarTransparent</SetFolder>
+        <SourceFile>CollarHDT.nif</SourceFile>
+        <OutputPath>meshes\Devious\Expansion</OutputPath>
+        <OutputFile>EbRestrictiveCollar_Transparent</OutputFile>
+        <BaseShapeName target="collar">collar</BaseShapeName>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <datafile name="collarBreasts" target="collar" local="true">collarBreasts.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <datafile name="collarBreastsSmall" target="collar" local="true">collarBreastsSmall.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <datafile name="collarBreastsSH" target="collar" local="true">collarBreastsSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <datafile name="collarBreastsSSH" target="collar" local="true">collarBreastsSSH.bsd</datafile>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <datafile name="collarBreastsFantasy" target="collar" local="true">collarBreastsFantasy.bsd</datafile>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <datafile name="collarDoubleMelon" target="collar" local="true">collarDoubleMelon.bsd</datafile>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <datafile name="collarBreastCleavage" target="collar" local="true">collarBreastCleavage.bsd</datafile>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <datafile name="collarBreastFlatness" target="collar" local="true">collarBreastFlatness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <datafile name="collarBreastGravity" target="collar" local="true">collarBreastGravity.bsd</datafile>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <datafile name="collarPushUp" target="collar" local="true">collarPushUp.bsd</datafile>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <datafile name="collarBreastHeight" target="collar" local="true">collarBreastHeight.bsd</datafile>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <datafile name="collarBreastPerkiness" target="collar" local="true">collarBreastPerkiness.bsd</datafile>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <datafile name="collarBreastWidth" target="collar" local="true">collarBreastWidth.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <datafile name="collarNippleDistance" target="collar" local="true">collarNippleDistance.bsd</datafile>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <datafile name="collarNippleAreola" target="collar" local="true">collarNippleAreola.bsd</datafile>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <datafile name="collarNippleUp" target="collar" local="true">collarNippleUp.bsd</datafile>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <datafile name="collarNippleDown" target="collar" local="true">collarNippleDown.bsd</datafile>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <datafile name="collarArms" target="collar" local="true">collarArms.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <datafile name="collarChubbyArms" target="collar" local="true">collarChubbyArms.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <datafile name="collarShoulderSmooth" target="collar" local="true">collarShoulderSmooth.bsd</datafile>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <datafile name="collarShoulderWidth" target="collar" local="true">collarShoulderWidth.bsd</datafile>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <datafile name="collarBigTorso" target="collar" local="true">collarBigTorso.bsd</datafile>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <datafile name="collarWaist" target="collar" local="true">collarWaist.bsd</datafile>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <datafile name="collarChubbyWaist" target="collar" local="true">collarChubbyWaist.bsd</datafile>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <datafile name="collarPregnancyBelly" target="collar" local="true">collarPregnancyBelly.bsd</datafile>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <datafile name="collarBack" target="collar" local="true">collarBack.bsd</datafile>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <datafile name="collarNeck" target="collar" local="true">collarNeck.bsd</datafile>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <datafile name="collar7B Low" target="collar" local="true">collar7B Low.bsd</datafile>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <datafile name="collar7B High" target="collar" local="true">collar7B High.bsd</datafile>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <datafile name="collar7B Bombshell Low" target="collar" local="true">collar7B Bombshell Low.bsd</datafile>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <datafile name="collar7B Bombshell High" target="collar" local="true">collar7B Bombshell High.bsd</datafile>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <datafile name="collar7B Natural Low" target="collar" local="true">collar7B Natural Low.bsd</datafile>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <datafile name="collar7B Natural High" target="collar" local="true">collar7B Natural High.bsd</datafile>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <datafile name="collar7B Cleavage Low" target="collar" local="true">collar7B Cleavage Low.bsd</datafile>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <datafile name="collar7B Cleavage High" target="collar" local="true">collar7B Cleavage High.bsd</datafile>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <datafile name="collar7B BCup Low" target="collar" local="true">collar7B BCup Low.bsd</datafile>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <datafile name="collar7B BCup High" target="collar" local="true">collar7B BCup High.bsd</datafile>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <datafile name="collar7BUNP Low" target="collar" local="true">collar7BUNP Low.bsd</datafile>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <datafile name="collar7BUNP High" target="collar" local="true">collar7BUNP High.bsd</datafile>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <datafile name="collar7B Oppai Low" target="collar" local="true">collar7B Oppai Low.bsd</datafile>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <datafile name="collar7B Oppai High" target="collar" local="true">collar7B Oppai High.bsd</datafile>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <datafile name="collar7B CH Low" target="collar" local="true">collar7B CH Low.bsd</datafile>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <datafile name="collar7B CH High" target="collar" local="true">collar7B CH High.bsd</datafile>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <datafile name="collarUNP Low" target="collar" local="true">collarUNP Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <datafile name="collarUNP High" target="collar" local="true">collarUNP High.bsd</datafile>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <datafile name="collarUNP Pushup Low" target="collar" local="true">collarUNP Pushup Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <datafile name="collarUNP Pushup High" target="collar" local="true">collarUNP Pushup High.bsd</datafile>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <datafile name="collarUNP Skinny Low" target="collar" local="true">collarUNP Skinny Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <datafile name="collarUNP Skinny High" target="collar" local="true">collarUNP Skinny High.bsd</datafile>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <datafile name="collarUNP Perky Low" target="collar" local="true">collarUNP Perky Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <datafile name="collarUNP Perky High" target="collar" local="true">collarUNP Perky High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPB Low" target="collar" local="true">collarUNPB Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <datafile name="collarUNPB High" target="collar" local="true">collarUNPB High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <datafile name="collarUNPB Chapi" target="collar" local="true">collarUNPB Chapi.bsd</datafile>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <datafile name="collarUNPB Oppai v1" target="collar" local="true">collarUNPB Oppai v1.bsd</datafile>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPB Oppai v3.2 Low" target="collar" local="true">collarUNPB Oppai v3.2 Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <datafile name="collarUNPB Oppai v3.2 High" target="collar" local="true">collarUNPB Oppai v3.2 High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPetite Low" target="collar" local="true">collarUNPetite Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <datafile name="collarUNPetite High" target="collar" local="true">collarUNPetite High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPC Low" target="collar" local="true">collarUNPC Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <datafile name="collarUNPC High" target="collar" local="true">collarUNPC High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPCM Low" target="collar" local="true">collarUNPCM Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <datafile name="collarUNPCM High" target="collar" local="true">collarUNPCM High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPSH Low" target="collar" local="true">collarUNPSH Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <datafile name="collarUNPSH High" target="collar" local="true">collarUNPSH High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPK Low" target="collar" local="true">collarUNPK Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <datafile name="collarUNPK High" target="collar" local="true">collarUNPK High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPK Bonus Low" target="collar" local="true">collarUNPK Bonus Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <datafile name="collarUNPK Bonus High" target="collar" local="true">collarUNPK Bonus High.bsd</datafile>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <datafile name="collarUN7B Low" target="collar" local="true">collarUN7B Low.bsd</datafile>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <datafile name="collarUN7B High" target="collar" local="true">collarUN7B High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPBB Low" target="collar" local="true">collarUNPBB Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <datafile name="collarUNPBB High" target="collar" local="true">collarUNPBB High.bsd</datafile>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <datafile name="collarSeraphim Low" target="collar" local="true">collarSeraphim Low.bsd</datafile>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <datafile name="collarSeraphim High" target="collar" local="true">collarSeraphim High.bsd</datafile>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <datafile name="collarDemonfet Low" target="collar" local="true">collarDemonfet Low.bsd</datafile>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <datafile name="collarDemonfet High" target="collar" local="true">collarDemonfet High.bsd</datafile>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <datafile name="collarDream Girl Low" target="collar" local="true">collarDream Girl Low.bsd</datafile>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <datafile name="collarDream Girl High" target="collar" local="true">collarDream Girl High.bsd</datafile>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <datafile name="collarTop Model Low" target="collar" local="true">collarTop Model Low.bsd</datafile>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <datafile name="collarTop Model High" target="collar" local="true">collarTop Model High.bsd</datafile>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <datafile name="collarLeito Low" target="collar" local="true">collarLeito Low.bsd</datafile>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <datafile name="collarLeito High" target="collar" local="true">collarLeito High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPF Low" target="collar" local="true">collarUNPF Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <datafile name="collarUNPF High" target="collar" local="true">collarUNPF High.bsd</datafile>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <datafile name="collarUNPFx Low" target="collar" local="true">collarUNPFx Low.bsd</datafile>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <datafile name="collarUNPFx High" target="collar" local="true">collarUNPFx High.bsd</datafile>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <datafile name="collarCNHF Low" target="collar" local="true">collarCNHF Low.bsd</datafile>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <datafile name="collarCNHF High" target="collar" local="true">collarCNHF High.bsd</datafile>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <datafile name="collarCNHF Bonus Low" target="collar" local="true">collarCNHF Bonus Low.bsd</datafile>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <datafile name="collarCNHF Bonus High" target="collar" local="true">collarCNHF Bonus High.bsd</datafile>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <datafile name="collarMCBM Low" target="collar" local="true">collarMCBM Low.bsd</datafile>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <datafile name="collarMCBM High" target="collar" local="true">collarMCBM High.bsd</datafile>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <datafile name="collarVenus Low" target="collar" local="true">collarVenus Low.bsd</datafile>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <datafile name="collarVenus High" target="collar" local="true">collarVenus High.bsd</datafile>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <datafile name="collarZGGB-R2 Low" target="collar" local="true">collarZGGB-R2 Low.bsd</datafile>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <datafile name="collarZGGB-R2 High" target="collar" local="true">collarZGGB-R2 High.bsd</datafile>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <datafile name="collarManga Low" target="collar" local="true">collarManga Low.bsd</datafile>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <datafile name="collarManga High" target="collar" local="true">collarManga High.bsd</datafile>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <datafile name="collarCHSBHC Low" target="collar" local="true">collarCHSBHC Low.bsd</datafile>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <datafile name="collarCHSBHC High" target="collar" local="true">collarCHSBHC High.bsd</datafile>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

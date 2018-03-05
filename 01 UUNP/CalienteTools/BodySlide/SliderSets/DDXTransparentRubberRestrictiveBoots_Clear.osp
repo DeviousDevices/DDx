@@ -1,0 +1,286 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - UUNP - EbRestrictiveBoots Transparent Rubber">
+        <DataFolder>DeviousDevicesExpansionUUNP\RestrictiveBootsTransparent</DataFolder>
+        <SourceFile>EbRestrictiveBoots_Clear.nif</SourceFile>
+        <OutputPath>meshes\Devious\Expansion</OutputPath>
+        <OutputFile GenWeights="true">EbRestrictiveBoots_Clear</OutputFile>
+        <Shape target="boots">boots</Shape>
+        <Shape target="feet">feet</Shape>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="bootsPregnancyBelly" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="bootsTummyTuck" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsTummyTuck</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="bootsHipbone" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="bootsHips" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsHips</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="bootsButt" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="bootsButtSmall" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="bootsButtShape2" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="bootsBigButt" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="bootsChubbyButt" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="bootsAppleCheeks" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="bootsRoundAss" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="bootsSlimThighs" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="bootsThighs" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="bootsChubbyLegs" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="bootsLegs" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="bootsKneeHeight" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="bootsCalfSize" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="bootsCalfSmooth" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsCalfSmooth</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="boots7B Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="boots7B High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="boots7B Bombshell Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="boots7B Bombshell High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="boots7B Natural Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="boots7B Natural High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="boots7B Cleavage Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="boots7B Cleavage High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="boots7B BCup Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="boots7B BCup High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="boots7BUNP Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="boots7BUNP High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="boots7B Oppai Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="boots7B Oppai High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="boots7B CH Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="boots7B CH High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\boots7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="bootsUNP Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="bootsUNP High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="bootsUNP Pushup Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="bootsUNP Pushup High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="bootsUNP Skinny Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="bootsUNP Skinny High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="bootsUNP Perky Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="bootsUNP Perky High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPB Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="bootsUNPB High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="bootsUNPB Chapi" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="bootsUNPB Oppai v1" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPB Oppai v3.2 Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="bootsUNPB Oppai v3.2 High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPetite Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="bootsUNPetite High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPC Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="bootsUNPC High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPCM Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="bootsUNPCM High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPSH Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="bootsUNPSH High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPK Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="bootsUNPK High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPK Bonus Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="bootsUNPK Bonus High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="bootsUN7B Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="bootsUN7B High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPBB Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="bootsUNPBB High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="bootsSeraphim Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="bootsSeraphim High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="bootsDemonfet Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="bootsDemonfet High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="bootsDream Girl Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="bootsDream Girl High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="bootsTop Model Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="bootsTop Model High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="bootsLeito Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="bootsLeito High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPF Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="bootsUNPF High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="bootsUNPFx Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="bootsUNPFx High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="bootsCNHF Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="bootsCNHF High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="bootsCNHF Bonus Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="bootsCNHF Bonus High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="bootsMCBM Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="bootsMCBM High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="bootsVenus Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="bootsVenus High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="bootsZGGB-R2 Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="bootsZGGB-R2 High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="bootsManga Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="bootsManga High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="bootsCHSBHC Low" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="bootsCHSBHC High" target="boots" local="true">EbRestrictiveBoots_Clear.osd\bootsCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
