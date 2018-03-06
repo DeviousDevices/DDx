@@ -3,11 +3,11 @@ Scriptname zadxLibs extends Quest
 zadLibs Property libs Auto
 
 float function GetVersion()
-    return 6
+    return 7
 EndFunction
 
 String function GetVersionString()
-    return "4.0"
+    return "4.1"
 EndFunction
 
 
@@ -613,6 +613,13 @@ Armor Property zadx_dud_Pony_Harness_Secure_Red_Leather_Inventory Auto
 Armor Property zadx_dud_Pony_Harness_Secure_Red_Leather_Rendered Auto
 Armor Property zadx_dud_Pony_Harness_Secure_Red_Ebonite_Inventory Auto
 Armor Property zadx_dud_Pony_Harness_Secure_Red_Ebonite_Rendered Auto
+; transparent rubber
+Armor Property zadx_restrictiveBootsTrans_Inventory Auto
+Armor Property zadx_restrictiveBootsTrans_Rendered Auto
+Armor Property zadx_restrictiveCollarTrans_Inventory Auto
+Armor Property zadx_restrictiveCollarTrans_Rendered Auto
+Armor Property zadx_restrictiveCorsetTrans_Inventory Auto
+Armor Property zadx_restrictiveCorsetTrans_Rendered Auto
 
 ; silver and gold gear
 Armor Property zadx_chastitybelt_Padded_Gold_Inventory Auto
@@ -875,6 +882,11 @@ Armor Property zadx_ElbowbinderEboniteRedInventory Auto
 Armor Property zadx_ElbowbinderEboniteRedRendered Auto
 Armor Property zadx_ElbowbinderEboniteWhiteInventory Auto
 Armor Property zadx_ElbowbinderEboniteWhiteRendered Auto
+; large ball gags
+Armor Property zadx_GagEboniteStrapBallBig_Inventory Auto
+Armor Property zadx_GagEboniteStrapBallBig_Rendered Auto
+Armor Property zadx_GagEboniteHarnessBallBig_Inventory Auto
+Armor Property zadx_GagEboniteHarnessBallBig_Rendered Auto
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
