@@ -887,6 +887,23 @@ Armor Property zadx_GagEboniteStrapBallBig_Inventory Auto
 Armor Property zadx_GagEboniteStrapBallBig_Rendered Auto
 Armor Property zadx_GagEboniteHarnessBallBig_Inventory Auto
 Armor Property zadx_GagEboniteHarnessBallBig_Rendered Auto
+; rope items
+Armor Property zadx_blindfold_Rope_Inventory Auto
+Armor Property zadx_blindfold_Rope_Rendered Auto
+Armor Property zadx_gag_rope_ball_Inventory Auto
+Armor Property zadx_gag_rope_ball_Rendered Auto
+Armor Property zadx_gag_rope_bit_Inventory Auto
+Armor Property zadx_gag_rope_bit_Rendered Auto
+Armor Property zadx_Collar_Rope_1_Inventory Auto
+Armor Property zadx_Collar_Rope_1_Rendered Auto
+Armor Property zadx_Collar_Rope_2_Inventory Auto
+Armor Property zadx_Collar_Rope_2_Rendered Auto
+Armor Property zadx_Armbinder_Rope_Inventory Auto
+Armor Property zadx_Armbinder_Rope_Rendered Auto
+Armor Property zadx_Armbinder_Rope_Strict_Inventory Auto
+Armor Property zadx_Armbinder_Rope_Strict_Rendered Auto
+Armor Property zadx_Harness_Rope_Full_Inventory Auto
+Armor Property zadx_Harness_Rope_Full_Rendered Auto
 
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.

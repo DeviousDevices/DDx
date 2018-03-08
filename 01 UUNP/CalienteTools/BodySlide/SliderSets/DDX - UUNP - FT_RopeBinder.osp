@@ -2,7 +2,7 @@
     <SliderSet name="DDX - UUNP - FT_RopeBinder">
         <DataFolder>FT_RopeBinder_UUNP</DataFolder>
         <SourceFile>FT_RopeBinder_UUNP.nif</SourceFile>
-        <OutputPath>meshes\adevious\FeuerTin\FT_RopeArmbinder</OutputPath>
+        <OutputPath>meshes\devious\FeuerTin\FT_RopeArmbinder</OutputPath>
         <OutputFile GenWeights="false">FT_RopeBinder</OutputFile>
         <Shape target="LowerArmCoil">LowerArmCoil</Shape>
         <Shape target="LowerElbowCoil">LowerElbowCoil</Shape>

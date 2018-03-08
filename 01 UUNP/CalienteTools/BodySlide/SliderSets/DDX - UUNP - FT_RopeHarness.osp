@@ -2,7 +2,7 @@
     <SliderSet name="DDX - UUNP - FT_RopeHarness">
         <DataFolder>FT_RopeHarness_UUNP</DataFolder>
         <SourceFile>FT_RopeHarness_UUNP.nif</SourceFile>
-        <OutputPath>meshes\adevious\FeuerTin\FT_RopeHarness</OutputPath>
+        <OutputPath>meshes\devious\FeuerTin\FT_RopeHarness</OutputPath>
         <OutputFile GenWeights="true">FT_RopeHarness</OutputFile>
         <Shape target="Harness_BoobRope">Harness_BoobRope</Shape>
         <Shape target="Harness_Bra">Harness_Bra</Shape>
