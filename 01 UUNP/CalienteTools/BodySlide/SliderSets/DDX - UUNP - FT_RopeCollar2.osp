@@ -1,0 +1,294 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - UUNP - FT_RopeCollar2">
+        <DataFolder>FT_RopeCollar2_UUNP</DataFolder>
+        <SourceFile>FT_RopeCollar2_UUNP.nif</SourceFile>
+        <OutputPath>meshes\devious\FeuerTin\FT_RopeCollar2</OutputPath>
+        <OutputFile GenWeights="true">FT_RopeCollar2</OutputFile>
+        <Shape target="FT_RopeCollar2">FT_RopeCollar2</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="FT_RopeCollar2Breasts" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="FT_RopeCollar2BreastsSmall" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastsSH" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastsSSH" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastsFantasy" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2DoubleMelon" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastCleavage" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastFlatness" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastGravity" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2PushUp" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastHeight" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastPerkiness" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastWidth" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2NippleUp" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2NippleUp</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="FT_RopeCollar2Arms" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Arms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2ShoulderSmooth" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="FT_RopeCollar2ShoulderWidth" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2ShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BigTorso" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2BigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2PregnancyBelly" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2PregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Back" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Back</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="FT_RopeCollar2Neck" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Neck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B Bombshell Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B Bombshell High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B Natural Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B Natural High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B Cleavage Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B Cleavage High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B BCup Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B BCup High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27BUNP Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27BUNP High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B Oppai Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B Oppai High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B CH Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar27B CH High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar27B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNP Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNP High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNP Pushup Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNP Pushup High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNP Skinny Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNP Skinny High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNP Perky Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNP Perky High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPB Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPB High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPB Chapi" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPB Oppai v1" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPB Oppai v3.2 Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPB Oppai v3.2 High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPetite Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPetite High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPC Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPC High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPCM Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPCM High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPSH Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPSH High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPK Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPK High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPK Bonus Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPK Bonus High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UN7B Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UN7B High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPBB Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPBB High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Seraphim Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Seraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Seraphim High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Seraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Demonfet Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Demonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Demonfet High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Demonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Dream Girl Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Dream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Dream Girl High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Dream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Top Model Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Top Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Top Model High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Top Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Leito Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Leito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Leito High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Leito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPF Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPF High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPFx Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2UNPFx High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2UNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2CNHF Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2CNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2CNHF High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2CNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2CNHF Bonus Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2CNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2CNHF Bonus High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2CNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2MCBM Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2MCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2MCBM High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2MCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Venus Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Venus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Venus High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Venus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2ZGGB-R2 Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2ZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2ZGGB-R2 High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2ZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Manga Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Manga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Manga High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2Manga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2CHSBHC Low" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2CHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2CHSBHC High" target="FT_RopeCollar2" local="true">FT_RopeCollar2_UUNP.osd\FT_RopeCollar2CHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
