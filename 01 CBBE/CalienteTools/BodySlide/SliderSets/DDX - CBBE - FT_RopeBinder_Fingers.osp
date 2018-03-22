@@ -2,7 +2,7 @@
     <SliderSet name="DDX - CBBE - FT_RopeBinder_Fingers">
         <DataFolder>FT_RopeBinder_Fingers_CBBE</DataFolder>
         <SourceFile>FT_RopeBinder_Fingers_CBBE.nif</SourceFile>
-        <OutputPath>meshes\armor\FT_RopeArmbinder</OutputPath>
+        <OutputPath>meshes\devious\Feuertin\FT_RopeArmbinder</OutputPath>
         <OutputFile GenWeights="false">FT_RopeBinder_Fingers</OutputFile>
         <Shape target="FT_Ropebinder_TiedFingers">FT_Ropebinder_TiedFingers</Shape>
         <Shape target="Hands" DataFolder="FT_RopeArmbinder(2)_TiedFingers">Hands</Shape>
