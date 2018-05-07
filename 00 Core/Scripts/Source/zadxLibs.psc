@@ -1090,6 +1090,20 @@ Armor Property zadx_gag_facemask_biz_transparent_Rendered Auto
 Armor Property zadx_XinEbonitePonyBoots_Play_Inventory Auto
 Armor Property zadx_XinEbonitePonyBoots_Play_Rendered Auto
 
+Armor Property zadx_PetSuit_Black_Inventory Auto
+Armor Property zadx_PetSuit_Black_Rendered Auto
+Armor Property zadx_PetSuit_Red_Inventory Auto
+Armor Property zadx_PetSuit_Red_Rendered Auto
+Armor Property zadx_PetSuit_White_Inventory Auto
+Armor Property zadx_PetSuit_White_Rendered Auto
+
+Armor Property zadx_gag_tape_Inventory Auto
+Armor Property zadx_gag_tape_Rendered Auto
+Armor Property zadx_gag_tape_large_Inventory Auto
+Armor Property zadx_gag_tape_large_Rendered Auto
+Armor Property zadx_gag_tape_full_Inventory Auto
+Armor Property zadx_gag_tape_full_Rendered Auto
+
 ; Shorthand manipulation for expansion items. Falls back to Integration ManipulateDevice() if the item is not found here.
 ; Deprecated - will not add new items to this. Don't think the function is -that- useful.
 Function ManipulateDevice(actor akActor, armor device, bool equipOrUnequip, bool skipEvents = false)
