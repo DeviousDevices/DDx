@@ -127,11 +127,13 @@ Event OnUpdate()
 	EndIf
 	If SpeedMultDifferential > 0.0
 		who.DamageActorValue("SpeedMult", SpeedMultDifferential)
+		SpeedMultRestore += SpeedMultDifferential
 		ApplySM(who)
 	EndIf
 	If SpeedMultDifferential < 0.0
-                SpeedMultDifferential *= -1
-                who.RestoreActorValue("SpeedMult", SpeedMultDifferential)
+        SpeedMultDifferential *= -1
+        who.RestoreActorValue("SpeedMult", SpeedMultDifferential)
+		SpeedMultRestore -= SpeedMultDifferential
 		ApplySM(who)
 	EndIf	
 	If who.WornHasKeyword(libs.zad_DeviousPetSuit) 
