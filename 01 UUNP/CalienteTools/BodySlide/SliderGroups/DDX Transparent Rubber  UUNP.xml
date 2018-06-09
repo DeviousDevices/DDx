@@ -1,0 +1,29 @@
+<SliderGroups>
+    <Group name="DDX Transparent Rubber UUNP HDT">
+        <Member name="DDX - UUNP - EbRestrictiveCorset(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveCorsetBelt(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveCorsetBeltOpen(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - LongGloves Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveCollar(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveBoots Transparent Rubber"/>
+        <Member name="DDX - UUNP - EboniteHobbleDressTransparent"/>
+    </Group>
+    <Group name="Unified UNP">
+        <Member name="DDX - UUNP - EbRestrictiveCorset(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveCorsetBelt(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveCorsetBeltOpen(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - LongGloves Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveCollar(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveBoots Transparent Rubber"/>
+        <Member name="DDX - UUNP - EboniteHobbleDressTransparent"/>
+    </Group>
+    <Group name="Unified UNP HDT">
+        <Member name="DDX - UUNP - EbRestrictiveCorset(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveCorsetBelt(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveCorsetBeltOpen(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - LongGloves Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveCollar(HDT) Transparent Rubber"/>
+        <Member name="DDX - UUNP - EbRestrictiveBoots Transparent Rubber"/>
+        <Member name="DDX - UUNP - EboniteHobbleDressTransparent"/>
+    </Group>
+</SliderGroups>

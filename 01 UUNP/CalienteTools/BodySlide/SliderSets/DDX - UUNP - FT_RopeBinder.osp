@@ -1,0 +1,431 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - UUNP - FT_RopeBinder">
+        <DataFolder>FT_RopeBinder_UUNP</DataFolder>
+        <SourceFile>FT_RopeBinder_UUNP.nif</SourceFile>
+        <OutputPath>meshes\devious\FeuerTin\FT_RopeArmbinder</OutputPath>
+        <OutputFile GenWeights="false">FT_RopeBinder</OutputFile>
+        <Shape target="LowerArmCoil">LowerArmCoil</Shape>
+        <Shape target="LowerElbowCoil">LowerElbowCoil</Shape>
+        <Shape target="UpperArmCoil">UpperArmCoil</Shape>
+        <Shape target="UpperElbowCoil">UpperElbowCoil</Shape>
+        <Shape target="WristCoil">WristCoil</Shape>
+        <Slider name="Breasts" invert="true" default="100">
+            <Data name="LowerElbowCoilBreasts" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" default="100">
+            <Data name="LowerElbowCoilBreastsSmall" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastsSH" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastsSSH" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastsFantasy" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="LowerElbowCoilDoubleMelon" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastCleavage" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastFlatness" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastGravity" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="LowerElbowCoilPushUp" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastHeight" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastPerkiness" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastWidth" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" default="100">
+            <Data name="LowerElbowCoilNippleDistance" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilNippleDistance</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="LowerElbowCoilNippleAreola" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="LowerElbowCoilNippleUp" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="LowerElbowCoilNippleDown" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilNippleDown</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" default="100">
+            <Data name="LowerElbowCoilArms" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="LowerElbowCoilChubbyArms" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="LowerElbowCoilShoulderSmooth" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" default="100">
+            <Data name="LowerElbowCoilShoulderWidth" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="WristCoilBigTorso" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilBigTorso</Data>
+            <Data name="LowerElbowCoilBigTorso" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" default="0">
+            <Data name="WristCoilWaist" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilWaist</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" default="0">
+            <Data name="WristCoilChubbyWaist" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilChubbyWaist</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="LowerElbowCoilPregnancyBelly" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilPregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="WristCoilBack" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilBack</Data>
+            <Data name="LowerElbowCoilBack" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" default="0">
+            <Data name="WristCoilHipbone" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" default="0">
+            <Data name="WristCoilHips" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" default="100">
+            <Data name="WristCoilButtCrack" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" default="100">
+            <Data name="WristCoilButt" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" default="100">
+            <Data name="WristCoilButtSmall" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" default="0">
+            <Data name="WristCoilButtShape2" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" default="0">
+            <Data name="WristCoilBigButt" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" default="0">
+            <Data name="WristCoilChubbyButt" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" default="0">
+            <Data name="WristCoilAppleCheeks" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" default="0">
+            <Data name="WristCoilRoundAss" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" default="0">
+            <Data name="WristCoilSlimThighs" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" default="0">
+            <Data name="WristCoilThighs" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" default="0">
+            <Data name="WristCoilChubbyLegs" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilChubbyLegs</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" default="0" hidden="true">
+            <Data name="LowerElbowCoilNeck" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" default="0">
+            <Data name="WristCoil7B Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B Low</Data>
+            <Data name="LowerElbowCoil7B Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" default="0">
+            <Data name="WristCoil7B High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B High</Data>
+            <Data name="LowerElbowCoil7B High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" default="0">
+            <Data name="WristCoil7B Bombshell Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B Bombshell Low</Data>
+            <Data name="LowerElbowCoil7B Bombshell Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" default="0">
+            <Data name="WristCoil7B Bombshell High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B Bombshell High</Data>
+            <Data name="LowerElbowCoil7B Bombshell High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" default="0">
+            <Data name="WristCoil7B Natural Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B Natural Low</Data>
+            <Data name="LowerElbowCoil7B Natural Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" default="0">
+            <Data name="WristCoil7B Natural High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B Natural High</Data>
+            <Data name="LowerElbowCoil7B Natural High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" default="0">
+            <Data name="WristCoil7B Cleavage Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B Cleavage Low</Data>
+            <Data name="LowerElbowCoil7B Cleavage Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" default="0">
+            <Data name="WristCoil7B Cleavage High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B Cleavage High</Data>
+            <Data name="LowerElbowCoil7B Cleavage High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" default="0">
+            <Data name="WristCoil7B BCup Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B BCup Low</Data>
+            <Data name="LowerElbowCoil7B BCup Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" default="0">
+            <Data name="WristCoil7B BCup High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B BCup High</Data>
+            <Data name="LowerElbowCoil7B BCup High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" default="0">
+            <Data name="WristCoil7BUNP Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7BUNP Low</Data>
+            <Data name="LowerElbowCoil7BUNP Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" default="0">
+            <Data name="WristCoil7BUNP High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7BUNP High</Data>
+            <Data name="LowerElbowCoil7BUNP High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" default="0">
+            <Data name="WristCoil7B Oppai Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B Oppai Low</Data>
+            <Data name="LowerElbowCoil7B Oppai Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" default="0">
+            <Data name="WristCoil7B Oppai High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B Oppai High</Data>
+            <Data name="LowerElbowCoil7B Oppai High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" default="0">
+            <Data name="WristCoil7B CH Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B CH Low</Data>
+            <Data name="LowerElbowCoil7B CH Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" default="0">
+            <Data name="WristCoil7B CH High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoil7B CH High</Data>
+            <Data name="LowerElbowCoil7B CH High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoil7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" default="0">
+            <Data name="WristCoilUNP Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNP Low</Data>
+            <Data name="LowerElbowCoilUNP Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" default="0">
+            <Data name="WristCoilUNP High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNP High</Data>
+            <Data name="LowerElbowCoilUNP High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" default="0">
+            <Data name="WristCoilUNP Pushup Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNP Pushup Low</Data>
+            <Data name="LowerElbowCoilUNP Pushup Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" default="0">
+            <Data name="WristCoilUNP Pushup High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNP Pushup High</Data>
+            <Data name="LowerElbowCoilUNP Pushup High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" default="0">
+            <Data name="WristCoilUNP Skinny Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNP Skinny Low</Data>
+            <Data name="LowerElbowCoilUNP Skinny Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" default="0">
+            <Data name="WristCoilUNP Skinny High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNP Skinny High</Data>
+            <Data name="LowerElbowCoilUNP Skinny High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" default="0">
+            <Data name="WristCoilUNP Perky Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNP Perky Low</Data>
+            <Data name="LowerElbowCoilUNP Perky Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" default="0">
+            <Data name="WristCoilUNP Perky High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNP Perky High</Data>
+            <Data name="LowerElbowCoilUNP Perky High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" default="0">
+            <Data name="WristCoilUNPB Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPB Low</Data>
+            <Data name="LowerElbowCoilUNPB Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" default="0">
+            <Data name="WristCoilUNPB High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPB High</Data>
+            <Data name="LowerElbowCoilUNPB High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" default="0">
+            <Data name="WristCoilUNPB Chapi" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPB Chapi</Data>
+            <Data name="LowerElbowCoilUNPB Chapi" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" default="0">
+            <Data name="WristCoilUNPB Oppai v1" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPB Oppai v1</Data>
+            <Data name="LowerElbowCoilUNPB Oppai v1" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" default="0">
+            <Data name="WristCoilUNPB Oppai v3.2 Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPB Oppai v3.2 Low</Data>
+            <Data name="LowerElbowCoilUNPB Oppai v3.2 Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" default="0">
+            <Data name="WristCoilUNPB Oppai v3.2 High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPB Oppai v3.2 High</Data>
+            <Data name="LowerElbowCoilUNPB Oppai v3.2 High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" default="0">
+            <Data name="WristCoilUNPetite Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPetite Low</Data>
+            <Data name="LowerElbowCoilUNPetite Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" default="0">
+            <Data name="WristCoilUNPetite High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPetite High</Data>
+            <Data name="LowerElbowCoilUNPetite High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" default="0">
+            <Data name="WristCoilUNPC Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPC Low</Data>
+            <Data name="LowerElbowCoilUNPC Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" default="0">
+            <Data name="WristCoilUNPC High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPC High</Data>
+            <Data name="LowerElbowCoilUNPC High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" default="0">
+            <Data name="WristCoilUNPCM Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPCM Low</Data>
+            <Data name="LowerElbowCoilUNPCM Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" default="0">
+            <Data name="WristCoilUNPCM High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPCM High</Data>
+            <Data name="LowerElbowCoilUNPCM High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" default="0">
+            <Data name="WristCoilUNPSH Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPSH Low</Data>
+            <Data name="LowerElbowCoilUNPSH Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" default="0">
+            <Data name="WristCoilUNPSH High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPSH High</Data>
+            <Data name="LowerElbowCoilUNPSH High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" default="0">
+            <Data name="WristCoilUNPK Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPK Low</Data>
+            <Data name="LowerElbowCoilUNPK Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" default="0">
+            <Data name="WristCoilUNPK High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPK High</Data>
+            <Data name="LowerElbowCoilUNPK High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" default="0">
+            <Data name="WristCoilUNPK Bonus Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPK Bonus Low</Data>
+            <Data name="LowerElbowCoilUNPK Bonus Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" default="0">
+            <Data name="WristCoilUNPK Bonus High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPK Bonus High</Data>
+            <Data name="LowerElbowCoilUNPK Bonus High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" default="0">
+            <Data name="WristCoilUN7B Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUN7B Low</Data>
+            <Data name="LowerElbowCoilUN7B Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" default="0">
+            <Data name="WristCoilUN7B High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUN7B High</Data>
+            <Data name="LowerElbowCoilUN7B High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" default="0">
+            <Data name="WristCoilUNPBB Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPBB Low</Data>
+            <Data name="LowerElbowCoilUNPBB Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" default="0">
+            <Data name="WristCoilUNPBB High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPBB High</Data>
+            <Data name="LowerElbowCoilUNPBB High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" default="0">
+            <Data name="WristCoilSeraphim Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilSeraphim Low</Data>
+            <Data name="LowerElbowCoilSeraphim Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" default="0">
+            <Data name="WristCoilSeraphim High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilSeraphim High</Data>
+            <Data name="LowerElbowCoilSeraphim High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" default="0">
+            <Data name="WristCoilDemonfet Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilDemonfet Low</Data>
+            <Data name="LowerElbowCoilDemonfet Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" default="0">
+            <Data name="WristCoilDemonfet High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilDemonfet High</Data>
+            <Data name="LowerElbowCoilDemonfet High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" default="0">
+            <Data name="WristCoilDream Girl Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilDream Girl Low</Data>
+            <Data name="LowerElbowCoilDream Girl Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" default="0">
+            <Data name="WristCoilDream Girl High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilDream Girl High</Data>
+            <Data name="LowerElbowCoilDream Girl High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" default="0">
+            <Data name="WristCoilTop Model Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilTop Model Low</Data>
+            <Data name="LowerElbowCoilTop Model Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" default="0">
+            <Data name="WristCoilTop Model High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilTop Model High</Data>
+            <Data name="LowerElbowCoilTop Model High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" default="0">
+            <Data name="WristCoilLeito Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilLeito Low</Data>
+            <Data name="LowerElbowCoilLeito Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" default="0">
+            <Data name="WristCoilLeito High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilLeito High</Data>
+            <Data name="LowerElbowCoilLeito High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" default="0">
+            <Data name="WristCoilUNPF Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPF Low</Data>
+            <Data name="LowerElbowCoilUNPF Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" default="0">
+            <Data name="WristCoilUNPF High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPF High</Data>
+            <Data name="LowerElbowCoilUNPF High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" default="0">
+            <Data name="WristCoilUNPFx Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPFx Low</Data>
+            <Data name="LowerElbowCoilUNPFx Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" default="0">
+            <Data name="WristCoilUNPFx High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilUNPFx High</Data>
+            <Data name="LowerElbowCoilUNPFx High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" default="0">
+            <Data name="WristCoilCNHF Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilCNHF Low</Data>
+            <Data name="LowerElbowCoilCNHF Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" default="0">
+            <Data name="WristCoilCNHF High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilCNHF High</Data>
+            <Data name="LowerElbowCoilCNHF High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" default="0">
+            <Data name="WristCoilCNHF Bonus Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilCNHF Bonus Low</Data>
+            <Data name="LowerElbowCoilCNHF Bonus Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" default="0">
+            <Data name="WristCoilCNHF Bonus High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilCNHF Bonus High</Data>
+            <Data name="LowerElbowCoilCNHF Bonus High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" default="0">
+            <Data name="WristCoilMCBM Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilMCBM Low</Data>
+            <Data name="LowerElbowCoilMCBM Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" default="0">
+            <Data name="WristCoilMCBM High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilMCBM High</Data>
+            <Data name="LowerElbowCoilMCBM High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" default="0">
+            <Data name="WristCoilVenus Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilVenus Low</Data>
+            <Data name="LowerElbowCoilVenus Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" default="0">
+            <Data name="WristCoilVenus High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilVenus High</Data>
+            <Data name="LowerElbowCoilVenus High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" default="0">
+            <Data name="WristCoilZGGB-R2 Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilZGGB-R2 Low</Data>
+            <Data name="LowerElbowCoilZGGB-R2 Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" default="0">
+            <Data name="WristCoilZGGB-R2 High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilZGGB-R2 High</Data>
+            <Data name="LowerElbowCoilZGGB-R2 High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" default="0">
+            <Data name="WristCoilManga Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilManga Low</Data>
+            <Data name="LowerElbowCoilManga Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" default="0">
+            <Data name="WristCoilManga High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilManga High</Data>
+            <Data name="LowerElbowCoilManga High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" default="0">
+            <Data name="WristCoilCHSBHC Low" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilCHSBHC Low</Data>
+            <Data name="LowerElbowCoilCHSBHC Low" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" default="0">
+            <Data name="WristCoilCHSBHC High" target="WristCoil" local="true">FT_RopeBinder_UUNP.osd\WristCoilCHSBHC High</Data>
+            <Data name="LowerElbowCoilCHSBHC High" target="LowerElbowCoil" local="true">FT_RopeBinder_UUNP.osd\LowerElbowCoilCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

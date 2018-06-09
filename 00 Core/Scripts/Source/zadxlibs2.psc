@@ -1,0 +1,22 @@
+Scriptname zadxlibs2 extends Quest  
+
+Armor Property zadx_PetSuit_Black_Inventory Auto
+Armor Property zadx_PetSuit_Black_Rendered Auto
+Armor Property zadx_PetSuit_Red_Inventory Auto
+Armor Property zadx_PetSuit_Red_Rendered Auto
+Armor Property zadx_PetSuit_White_Inventory Auto
+Armor Property zadx_PetSuit_White_Rendered Auto
+Armor Property zadx_PetSuit_Ebonite_Black_Inventory Auto
+Armor Property zadx_PetSuit_Ebonite_Black_Rendered Auto
+Armor Property zadx_PetSuit_Ebonite_Red_Inventory Auto
+Armor Property zadx_PetSuit_Ebonite_Red_Rendered Auto
+Armor Property zadx_PetSuit_Ebonite_White_Inventory Auto
+Armor Property zadx_PetSuit_Ebonite_White_Rendered Auto
+
+
+Armor Property zadx_gag_tape_Inventory Auto
+Armor Property zadx_gag_tape_Rendered Auto
+Armor Property zadx_gag_tape_large_Inventory Auto
+Armor Property zadx_gag_tape_large_Rendered Auto
+Armor Property zadx_gag_tape_full_Inventory Auto
+Armor Property zadx_gag_tape_full_Rendered Auto

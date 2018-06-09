@@ -1,0 +1,72 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - CBBE - FT_RopeCollar2">
+        <DataFolder>FT_RopeCollar2_CBBE</DataFolder>
+        <SourceFile>FT_RopeCollar2_CBBE.nif</SourceFile>
+        <OutputPath>meshes\devious\FeuerTin\FT_RopeCollar2</OutputPath>
+        <OutputFile GenWeights="true">FT_RopeCollar2</OutputFile>
+        <Shape target="FT_RopeCollar2">FT_RopeCollar2</Shape>
+        <Slider name="Breasts" invert="true" small="20" big="100">
+            <Data name="FT_RopeCollar2Breasts" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2Breasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="FT_RopeCollar2BreastsSmall" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastsSH" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastsSSH" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastsFantasy" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2DoubleMelon" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2DoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastCleavage" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastFlatness" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastGravity" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2PushUp" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2PushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastHeight" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastPerkiness" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BreastWidth" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2NippleLength" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2NippleLength</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2NippleUp" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2NippleUp</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2ShoulderSmooth" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="FT_RopeCollar2ShoulderWidth" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2ShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2BigTorso" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2BigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2PregnancyBelly" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2PregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar2Back" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2Back</Data>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="FT_RopeCollar2SmallSeam" target="FT_RopeCollar2" local="true">FT_RopeCollar2_CBBE.osd\FT_RopeCollar2SmallSeam</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

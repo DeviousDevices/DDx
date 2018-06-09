@@ -1,0 +1,94 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - CBBE - FT_RopeBinder_Fingers">
+        <DataFolder>FT_RopeBinder_Fingers_CBBE</DataFolder>
+        <SourceFile>FT_RopeBinder_Fingers_CBBE.nif</SourceFile>
+        <OutputPath>meshes\devious\Feuertin\FT_RopeArmbinder</OutputPath>
+        <OutputFile GenWeights="false">FT_RopeBinder_Fingers</OutputFile>
+        <Shape target="FT_Ropebinder_TiedFingers">FT_Ropebinder_TiedFingers</Shape>
+        <Shape target="Hands" DataFolder="FT_RopeArmbinder(2)_TiedFingers">Hands</Shape>
+        <Shape target="LowerArmCoil">LowerArmCoil</Shape>
+        <Shape target="LowerElbowCoil">LowerElbowCoil</Shape>
+        <Shape target="Nails">Nails</Shape>
+        <Shape target="UpperArmCoil">UpperArmCoil</Shape>
+        <Shape target="UpperElbowCoil">UpperElbowCoil</Shape>
+        <Shape target="WristCoil">WristCoil</Shape>
+        <Slider name="Breasts" invert="true" default="100">
+            <Data name="LowerElbowCoilBreasts" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" default="100">
+            <Data name="LowerElbowCoilBreastsSmall" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastsSH" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastsSSH" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastsFantasy" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" default="0">
+            <Data name="LowerElbowCoilDoubleMelon" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastCleavage" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastFlatness" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastGravity" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" default="0">
+            <Data name="LowerElbowCoilPushUp" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastHeight" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastPerkiness" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" default="0">
+            <Data name="LowerElbowCoilBreastWidth" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" default="0">
+            <Data name="LowerElbowCoilNippleLength" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilNippleLength</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" default="0">
+            <Data name="LowerElbowCoilNippleAreola" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" default="0">
+            <Data name="LowerElbowCoilNippleUp" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" default="0">
+            <Data name="LowerElbowCoilNippleDown" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilNippleDown</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" default="100">
+            <Data name="LowerElbowCoilArms" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilArms</Data>
+            <Data name="UpperElbowCoilArms" target="UpperElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\UpperElbowCoilArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" default="0">
+            <Data name="LowerElbowCoilChubbyArms" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" default="0">
+            <Data name="LowerElbowCoilShoulderSmooth" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" default="100">
+            <Data name="LowerElbowCoilShoulderWidth" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" default="0">
+            <Data name="LowerElbowCoilBigTorso" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBigTorso</Data>
+            <Data name="UpperElbowCoilBigTorso" target="UpperElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\UpperElbowCoilBigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" default="0">
+            <Data name="LowerElbowCoilPregnancyBelly" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilPregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" default="0">
+            <Data name="LowerElbowCoilBack" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilBack</Data>
+            <Data name="UpperElbowCoilBack" target="UpperElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\UpperElbowCoilBack</Data>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" default="0" hidden="true">
+            <Data name="LowerElbowCoilSmallSeam" target="LowerElbowCoil" local="true">FT_RopeBinder_Fingers_CBBE.osd\LowerElbowCoilSmallSeam</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

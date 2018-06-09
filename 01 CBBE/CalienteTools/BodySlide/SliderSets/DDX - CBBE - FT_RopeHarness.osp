@@ -1,0 +1,1040 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - CBBE - FT_RopeHarness">
+        <DataFolder>FT_RopeHarness_CBBE</DataFolder>
+        <SourceFile>FT_RopeHarness_CBBE.nif</SourceFile>
+        <OutputPath>meshes\devious\FeuerTin\FT_RopeHarness</OutputPath>
+        <OutputFile GenWeights="true">FT_RopeHarness</OutputFile>
+        <Shape target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" DataFolder="FT_RopeHarness CBBE">CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples</Shape>
+        <Shape target="Harness_BoobRope">Harness_BoobRope</Shape>
+        <Shape target="Harness_Bra">Harness_Bra</Shape>
+        <Shape target="Harness_CrotchCoil">Harness_CrotchCoil</Shape>
+        <Shape target="Harness_MainRope">Harness_MainRope</Shape>
+        <Shape target="Harness_UpperWaistCoil">Harness_UpperWaistCoil</Shape>
+        <Shape target="Harness_WaistCoil">Harness_WaistCoil</Shape>
+        <Slider name="Breasts" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreasts" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreasts</Data>
+            <Data name="Harness_MainRopeBreasts" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreasts</Data>
+            <Data name="Harness_BoobRopeBreasts" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreasts</Data>
+            <Data name="Harness_BraBreasts" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreasts</Data>
+            <Data name="Harness_UpperWaistCoilBreasts" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreasts</Data>
+        </Slider>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastsSmall" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastsSmall</Data>
+            <Data name="Harness_MainRopeBreastsSmall" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastsSmall</Data>
+            <Data name="Harness_BoobRopeBreastsSmall" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastsSmall</Data>
+            <Data name="Harness_BraBreastsSmall" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastsSmall</Data>
+            <Data name="Harness_UpperWaistCoilBreastsSmall" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastsSmall</Data>
+            <Data name="Harness_WaistCoilBreastsSmall" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastsSmall</Data>
+            <Data name="Harness_CrotchCoilBreastsSmall" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsSH" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastsSH" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastsSH</Data>
+            <Data name="Harness_MainRopeBreastsSH" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastsSH</Data>
+            <Data name="Harness_BoobRopeBreastsSH" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastsSH</Data>
+            <Data name="Harness_BraBreastsSH" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastsSH</Data>
+            <Data name="Harness_UpperWaistCoilBreastsSH" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastsSH</Data>
+            <Data name="Harness_WaistCoilBreastsSH" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastsSH</Data>
+        </Slider>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastsSSH" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastsSSH</Data>
+            <Data name="Harness_MainRopeBreastsSSH" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastsSSH</Data>
+            <Data name="Harness_BoobRopeBreastsSSH" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastsSSH</Data>
+            <Data name="Harness_BraBreastsSSH" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastsSSH</Data>
+            <Data name="Harness_UpperWaistCoilBreastsSSH" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastsSSH</Data>
+            <Data name="Harness_WaistCoilBreastsSSH" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastsFantasy" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastsFantasy</Data>
+            <Data name="Harness_MainRopeBreastsFantasy" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastsFantasy</Data>
+            <Data name="Harness_BoobRopeBreastsFantasy" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastsFantasy</Data>
+            <Data name="Harness_BraBreastsFantasy" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastsFantasy</Data>
+            <Data name="Harness_UpperWaistCoilBreastsFantasy" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastsFantasy</Data>
+            <Data name="Harness_WaistCoilBreastsFantasy" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastsFantasy</Data>
+        </Slider>
+        <Slider name="DoubleMelon" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDoubleMelon" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDoubleMelon</Data>
+            <Data name="Harness_MainRopeDoubleMelon" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeDoubleMelon</Data>
+            <Data name="Harness_BoobRopeDoubleMelon" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeDoubleMelon</Data>
+            <Data name="Harness_BraDoubleMelon" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraDoubleMelon</Data>
+            <Data name="Harness_UpperWaistCoilDoubleMelon" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilDoubleMelon</Data>
+        </Slider>
+        <Slider name="BreastCleavage" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastCleavage" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastCleavage</Data>
+            <Data name="Harness_MainRopeBreastCleavage" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastCleavage</Data>
+            <Data name="Harness_BoobRopeBreastCleavage" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastCleavage</Data>
+            <Data name="Harness_BraBreastCleavage" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastCleavage</Data>
+            <Data name="Harness_UpperWaistCoilBreastCleavage" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastCleavage</Data>
+            <Data name="Harness_WaistCoilBreastCleavage" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastCleavage</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastFlatness" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastFlatness</Data>
+            <Data name="Harness_MainRopeBreastFlatness" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastFlatness</Data>
+            <Data name="Harness_BoobRopeBreastFlatness" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastFlatness</Data>
+            <Data name="Harness_BraBreastFlatness" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastFlatness</Data>
+            <Data name="Harness_UpperWaistCoilBreastFlatness" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastFlatness</Data>
+            <Data name="Harness_WaistCoilBreastFlatness" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastGravity" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastGravity</Data>
+            <Data name="Harness_MainRopeBreastGravity" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastGravity</Data>
+            <Data name="Harness_BoobRopeBreastGravity" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastGravity</Data>
+            <Data name="Harness_BraBreastGravity" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastGravity</Data>
+            <Data name="Harness_UpperWaistCoilBreastGravity" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastGravity</Data>
+            <Data name="Harness_WaistCoilBreastGravity" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastGravity</Data>
+        </Slider>
+        <Slider name="PushUp" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesPushUp" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesPushUp</Data>
+            <Data name="Harness_MainRopePushUp" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopePushUp</Data>
+            <Data name="Harness_BoobRopePushUp" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopePushUp</Data>
+            <Data name="Harness_BraPushUp" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraPushUp</Data>
+            <Data name="Harness_UpperWaistCoilPushUp" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilPushUp</Data>
+            <Data name="Harness_WaistCoilPushUp" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilPushUp</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastHeight" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastHeight</Data>
+            <Data name="Harness_MainRopeBreastHeight" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastHeight</Data>
+            <Data name="Harness_BoobRopeBreastHeight" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastHeight</Data>
+            <Data name="Harness_BraBreastHeight" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastHeight</Data>
+            <Data name="Harness_UpperWaistCoilBreastHeight" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastHeight</Data>
+            <Data name="Harness_WaistCoilBreastHeight" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastPerkiness" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastPerkiness</Data>
+            <Data name="Harness_MainRopeBreastPerkiness" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastPerkiness</Data>
+            <Data name="Harness_BoobRopeBreastPerkiness" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastPerkiness</Data>
+            <Data name="Harness_BraBreastPerkiness" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastPerkiness</Data>
+            <Data name="Harness_UpperWaistCoilBreastPerkiness" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastPerkiness</Data>
+            <Data name="Harness_WaistCoilBreastPerkiness" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastWidth" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBreastWidth</Data>
+            <Data name="Harness_MainRopeBreastWidth" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBreastWidth</Data>
+            <Data name="Harness_BoobRopeBreastWidth" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBreastWidth</Data>
+            <Data name="Harness_BraBreastWidth" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBreastWidth</Data>
+            <Data name="Harness_UpperWaistCoilBreastWidth" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBreastWidth</Data>
+            <Data name="Harness_WaistCoilBreastWidth" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBreastWidth</Data>
+        </Slider>
+        <Slider name="NippleDistance" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleDistance" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleDistance</Data>
+            <Data name="Harness_MainRopeNippleDistance" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeNippleDistance</Data>
+            <Data name="Harness_BoobRopeNippleDistance" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeNippleDistance</Data>
+            <Data name="Harness_BraNippleDistance" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraNippleDistance</Data>
+            <Data name="Harness_UpperWaistCoilNippleDistance" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilNippleDistance</Data>
+        </Slider>
+        <Slider name="NipplePerkiness" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNipplePerkiness" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNipplePerkiness</Data>
+            <Data name="Harness_BoobRopeNipplePerkiness" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeNipplePerkiness</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleLength" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleLength</Data>
+            <Data name="Harness_BoobRopeNippleLength" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeNippleLength</Data>
+        </Slider>
+        <Slider name="NippleSize" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleSize" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleSize</Data>
+            <Data name="Harness_BoobRopeNippleSize" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeNippleSize</Data>
+            <Data name="Harness_BraNippleSize" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraNippleSize</Data>
+        </Slider>
+        <Slider name="NippleAreola" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleAreola" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleAreola</Data>
+            <Data name="Harness_MainRopeNippleAreola" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeNippleAreola</Data>
+            <Data name="Harness_BoobRopeNippleAreola" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeNippleAreola</Data>
+            <Data name="Harness_BraNippleAreola" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraNippleAreola</Data>
+            <Data name="Harness_UpperWaistCoilNippleAreola" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilNippleAreola</Data>
+        </Slider>
+        <Slider name="NippleUp" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleUp" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleUp</Data>
+            <Data name="Harness_MainRopeNippleUp" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeNippleUp</Data>
+            <Data name="Harness_BoobRopeNippleUp" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeNippleUp</Data>
+            <Data name="Harness_BraNippleUp" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraNippleUp</Data>
+            <Data name="Harness_UpperWaistCoilNippleUp" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilNippleUp</Data>
+        </Slider>
+        <Slider name="NippleDown" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleDown" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleDown</Data>
+            <Data name="Harness_MainRopeNippleDown" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeNippleDown</Data>
+            <Data name="Harness_BoobRopeNippleDown" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeNippleDown</Data>
+            <Data name="Harness_BraNippleDown" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraNippleDown</Data>
+            <Data name="Harness_UpperWaistCoilNippleDown" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilNippleDown</Data>
+        </Slider>
+        <Slider name="NippleTip" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleTip" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNippleTip</Data>
+            <Data name="Harness_BoobRopeNippleTip" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeNippleTip</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesArms" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesArms</Data>
+            <Data name="Harness_MainRopeArms" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeArms</Data>
+            <Data name="Harness_BoobRopeArms" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeArms</Data>
+            <Data name="Harness_BraArms" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesChubbyArms" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesChubbyArms</Data>
+            <Data name="Harness_MainRopeChubbyArms" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeChubbyArms</Data>
+            <Data name="Harness_BoobRopeChubbyArms" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeChubbyArms</Data>
+            <Data name="Harness_BraChubbyArms" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesShoulderSmooth" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesShoulderSmooth</Data>
+            <Data name="Harness_MainRopeShoulderSmooth" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeShoulderSmooth</Data>
+            <Data name="Harness_BoobRopeShoulderSmooth" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeShoulderSmooth</Data>
+            <Data name="Harness_BraShoulderSmooth" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraShoulderSmooth</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesShoulderWidth" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesShoulderWidth</Data>
+            <Data name="Harness_MainRopeShoulderWidth" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeShoulderWidth</Data>
+            <Data name="Harness_BoobRopeShoulderWidth" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeShoulderWidth</Data>
+            <Data name="Harness_BraShoulderWidth" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraShoulderWidth</Data>
+            <Data name="Harness_UpperWaistCoilShoulderWidth" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBigTorso" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBigTorso</Data>
+            <Data name="Harness_MainRopeBigTorso" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBigTorso</Data>
+            <Data name="Harness_BoobRopeBigTorso" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBigTorso</Data>
+            <Data name="Harness_BraBigTorso" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBigTorso</Data>
+            <Data name="Harness_UpperWaistCoilBigTorso" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBigTorso</Data>
+            <Data name="Harness_WaistCoilBigTorso" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBigTorso</Data>
+            <Data name="Harness_CrotchCoilBigTorso" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilBigTorso</Data>
+        </Slider>
+        <Slider name="Waist" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesWaist" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesWaist</Data>
+            <Data name="Harness_MainRopeWaist" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeWaist</Data>
+            <Data name="Harness_BoobRopeWaist" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeWaist</Data>
+            <Data name="Harness_BraWaist" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraWaist</Data>
+            <Data name="Harness_UpperWaistCoilWaist" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilWaist</Data>
+            <Data name="Harness_WaistCoilWaist" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilWaist</Data>
+            <Data name="Harness_CrotchCoilWaist" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilWaist</Data>
+        </Slider>
+        <Slider name="WideWaistLine" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesWideWaistLine" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesWideWaistLine</Data>
+            <Data name="Harness_MainRopeWideWaistLine" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeWideWaistLine</Data>
+            <Data name="Harness_BoobRopeWideWaistLine" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeWideWaistLine</Data>
+            <Data name="Harness_BraWideWaistLine" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraWideWaistLine</Data>
+            <Data name="Harness_UpperWaistCoilWideWaistLine" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilWideWaistLine</Data>
+            <Data name="Harness_WaistCoilWideWaistLine" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilWideWaistLine</Data>
+            <Data name="Harness_CrotchCoilWideWaistLine" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilWideWaistLine</Data>
+        </Slider>
+        <Slider name="ChubbyWaist" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesChubbyWaist" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesChubbyWaist</Data>
+            <Data name="Harness_MainRopeChubbyWaist" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeChubbyWaist</Data>
+            <Data name="Harness_BoobRopeChubbyWaist" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeChubbyWaist</Data>
+            <Data name="Harness_BraChubbyWaist" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraChubbyWaist</Data>
+            <Data name="Harness_UpperWaistCoilChubbyWaist" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilChubbyWaist</Data>
+            <Data name="Harness_WaistCoilChubbyWaist" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilChubbyWaist</Data>
+            <Data name="Harness_CrotchCoilChubbyWaist" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilChubbyWaist</Data>
+        </Slider>
+        <Slider name="Belly" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBelly" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBelly</Data>
+            <Data name="Harness_MainRopeBelly" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBelly</Data>
+            <Data name="Harness_BoobRopeBelly" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBelly</Data>
+            <Data name="Harness_BraBelly" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBelly</Data>
+            <Data name="Harness_UpperWaistCoilBelly" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBelly</Data>
+            <Data name="Harness_WaistCoilBelly" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBelly</Data>
+            <Data name="Harness_CrotchCoilBelly" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilBelly</Data>
+        </Slider>
+        <Slider name="BigBelly" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBigBelly" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBigBelly</Data>
+            <Data name="Harness_MainRopeBigBelly" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBigBelly</Data>
+            <Data name="Harness_BoobRopeBigBelly" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBigBelly</Data>
+            <Data name="Harness_BraBigBelly" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBigBelly</Data>
+            <Data name="Harness_UpperWaistCoilBigBelly" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBigBelly</Data>
+            <Data name="Harness_WaistCoilBigBelly" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBigBelly</Data>
+            <Data name="Harness_CrotchCoilBigBelly" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilBigBelly</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesPregnancyBelly" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesPregnancyBelly</Data>
+            <Data name="Harness_MainRopePregnancyBelly" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopePregnancyBelly</Data>
+            <Data name="Harness_BoobRopePregnancyBelly" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopePregnancyBelly</Data>
+            <Data name="Harness_BraPregnancyBelly" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraPregnancyBelly</Data>
+            <Data name="Harness_UpperWaistCoilPregnancyBelly" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilPregnancyBelly</Data>
+            <Data name="Harness_WaistCoilPregnancyBelly" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilPregnancyBelly</Data>
+            <Data name="Harness_CrotchCoilPregnancyBelly" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilPregnancyBelly</Data>
+        </Slider>
+        <Slider name="TummyTuck" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesTummyTuck" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesTummyTuck</Data>
+            <Data name="Harness_MainRopeTummyTuck" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeTummyTuck</Data>
+            <Data name="Harness_BoobRopeTummyTuck" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeTummyTuck</Data>
+            <Data name="Harness_BraTummyTuck" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraTummyTuck</Data>
+            <Data name="Harness_UpperWaistCoilTummyTuck" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilTummyTuck</Data>
+            <Data name="Harness_WaistCoilTummyTuck" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilTummyTuck</Data>
+            <Data name="Harness_CrotchCoilTummyTuck" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilTummyTuck</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBack" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBack</Data>
+            <Data name="Harness_MainRopeBack" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBack</Data>
+            <Data name="Harness_BoobRopeBack" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeBack</Data>
+            <Data name="Harness_BraBack" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraBack</Data>
+            <Data name="Harness_UpperWaistCoilBack" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBack</Data>
+            <Data name="Harness_WaistCoilBack" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBack</Data>
+            <Data name="Harness_CrotchCoilBack" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilBack</Data>
+        </Slider>
+        <Slider name="Hipbone" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesHipbone" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesHipbone</Data>
+            <Data name="Harness_MainRopeHipbone" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeHipbone</Data>
+            <Data name="Harness_WaistCoilHipbone" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilHipbone</Data>
+            <Data name="Harness_CrotchCoilHipbone" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilHipbone</Data>
+        </Slider>
+        <Slider name="Hips" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesHips" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesHips</Data>
+            <Data name="Harness_MainRopeHips" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeHips</Data>
+            <Data name="Harness_UpperWaistCoilHips" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilHips</Data>
+            <Data name="Harness_WaistCoilHips" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilHips</Data>
+            <Data name="Harness_CrotchCoilHips" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilHips</Data>
+        </Slider>
+        <Slider name="ButtCrack" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesButtCrack" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesButtCrack</Data>
+            <Data name="Harness_MainRopeButtCrack" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeButtCrack</Data>
+            <Data name="Harness_CrotchCoilButtCrack" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilButtCrack</Data>
+        </Slider>
+        <Slider name="Butt" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesButt" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesButt</Data>
+            <Data name="Harness_MainRopeButt" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeButt</Data>
+            <Data name="Harness_UpperWaistCoilButt" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilButt</Data>
+            <Data name="Harness_WaistCoilButt" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilButt</Data>
+            <Data name="Harness_CrotchCoilButt" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilButt</Data>
+        </Slider>
+        <Slider name="ButtSmall" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesButtSmall" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesButtSmall</Data>
+            <Data name="Harness_MainRopeButtSmall" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeButtSmall</Data>
+            <Data name="Harness_UpperWaistCoilButtSmall" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilButtSmall</Data>
+            <Data name="Harness_WaistCoilButtSmall" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilButtSmall</Data>
+            <Data name="Harness_CrotchCoilButtSmall" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilButtSmall</Data>
+        </Slider>
+        <Slider name="ButtShape2" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesButtShape2" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesButtShape2</Data>
+            <Data name="Harness_MainRopeButtShape2" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeButtShape2</Data>
+            <Data name="Harness_BraButtShape2" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraButtShape2</Data>
+            <Data name="Harness_UpperWaistCoilButtShape2" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilButtShape2</Data>
+            <Data name="Harness_WaistCoilButtShape2" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilButtShape2</Data>
+            <Data name="Harness_CrotchCoilButtShape2" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilButtShape2</Data>
+        </Slider>
+        <Slider name="BigButt" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBigButt" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesBigButt</Data>
+            <Data name="Harness_MainRopeBigButt" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeBigButt</Data>
+            <Data name="Harness_UpperWaistCoilBigButt" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilBigButt</Data>
+            <Data name="Harness_WaistCoilBigButt" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilBigButt</Data>
+            <Data name="Harness_CrotchCoilBigButt" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilBigButt</Data>
+        </Slider>
+        <Slider name="ChubbyButt" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesChubbyButt" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesChubbyButt</Data>
+            <Data name="Harness_MainRopeChubbyButt" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeChubbyButt</Data>
+            <Data name="Harness_BraChubbyButt" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraChubbyButt</Data>
+            <Data name="Harness_UpperWaistCoilChubbyButt" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilChubbyButt</Data>
+            <Data name="Harness_WaistCoilChubbyButt" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilChubbyButt</Data>
+            <Data name="Harness_CrotchCoilChubbyButt" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilChubbyButt</Data>
+        </Slider>
+        <Slider name="AppleCheeks" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesAppleCheeks" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesAppleCheeks</Data>
+            <Data name="Harness_MainRopeAppleCheeks" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeAppleCheeks</Data>
+            <Data name="Harness_UpperWaistCoilAppleCheeks" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilAppleCheeks</Data>
+            <Data name="Harness_WaistCoilAppleCheeks" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilAppleCheeks</Data>
+            <Data name="Harness_CrotchCoilAppleCheeks" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilAppleCheeks</Data>
+        </Slider>
+        <Slider name="RoundAss" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesRoundAss" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesRoundAss</Data>
+            <Data name="Harness_MainRopeRoundAss" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeRoundAss</Data>
+            <Data name="Harness_WaistCoilRoundAss" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilRoundAss</Data>
+            <Data name="Harness_CrotchCoilRoundAss" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilRoundAss</Data>
+        </Slider>
+        <Slider name="SlimThighs" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesSlimThighs" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesSlimThighs</Data>
+            <Data name="Harness_MainRopeSlimThighs" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeSlimThighs</Data>
+            <Data name="Harness_UpperWaistCoilSlimThighs" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilSlimThighs</Data>
+            <Data name="Harness_WaistCoilSlimThighs" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilSlimThighs</Data>
+            <Data name="Harness_CrotchCoilSlimThighs" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilSlimThighs</Data>
+        </Slider>
+        <Slider name="Thighs" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesThighs" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesThighs</Data>
+            <Data name="Harness_MainRopeThighs" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeThighs</Data>
+            <Data name="Harness_CrotchCoilThighs" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilThighs</Data>
+        </Slider>
+        <Slider name="ChubbyLegs" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesChubbyLegs" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesChubbyLegs</Data>
+            <Data name="Harness_MainRopeChubbyLegs" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeChubbyLegs</Data>
+            <Data name="Harness_CrotchCoilChubbyLegs" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilChubbyLegs</Data>
+        </Slider>
+        <Slider name="Legs" invert="true" small="100" big="100">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesLegs" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesLegs</Data>
+            <Data name="Harness_MainRopeLegs" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeLegs</Data>
+            <Data name="Harness_CrotchCoilLegs" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilLegs</Data>
+        </Slider>
+        <Slider name="KneeHeight" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesKneeHeight" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesKneeHeight</Data>
+            <Data name="Harness_MainRopeKneeHeight" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeKneeHeight</Data>
+        </Slider>
+        <Slider name="CalfSize" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCalfSize" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCalfSize</Data>
+        </Slider>
+        <Slider name="CalfSmooth" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCalfSmooth" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCalfSmooth</Data>
+        </Slider>
+        <Slider name="Neck" invert="false" small="100" big="0" hidden="true">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNeck" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesNeck</Data>
+            <Data name="Harness_MainRopeNeck" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeNeck</Data>
+            <Data name="Harness_BoobRopeNeck" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeNeck</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Low</Data>
+            <Data name="Harness_MainRope7B Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B Low</Data>
+            <Data name="Harness_BoobRope7B Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B Low</Data>
+            <Data name="Harness_Bra7B Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B Low</Data>
+            <Data name="Harness_UpperWaistCoil7B Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B Low</Data>
+            <Data name="Harness_WaistCoil7B Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B Low</Data>
+            <Data name="Harness_CrotchCoil7B Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B High</Data>
+            <Data name="Harness_MainRope7B High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B High</Data>
+            <Data name="Harness_BoobRope7B High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B High</Data>
+            <Data name="Harness_Bra7B High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B High</Data>
+            <Data name="Harness_UpperWaistCoil7B High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B High</Data>
+            <Data name="Harness_WaistCoil7B High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B High</Data>
+            <Data name="Harness_CrotchCoil7B High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Bombshell Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Bombshell Low</Data>
+            <Data name="Harness_MainRope7B Bombshell Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B Bombshell Low</Data>
+            <Data name="Harness_BoobRope7B Bombshell Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B Bombshell Low</Data>
+            <Data name="Harness_Bra7B Bombshell Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B Bombshell Low</Data>
+            <Data name="Harness_UpperWaistCoil7B Bombshell Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B Bombshell Low</Data>
+            <Data name="Harness_WaistCoil7B Bombshell Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B Bombshell Low</Data>
+            <Data name="Harness_CrotchCoil7B Bombshell Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Bombshell High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Bombshell High</Data>
+            <Data name="Harness_MainRope7B Bombshell High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B Bombshell High</Data>
+            <Data name="Harness_BoobRope7B Bombshell High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B Bombshell High</Data>
+            <Data name="Harness_Bra7B Bombshell High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B Bombshell High</Data>
+            <Data name="Harness_UpperWaistCoil7B Bombshell High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B Bombshell High</Data>
+            <Data name="Harness_WaistCoil7B Bombshell High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B Bombshell High</Data>
+            <Data name="Harness_CrotchCoil7B Bombshell High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Natural Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Natural Low</Data>
+            <Data name="Harness_MainRope7B Natural Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B Natural Low</Data>
+            <Data name="Harness_BoobRope7B Natural Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B Natural Low</Data>
+            <Data name="Harness_Bra7B Natural Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B Natural Low</Data>
+            <Data name="Harness_UpperWaistCoil7B Natural Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B Natural Low</Data>
+            <Data name="Harness_WaistCoil7B Natural Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B Natural Low</Data>
+            <Data name="Harness_CrotchCoil7B Natural Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Natural High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Natural High</Data>
+            <Data name="Harness_MainRope7B Natural High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B Natural High</Data>
+            <Data name="Harness_BoobRope7B Natural High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B Natural High</Data>
+            <Data name="Harness_Bra7B Natural High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B Natural High</Data>
+            <Data name="Harness_UpperWaistCoil7B Natural High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B Natural High</Data>
+            <Data name="Harness_WaistCoil7B Natural High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B Natural High</Data>
+            <Data name="Harness_CrotchCoil7B Natural High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Cleavage Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Cleavage Low</Data>
+            <Data name="Harness_MainRope7B Cleavage Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B Cleavage Low</Data>
+            <Data name="Harness_BoobRope7B Cleavage Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B Cleavage Low</Data>
+            <Data name="Harness_Bra7B Cleavage Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B Cleavage Low</Data>
+            <Data name="Harness_UpperWaistCoil7B Cleavage Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B Cleavage Low</Data>
+            <Data name="Harness_WaistCoil7B Cleavage Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B Cleavage Low</Data>
+            <Data name="Harness_CrotchCoil7B Cleavage Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Cleavage High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Cleavage High</Data>
+            <Data name="Harness_MainRope7B Cleavage High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B Cleavage High</Data>
+            <Data name="Harness_BoobRope7B Cleavage High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B Cleavage High</Data>
+            <Data name="Harness_Bra7B Cleavage High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B Cleavage High</Data>
+            <Data name="Harness_UpperWaistCoil7B Cleavage High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B Cleavage High</Data>
+            <Data name="Harness_WaistCoil7B Cleavage High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B Cleavage High</Data>
+            <Data name="Harness_CrotchCoil7B Cleavage High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B BCup Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B BCup Low</Data>
+            <Data name="Harness_MainRope7B BCup Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B BCup Low</Data>
+            <Data name="Harness_BoobRope7B BCup Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B BCup Low</Data>
+            <Data name="Harness_Bra7B BCup Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B BCup Low</Data>
+            <Data name="Harness_UpperWaistCoil7B BCup Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B BCup Low</Data>
+            <Data name="Harness_WaistCoil7B BCup Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B BCup Low</Data>
+            <Data name="Harness_CrotchCoil7B BCup Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B BCup High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B BCup High</Data>
+            <Data name="Harness_MainRope7B BCup High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B BCup High</Data>
+            <Data name="Harness_BoobRope7B BCup High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B BCup High</Data>
+            <Data name="Harness_Bra7B BCup High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B BCup High</Data>
+            <Data name="Harness_UpperWaistCoil7B BCup High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B BCup High</Data>
+            <Data name="Harness_WaistCoil7B BCup High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B BCup High</Data>
+            <Data name="Harness_CrotchCoil7B BCup High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7BUNP Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7BUNP Low</Data>
+            <Data name="Harness_MainRope7BUNP Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7BUNP Low</Data>
+            <Data name="Harness_BoobRope7BUNP Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7BUNP Low</Data>
+            <Data name="Harness_Bra7BUNP Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7BUNP Low</Data>
+            <Data name="Harness_UpperWaistCoil7BUNP Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7BUNP Low</Data>
+            <Data name="Harness_WaistCoil7BUNP Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7BUNP Low</Data>
+            <Data name="Harness_CrotchCoil7BUNP Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7BUNP High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7BUNP High</Data>
+            <Data name="Harness_MainRope7BUNP High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7BUNP High</Data>
+            <Data name="Harness_BoobRope7BUNP High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7BUNP High</Data>
+            <Data name="Harness_Bra7BUNP High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7BUNP High</Data>
+            <Data name="Harness_UpperWaistCoil7BUNP High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7BUNP High</Data>
+            <Data name="Harness_WaistCoil7BUNP High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7BUNP High</Data>
+            <Data name="Harness_CrotchCoil7BUNP High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Oppai Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Oppai Low</Data>
+            <Data name="Harness_MainRope7B Oppai Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B Oppai Low</Data>
+            <Data name="Harness_BoobRope7B Oppai Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B Oppai Low</Data>
+            <Data name="Harness_Bra7B Oppai Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B Oppai Low</Data>
+            <Data name="Harness_UpperWaistCoil7B Oppai Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B Oppai Low</Data>
+            <Data name="Harness_WaistCoil7B Oppai Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B Oppai Low</Data>
+            <Data name="Harness_CrotchCoil7B Oppai Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Oppai High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B Oppai High</Data>
+            <Data name="Harness_MainRope7B Oppai High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B Oppai High</Data>
+            <Data name="Harness_BoobRope7B Oppai High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B Oppai High</Data>
+            <Data name="Harness_Bra7B Oppai High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B Oppai High</Data>
+            <Data name="Harness_UpperWaistCoil7B Oppai High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B Oppai High</Data>
+            <Data name="Harness_WaistCoil7B Oppai High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B Oppai High</Data>
+            <Data name="Harness_CrotchCoil7B Oppai High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B CH Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B CH Low</Data>
+            <Data name="Harness_MainRope7B CH Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B CH Low</Data>
+            <Data name="Harness_BoobRope7B CH Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B CH Low</Data>
+            <Data name="Harness_Bra7B CH Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B CH Low</Data>
+            <Data name="Harness_UpperWaistCoil7B CH Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B CH Low</Data>
+            <Data name="Harness_WaistCoil7B CH Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B CH Low</Data>
+            <Data name="Harness_CrotchCoil7B CH Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B CH High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples7B CH High</Data>
+            <Data name="Harness_MainRope7B CH High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRope7B CH High</Data>
+            <Data name="Harness_BoobRope7B CH High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRope7B CH High</Data>
+            <Data name="Harness_Bra7B CH High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_Bra7B CH High</Data>
+            <Data name="Harness_UpperWaistCoil7B CH High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoil7B CH High</Data>
+            <Data name="Harness_WaistCoil7B CH High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoil7B CH High</Data>
+            <Data name="Harness_CrotchCoil7B CH High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoil7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Low</Data>
+            <Data name="Harness_MainRopeUNP Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNP Low</Data>
+            <Data name="Harness_BoobRopeUNP Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNP Low</Data>
+            <Data name="Harness_BraUNP Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNP Low</Data>
+            <Data name="Harness_UpperWaistCoilUNP Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNP Low</Data>
+            <Data name="Harness_WaistCoilUNP Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNP Low</Data>
+            <Data name="Harness_CrotchCoilUNP Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP High</Data>
+            <Data name="Harness_MainRopeUNP High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNP High</Data>
+            <Data name="Harness_BoobRopeUNP High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNP High</Data>
+            <Data name="Harness_BraUNP High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNP High</Data>
+            <Data name="Harness_UpperWaistCoilUNP High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNP High</Data>
+            <Data name="Harness_WaistCoilUNP High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNP High</Data>
+            <Data name="Harness_CrotchCoilUNP High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Pushup Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Pushup Low</Data>
+            <Data name="Harness_MainRopeUNP Pushup Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNP Pushup Low</Data>
+            <Data name="Harness_BoobRopeUNP Pushup Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNP Pushup Low</Data>
+            <Data name="Harness_BraUNP Pushup Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNP Pushup Low</Data>
+            <Data name="Harness_UpperWaistCoilUNP Pushup Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNP Pushup Low</Data>
+            <Data name="Harness_WaistCoilUNP Pushup Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNP Pushup Low</Data>
+            <Data name="Harness_CrotchCoilUNP Pushup Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Pushup High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Pushup High</Data>
+            <Data name="Harness_MainRopeUNP Pushup High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNP Pushup High</Data>
+            <Data name="Harness_BoobRopeUNP Pushup High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNP Pushup High</Data>
+            <Data name="Harness_BraUNP Pushup High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNP Pushup High</Data>
+            <Data name="Harness_UpperWaistCoilUNP Pushup High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNP Pushup High</Data>
+            <Data name="Harness_WaistCoilUNP Pushup High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNP Pushup High</Data>
+            <Data name="Harness_CrotchCoilUNP Pushup High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Skinny Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Skinny Low</Data>
+            <Data name="Harness_MainRopeUNP Skinny Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNP Skinny Low</Data>
+            <Data name="Harness_BoobRopeUNP Skinny Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNP Skinny Low</Data>
+            <Data name="Harness_BraUNP Skinny Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNP Skinny Low</Data>
+            <Data name="Harness_UpperWaistCoilUNP Skinny Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNP Skinny Low</Data>
+            <Data name="Harness_WaistCoilUNP Skinny Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNP Skinny Low</Data>
+            <Data name="Harness_CrotchCoilUNP Skinny Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Skinny High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Skinny High</Data>
+            <Data name="Harness_MainRopeUNP Skinny High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNP Skinny High</Data>
+            <Data name="Harness_BoobRopeUNP Skinny High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNP Skinny High</Data>
+            <Data name="Harness_BraUNP Skinny High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNP Skinny High</Data>
+            <Data name="Harness_UpperWaistCoilUNP Skinny High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNP Skinny High</Data>
+            <Data name="Harness_WaistCoilUNP Skinny High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNP Skinny High</Data>
+            <Data name="Harness_CrotchCoilUNP Skinny High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Perky Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Perky Low</Data>
+            <Data name="Harness_MainRopeUNP Perky Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNP Perky Low</Data>
+            <Data name="Harness_BoobRopeUNP Perky Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNP Perky Low</Data>
+            <Data name="Harness_BraUNP Perky Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNP Perky Low</Data>
+            <Data name="Harness_UpperWaistCoilUNP Perky Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNP Perky Low</Data>
+            <Data name="Harness_WaistCoilUNP Perky Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNP Perky Low</Data>
+            <Data name="Harness_CrotchCoilUNP Perky Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Perky High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNP Perky High</Data>
+            <Data name="Harness_MainRopeUNP Perky High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNP Perky High</Data>
+            <Data name="Harness_BoobRopeUNP Perky High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNP Perky High</Data>
+            <Data name="Harness_BraUNP Perky High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNP Perky High</Data>
+            <Data name="Harness_UpperWaistCoilUNP Perky High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNP Perky High</Data>
+            <Data name="Harness_WaistCoilUNP Perky High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNP Perky High</Data>
+            <Data name="Harness_CrotchCoilUNP Perky High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Low</Data>
+            <Data name="Harness_MainRopeUNPB Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPB Low</Data>
+            <Data name="Harness_BoobRopeUNPB Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPB Low</Data>
+            <Data name="Harness_BraUNPB Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPB Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPB Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPB Low</Data>
+            <Data name="Harness_WaistCoilUNPB Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPB Low</Data>
+            <Data name="Harness_CrotchCoilUNPB Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB High</Data>
+            <Data name="Harness_MainRopeUNPB High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPB High</Data>
+            <Data name="Harness_BoobRopeUNPB High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPB High</Data>
+            <Data name="Harness_BraUNPB High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPB High</Data>
+            <Data name="Harness_UpperWaistCoilUNPB High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPB High</Data>
+            <Data name="Harness_WaistCoilUNPB High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPB High</Data>
+            <Data name="Harness_CrotchCoilUNPB High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Chapi" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Chapi</Data>
+            <Data name="Harness_MainRopeUNPB Chapi" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPB Chapi</Data>
+            <Data name="Harness_BoobRopeUNPB Chapi" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPB Chapi</Data>
+            <Data name="Harness_BraUNPB Chapi" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPB Chapi</Data>
+            <Data name="Harness_UpperWaistCoilUNPB Chapi" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPB Chapi</Data>
+            <Data name="Harness_WaistCoilUNPB Chapi" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPB Chapi</Data>
+            <Data name="Harness_CrotchCoilUNPB Chapi" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Oppai v1" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Oppai v1</Data>
+            <Data name="Harness_MainRopeUNPB Oppai v1" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPB Oppai v1</Data>
+            <Data name="Harness_BoobRopeUNPB Oppai v1" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPB Oppai v1</Data>
+            <Data name="Harness_BraUNPB Oppai v1" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPB Oppai v1</Data>
+            <Data name="Harness_UpperWaistCoilUNPB Oppai v1" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPB Oppai v1</Data>
+            <Data name="Harness_WaistCoilUNPB Oppai v1" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPB Oppai v1</Data>
+            <Data name="Harness_CrotchCoilUNPB Oppai v1" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Oppai v3.2 Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Oppai v3.2 Low</Data>
+            <Data name="Harness_MainRopeUNPB Oppai v3.2 Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPB Oppai v3.2 Low</Data>
+            <Data name="Harness_BoobRopeUNPB Oppai v3.2 Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPB Oppai v3.2 Low</Data>
+            <Data name="Harness_BraUNPB Oppai v3.2 Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPB Oppai v3.2 Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPB Oppai v3.2 Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPB Oppai v3.2 Low</Data>
+            <Data name="Harness_WaistCoilUNPB Oppai v3.2 Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPB Oppai v3.2 Low</Data>
+            <Data name="Harness_CrotchCoilUNPB Oppai v3.2 Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Oppai v3.2 High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPB Oppai v3.2 High</Data>
+            <Data name="Harness_MainRopeUNPB Oppai v3.2 High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPB Oppai v3.2 High</Data>
+            <Data name="Harness_BoobRopeUNPB Oppai v3.2 High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPB Oppai v3.2 High</Data>
+            <Data name="Harness_BraUNPB Oppai v3.2 High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPB Oppai v3.2 High</Data>
+            <Data name="Harness_UpperWaistCoilUNPB Oppai v3.2 High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPB Oppai v3.2 High</Data>
+            <Data name="Harness_WaistCoilUNPB Oppai v3.2 High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPB Oppai v3.2 High</Data>
+            <Data name="Harness_CrotchCoilUNPB Oppai v3.2 High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPetite Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPetite Low</Data>
+            <Data name="Harness_MainRopeUNPetite Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPetite Low</Data>
+            <Data name="Harness_BoobRopeUNPetite Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPetite Low</Data>
+            <Data name="Harness_BraUNPetite Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPetite Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPetite Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPetite Low</Data>
+            <Data name="Harness_WaistCoilUNPetite Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPetite Low</Data>
+            <Data name="Harness_CrotchCoilUNPetite Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPetite High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPetite High</Data>
+            <Data name="Harness_MainRopeUNPetite High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPetite High</Data>
+            <Data name="Harness_BoobRopeUNPetite High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPetite High</Data>
+            <Data name="Harness_BraUNPetite High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPetite High</Data>
+            <Data name="Harness_UpperWaistCoilUNPetite High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPetite High</Data>
+            <Data name="Harness_WaistCoilUNPetite High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPetite High</Data>
+            <Data name="Harness_CrotchCoilUNPetite High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPC Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPC Low</Data>
+            <Data name="Harness_MainRopeUNPC Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPC Low</Data>
+            <Data name="Harness_BoobRopeUNPC Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPC Low</Data>
+            <Data name="Harness_BraUNPC Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPC Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPC Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPC Low</Data>
+            <Data name="Harness_WaistCoilUNPC Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPC Low</Data>
+            <Data name="Harness_CrotchCoilUNPC Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPC High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPC High</Data>
+            <Data name="Harness_MainRopeUNPC High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPC High</Data>
+            <Data name="Harness_BoobRopeUNPC High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPC High</Data>
+            <Data name="Harness_BraUNPC High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPC High</Data>
+            <Data name="Harness_UpperWaistCoilUNPC High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPC High</Data>
+            <Data name="Harness_WaistCoilUNPC High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPC High</Data>
+            <Data name="Harness_CrotchCoilUNPC High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPCM Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPCM Low</Data>
+            <Data name="Harness_MainRopeUNPCM Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPCM Low</Data>
+            <Data name="Harness_BoobRopeUNPCM Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPCM Low</Data>
+            <Data name="Harness_BraUNPCM Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPCM Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPCM Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPCM Low</Data>
+            <Data name="Harness_WaistCoilUNPCM Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPCM Low</Data>
+            <Data name="Harness_CrotchCoilUNPCM Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPCM High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPCM High</Data>
+            <Data name="Harness_MainRopeUNPCM High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPCM High</Data>
+            <Data name="Harness_BoobRopeUNPCM High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPCM High</Data>
+            <Data name="Harness_BraUNPCM High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPCM High</Data>
+            <Data name="Harness_UpperWaistCoilUNPCM High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPCM High</Data>
+            <Data name="Harness_WaistCoilUNPCM High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPCM High</Data>
+            <Data name="Harness_CrotchCoilUNPCM High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPSH Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPSH Low</Data>
+            <Data name="Harness_MainRopeUNPSH Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPSH Low</Data>
+            <Data name="Harness_BoobRopeUNPSH Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPSH Low</Data>
+            <Data name="Harness_BraUNPSH Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPSH Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPSH Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPSH Low</Data>
+            <Data name="Harness_WaistCoilUNPSH Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPSH Low</Data>
+            <Data name="Harness_CrotchCoilUNPSH Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPSH High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPSH High</Data>
+            <Data name="Harness_MainRopeUNPSH High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPSH High</Data>
+            <Data name="Harness_BoobRopeUNPSH High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPSH High</Data>
+            <Data name="Harness_BraUNPSH High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPSH High</Data>
+            <Data name="Harness_UpperWaistCoilUNPSH High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPSH High</Data>
+            <Data name="Harness_WaistCoilUNPSH High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPSH High</Data>
+            <Data name="Harness_CrotchCoilUNPSH High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPK Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPK Low</Data>
+            <Data name="Harness_MainRopeUNPK Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPK Low</Data>
+            <Data name="Harness_BoobRopeUNPK Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPK Low</Data>
+            <Data name="Harness_BraUNPK Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPK Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPK Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPK Low</Data>
+            <Data name="Harness_WaistCoilUNPK Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPK Low</Data>
+            <Data name="Harness_CrotchCoilUNPK Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPK High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPK High</Data>
+            <Data name="Harness_MainRopeUNPK High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPK High</Data>
+            <Data name="Harness_BoobRopeUNPK High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPK High</Data>
+            <Data name="Harness_BraUNPK High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPK High</Data>
+            <Data name="Harness_UpperWaistCoilUNPK High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPK High</Data>
+            <Data name="Harness_WaistCoilUNPK High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPK High</Data>
+            <Data name="Harness_CrotchCoilUNPK High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPK Bonus Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPK Bonus Low</Data>
+            <Data name="Harness_MainRopeUNPK Bonus Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPK Bonus Low</Data>
+            <Data name="Harness_BoobRopeUNPK Bonus Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPK Bonus Low</Data>
+            <Data name="Harness_BraUNPK Bonus Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPK Bonus Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPK Bonus Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPK Bonus Low</Data>
+            <Data name="Harness_WaistCoilUNPK Bonus Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPK Bonus Low</Data>
+            <Data name="Harness_CrotchCoilUNPK Bonus Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPK Bonus High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPK Bonus High</Data>
+            <Data name="Harness_MainRopeUNPK Bonus High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPK Bonus High</Data>
+            <Data name="Harness_BoobRopeUNPK Bonus High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPK Bonus High</Data>
+            <Data name="Harness_BraUNPK Bonus High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPK Bonus High</Data>
+            <Data name="Harness_UpperWaistCoilUNPK Bonus High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPK Bonus High</Data>
+            <Data name="Harness_WaistCoilUNPK Bonus High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPK Bonus High</Data>
+            <Data name="Harness_CrotchCoilUNPK Bonus High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUN7B Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUN7B Low</Data>
+            <Data name="Harness_MainRopeUN7B Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUN7B Low</Data>
+            <Data name="Harness_BoobRopeUN7B Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUN7B Low</Data>
+            <Data name="Harness_BraUN7B Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUN7B Low</Data>
+            <Data name="Harness_UpperWaistCoilUN7B Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUN7B Low</Data>
+            <Data name="Harness_WaistCoilUN7B Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUN7B Low</Data>
+            <Data name="Harness_CrotchCoilUN7B Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUN7B High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUN7B High</Data>
+            <Data name="Harness_MainRopeUN7B High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUN7B High</Data>
+            <Data name="Harness_BoobRopeUN7B High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUN7B High</Data>
+            <Data name="Harness_BraUN7B High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUN7B High</Data>
+            <Data name="Harness_UpperWaistCoilUN7B High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUN7B High</Data>
+            <Data name="Harness_WaistCoilUN7B High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUN7B High</Data>
+            <Data name="Harness_CrotchCoilUN7B High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPBB Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPBB Low</Data>
+            <Data name="Harness_MainRopeUNPBB Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPBB Low</Data>
+            <Data name="Harness_BoobRopeUNPBB Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPBB Low</Data>
+            <Data name="Harness_BraUNPBB Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPBB Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPBB Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPBB Low</Data>
+            <Data name="Harness_WaistCoilUNPBB Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPBB Low</Data>
+            <Data name="Harness_CrotchCoilUNPBB Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPBB High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPBB High</Data>
+            <Data name="Harness_MainRopeUNPBB High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPBB High</Data>
+            <Data name="Harness_BoobRopeUNPBB High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPBB High</Data>
+            <Data name="Harness_BraUNPBB High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPBB High</Data>
+            <Data name="Harness_UpperWaistCoilUNPBB High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPBB High</Data>
+            <Data name="Harness_WaistCoilUNPBB High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPBB High</Data>
+            <Data name="Harness_CrotchCoilUNPBB High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesSeraphim Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesSeraphim Low</Data>
+            <Data name="Harness_MainRopeSeraphim Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeSeraphim Low</Data>
+            <Data name="Harness_BoobRopeSeraphim Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeSeraphim Low</Data>
+            <Data name="Harness_BraSeraphim Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraSeraphim Low</Data>
+            <Data name="Harness_UpperWaistCoilSeraphim Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilSeraphim Low</Data>
+            <Data name="Harness_WaistCoilSeraphim Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilSeraphim Low</Data>
+            <Data name="Harness_CrotchCoilSeraphim Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesSeraphim High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesSeraphim High</Data>
+            <Data name="Harness_MainRopeSeraphim High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeSeraphim High</Data>
+            <Data name="Harness_BoobRopeSeraphim High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeSeraphim High</Data>
+            <Data name="Harness_BraSeraphim High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraSeraphim High</Data>
+            <Data name="Harness_UpperWaistCoilSeraphim High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilSeraphim High</Data>
+            <Data name="Harness_WaistCoilSeraphim High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilSeraphim High</Data>
+            <Data name="Harness_CrotchCoilSeraphim High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDemonfet Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDemonfet Low</Data>
+            <Data name="Harness_MainRopeDemonfet Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeDemonfet Low</Data>
+            <Data name="Harness_BoobRopeDemonfet Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeDemonfet Low</Data>
+            <Data name="Harness_BraDemonfet Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraDemonfet Low</Data>
+            <Data name="Harness_UpperWaistCoilDemonfet Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilDemonfet Low</Data>
+            <Data name="Harness_WaistCoilDemonfet Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilDemonfet Low</Data>
+            <Data name="Harness_CrotchCoilDemonfet Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDemonfet High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDemonfet High</Data>
+            <Data name="Harness_MainRopeDemonfet High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeDemonfet High</Data>
+            <Data name="Harness_BoobRopeDemonfet High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeDemonfet High</Data>
+            <Data name="Harness_BraDemonfet High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraDemonfet High</Data>
+            <Data name="Harness_UpperWaistCoilDemonfet High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilDemonfet High</Data>
+            <Data name="Harness_WaistCoilDemonfet High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilDemonfet High</Data>
+            <Data name="Harness_CrotchCoilDemonfet High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDream Girl Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDream Girl Low</Data>
+            <Data name="Harness_MainRopeDream Girl Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeDream Girl Low</Data>
+            <Data name="Harness_BoobRopeDream Girl Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeDream Girl Low</Data>
+            <Data name="Harness_BraDream Girl Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraDream Girl Low</Data>
+            <Data name="Harness_UpperWaistCoilDream Girl Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilDream Girl Low</Data>
+            <Data name="Harness_WaistCoilDream Girl Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilDream Girl Low</Data>
+            <Data name="Harness_CrotchCoilDream Girl Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDream Girl High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesDream Girl High</Data>
+            <Data name="Harness_MainRopeDream Girl High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeDream Girl High</Data>
+            <Data name="Harness_BoobRopeDream Girl High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeDream Girl High</Data>
+            <Data name="Harness_BraDream Girl High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraDream Girl High</Data>
+            <Data name="Harness_UpperWaistCoilDream Girl High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilDream Girl High</Data>
+            <Data name="Harness_WaistCoilDream Girl High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilDream Girl High</Data>
+            <Data name="Harness_CrotchCoilDream Girl High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesTop Model Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesTop Model Low</Data>
+            <Data name="Harness_MainRopeTop Model Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeTop Model Low</Data>
+            <Data name="Harness_BoobRopeTop Model Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeTop Model Low</Data>
+            <Data name="Harness_BraTop Model Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraTop Model Low</Data>
+            <Data name="Harness_UpperWaistCoilTop Model Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilTop Model Low</Data>
+            <Data name="Harness_WaistCoilTop Model Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilTop Model Low</Data>
+            <Data name="Harness_CrotchCoilTop Model Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesTop Model High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesTop Model High</Data>
+            <Data name="Harness_MainRopeTop Model High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeTop Model High</Data>
+            <Data name="Harness_BoobRopeTop Model High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeTop Model High</Data>
+            <Data name="Harness_BraTop Model High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraTop Model High</Data>
+            <Data name="Harness_UpperWaistCoilTop Model High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilTop Model High</Data>
+            <Data name="Harness_WaistCoilTop Model High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilTop Model High</Data>
+            <Data name="Harness_CrotchCoilTop Model High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesLeito Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesLeito Low</Data>
+            <Data name="Harness_MainRopeLeito Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeLeito Low</Data>
+            <Data name="Harness_BoobRopeLeito Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeLeito Low</Data>
+            <Data name="Harness_BraLeito Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraLeito Low</Data>
+            <Data name="Harness_UpperWaistCoilLeito Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilLeito Low</Data>
+            <Data name="Harness_WaistCoilLeito Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilLeito Low</Data>
+            <Data name="Harness_CrotchCoilLeito Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesLeito High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesLeito High</Data>
+            <Data name="Harness_MainRopeLeito High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeLeito High</Data>
+            <Data name="Harness_BoobRopeLeito High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeLeito High</Data>
+            <Data name="Harness_BraLeito High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraLeito High</Data>
+            <Data name="Harness_UpperWaistCoilLeito High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilLeito High</Data>
+            <Data name="Harness_WaistCoilLeito High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilLeito High</Data>
+            <Data name="Harness_CrotchCoilLeito High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPF Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPF Low</Data>
+            <Data name="Harness_MainRopeUNPF Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPF Low</Data>
+            <Data name="Harness_BoobRopeUNPF Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPF Low</Data>
+            <Data name="Harness_BraUNPF Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPF Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPF Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPF Low</Data>
+            <Data name="Harness_WaistCoilUNPF Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPF Low</Data>
+            <Data name="Harness_CrotchCoilUNPF Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPF High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPF High</Data>
+            <Data name="Harness_MainRopeUNPF High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPF High</Data>
+            <Data name="Harness_BoobRopeUNPF High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPF High</Data>
+            <Data name="Harness_BraUNPF High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPF High</Data>
+            <Data name="Harness_UpperWaistCoilUNPF High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPF High</Data>
+            <Data name="Harness_WaistCoilUNPF High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPF High</Data>
+            <Data name="Harness_CrotchCoilUNPF High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPFx Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPFx Low</Data>
+            <Data name="Harness_MainRopeUNPFx Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPFx Low</Data>
+            <Data name="Harness_BoobRopeUNPFx Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPFx Low</Data>
+            <Data name="Harness_BraUNPFx Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPFx Low</Data>
+            <Data name="Harness_UpperWaistCoilUNPFx Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPFx Low</Data>
+            <Data name="Harness_WaistCoilUNPFx Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPFx Low</Data>
+            <Data name="Harness_CrotchCoilUNPFx Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPFx High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesUNPFx High</Data>
+            <Data name="Harness_MainRopeUNPFx High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeUNPFx High</Data>
+            <Data name="Harness_BoobRopeUNPFx High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeUNPFx High</Data>
+            <Data name="Harness_BraUNPFx High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraUNPFx High</Data>
+            <Data name="Harness_UpperWaistCoilUNPFx High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilUNPFx High</Data>
+            <Data name="Harness_WaistCoilUNPFx High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilUNPFx High</Data>
+            <Data name="Harness_CrotchCoilUNPFx High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCNHF Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCNHF Low</Data>
+            <Data name="Harness_MainRopeCNHF Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeCNHF Low</Data>
+            <Data name="Harness_BoobRopeCNHF Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeCNHF Low</Data>
+            <Data name="Harness_BraCNHF Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraCNHF Low</Data>
+            <Data name="Harness_UpperWaistCoilCNHF Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilCNHF Low</Data>
+            <Data name="Harness_WaistCoilCNHF Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilCNHF Low</Data>
+            <Data name="Harness_CrotchCoilCNHF Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCNHF High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCNHF High</Data>
+            <Data name="Harness_MainRopeCNHF High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeCNHF High</Data>
+            <Data name="Harness_BoobRopeCNHF High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeCNHF High</Data>
+            <Data name="Harness_BraCNHF High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraCNHF High</Data>
+            <Data name="Harness_UpperWaistCoilCNHF High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilCNHF High</Data>
+            <Data name="Harness_WaistCoilCNHF High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilCNHF High</Data>
+            <Data name="Harness_CrotchCoilCNHF High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCNHF Bonus Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCNHF Bonus Low</Data>
+            <Data name="Harness_MainRopeCNHF Bonus Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeCNHF Bonus Low</Data>
+            <Data name="Harness_BoobRopeCNHF Bonus Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeCNHF Bonus Low</Data>
+            <Data name="Harness_BraCNHF Bonus Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraCNHF Bonus Low</Data>
+            <Data name="Harness_UpperWaistCoilCNHF Bonus Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilCNHF Bonus Low</Data>
+            <Data name="Harness_WaistCoilCNHF Bonus Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilCNHF Bonus Low</Data>
+            <Data name="Harness_CrotchCoilCNHF Bonus Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCNHF Bonus High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCNHF Bonus High</Data>
+            <Data name="Harness_MainRopeCNHF Bonus High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeCNHF Bonus High</Data>
+            <Data name="Harness_BoobRopeCNHF Bonus High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeCNHF Bonus High</Data>
+            <Data name="Harness_BraCNHF Bonus High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraCNHF Bonus High</Data>
+            <Data name="Harness_UpperWaistCoilCNHF Bonus High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilCNHF Bonus High</Data>
+            <Data name="Harness_WaistCoilCNHF Bonus High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilCNHF Bonus High</Data>
+            <Data name="Harness_CrotchCoilCNHF Bonus High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesMCBM Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesMCBM Low</Data>
+            <Data name="Harness_MainRopeMCBM Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeMCBM Low</Data>
+            <Data name="Harness_BoobRopeMCBM Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeMCBM Low</Data>
+            <Data name="Harness_BraMCBM Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraMCBM Low</Data>
+            <Data name="Harness_UpperWaistCoilMCBM Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilMCBM Low</Data>
+            <Data name="Harness_WaistCoilMCBM Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilMCBM Low</Data>
+            <Data name="Harness_CrotchCoilMCBM Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesMCBM High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesMCBM High</Data>
+            <Data name="Harness_MainRopeMCBM High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeMCBM High</Data>
+            <Data name="Harness_BoobRopeMCBM High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeMCBM High</Data>
+            <Data name="Harness_BraMCBM High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraMCBM High</Data>
+            <Data name="Harness_UpperWaistCoilMCBM High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilMCBM High</Data>
+            <Data name="Harness_WaistCoilMCBM High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilMCBM High</Data>
+            <Data name="Harness_CrotchCoilMCBM High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesVenus Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesVenus Low</Data>
+            <Data name="Harness_MainRopeVenus Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeVenus Low</Data>
+            <Data name="Harness_BoobRopeVenus Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeVenus Low</Data>
+            <Data name="Harness_BraVenus Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraVenus Low</Data>
+            <Data name="Harness_UpperWaistCoilVenus Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilVenus Low</Data>
+            <Data name="Harness_WaistCoilVenus Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilVenus Low</Data>
+            <Data name="Harness_CrotchCoilVenus Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesVenus High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesVenus High</Data>
+            <Data name="Harness_MainRopeVenus High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeVenus High</Data>
+            <Data name="Harness_BoobRopeVenus High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeVenus High</Data>
+            <Data name="Harness_BraVenus High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraVenus High</Data>
+            <Data name="Harness_UpperWaistCoilVenus High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilVenus High</Data>
+            <Data name="Harness_WaistCoilVenus High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilVenus High</Data>
+            <Data name="Harness_CrotchCoilVenus High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesZGGB-R2 Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesZGGB-R2 Low</Data>
+            <Data name="Harness_MainRopeZGGB-R2 Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeZGGB-R2 Low</Data>
+            <Data name="Harness_BoobRopeZGGB-R2 Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeZGGB-R2 Low</Data>
+            <Data name="Harness_BraZGGB-R2 Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraZGGB-R2 Low</Data>
+            <Data name="Harness_UpperWaistCoilZGGB-R2 Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilZGGB-R2 Low</Data>
+            <Data name="Harness_WaistCoilZGGB-R2 Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilZGGB-R2 Low</Data>
+            <Data name="Harness_CrotchCoilZGGB-R2 Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesZGGB-R2 High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesZGGB-R2 High</Data>
+            <Data name="Harness_MainRopeZGGB-R2 High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeZGGB-R2 High</Data>
+            <Data name="Harness_BoobRopeZGGB-R2 High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeZGGB-R2 High</Data>
+            <Data name="Harness_BraZGGB-R2 High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraZGGB-R2 High</Data>
+            <Data name="Harness_UpperWaistCoilZGGB-R2 High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilZGGB-R2 High</Data>
+            <Data name="Harness_WaistCoilZGGB-R2 High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilZGGB-R2 High</Data>
+            <Data name="Harness_CrotchCoilZGGB-R2 High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesManga Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesManga Low</Data>
+            <Data name="Harness_MainRopeManga Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeManga Low</Data>
+            <Data name="Harness_BoobRopeManga Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeManga Low</Data>
+            <Data name="Harness_BraManga Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraManga Low</Data>
+            <Data name="Harness_UpperWaistCoilManga Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilManga Low</Data>
+            <Data name="Harness_WaistCoilManga Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilManga Low</Data>
+            <Data name="Harness_CrotchCoilManga Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesManga High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesManga High</Data>
+            <Data name="Harness_MainRopeManga High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeManga High</Data>
+            <Data name="Harness_BoobRopeManga High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeManga High</Data>
+            <Data name="Harness_BraManga High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraManga High</Data>
+            <Data name="Harness_UpperWaistCoilManga High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilManga High</Data>
+            <Data name="Harness_WaistCoilManga High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilManga High</Data>
+            <Data name="Harness_CrotchCoilManga High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCHSBHC Low" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCHSBHC Low</Data>
+            <Data name="Harness_MainRopeCHSBHC Low" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeCHSBHC Low</Data>
+            <Data name="Harness_BoobRopeCHSBHC Low" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeCHSBHC Low</Data>
+            <Data name="Harness_BraCHSBHC Low" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraCHSBHC Low</Data>
+            <Data name="Harness_UpperWaistCoilCHSBHC Low" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilCHSBHC Low</Data>
+            <Data name="Harness_WaistCoilCHSBHC Low" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilCHSBHC Low</Data>
+            <Data name="Harness_CrotchCoilCHSBHC Low" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCHSBHC High" target="CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipples" local="true">FT_RopeHarness_CBBE.osd\CBBE BASESHAPE waist+upperwaist+breasts+crotch+nipplesCHSBHC High</Data>
+            <Data name="Harness_MainRopeCHSBHC High" target="Harness_MainRope" local="true">FT_RopeHarness_CBBE.osd\Harness_MainRopeCHSBHC High</Data>
+            <Data name="Harness_BoobRopeCHSBHC High" target="Harness_BoobRope" local="true">FT_RopeHarness_CBBE.osd\Harness_BoobRopeCHSBHC High</Data>
+            <Data name="Harness_BraCHSBHC High" target="Harness_Bra" local="true">FT_RopeHarness_CBBE.osd\Harness_BraCHSBHC High</Data>
+            <Data name="Harness_UpperWaistCoilCHSBHC High" target="Harness_UpperWaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_UpperWaistCoilCHSBHC High</Data>
+            <Data name="Harness_WaistCoilCHSBHC High" target="Harness_WaistCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_WaistCoilCHSBHC High</Data>
+            <Data name="Harness_CrotchCoilCHSBHC High" target="Harness_CrotchCoil" local="true">FT_RopeHarness_CBBE.osd\Harness_CrotchCoilCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

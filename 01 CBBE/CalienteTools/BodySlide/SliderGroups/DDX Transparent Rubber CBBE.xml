@@ -1,0 +1,20 @@
+<SliderGroups>
+    <Group name="DDX Transparent Rubber CBBE">
+        <Member name="DDX - CBBE - EbRestrictiveBoots Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteRestrictiveCollar(HDT) Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteRestrictiveCorset Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteRestrictiveCorsetBelt Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteRestrictiveCorsetBeltOpen Transparent Rubber"/>
+        <Member name="DDX - CBBE - LongGloves Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteHobbleDressTransparent"/>
+    </Group>
+    <Group name="CBAdvanced">
+        <Member name="DDX - CBBE - EbRestrictiveBoots Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteRestrictiveCollar(HDT) Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteRestrictiveCorset Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteRestrictiveCorsetBelt Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteRestrictiveCorsetBeltOpen Transparent Rubber"/>
+        <Member name="DDX - CBBE - LongGloves Transparent Rubber"/>
+        <Member name="DDX - CBBE - EboniteHobbleDressTransparent"/>
+    </Group>
+</SliderGroups>

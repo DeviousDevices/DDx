@@ -1,0 +1,341 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - UUNP - LongGloves Transparent Rubber">
+        <DataFolder>DeviousDevicesExpansionUUNP\MXWLongGlovesTransparent</DataFolder>
+        <SourceFile>LongGloves.nif</SourceFile>
+        <OutputPath>meshes\devious\mxw_catsuit</OutputPath>
+        <OutputFile GenWeights="true">Long_Gloves_Trans</OutputFile>
+        <Shape target="Gloves">Gloves</Shape>
+        <Shape target="Hands">Hands</Shape>
+        <Shape target="Nails">Nails</Shape>
+        <Slider name="BreastsSmall" invert="true" small="100" big="100">
+            <Data name="GlovesBreastsSmall" target="Gloves" local="true">LongGloves.osd\GlovesBreastsSmall</Data>
+        </Slider>
+        <Slider name="BreastsFantasy" invert="false" small="0" big="0">
+            <Data name="GlovesBreastsFantasy" target="Gloves" local="true">LongGloves.osd\GlovesBreastsFantasy</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="GlovesBreastFlatness" target="Gloves" local="true">LongGloves.osd\GlovesBreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastGravity" invert="false" small="0" big="0">
+            <Data name="GlovesBreastGravity" target="Gloves" local="true">LongGloves.osd\GlovesBreastGravity</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="GlovesBreastHeight" target="Gloves" local="true">LongGloves.osd\GlovesBreastHeight</Data>
+        </Slider>
+        <Slider name="BreastPerkiness" invert="false" small="0" big="0">
+            <Data name="GlovesBreastPerkiness" target="Gloves" local="true">LongGloves.osd\GlovesBreastPerkiness</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="GlovesBreastWidth" target="Gloves" local="true">LongGloves.osd\GlovesBreastWidth</Data>
+        </Slider>
+        <Slider name="Arms" invert="true" small="100" big="100">
+            <Data name="GlovesArms" target="Gloves" local="true">LongGloves.osd\GlovesArms</Data>
+            <Data name="HandsArms" target="Hands" local="true">LongGloves.osd\HandsArms</Data>
+        </Slider>
+        <Slider name="ChubbyArms" invert="false" small="0" big="0">
+            <Data name="GlovesChubbyArms" target="Gloves" local="true">LongGloves.osd\GlovesChubbyArms</Data>
+        </Slider>
+        <Slider name="ShoulderWidth" invert="true" small="100" big="100">
+            <Data name="GlovesShoulderWidth" target="Gloves" local="true">LongGloves.osd\GlovesShoulderWidth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="GlovesBigTorso" target="Gloves" local="true">LongGloves.osd\GlovesBigTorso</Data>
+        </Slider>
+        <Slider name="7B Low" invert="false" small="0" big="0">
+            <Data name="Gloves7B Low" target="Gloves" local="true">LongGloves.osd\Gloves7B Low</Data>
+            <Data name="Hands7B Low" target="Hands" local="true">LongGloves.osd\Hands7B Low</Data>
+        </Slider>
+        <Slider name="7B High" invert="false" small="0" big="0">
+            <Data name="Gloves7B High" target="Gloves" local="true">LongGloves.osd\Gloves7B High</Data>
+            <Data name="Hands7B High" target="Hands" local="true">LongGloves.osd\Hands7B High</Data>
+        </Slider>
+        <Slider name="7B Bombshell Low" invert="false" small="0" big="0">
+            <Data name="Gloves7B Bombshell Low" target="Gloves" local="true">LongGloves.osd\Gloves7B Bombshell Low</Data>
+            <Data name="Hands7B Bombshell Low" target="Hands" local="true">LongGloves.osd\Hands7B Bombshell Low</Data>
+        </Slider>
+        <Slider name="7B Bombshell High" invert="false" small="0" big="0">
+            <Data name="Gloves7B Bombshell High" target="Gloves" local="true">LongGloves.osd\Gloves7B Bombshell High</Data>
+            <Data name="Hands7B Bombshell High" target="Hands" local="true">LongGloves.osd\Hands7B Bombshell High</Data>
+        </Slider>
+        <Slider name="7B Natural Low" invert="false" small="0" big="0">
+            <Data name="Gloves7B Natural Low" target="Gloves" local="true">LongGloves.osd\Gloves7B Natural Low</Data>
+            <Data name="Hands7B Natural Low" target="Hands" local="true">LongGloves.osd\Hands7B Natural Low</Data>
+        </Slider>
+        <Slider name="7B Natural High" invert="false" small="0" big="0">
+            <Data name="Gloves7B Natural High" target="Gloves" local="true">LongGloves.osd\Gloves7B Natural High</Data>
+            <Data name="Hands7B Natural High" target="Hands" local="true">LongGloves.osd\Hands7B Natural High</Data>
+        </Slider>
+        <Slider name="7B Cleavage Low" invert="false" small="0" big="0">
+            <Data name="Gloves7B Cleavage Low" target="Gloves" local="true">LongGloves.osd\Gloves7B Cleavage Low</Data>
+            <Data name="Hands7B Cleavage Low" target="Hands" local="true">LongGloves.osd\Hands7B Cleavage Low</Data>
+        </Slider>
+        <Slider name="7B Cleavage High" invert="false" small="0" big="0">
+            <Data name="Gloves7B Cleavage High" target="Gloves" local="true">LongGloves.osd\Gloves7B Cleavage High</Data>
+            <Data name="Hands7B Cleavage High" target="Hands" local="true">LongGloves.osd\Hands7B Cleavage High</Data>
+        </Slider>
+        <Slider name="7B BCup Low" invert="false" small="0" big="0">
+            <Data name="Gloves7B BCup Low" target="Gloves" local="true">LongGloves.osd\Gloves7B BCup Low</Data>
+            <Data name="Hands7B BCup Low" target="Hands" local="true">LongGloves.osd\Hands7B BCup Low</Data>
+        </Slider>
+        <Slider name="7B BCup High" invert="false" small="0" big="0">
+            <Data name="Gloves7B BCup High" target="Gloves" local="true">LongGloves.osd\Gloves7B BCup High</Data>
+            <Data name="Hands7B BCup High" target="Hands" local="true">LongGloves.osd\Hands7B BCup High</Data>
+        </Slider>
+        <Slider name="7BUNP Low" invert="false" small="0" big="0">
+            <Data name="Gloves7BUNP Low" target="Gloves" local="true">LongGloves.osd\Gloves7BUNP Low</Data>
+            <Data name="Hands7BUNP Low" target="Hands" local="true">LongGloves.osd\Hands7BUNP Low</Data>
+        </Slider>
+        <Slider name="7BUNP High" invert="false" small="0" big="0">
+            <Data name="Gloves7BUNP High" target="Gloves" local="true">LongGloves.osd\Gloves7BUNP High</Data>
+            <Data name="Hands7BUNP High" target="Hands" local="true">LongGloves.osd\Hands7BUNP High</Data>
+        </Slider>
+        <Slider name="7B Oppai Low" invert="false" small="0" big="0">
+            <Data name="Gloves7B Oppai Low" target="Gloves" local="true">LongGloves.osd\Gloves7B Oppai Low</Data>
+            <Data name="Hands7B Oppai Low" target="Hands" local="true">LongGloves.osd\Hands7B Oppai Low</Data>
+        </Slider>
+        <Slider name="7B Oppai High" invert="false" small="0" big="0">
+            <Data name="Gloves7B Oppai High" target="Gloves" local="true">LongGloves.osd\Gloves7B Oppai High</Data>
+            <Data name="Hands7B Oppai High" target="Hands" local="true">LongGloves.osd\Hands7B Oppai High</Data>
+        </Slider>
+        <Slider name="7B CH Low" invert="false" small="0" big="0">
+            <Data name="Gloves7B CH Low" target="Gloves" local="true">LongGloves.osd\Gloves7B CH Low</Data>
+            <Data name="Hands7B CH Low" target="Hands" local="true">LongGloves.osd\Hands7B CH Low</Data>
+        </Slider>
+        <Slider name="7B CH High" invert="false" small="0" big="0">
+            <Data name="Gloves7B CH High" target="Gloves" local="true">LongGloves.osd\Gloves7B CH High</Data>
+            <Data name="Hands7B CH High" target="Hands" local="true">LongGloves.osd\Hands7B CH High</Data>
+        </Slider>
+        <Slider name="UNP Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNP Low" target="Gloves" local="true">LongGloves.osd\GlovesUNP Low</Data>
+            <Data name="HandsUNP Low" target="Hands" local="true">LongGloves.osd\HandsUNP Low</Data>
+        </Slider>
+        <Slider name="UNP High" invert="false" small="0" big="0">
+            <Data name="GlovesUNP High" target="Gloves" local="true">LongGloves.osd\GlovesUNP High</Data>
+            <Data name="HandsUNP High" target="Hands" local="true">LongGloves.osd\HandsUNP High</Data>
+        </Slider>
+        <Slider name="UNP Pushup Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNP Pushup Low" target="Gloves" local="true">LongGloves.osd\GlovesUNP Pushup Low</Data>
+            <Data name="HandsUNP Pushup Low" target="Hands" local="true">LongGloves.osd\HandsUNP Pushup Low</Data>
+        </Slider>
+        <Slider name="UNP Pushup High" invert="false" small="0" big="0">
+            <Data name="GlovesUNP Pushup High" target="Gloves" local="true">LongGloves.osd\GlovesUNP Pushup High</Data>
+            <Data name="HandsUNP Pushup High" target="Hands" local="true">LongGloves.osd\HandsUNP Pushup High</Data>
+        </Slider>
+        <Slider name="UNP Skinny Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNP Skinny Low" target="Gloves" local="true">LongGloves.osd\GlovesUNP Skinny Low</Data>
+            <Data name="HandsUNP Skinny Low" target="Hands" local="true">LongGloves.osd\HandsUNP Skinny Low</Data>
+        </Slider>
+        <Slider name="UNP Skinny High" invert="false" small="0" big="0">
+            <Data name="GlovesUNP Skinny High" target="Gloves" local="true">LongGloves.osd\GlovesUNP Skinny High</Data>
+            <Data name="HandsUNP Skinny High" target="Hands" local="true">LongGloves.osd\HandsUNP Skinny High</Data>
+        </Slider>
+        <Slider name="UNP Perky Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNP Perky Low" target="Gloves" local="true">LongGloves.osd\GlovesUNP Perky Low</Data>
+            <Data name="HandsUNP Perky Low" target="Hands" local="true">LongGloves.osd\HandsUNP Perky Low</Data>
+        </Slider>
+        <Slider name="UNP Perky High" invert="false" small="0" big="0">
+            <Data name="GlovesUNP Perky High" target="Gloves" local="true">LongGloves.osd\GlovesUNP Perky High</Data>
+            <Data name="HandsUNP Perky High" target="Hands" local="true">LongGloves.osd\HandsUNP Perky High</Data>
+        </Slider>
+        <Slider name="UNPB Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPB Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPB Low</Data>
+            <Data name="HandsUNPB Low" target="Hands" local="true">LongGloves.osd\HandsUNPB Low</Data>
+        </Slider>
+        <Slider name="UNPB High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPB High" target="Gloves" local="true">LongGloves.osd\GlovesUNPB High</Data>
+            <Data name="HandsUNPB High" target="Hands" local="true">LongGloves.osd\HandsUNPB High</Data>
+        </Slider>
+        <Slider name="UNPB Chapi" invert="false" small="0" big="0">
+            <Data name="GlovesUNPB Chapi" target="Gloves" local="true">LongGloves.osd\GlovesUNPB Chapi</Data>
+            <Data name="HandsUNPB Chapi" target="Hands" local="true">LongGloves.osd\HandsUNPB Chapi</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v1" invert="false" small="0" big="0">
+            <Data name="GlovesUNPB Oppai v1" target="Gloves" local="true">LongGloves.osd\GlovesUNPB Oppai v1</Data>
+            <Data name="HandsUNPB Oppai v1" target="Hands" local="true">LongGloves.osd\HandsUNPB Oppai v1</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPB Oppai v3.2 Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPB Oppai v3.2 Low</Data>
+            <Data name="HandsUNPB Oppai v3.2 Low" target="Hands" local="true">LongGloves.osd\HandsUNPB Oppai v3.2 Low</Data>
+        </Slider>
+        <Slider name="UNPB Oppai v3.2 High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPB Oppai v3.2 High" target="Gloves" local="true">LongGloves.osd\GlovesUNPB Oppai v3.2 High</Data>
+            <Data name="HandsUNPB Oppai v3.2 High" target="Hands" local="true">LongGloves.osd\HandsUNPB Oppai v3.2 High</Data>
+        </Slider>
+        <Slider name="UNPetite Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPetite Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPetite Low</Data>
+            <Data name="HandsUNPetite Low" target="Hands" local="true">LongGloves.osd\HandsUNPetite Low</Data>
+        </Slider>
+        <Slider name="UNPetite High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPetite High" target="Gloves" local="true">LongGloves.osd\GlovesUNPetite High</Data>
+            <Data name="HandsUNPetite High" target="Hands" local="true">LongGloves.osd\HandsUNPetite High</Data>
+        </Slider>
+        <Slider name="UNPC Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPC Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPC Low</Data>
+            <Data name="HandsUNPC Low" target="Hands" local="true">LongGloves.osd\HandsUNPC Low</Data>
+        </Slider>
+        <Slider name="UNPC High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPC High" target="Gloves" local="true">LongGloves.osd\GlovesUNPC High</Data>
+            <Data name="HandsUNPC High" target="Hands" local="true">LongGloves.osd\HandsUNPC High</Data>
+        </Slider>
+        <Slider name="UNPCM Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPCM Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPCM Low</Data>
+            <Data name="HandsUNPCM Low" target="Hands" local="true">LongGloves.osd\HandsUNPCM Low</Data>
+        </Slider>
+        <Slider name="UNPCM High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPCM High" target="Gloves" local="true">LongGloves.osd\GlovesUNPCM High</Data>
+            <Data name="HandsUNPCM High" target="Hands" local="true">LongGloves.osd\HandsUNPCM High</Data>
+        </Slider>
+        <Slider name="UNPSH Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPSH Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPSH Low</Data>
+            <Data name="HandsUNPSH Low" target="Hands" local="true">LongGloves.osd\HandsUNPSH Low</Data>
+        </Slider>
+        <Slider name="UNPSH High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPSH High" target="Gloves" local="true">LongGloves.osd\GlovesUNPSH High</Data>
+            <Data name="HandsUNPSH High" target="Hands" local="true">LongGloves.osd\HandsUNPSH High</Data>
+        </Slider>
+        <Slider name="UNPK Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPK Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPK Low</Data>
+            <Data name="HandsUNPK Low" target="Hands" local="true">LongGloves.osd\HandsUNPK Low</Data>
+        </Slider>
+        <Slider name="UNPK High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPK High" target="Gloves" local="true">LongGloves.osd\GlovesUNPK High</Data>
+            <Data name="HandsUNPK High" target="Hands" local="true">LongGloves.osd\HandsUNPK High</Data>
+        </Slider>
+        <Slider name="UNPK Bonus Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPK Bonus Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPK Bonus Low</Data>
+            <Data name="HandsUNPK Bonus Low" target="Hands" local="true">LongGloves.osd\HandsUNPK Bonus Low</Data>
+        </Slider>
+        <Slider name="UNPK Bonus High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPK Bonus High" target="Gloves" local="true">LongGloves.osd\GlovesUNPK Bonus High</Data>
+            <Data name="HandsUNPK Bonus High" target="Hands" local="true">LongGloves.osd\HandsUNPK Bonus High</Data>
+        </Slider>
+        <Slider name="UN7B Low" invert="false" small="0" big="0">
+            <Data name="GlovesUN7B Low" target="Gloves" local="true">LongGloves.osd\GlovesUN7B Low</Data>
+            <Data name="HandsUN7B Low" target="Hands" local="true">LongGloves.osd\HandsUN7B Low</Data>
+        </Slider>
+        <Slider name="UN7B High" invert="false" small="0" big="0">
+            <Data name="GlovesUN7B High" target="Gloves" local="true">LongGloves.osd\GlovesUN7B High</Data>
+            <Data name="HandsUN7B High" target="Hands" local="true">LongGloves.osd\HandsUN7B High</Data>
+        </Slider>
+        <Slider name="UNPBB Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPBB Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPBB Low</Data>
+            <Data name="HandsUNPBB Low" target="Hands" local="true">LongGloves.osd\HandsUNPBB Low</Data>
+        </Slider>
+        <Slider name="UNPBB High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPBB High" target="Gloves" local="true">LongGloves.osd\GlovesUNPBB High</Data>
+            <Data name="HandsUNPBB High" target="Hands" local="true">LongGloves.osd\HandsUNPBB High</Data>
+        </Slider>
+        <Slider name="Seraphim Low" invert="false" small="0" big="0">
+            <Data name="GlovesSeraphim Low" target="Gloves" local="true">LongGloves.osd\GlovesSeraphim Low</Data>
+            <Data name="HandsSeraphim Low" target="Hands" local="true">LongGloves.osd\HandsSeraphim Low</Data>
+        </Slider>
+        <Slider name="Seraphim High" invert="false" small="0" big="0">
+            <Data name="GlovesSeraphim High" target="Gloves" local="true">LongGloves.osd\GlovesSeraphim High</Data>
+            <Data name="HandsSeraphim High" target="Hands" local="true">LongGloves.osd\HandsSeraphim High</Data>
+        </Slider>
+        <Slider name="Demonfet Low" invert="false" small="0" big="0">
+            <Data name="GlovesDemonfet Low" target="Gloves" local="true">LongGloves.osd\GlovesDemonfet Low</Data>
+            <Data name="HandsDemonfet Low" target="Hands" local="true">LongGloves.osd\HandsDemonfet Low</Data>
+        </Slider>
+        <Slider name="Demonfet High" invert="false" small="0" big="0">
+            <Data name="GlovesDemonfet High" target="Gloves" local="true">LongGloves.osd\GlovesDemonfet High</Data>
+            <Data name="HandsDemonfet High" target="Hands" local="true">LongGloves.osd\HandsDemonfet High</Data>
+        </Slider>
+        <Slider name="Dream Girl Low" invert="false" small="0" big="0">
+            <Data name="GlovesDream Girl Low" target="Gloves" local="true">LongGloves.osd\GlovesDream Girl Low</Data>
+            <Data name="HandsDream Girl Low" target="Hands" local="true">LongGloves.osd\HandsDream Girl Low</Data>
+        </Slider>
+        <Slider name="Dream Girl High" invert="false" small="0" big="0">
+            <Data name="GlovesDream Girl High" target="Gloves" local="true">LongGloves.osd\GlovesDream Girl High</Data>
+            <Data name="HandsDream Girl High" target="Hands" local="true">LongGloves.osd\HandsDream Girl High</Data>
+        </Slider>
+        <Slider name="Top Model Low" invert="false" small="0" big="0">
+            <Data name="GlovesTop Model Low" target="Gloves" local="true">LongGloves.osd\GlovesTop Model Low</Data>
+            <Data name="HandsTop Model Low" target="Hands" local="true">LongGloves.osd\HandsTop Model Low</Data>
+        </Slider>
+        <Slider name="Top Model High" invert="false" small="0" big="0">
+            <Data name="GlovesTop Model High" target="Gloves" local="true">LongGloves.osd\GlovesTop Model High</Data>
+            <Data name="HandsTop Model High" target="Hands" local="true">LongGloves.osd\HandsTop Model High</Data>
+        </Slider>
+        <Slider name="Leito Low" invert="false" small="0" big="0">
+            <Data name="GlovesLeito Low" target="Gloves" local="true">LongGloves.osd\GlovesLeito Low</Data>
+            <Data name="HandsLeito Low" target="Hands" local="true">LongGloves.osd\HandsLeito Low</Data>
+        </Slider>
+        <Slider name="Leito High" invert="false" small="0" big="0">
+            <Data name="GlovesLeito High" target="Gloves" local="true">LongGloves.osd\GlovesLeito High</Data>
+            <Data name="HandsLeito High" target="Hands" local="true">LongGloves.osd\HandsLeito High</Data>
+        </Slider>
+        <Slider name="UNPF Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPF Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPF Low</Data>
+            <Data name="HandsUNPF Low" target="Hands" local="true">LongGloves.osd\HandsUNPF Low</Data>
+        </Slider>
+        <Slider name="UNPF High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPF High" target="Gloves" local="true">LongGloves.osd\GlovesUNPF High</Data>
+            <Data name="HandsUNPF High" target="Hands" local="true">LongGloves.osd\HandsUNPF High</Data>
+        </Slider>
+        <Slider name="UNPFx Low" invert="false" small="0" big="0">
+            <Data name="GlovesUNPFx Low" target="Gloves" local="true">LongGloves.osd\GlovesUNPFx Low</Data>
+            <Data name="HandsUNPFx Low" target="Hands" local="true">LongGloves.osd\HandsUNPFx Low</Data>
+        </Slider>
+        <Slider name="UNPFx High" invert="false" small="0" big="0">
+            <Data name="GlovesUNPFx High" target="Gloves" local="true">LongGloves.osd\GlovesUNPFx High</Data>
+            <Data name="HandsUNPFx High" target="Hands" local="true">LongGloves.osd\HandsUNPFx High</Data>
+        </Slider>
+        <Slider name="CNHF Low" invert="false" small="0" big="0">
+            <Data name="GlovesCNHF Low" target="Gloves" local="true">LongGloves.osd\GlovesCNHF Low</Data>
+            <Data name="HandsCNHF Low" target="Hands" local="true">LongGloves.osd\HandsCNHF Low</Data>
+        </Slider>
+        <Slider name="CNHF High" invert="false" small="0" big="0">
+            <Data name="GlovesCNHF High" target="Gloves" local="true">LongGloves.osd\GlovesCNHF High</Data>
+            <Data name="HandsCNHF High" target="Hands" local="true">LongGloves.osd\HandsCNHF High</Data>
+        </Slider>
+        <Slider name="CNHF Bonus Low" invert="false" small="0" big="0">
+            <Data name="GlovesCNHF Bonus Low" target="Gloves" local="true">LongGloves.osd\GlovesCNHF Bonus Low</Data>
+            <Data name="HandsCNHF Bonus Low" target="Hands" local="true">LongGloves.osd\HandsCNHF Bonus Low</Data>
+        </Slider>
+        <Slider name="CNHF Bonus High" invert="false" small="0" big="0">
+            <Data name="GlovesCNHF Bonus High" target="Gloves" local="true">LongGloves.osd\GlovesCNHF Bonus High</Data>
+            <Data name="HandsCNHF Bonus High" target="Hands" local="true">LongGloves.osd\HandsCNHF Bonus High</Data>
+        </Slider>
+        <Slider name="MCBM Low" invert="false" small="0" big="0">
+            <Data name="GlovesMCBM Low" target="Gloves" local="true">LongGloves.osd\GlovesMCBM Low</Data>
+            <Data name="HandsMCBM Low" target="Hands" local="true">LongGloves.osd\HandsMCBM Low</Data>
+        </Slider>
+        <Slider name="MCBM High" invert="false" small="0" big="0">
+            <Data name="GlovesMCBM High" target="Gloves" local="true">LongGloves.osd\GlovesMCBM High</Data>
+            <Data name="HandsMCBM High" target="Hands" local="true">LongGloves.osd\HandsMCBM High</Data>
+        </Slider>
+        <Slider name="Venus Low" invert="false" small="0" big="0">
+            <Data name="GlovesVenus Low" target="Gloves" local="true">LongGloves.osd\GlovesVenus Low</Data>
+            <Data name="HandsVenus Low" target="Hands" local="true">LongGloves.osd\HandsVenus Low</Data>
+        </Slider>
+        <Slider name="Venus High" invert="false" small="0" big="0">
+            <Data name="GlovesVenus High" target="Gloves" local="true">LongGloves.osd\GlovesVenus High</Data>
+            <Data name="HandsVenus High" target="Hands" local="true">LongGloves.osd\HandsVenus High</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 Low" invert="false" small="0" big="0">
+            <Data name="GlovesZGGB-R2 Low" target="Gloves" local="true">LongGloves.osd\GlovesZGGB-R2 Low</Data>
+            <Data name="HandsZGGB-R2 Low" target="Hands" local="true">LongGloves.osd\HandsZGGB-R2 Low</Data>
+        </Slider>
+        <Slider name="ZGGB-R2 High" invert="false" small="0" big="0">
+            <Data name="GlovesZGGB-R2 High" target="Gloves" local="true">LongGloves.osd\GlovesZGGB-R2 High</Data>
+            <Data name="HandsZGGB-R2 High" target="Hands" local="true">LongGloves.osd\HandsZGGB-R2 High</Data>
+        </Slider>
+        <Slider name="Manga Low" invert="false" small="0" big="0">
+            <Data name="GlovesManga Low" target="Gloves" local="true">LongGloves.osd\GlovesManga Low</Data>
+            <Data name="HandsManga Low" target="Hands" local="true">LongGloves.osd\HandsManga Low</Data>
+        </Slider>
+        <Slider name="Manga High" invert="false" small="0" big="0">
+            <Data name="GlovesManga High" target="Gloves" local="true">LongGloves.osd\GlovesManga High</Data>
+            <Data name="HandsManga High" target="Hands" local="true">LongGloves.osd\HandsManga High</Data>
+        </Slider>
+        <Slider name="CHSBHC Low" invert="false" small="0" big="0">
+            <Data name="GlovesCHSBHC Low" target="Gloves" local="true">LongGloves.osd\GlovesCHSBHC Low</Data>
+            <Data name="HandsCHSBHC Low" target="Hands" local="true">LongGloves.osd\HandsCHSBHC Low</Data>
+        </Slider>
+        <Slider name="CHSBHC High" invert="false" small="0" big="0">
+            <Data name="GlovesCHSBHC High" target="Gloves" local="true">LongGloves.osd\GlovesCHSBHC High</Data>
+            <Data name="HandsCHSBHC High" target="Hands" local="true">LongGloves.osd\HandsCHSBHC High</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>

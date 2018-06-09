@@ -1,0 +1,39 @@
+<SliderSetInfo version="1">
+    <SliderSet name="DDX - CBBE - FT_RopeCollar1">
+        <DataFolder>FT_RopeCollar1_CBBE</DataFolder>
+        <SourceFile>FT_RopeCollar1_CBBE.nif</SourceFile>
+        <OutputPath>meshes\devious\FeuerTin\FT_RopeCollar1</OutputPath>
+        <OutputFile GenWeights="true">FT_RopeCollar1</OutputFile>
+        <Shape target="FT_RopeCollar1">FT_RopeCollar1</Shape>
+        <Slider name="BreastsSSH" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar1BreastsSSH" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1BreastsSSH</Data>
+        </Slider>
+        <Slider name="BreastFlatness" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar1BreastFlatness" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1BreastFlatness</Data>
+        </Slider>
+        <Slider name="BreastHeight" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar1BreastHeight" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1BreastHeight</Data>
+        </Slider>
+        <Slider name="BreastWidth" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar1BreastWidth" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1BreastWidth</Data>
+        </Slider>
+        <Slider name="NippleLength" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar1NippleLength" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1NippleLength</Data>
+        </Slider>
+        <Slider name="ShoulderSmooth" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar1ShoulderSmooth" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1ShoulderSmooth</Data>
+        </Slider>
+        <Slider name="BigTorso" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar1BigTorso" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1BigTorso</Data>
+        </Slider>
+        <Slider name="PregnancyBelly" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar1PregnancyBelly" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1PregnancyBelly</Data>
+        </Slider>
+        <Slider name="Back" invert="false" small="0" big="0">
+            <Data name="FT_RopeCollar1Back" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1Back</Data>
+        </Slider>
+        <Slider name="SmallSeam" invert="false" small="100" big="0" hidden="true">
+            <Data name="FT_RopeCollar1SmallSeam" target="FT_RopeCollar1" local="true">FT_RopeCollar1_CBBE.osd\FT_RopeCollar1SmallSeam</Data>
+        </Slider>
+    </SliderSet>
+</SliderSetInfo>
